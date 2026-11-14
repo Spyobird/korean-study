@@ -1,0 +1,1181 @@
+{
+ "range": "51-58",
+ "lessons": [
+  {
+   "n": 51,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 주말에 집에서 요리를 ___ 해요.",
+     "answer": "하기도",
+     "options": [
+      "하기도",
+      "해기도",
+      "하도",
+      "하는도"
+     ],
+     "en": "On weekends I sometimes cook at home, too.",
+     "why": "Stem + 기 makes a noun, then 도 하다 adds 'also/sometimes'."
+    },
+    {
+     "type": "fill",
+     "ko": "그 소설은 길기도 하고 어렵___ 했어요.",
+     "answer": "기도",
+     "options": [
+      "기도",
+      "고",
+      "지도",
+      "기를"
+     ],
+     "en": "That novel was both long and difficult.",
+     "why": "Both halves of the pattern need 기도: 길기도 하고 어렵기도 하다."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 아침에 차를 마시기도 하고 커피를 ___.",
+     "answer": "마시기도 해요",
+     "options": [
+      "마시기도 해요",
+      "마시기도 하고",
+      "마셔도 해요",
+      "마시기도 돼요"
+     ],
+     "en": "In the morning I drink tea and sometimes coffee.",
+     "why": "The second part ends the sentence, so ~기도 해요."
+    },
+    {
+     "type": "fill",
+     "ko": "제 형은 화학을 가르치기도 ___ 책을 쓰기도 해요.",
+     "answer": "하고",
+     "options": [
+      "하고",
+      "해고",
+      "하기",
+      "하도"
+     ],
+     "en": "My older brother both teaches chemistry and writes books.",
+     "why": "The first ~기도 clause links to the second with 하고."
+    },
+    {
+     "type": "fill",
+     "ko": "그 사람은 가끔 ___ 해요.",
+     "answer": "밉기도",
+     "options": [
+      "밉기도",
+      "미워도",
+      "밉도",
+      "미기도"
+     ],
+     "en": "That person can be annoying sometimes.",
+     "why": "Add 기도 straight to the stem 밉; the ㅂ irregular change only happens before a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "물이 끓으면 소금을 ___ 해요.",
+     "answer": "뿌리기도",
+     "options": [
+      "뿌리기도",
+      "뿌려기도",
+      "뿌리도",
+      "뿌리기가"
+     ],
+     "en": "When the water boils, I sometimes sprinkle in salt too.",
+     "why": "~기도 하다 attaches to the plain stem 뿌리."
+    },
+    {
+     "type": "fill",
+     "ko": "혼자 사는 것은 편하기도 하고 ___ 해요.",
+     "answer": "힘들기도",
+     "options": [
+      "힘들기도",
+      "힘드기도",
+      "힘들도",
+      "힘들어도"
+     ],
+     "en": "Living alone is both comfortable and hard.",
+     "why": "The ㄹ of 힘들다 stays before 기."
+    },
+    {
+     "type": "fill",
+     "ko": "어제는 비가 오기도 하고 눈이 오기도 ___.",
+     "answer": "했어요",
+     "options": [
+      "했어요",
+      "해요",
+      "했고",
+      "하기도"
+     ],
+     "en": "Yesterday it both rained and snowed.",
+     "why": "Tense goes on the final 하다; 어제 needs past 했어요."
+    },
+    {
+     "type": "translate",
+     "en": "I sometimes go to the park alone.",
+     "ko": "저는 가끔 혼자 공원에 가기도 해요."
+    },
+    {
+     "type": "translate",
+     "en": "That bag is both cheap and pretty.",
+     "ko": "그 가방은 싸기도 하고 예쁘기도 해요."
+    },
+    {
+     "type": "translate",
+     "en": "On weekends I clean my room and also meet friends.",
+     "ko": "주말에는 방을 청소하기도 하고 친구를 만나기도 해요."
+    },
+    {
+     "type": "translate",
+     "en": "I sometimes boil ramen at night.",
+     "ko": "저는 밤에 라면을 끓이기도 해요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 대학생이에요. 저는 한국어를 배우기도 하고 화학을 공부하기도 해요. 수업은 재미있기도 하고 어렵기도 해요. 주말에는 도서관에 가기도 하고 집에서 쉬기도 해요. 가끔 친구들과 한국어로 대화를 하기도 해요. 저는 요리를 잘 못해요. 그래서 밤에는 라면을 끓이기도 해요.",
+    "en": "I am a university student. I learn Korean and also study chemistry. Classes are both fun and difficult. On weekends I sometimes go to the library and sometimes rest at home. Sometimes I also have conversations with friends in Korean. I'm not good at cooking. So at night I sometimes boil ramen.",
+    "questions": [
+     {
+      "q": "이 사람은 무엇을 공부해요?",
+      "a": "한국어하고 화학을 공부해요."
+     },
+     {
+      "q": "수업은 어때요?",
+      "a": "재미있기도 하고 어렵기도 해요."
+     },
+     {
+      "q": "주말에 무엇을 해요?",
+      "a": "도서관에 가기도 하고 집에서 쉬기도 해요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 52,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "친구가 내일 부산에 ___ 했어요.",
+     "answer": "간다고",
+     "options": [
+      "간다고",
+      "가다고",
+      "가는다고",
+      "갔다고"
+     ],
+     "en": "My friend said he is going to Busan tomorrow.",
+     "why": "가 ends in a vowel, so present-tense quoting adds ㄴ다고; 내일 rules out the past."
+    },
+    {
+     "type": "fill",
+     "ko": "민수가 매일 아침을 ___ 했어요.",
+     "answer": "먹는다고",
+     "options": [
+      "먹는다고",
+      "먹다고",
+      "먹은다고",
+      "먹이라고"
+     ],
+     "en": "Minsu said he eats breakfast every day.",
+     "why": "A verb stem ending in a consonant takes 는다고."
+    },
+    {
+     "type": "fill",
+     "ko": "동생이 이 신발이 너무 ___ 했어요.",
+     "answer": "조그맣다고",
+     "options": [
+      "조그맣다고",
+      "조그만다고",
+      "조그맣는다고",
+      "조그매다고"
+     ],
+     "en": "My younger sibling said these shoes are too tiny.",
+     "why": "Adjectives in the present just add 다고 to the stem."
+    },
+    {
+     "type": "fill",
+     "ko": "그 사람이 자기가 ___ 했어요.",
+     "answer": "소설가라고",
+     "options": [
+      "소설가라고",
+      "소설가이라고",
+      "소설가다고",
+      "소설가는다고"
+     ],
+     "en": "That person said he is a novelist.",
+     "why": "A noun + 이다 is quoted with (이)라고; 소설가 ends in a vowel, so 라고."
+    },
+    {
+     "type": "fill",
+     "ko": "친구가 이 가방이 자기 것이 ___ 했어요.",
+     "answer": "아니라고",
+     "options": [
+      "아니라고",
+      "아니다고",
+      "안이라고",
+      "아닌다고"
+     ],
+     "en": "My friend said this bag isn't hers.",
+     "why": "아니다 is quoted as 아니라고, like 이다."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 그 소설이 아주 ___ 생각해요.",
+     "answer": "재미있다고",
+     "options": [
+      "재미있다고",
+      "재미있는다고",
+      "재미있이라고",
+      "재미있자고"
+     ],
+     "en": "I think that novel is very interesting.",
+     "why": "재미있다 is an adjective, so the quote is just stem + 다고 before 생각하다."
+    },
+    {
+     "type": "fill",
+     "ko": "사람들이 그 남자를 식신___ 불러요.",
+     "answer": "이라고",
+     "options": [
+      "이라고",
+      "라고",
+      "다고",
+      "이다고"
+     ],
+     "en": "People call that man a 'big eater'.",
+     "why": "부르다 'to call' uses (이)라고; 식신 ends in a consonant, so 이라고."
+    },
+    {
+     "type": "fill",
+     "ko": "그 가수가 결혼했___ 소문을 들었어요.",
+     "answer": "다는",
+     "options": [
+      "다는",
+      "다고",
+      "는다는",
+      "다른"
+     ],
+     "en": "I heard a rumor that the singer got married.",
+     "why": "Before a noun like 소문, the quote ends in 다는 (short for 다고 하는)."
+    },
+    {
+     "type": "translate",
+     "en": "My friend said she is busy today.",
+     "ko": "친구가 오늘 바쁘다고 했어요."
+    },
+    {
+     "type": "translate",
+     "en": "Minsu said he planted a tree yesterday.",
+     "ko": "민수가 어제 나무를 심었다고 했어요."
+    },
+    {
+     "type": "translate",
+     "en": "What did the teacher say?",
+     "ko": "선생님이 뭐라고 하셨어요?"
+    },
+    {
+     "type": "translate",
+     "en": "I promised my friend I would come early tomorrow.",
+     "ko": "친구에게 내일 일찍 오겠다고 약속했어요."
+    }
+   ],
+   "reading": {
+    "ko": "어제 친구 지민이를 만났어요. 지민이는 요즘 소설을 쓴다고 했어요. 소설의 주인공은 작은 개라고 했어요. 저는 그 이야기가 재미있다고 생각했어요. 지민이는 다음 달에 소설을 다 쓸 거라고 했어요. 그리고 저에게 제일 먼저 보여 주겠다고 약속했어요.",
+    "en": "Yesterday I met my friend Jimin. Jimin said she is writing a novel these days. She said the main character of the novel is a small dog. I thought that story was interesting. Jimin said she will finish writing the novel next month. And she promised to show it to me first.",
+    "questions": [
+     {
+      "q": "지민이는 요즘 뭘 한다고 했어요?",
+      "a": "소설을 쓴다고 했어요."
+     },
+     {
+      "q": "소설의 주인공은 뭐예요?",
+      "a": "작은 개예요."
+     },
+     {
+      "q": "지민이는 언제 소설을 다 쓸 거라고 했어요?",
+      "a": "다음 달에 다 쓸 거라고 했어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 53,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "친구가 공원에서 같이 ___ 했어요.",
+     "answer": "걷자고",
+     "options": [
+      "걷자고",
+      "걸어자고",
+      "걸으자고",
+      "걷으자고"
+     ],
+     "en": "My friend suggested we walk together in the park.",
+     "why": "~자고 goes straight onto the stem; 걷다 only changes before a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "동생이 저녁에 라면을 ___ 했어요.",
+     "answer": "먹자고",
+     "options": [
+      "먹자고",
+      "먹으자고",
+      "먹자라고",
+      "먹는자고"
+     ],
+     "en": "My younger sibling suggested we eat ramen for dinner.",
+     "why": "Suggestions are quoted with stem + 자고, with no 으 after a consonant."
+    },
+    {
+     "type": "fill",
+     "ko": "친구가 저에게 점심을 ___ 물어봤어요.",
+     "answer": "먹었냐고",
+     "options": [
+      "먹었냐고",
+      "먹었다고",
+      "먹었자고",
+      "먹었라고"
+     ],
+     "en": "My friend asked me if I had eaten lunch.",
+     "why": "A reported question takes 냐고, here after the past 먹었."
+    },
+    {
+     "type": "fill",
+     "ko": "그 사람이 저에게 어디에 ___ 물어봤어요.",
+     "answer": "사냐고",
+     "options": [
+      "사냐고",
+      "살냐고",
+      "살으냐고",
+      "산다고"
+     ],
+     "en": "That person asked me where I live.",
+     "why": "The ㄹ of 살다 drops before ㄴ, so 사냐고."
+    },
+    {
+     "type": "fill",
+     "ko": "호텔 직원이 방이 ___ 물어봤어요.",
+     "answer": "편안하냐고",
+     "options": [
+      "편안하냐고",
+      "편안하자고",
+      "편안한다고",
+      "편안하라고"
+     ],
+     "en": "The hotel employee asked if the room was comfortable.",
+     "why": "A quoted question with an adjective ends in 냐고 before 물어보다."
+    },
+    {
+     "type": "fill",
+     "ko": "가게 주인이 저에게 한국 사람___ 물어봤어요.",
+     "answer": "이냐고",
+     "options": [
+      "이냐고",
+      "냐고",
+      "이라고",
+      "이자고"
+     ],
+     "en": "The shop owner asked me if I was Korean.",
+     "why": "A question with 이다 is quoted as (이)냐고; 사람 ends in a consonant, so 이냐고."
+    },
+    {
+     "type": "fill",
+     "ko": "친구가 저에게 그 신사가 ___ 물어봤어요.",
+     "answer": "누구냐고",
+     "options": [
+      "누구냐고",
+      "누구이냐고",
+      "누구라고",
+      "누구자고"
+     ],
+     "en": "My friend asked me who that gentleman was.",
+     "why": "누구 ends in a vowel, so 이다 shrinks to 냐고."
+    },
+    {
+     "type": "fill",
+     "ko": "그 숙녀가 \"감사합니다\"___ 말했어요.",
+     "answer": "라고",
+     "options": [
+      "라고",
+      "이라고",
+      "다고",
+      "자고"
+     ],
+     "en": "The lady said, \"Thank you.\"",
+     "why": "A direct quote in quotation marks always takes 라고, whatever it ends in."
+    },
+    {
+     "type": "translate",
+     "en": "My friend suggested we drink coffee.",
+     "ko": "친구가 커피를 마시자고 했어요."
+    },
+    {
+     "type": "translate",
+     "en": "Mom asked me if I was cold.",
+     "ko": "엄마가 저에게 춥냐고 물어보셨어요."
+    },
+    {
+     "type": "translate",
+     "en": "The child said, \"I'm sorry.\"",
+     "ko": "아이가 \"미안해요\"라고 말했어요."
+    },
+    {
+     "type": "translate",
+     "en": "My older sister asked me where I went yesterday.",
+     "ko": "언니가 저에게 어제 어디에 갔냐고 물어봤어요."
+    }
+   ],
+   "reading": {
+    "ko": "어제 제 친구 민수가 저에게 전화했어요. 민수는 저에게 요즘 바쁘냐고 물어봤어요. 저는 조금 바쁘다고 했어요. 민수는 주말에 같이 영화를 보자고 했어요. 저는 무슨 영화냐고 물어봤어요. 민수는 \"슬픈 영화야\"라고 말했어요. 저는 슬픈 영화를 싫어해요. 그래서 다른 영화를 보자고 했어요.",
+    "en": "Yesterday my friend Minsu called me. Minsu asked me if I was busy these days. I said I was a little busy. Minsu suggested we watch a movie together on the weekend. I asked what movie it was. Minsu said, \"It's a sad movie.\" I don't like sad movies. So I suggested we watch a different movie.",
+    "questions": [
+     {
+      "q": "민수는 무엇을 하자고 했어요?",
+      "a": "주말에 같이 영화를 보자고 했어요."
+     },
+     {
+      "q": "민수는 무슨 영화라고 했어요?",
+      "a": "슬픈 영화라고 했어요."
+     },
+     {
+      "q": "저는 왜 다른 영화를 보자고 했어요?",
+      "a": "슬픈 영화를 싫어하기 때문이에요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 54,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "선생님이 학생들에게 한국 영화를 ___ 하셨어요.",
+     "answer": "보라고",
+     "options": [
+      "보라고",
+      "보으라고",
+      "봐라고",
+      "보다고"
+     ],
+     "en": "The teacher told the students to watch a Korean movie.",
+     "why": "Commands are quoted with (으)라고; 보 ends in a vowel, so 라고."
+    },
+    {
+     "type": "fill",
+     "ko": "의사 선생님이 저에게 약을 ___ 하셨어요.",
+     "answer": "먹으라고",
+     "options": [
+      "먹으라고",
+      "먹라고",
+      "먹어라고",
+      "먹자고"
+     ],
+     "en": "The doctor told me to take the medicine.",
+     "why": "먹 ends in a consonant, so the command quote is 으라고."
+    },
+    {
+     "type": "fill",
+     "ko": "엄마가 저에게 여권을 ___ 하셨어요.",
+     "answer": "갱신하라고",
+     "options": [
+      "갱신하라고",
+      "갱신해라고",
+      "갱신하으라고",
+      "갱신하다고"
+     ],
+     "en": "Mom told me to renew my passport.",
+     "why": "하다 verbs end in a vowel, so the command quote is 하라고."
+    },
+    {
+     "type": "fill",
+     "ko": "친구가 저에게 그 영화를 ___ 말라고 했어요.",
+     "answer": "보지",
+     "options": [
+      "보지",
+      "보고",
+      "보기",
+      "봐서"
+     ],
+     "en": "My friend told me not to watch that movie.",
+     "why": "A quoted 'don't' is stem + 지 말라고."
+    },
+    {
+     "type": "fill",
+     "ko": "아빠가 저에게 함부로 말하지 ___ 하셨어요.",
+     "answer": "말라고",
+     "options": [
+      "말라고",
+      "마라고",
+      "말으라고",
+      "않으라고"
+     ],
+     "en": "Dad told me not to talk rudely.",
+     "why": "The negative command quote uses 말다 → 말라고; the ㄹ stays."
+    },
+    {
+     "type": "fill",
+     "ko": "원어민 친구가 저에게 존댓말을 ___ 했어요.",
+     "answer": "쓰라고",
+     "options": [
+      "쓰라고",
+      "써라고",
+      "쓰으라고",
+      "쓰다고"
+     ],
+     "en": "My native-speaker friend told me to use honorific speech.",
+     "why": "쓰 ends in a vowel, so the command quote is 쓰라고."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님이 학생들에게 빨리 ___ 하셨어요.",
+     "answer": "뛰라고",
+     "options": [
+      "뛰라고",
+      "뛰으라고",
+      "뛰어라고",
+      "뛰다고"
+     ],
+     "en": "The teacher told the students to run fast.",
+     "why": "Add 라고 directly to the vowel stem 뛰."
+    },
+    {
+     "type": "fill",
+     "ko": "엄마가 동생___ 음식을 흘리지 말라고 하셨어요.",
+     "answer": "에게",
+     "options": [
+      "에게",
+      "을",
+      "이",
+      "에서"
+     ],
+     "en": "Mom told my younger sibling not to spill food.",
+     "why": "The person who gets the order is marked with 에게."
+    },
+    {
+     "type": "translate",
+     "en": "My friend told me to come quickly.",
+     "ko": "친구가 저에게 빨리 오라고 했어요."
+    },
+    {
+     "type": "translate",
+     "en": "The teacher told us not to exaggerate.",
+     "ko": "선생님이 우리에게 과장하지 말라고 하셨어요."
+    },
+    {
+     "type": "translate",
+     "en": "Mom told me to clean my room.",
+     "ko": "엄마가 저에게 방을 청소하라고 하셨어요."
+    },
+    {
+     "type": "translate",
+     "en": "The doctor told me not to eat spicy food.",
+     "ko": "의사 선생님이 저에게 매운 음식을 먹지 말라고 하셨어요."
+    }
+   ],
+   "reading": {
+    "ko": "지난주에 저는 식중독에 걸렸어요. 밤에 배가 아파서 토했어요. 다음 날 병원에 갔어요. 의사 선생님이 저에게 물을 많이 마시라고 하셨어요. 그리고 매운 음식을 먹지 말라고 하셨어요. 엄마는 저에게 집에서 쉬라고 하셨어요. 그래서 저는 학교에 가지 않고 집에서 쉬었어요.",
+    "en": "Last week I got food poisoning. At night my stomach hurt, so I threw up. The next day I went to the hospital. The doctor told me to drink a lot of water. And he told me not to eat spicy food. Mom told me to rest at home. So I didn't go to school and rested at home.",
+    "questions": [
+     {
+      "q": "이 사람은 왜 병원에 갔어요?",
+      "a": "식중독에 걸려서 병원에 갔어요."
+     },
+     {
+      "q": "의사 선생님이 뭐라고 하셨어요?",
+      "a": "물을 많이 마시라고 하셨어요. 그리고 매운 음식을 먹지 말라고 하셨어요."
+     },
+     {
+      "q": "엄마는 뭐라고 하셨어요?",
+      "a": "집에서 쉬라고 하셨어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 55,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "친구가 저에게 펜을 ___ 했어요.",
+     "answer": "달라고",
+     "options": [
+      "달라고",
+      "주라고",
+      "줘라고",
+      "달으라고"
+     ],
+     "en": "My friend asked me to give him a pen.",
+     "why": "The speaker wanted it for himself, so 주다 becomes 달라고."
+    },
+    {
+     "type": "fill",
+     "ko": "동생이 저에게 신발 끈을 ___ 달라고 했어요.",
+     "answer": "묶어",
+     "options": [
+      "묶어",
+      "묶고",
+      "묶으",
+      "묶게"
+     ],
+     "en": "My younger sibling asked me to tie his shoelaces.",
+     "why": "A favor for the speaker is ~아/어 달라고: 묶어 달라고."
+    },
+    {
+     "type": "fill",
+     "ko": "언니가 저에게 고양이한테 밥을 ___ 했어요.",
+     "answer": "주라고",
+     "options": [
+      "주라고",
+      "달라고",
+      "줘라고",
+      "주으라고"
+     ],
+     "en": "My older sister told me to give food to the cat.",
+     "why": "The cat, not my sister, gets the food, so the normal command quote 주라고."
+    },
+    {
+     "type": "fill",
+     "ko": "손님이 직원에게 사진을 ___ 달라고 했어요.",
+     "answer": "찍어",
+     "options": [
+      "찍어",
+      "찍고",
+      "찍으",
+      "찍게"
+     ],
+     "en": "The customer asked the employee to take a photo for her.",
+     "why": "~아/어 달라고 reports a request to do something for the speaker."
+    },
+    {
+     "type": "fill",
+     "ko": "친구에게 숙제를 도와 달라고 ___.",
+     "answer": "부탁했어요",
+     "options": [
+      "부탁했어요",
+      "부탁이었어요",
+      "부탁됐어요",
+      "부탁을했어요"
+     ],
+     "en": "I asked my friend to help me with my homework.",
+     "why": "부탁하다 is the verb 'to ask a favor' and often follows 달라고."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 친구에게 ___ 하나 있다고 했어요.",
+     "answer": "부탁이",
+     "options": [
+      "부탁이",
+      "부탁을",
+      "부탁가",
+      "부탁에"
+     ],
+     "en": "I told my friend I had a favor to ask.",
+     "why": "부탁 is the subject of 있다 and ends in a consonant, so 이."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님이 저에게 민수를 도와___ 하셨어요.",
+     "answer": "주라고",
+     "options": [
+      "주라고",
+      "달라고",
+      "줘라고",
+      "주으라고"
+     ],
+     "en": "The teacher told me to help Minsu.",
+     "why": "Minsu gets the help, not the teacher, so 도와주라고."
+    },
+    {
+     "type": "fill",
+     "ko": "신입사원이 저에게 일을 ___ 달라고 했어요.",
+     "answer": "가르쳐",
+     "options": [
+      "가르쳐",
+      "가르치",
+      "가르쳐서",
+      "가르치고"
+     ],
+     "en": "The new employee asked me to teach him the work.",
+     "why": "가르치다 + 어 contracts to 가르쳐 before 달라고."
+    },
+    {
+     "type": "translate",
+     "en": "My friend asked me to buy him coffee.",
+     "ko": "친구가 저에게 커피를 사 달라고 했어요."
+    },
+    {
+     "type": "translate",
+     "en": "Mom told me to give this book to my younger sibling.",
+     "ko": "엄마가 저에게 이 책을 동생에게 주라고 하셨어요."
+    },
+    {
+     "type": "translate",
+     "en": "I asked my older brother to tie the string.",
+     "ko": "형에게 끈을 묶어 달라고 부탁했어요."
+    },
+    {
+     "type": "translate",
+     "en": "The customer asked for water.",
+     "ko": "손님이 물을 달라고 했어요."
+    }
+   ],
+   "reading": {
+    "ko": "우리 회사에 신입사원이 왔어요. 그 사원의 이름은 지훈이에요. 지훈 씨는 일을 잘하려고 애써요. 어제 지훈 씨가 저에게 설문조사를 도와 달라고 부탁했어요. 그런데 저는 너무 바빴어요. 그래서 부장님이 그 일을 민수 씨에게 주라고 하셨어요. 민수 씨가 지훈 씨를 도와줬어요.",
+    "en": "A new employee came to our company. His name is Jihun. Jihun tries hard to do his work well. Yesterday Jihun asked me to help him with a survey. But I was too busy. So the manager told me to give that job to Minsu. Minsu helped Jihun.",
+    "questions": [
+     {
+      "q": "지훈 씨는 누구예요?",
+      "a": "신입사원이에요."
+     },
+     {
+      "q": "지훈 씨는 무엇을 부탁했어요?",
+      "a": "설문조사를 도와 달라고 부탁했어요."
+     },
+     {
+      "q": "부장님은 뭐라고 하셨어요?",
+      "a": "그 일을 민수 씨에게 주라고 하셨어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 56,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "아빠가 저를 매일 ___ 하셨어요.",
+     "answer": "운동하게",
+     "options": [
+      "운동하게",
+      "운동해게",
+      "운동하기",
+      "운동하고"
+     ],
+     "en": "Dad made me exercise every day.",
+     "why": "Stem + 게 하다 means 'make/let someone do'."
+    },
+    {
+     "type": "fill",
+     "ko": "그 영화가 저를 ___ 했어요.",
+     "answer": "울게",
+     "options": [
+      "울게",
+      "우게",
+      "울어게",
+      "울기"
+     ],
+     "en": "That movie made me cry.",
+     "why": "The ㄹ of 울다 stays before 게."
+    },
+    {
+     "type": "fill",
+     "ko": "동생이 깨지 않___ 작게 말해 주세요.",
+     "answer": "게",
+     "options": [
+      "게",
+      "기",
+      "도",
+      "지"
+     ],
+     "en": "Please speak softly so my younger sibling doesn't wake up.",
+     "why": "~지 않게 + verb means 'so that ... not'."
+    },
+    {
+     "type": "fill",
+     "ko": "다른 사람들이 볼 수 있___ 목록을 문에 붙였어요.",
+     "answer": "게",
+     "options": [
+      "게",
+      "는",
+      "기",
+      "어"
+     ],
+     "en": "I put the list on the door so other people could see it.",
+     "why": "~ㄹ 수 있게 + verb means 'so that someone can'."
+    },
+    {
+     "type": "fill",
+     "ko": "언니가 저에게 그 반지를 ___ 했어요.",
+     "answer": "끼게",
+     "options": [
+      "끼게",
+      "껴게",
+      "끼기",
+      "끼어게"
+     ],
+     "en": "My older sister had me put on that ring.",
+     "why": "게 attaches to the plain stem 끼, with no 어."
+    },
+    {
+     "type": "fill",
+     "ko": "엄마가 저를 혼자 축제에 못 ___ 하셨어요.",
+     "answer": "가게",
+     "options": [
+      "가게",
+      "가기",
+      "가서",
+      "가고"
+     ],
+     "en": "Mom didn't let me go to the festival alone.",
+     "why": "못 ~게 하다 means 'not let someone do'."
+    },
+    {
+     "type": "fill",
+     "ko": "이 음악은 사람들을 ___ 해요.",
+     "answer": "행복하게",
+     "options": [
+      "행복하게",
+      "행복해게",
+      "행복하기",
+      "행복히"
+     ],
+     "en": "This music makes people happy.",
+     "why": "Adjective stem + 게 하다 means 'make someone feel/be that way'."
+    },
+    {
+     "type": "fill",
+     "ko": "감기에 걸리지 ___ 따뜻한 옷을 입으세요.",
+     "answer": "않게",
+     "options": [
+      "않게",
+      "않아",
+      "않기",
+      "말게"
+     ],
+     "en": "Wear warm clothes so you don't catch a cold.",
+     "why": "~지 않게 gives the purpose: 'so that ... not'."
+    },
+    {
+     "type": "translate",
+     "en": "My friend made me laugh.",
+     "ko": "친구가 저를 웃게 했어요."
+    },
+    {
+     "type": "translate",
+     "en": "The teacher let us go home early.",
+     "ko": "선생님이 우리를 일찍 집에 가게 하셨어요."
+    },
+    {
+     "type": "translate",
+     "en": "I'll make a list so I don't forget.",
+     "ko": "잊어버리지 않게 목록을 만들 거예요."
+    },
+    {
+     "type": "translate",
+     "en": "That news made my mom sad.",
+     "ko": "그 소식이 엄마를 슬프게 했어요."
+    }
+   ],
+   "reading": {
+    "ko": "지난 주말에 우리 동네에서 축제가 있었어요. 엄마는 저와 동생을 축제에 가게 하셨어요. 축제에는 상점이 많았어요. 우리는 상점들을 천천히 둘러봤어요. 동생이 길을 잃지 않게 저는 동생의 손을 꼭 잡았어요. 동생은 과자를 하나 샀어요. 그 축제는 우리를 아주 즐겁게 했어요.",
+    "en": "Last weekend there was a festival in our neighborhood. Mom let my younger sibling and me go to the festival. There were many stores at the festival. We slowly looked around the stores. I held my sibling's hand tightly so he wouldn't get lost. My sibling bought a snack. The festival made us very happy.",
+    "questions": [
+     {
+      "q": "축제는 어디에서 있었어요?",
+      "a": "우리 동네에서 있었어요."
+     },
+     {
+      "q": "왜 동생의 손을 잡았어요?",
+      "a": "동생이 길을 잃지 않게 잡았어요."
+     },
+     {
+      "q": "축제는 어땠어요?",
+      "a": "아주 즐거웠어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 57,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "선생님이 학생들을 매일 운동___.",
+     "answer": "시키세요",
+     "options": [
+      "시키세요",
+      "하세요",
+      "되세요",
+      "시켜하세요"
+     ],
+     "en": "The teacher makes the students exercise every day.",
+     "why": "Swap 하다 for 시키다 to make someone else do it."
+    },
+    {
+     "type": "fill",
+     "ko": "그 경기는 사람들을 ___.",
+     "answer": "흥분시켰어요",
+     "options": [
+      "흥분시켰어요",
+      "흥분했어요",
+      "흥분됐어요",
+      "흥분시켜했어요"
+     ],
+     "en": "That match got people excited.",
+     "why": "With an object (사람들을), use 흥분시키다 'to excite someone'."
+    },
+    {
+     "type": "fill",
+     "ko": "저녁에 피자를 ___?",
+     "answer": "시킬까요",
+     "options": [
+      "시킬까요",
+      "시켜까요",
+      "시키을까요",
+      "시킬래까요"
+     ],
+     "en": "Shall we order pizza for dinner?",
+     "why": "시키다 means 'to order food'; 시키 + ㄹ까요."
+    },
+    {
+     "type": "fill",
+     "ko": "부장님이 신입사원___ 일을 많이 시키세요.",
+     "answer": "에게",
+     "options": [
+      "에게",
+      "을",
+      "이",
+      "에서"
+     ],
+     "en": "The manager gives the new employee a lot of work.",
+     "why": "The person given the task takes 에게."
+    },
+    {
+     "type": "fill",
+     "ko": "의사 선생님이 환자를 먼저 ___.",
+     "answer": "안정시키셨어요",
+     "options": [
+      "안정시키셨어요",
+      "안정하셨어요",
+      "안정되셨어요",
+      "안정시켜셨어요"
+     ],
+     "en": "The doctor stabilized the patient first.",
+     "why": "안정하다 → 안정시키다 'to make someone stable'."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님이 학생들에게 시험 날짜를 ___.",
+     "answer": "상기시키셨어요",
+     "options": [
+      "상기시키셨어요",
+      "상기하셨어요",
+      "상기되셨어요",
+      "상기시켜셨어요"
+     ],
+     "en": "The teacher reminded the students of the exam date.",
+     "why": "상기시키다 'to remind' makes someone else recall something."
+    },
+    {
+     "type": "fill",
+     "ko": "형과 제가 싸웠어요. 엄마가 우리를 ___.",
+     "answer": "화해시키셨어요",
+     "options": [
+      "화해시키셨어요",
+      "화해하셨어요",
+      "화해되셨어요",
+      "화해시켰셨어요"
+     ],
+     "en": "My older brother and I fought. Mom got us to make up.",
+     "why": "Mom made us make up, so 화해시키다."
+    },
+    {
+     "type": "fill",
+     "ko": "음식을 너무 많이 ___ 다 못 먹었어요.",
+     "answer": "시켜서",
+     "options": [
+      "시켜서",
+      "시키서",
+      "시켰어서",
+      "시킬서"
+     ],
+     "en": "We ordered too much food, so we couldn't eat it all.",
+     "why": "시키 + 어서 contracts to 시켜서; tense is not marked before 아/어서."
+    },
+    {
+     "type": "translate",
+     "en": "We ordered two coffees.",
+     "ko": "우리는 커피 두 잔을 시켰어요."
+    },
+    {
+     "type": "translate",
+     "en": "Dad sent my younger brother on an errand.",
+     "ko": "아빠가 남동생에게 심부름을 시키셨어요."
+    },
+    {
+     "type": "translate",
+     "en": "The teacher makes us study hard.",
+     "ko": "선생님이 우리를 열심히 공부시키세요."
+    },
+    {
+     "type": "translate",
+     "en": "Shall we order pizza right now?",
+     "ko": "지금 당장 피자를 시킬까요?"
+    }
+   ],
+   "reading": {
+    "ko": "오늘은 토요일이에요. 아침에 엄마가 저에게 심부름을 시키셨어요. 저는 가게에서 우유와 빵을 샀어요. 집에 와서 동생을 공부시켰어요. 동생은 공부를 싫어해요. 그래서 공부가 끝난 후에 동생을 마음껏 놀게 했어요. 저녁에는 가족들과 피자를 시켰어요. 피자는 아주 맛있었어요.",
+    "en": "Today is Saturday. In the morning Mom sent me on an errand. I bought milk and bread at the store. When I came home, I made my younger sibling study. My sibling hates studying. So after studying was over, I let him play as much as he liked. In the evening we ordered pizza with the family. The pizza was very tasty.",
+    "questions": [
+     {
+      "q": "엄마가 무엇을 시키셨어요?",
+      "a": "심부름을 시키셨어요."
+     },
+     {
+      "q": "집에 와서 무엇을 했어요?",
+      "a": "동생을 공부시켰어요."
+     },
+     {
+      "q": "저녁에 무엇을 시켰어요?",
+      "a": "피자를 시켰어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 58,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "점심에는 김밥___ 라면을 먹어요.",
+     "answer": "이나",
+     "options": [
+      "이나",
+      "나",
+      "거나",
+      "으나"
+     ],
+     "en": "For lunch I eat gimbap or ramen.",
+     "why": "김밥 ends in a consonant, so 'or' is 이나."
+    },
+    {
+     "type": "fill",
+     "ko": "주말에는 친구___ 동생과 같이 놀아요.",
+     "answer": "나",
+     "options": [
+      "나",
+      "이나",
+      "거나",
+      "니"
+     ],
+     "en": "On weekends I hang out with a friend or my younger sibling.",
+     "why": "친구 ends in a vowel, so 나."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 저녁에 책을 ___ 텔레비전을 봐요.",
+     "answer": "읽거나",
+     "options": [
+      "읽거나",
+      "읽나",
+      "읽이나",
+      "읽어나"
+     ],
+     "en": "In the evening I read a book or watch TV.",
+     "why": "Between two actions, 'or' is stem + 거나."
+    },
+    {
+     "type": "fill",
+     "ko": "날씨가 ___ 비가 오면 집에서 운동해요.",
+     "answer": "춥거나",
+     "options": [
+      "춥거나",
+      "추우거나",
+      "추워나",
+      "춥이나"
+     ],
+     "en": "If it's cold or it rains, I exercise at home.",
+     "why": "거나 starts with a consonant, so 춥다 keeps its ㅂ."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 할 일이 없어요. 집에서 영화___ 볼까요?",
+     "answer": "나",
+     "options": [
+      "나",
+      "이나",
+      "거나",
+      "니"
+     ],
+     "en": "There's nothing to do today. Shall we just watch a movie at home?",
+     "why": "One noun + (이)나 means 'just ... I guess'; 영화 ends in a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "주스가 없어요. 물___ 마셔야겠어요.",
+     "answer": "이나",
+     "options": [
+      "이나",
+      "나",
+      "거나",
+      "을나"
+     ],
+     "en": "There's no juice. I guess I'll just drink water.",
+     "why": "물 ends in a consonant, so the 'settling' form is 이나."
+    },
+    {
+     "type": "fill",
+     "ko": "버스___ 지하철로 갈 거예요.",
+     "answer": "나",
+     "options": [
+      "나",
+      "에나",
+      "거나",
+      "이나"
+     ],
+     "en": "I'll go by bus or subway.",
+     "why": "With (이)나, the particle 로 appears only after the second noun."
+    },
+    {
+     "type": "fill",
+     "ko": "숙제를 하___ 집을 청소할 거예요.",
+     "answer": "거나",
+     "options": [
+      "거나",
+      "나",
+      "이나",
+      "거니"
+     ],
+     "en": "I'll do my homework or clean the house.",
+     "why": "하다 is a verb, so 'or' is 거나, not (이)나."
+    },
+    {
+     "type": "translate",
+     "en": "Shall we meet on Saturday or Sunday?",
+     "ko": "토요일이나 일요일에 만날까요?"
+    },
+    {
+     "type": "translate",
+     "en": "After school I go to the gym or the library.",
+     "ko": "방과 후에 체육관이나 도서관에 가요."
+    },
+    {
+     "type": "translate",
+     "en": "When I have worries, I talk with a friend or walk alone.",
+     "ko": "고민이 있으면 친구와 이야기하거나 혼자 걸어요."
+    },
+    {
+     "type": "translate",
+     "en": "Let's just eat at home today.",
+     "ko": "오늘은 집에서 밥이나 먹어요."
+    }
+   ],
+   "reading": {
+    "ko": "다음 주에 중간고사가 있어요. 그래서 요즘 저는 도서관에서 공부하거나 친구들과 같이 공부해요. 저녁에는 김밥이나 라면을 먹어요. 시간이 없어서 요리를 못 해요. 오늘은 너무 피곤해요. 그래서 오늘 밤에는 공부하지 않고 잠이나 자야겠어요. 시험이 끝나면 영화를 보거나 여행할 거예요.",
+    "en": "Next week I have midterm exams. So these days I study at the library or study together with friends. In the evening I eat gimbap or ramen. I have no time, so I can't cook. Today I'm very tired. So tonight I won't study; I guess I'll just sleep. When the exams are over, I'll watch a movie or travel.",
+    "questions": [
+     {
+      "q": "다음 주에 무엇이 있어요?",
+      "a": "중간고사가 있어요."
+     },
+     {
+      "q": "저녁에는 무엇을 먹어요?",
+      "a": "김밥이나 라면을 먹어요."
+     },
+     {
+      "q": "시험이 끝나면 무엇을 할 거예요?",
+      "a": "영화를 보거나 여행할 거예요."
+     }
+    ]
+   }
+  }
+ ]
+}

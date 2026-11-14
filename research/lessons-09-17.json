@@ -1,0 +1,2899 @@
+{
+ "range": "9-17",
+ "lessons": [
+  {
+   "n": 9,
+   "title": "Lesson 9: Conjugate 이다 (할 것이다)",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/unit-1-lesson-9/",
+   "vocab": [
+    {
+     "ko": "공장",
+     "en": "factory",
+     "pos": "noun"
+    },
+    {
+     "ko": "열",
+     "en": "fever",
+     "pos": "noun"
+    },
+    {
+     "ko": "극장",
+     "en": "theater",
+     "pos": "noun"
+    },
+    {
+     "ko": "회사",
+     "en": "company",
+     "pos": "noun"
+    },
+    {
+     "ko": "장소",
+     "en": "place/location",
+     "pos": "noun"
+    },
+    {
+     "ko": "간판",
+     "en": "a sign",
+     "pos": "noun"
+    },
+    {
+     "ko": "직업",
+     "en": "job",
+     "pos": "noun"
+    },
+    {
+     "ko": "수업",
+     "en": "class (lesson)",
+     "pos": "noun"
+    },
+    {
+     "ko": "고기",
+     "en": "meat",
+     "pos": "noun"
+    },
+    {
+     "ko": "돼지",
+     "en": "pig",
+     "pos": "noun"
+    },
+    {
+     "ko": "돼지고기",
+     "en": "pork",
+     "pos": "noun"
+    },
+    {
+     "ko": "소",
+     "en": "cow",
+     "pos": "noun"
+    },
+    {
+     "ko": "소고기",
+     "en": "beef",
+     "pos": "noun"
+    },
+    {
+     "ko": "꽃",
+     "en": "flowers",
+     "pos": "noun"
+    },
+    {
+     "ko": "값",
+     "en": "price",
+     "pos": "noun"
+    },
+    {
+     "ko": "땅콩",
+     "en": "peanut",
+     "pos": "noun"
+    },
+    {
+     "ko": "축구(하다)",
+     "en": "soccer",
+     "pos": "noun"
+    },
+    {
+     "ko": "야구(하다)",
+     "en": "baseball",
+     "pos": "noun"
+    },
+    {
+     "ko": "여권",
+     "en": "passport",
+     "pos": "noun"
+    },
+    {
+     "ko": "수건",
+     "en": "towel",
+     "pos": "noun"
+    },
+    {
+     "ko": "체육",
+     "en": "physical education",
+     "pos": "noun"
+    },
+    {
+     "ko": "지하철",
+     "en": "subway",
+     "pos": "noun"
+    },
+    {
+     "ko": "미래",
+     "en": "future",
+     "pos": "noun"
+    },
+    {
+     "ko": "되다",
+     "en": "to become",
+     "pos": "verb"
+    },
+    {
+     "ko": "시작하다",
+     "en": "to start",
+     "pos": "verb"
+    },
+    {
+     "ko": "행동하다",
+     "en": "to act",
+     "pos": "verb"
+    },
+    {
+     "ko": "소개하다",
+     "en": "to introduce",
+     "pos": "verb"
+    },
+    {
+     "ko": "발견하다",
+     "en": "to discover",
+     "pos": "verb"
+    },
+    {
+     "ko": "방문하다",
+     "en": "to visit",
+     "pos": "verb"
+    },
+    {
+     "ko": "잃다",
+     "en": "to lose",
+     "pos": "verb"
+    },
+    {
+     "ko": "잃어버리다",
+     "en": "to lose",
+     "pos": "verb"
+    },
+    {
+     "ko": "입다",
+     "en": "to wear, put on",
+     "pos": "verb"
+    },
+    {
+     "ko": "벗다",
+     "en": "to take off (clothes)",
+     "pos": "verb"
+    },
+    {
+     "ko": "웃다",
+     "en": "to laugh",
+     "pos": "verb"
+    },
+    {
+     "ko": "부끄럽다",
+     "en": "to be shy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "건강하다",
+     "en": "to be healthy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "이제",
+     "en": "now",
+     "pos": "adverb"
+    },
+    {
+     "ko": "현재",
+     "en": "now/present",
+     "pos": "noun"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "이다 present tense (\"to be\")",
+     "explanation": "이다 links a noun to the subject (\"A is B\") and attaches directly to the noun. In casual speech use ~이야 after a consonant and ~야 after a vowel; in polite speech ~이에요 after a consonant and ~예요 after a vowel; formally ~입니다 for both. The negative 아니다 becomes 아니야, 아니에요 and 아닙니다, with the noun usually marked by 이/가.",
+     "examples": [
+      {
+       "ko": "저는 회사원이에요.",
+       "en": "I am an office worker."
+      },
+      {
+       "ko": "이 고기는 소고기예요.",
+       "en": "This meat is beef."
+      },
+      {
+       "ko": "여기는 극장입니다.",
+       "en": "This is a theater."
+      },
+      {
+       "ko": "그것은 제 여권이 아니에요.",
+       "en": "That is not my passport."
+      }
+     ]
+    },
+    {
+     "point": "이다 past tense (이었다/였다)",
+     "explanation": "To say something \"was\" a noun, add 었 to the stem 이, giving ~이었어(요), ~이었다 or ~이었습니다. After a noun ending in a vowel, 이었 usually shrinks to 였. 아니다 follows the normal rule and becomes 아니었어요.",
+     "examples": [
+      {
+       "ko": "그 장소는 공장이었어요.",
+       "en": "That place was a factory."
+      },
+      {
+       "ko": "제 친구는 의사였어요.",
+       "en": "My friend was a doctor."
+      },
+      {
+       "ko": "어제는 체육 수업이었어요.",
+       "en": "Yesterday was P.E. class."
+      },
+      {
+       "ko": "그 사람은 학생이 아니었어요.",
+       "en": "That person was not a student."
+      }
+     ]
+    },
+    {
+     "point": "Future tense ~ㄹ/을 것이다 (거예요)",
+     "explanation": "The everyday way to talk about the future is to add ~ㄹ (after a vowel) or ~을 (after a consonant) to a verb or adjective stem, follow it with 것 (\"thing\"), and finish with 이다. In speech 것이에요 is shortened to 거예요 (casual 거야). This form is more common than ~겠~ for plain future statements.",
+     "examples": [
+      {
+       "ko": "저는 내일 친구를 방문할 거예요.",
+       "en": "I will visit my friend tomorrow."
+      },
+      {
+       "ko": "수업은 아홉 시에 시작할 거예요.",
+       "en": "Class will start at nine."
+      },
+      {
+       "ko": "우리는 저녁에 돼지고기를 먹을 거예요.",
+       "en": "We will eat pork in the evening."
+      },
+      {
+       "ko": "저는 미래에 선생님이 될 거예요.",
+       "en": "I will become a teacher in the future."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을 as a future noun modifier",
+     "explanation": "Adding ~ㄹ/을 to a verb or adjective stem turns it into a describing word for something that will happen, so it must be followed by a noun. This is exactly how 할 것 works: 할 describes the noun 것. It parallels ~ㄴ/은 on adjectives (좋은 사람).",
+     "examples": [
+      {
+       "ko": "내일 먹을 음식이 없어요.",
+       "en": "There is no food to eat tomorrow."
+      },
+      {
+       "ko": "저는 할 일이 많아요.",
+       "en": "I have a lot of work to do."
+      },
+      {
+       "ko": "오늘 볼 영화는 재미있어요.",
+       "en": "The movie we will watch today is fun."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Lesson 10: Korean Numbers",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/unit-1-lesson-10/",
+   "vocab": [
+    {
+     "ko": "하나",
+     "en": "one",
+     "pos": "other"
+    },
+    {
+     "ko": "둘",
+     "en": "two",
+     "pos": "other"
+    },
+    {
+     "ko": "셋",
+     "en": "three",
+     "pos": "other"
+    },
+    {
+     "ko": "넷",
+     "en": "four",
+     "pos": "other"
+    },
+    {
+     "ko": "다섯",
+     "en": "five",
+     "pos": "other"
+    },
+    {
+     "ko": "여섯",
+     "en": "six",
+     "pos": "other"
+    },
+    {
+     "ko": "일곱",
+     "en": "seven",
+     "pos": "other"
+    },
+    {
+     "ko": "여덟",
+     "en": "eight",
+     "pos": "other"
+    },
+    {
+     "ko": "아홉",
+     "en": "nine",
+     "pos": "other"
+    },
+    {
+     "ko": "열",
+     "en": "ten",
+     "pos": "other"
+    },
+    {
+     "ko": "스물",
+     "en": "twenty",
+     "pos": "other"
+    },
+    {
+     "ko": "서른",
+     "en": "thirty",
+     "pos": "other"
+    },
+    {
+     "ko": "마흔",
+     "en": "forty",
+     "pos": "other"
+    },
+    {
+     "ko": "쉰",
+     "en": "fifty",
+     "pos": "other"
+    },
+    {
+     "ko": "일",
+     "en": "one (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "이",
+     "en": "two (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "삼",
+     "en": "three (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "사",
+     "en": "four (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "오",
+     "en": "five (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "육",
+     "en": "six (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "칠",
+     "en": "seven (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "팔",
+     "en": "eight (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "구",
+     "en": "nine (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "십",
+     "en": "ten (Sino)",
+     "pos": "other"
+    },
+    {
+     "ko": "백",
+     "en": "one hundred",
+     "pos": "other"
+    },
+    {
+     "ko": "천",
+     "en": "one thousand",
+     "pos": "other"
+    },
+    {
+     "ko": "만",
+     "en": "ten thousand",
+     "pos": "other"
+    },
+    {
+     "ko": "영",
+     "en": "zero",
+     "pos": "other"
+    },
+    {
+     "ko": "공",
+     "en": "zero (phone numbers)",
+     "pos": "other"
+    },
+    {
+     "ko": "처음",
+     "en": "first time, beginning",
+     "pos": "noun"
+    },
+    {
+     "ko": "마지막",
+     "en": "last",
+     "pos": "noun"
+    },
+    {
+     "ko": "번째",
+     "en": "ordinal counter (-th)",
+     "pos": "other"
+    },
+    {
+     "ko": "첫 번째",
+     "en": "first (1st)",
+     "pos": "other"
+    },
+    {
+     "ko": "두 번째",
+     "en": "second (2nd)",
+     "pos": "other"
+    },
+    {
+     "ko": "개",
+     "en": "counter for things",
+     "pos": "other"
+    },
+    {
+     "ko": "번",
+     "en": "counter for behaviors/actions",
+     "pos": "other"
+    },
+    {
+     "ko": "명",
+     "en": "counter for people",
+     "pos": "other"
+    },
+    {
+     "ko": "대",
+     "en": "counter for automobiles",
+     "pos": "other"
+    },
+    {
+     "ko": "잔",
+     "en": "counter for glasses/cups",
+     "pos": "other"
+    },
+    {
+     "ko": "시",
+     "en": "o'clock",
+     "pos": "other"
+    },
+    {
+     "ko": "분",
+     "en": "minute",
+     "pos": "noun"
+    },
+    {
+     "ko": "초",
+     "en": "second",
+     "pos": "noun"
+    },
+    {
+     "ko": "살",
+     "en": "years old",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Two number systems (Sino-Korean and pure Korean)",
+     "explanation": "Korean has Chinese-derived numbers (일, 이, 삼...) and native numbers (하나, 둘, 셋...). Sino-Korean numbers are used for money, phone numbers, math, measurements, minutes and most dates; pure Korean numbers are used for counting things, people and actions and for the hour. Big numbers are built by stacking units, and 만 (10,000) is its own unit. Zero is 영 for scores and temperature, and 공 for phone numbers.",
+     "examples": [
+      {
+       "ko": "이 책은 만 원이에요.",
+       "en": "This book is 10,000 won."
+      },
+      {
+       "ko": "제 전화번호는 공일공 오오오 일이삼사예요.",
+       "en": "My phone number is 010-555-1234."
+      },
+      {
+       "ko": "우리 팀이 이 대 영으로 이겼어요.",
+       "en": "Our team won two to zero."
+      },
+      {
+       "ko": "저는 동생이 둘 있어요.",
+       "en": "I have two younger siblings."
+      }
+     ]
+    },
+    {
+     "point": "Counters (개, 명, 대, 잔, 권)",
+     "explanation": "When counting, put the noun first and then a pure Korean number plus a counter word: noun + number + counter. 개 is the general counter for things, 명 for people, 대 for vehicles and 잔 for cups or glasses. Before a counter, 하나/둘/셋/넷/스물 change to 한/두/세/네/스무, and the written number is separated from the counter by a space.",
+     "examples": [
+      {
+       "ko": "저는 빵 세 개를 샀어요.",
+       "en": "I bought three pieces of bread."
+      },
+      {
+       "ko": "교실에 학생이 다섯 명 있어요.",
+       "en": "There are five students in the classroom."
+      },
+      {
+       "ko": "커피 두 잔 주세요.",
+       "en": "Two coffees, please."
+      },
+      {
+       "ko": "우리 회사에 차가 네 대 있어요.",
+       "en": "Our company has four cars."
+      }
+     ]
+    },
+    {
+     "point": "번 for number of times",
+     "explanation": "A pure Korean number + 번 tells how many times an action happens. The combination works like an adverb, so it normally takes no particle and sits before the verb.",
+     "examples": [
+      {
+       "ko": "저는 한국에 세 번 갔어요.",
+       "en": "I went to Korea three times."
+      },
+      {
+       "ko": "저는 오늘 고기를 두 번 먹었어요.",
+       "en": "I ate meat twice today."
+      },
+      {
+       "ko": "그 영화를 한 번 봤어요.",
+       "en": "I watched that movie once."
+      }
+     ]
+    },
+    {
+     "point": "Telling time (시 and 분) and age (살)",
+     "explanation": "For clock time, the hour uses pure Korean numbers + 시 and the minutes use Sino-Korean numbers + 분. Age is usually given with pure Korean numbers + 살. With numerals, the space before the counter is often dropped (3시 20분).",
+     "examples": [
+      {
+       "ko": "지금 세 시 이십 분이에요.",
+       "en": "It is 3:20 now."
+      },
+      {
+       "ko": "수업은 아홉 시에 시작해요.",
+       "en": "Class starts at nine o'clock."
+      },
+      {
+       "ko": "저는 스물두 살이에요.",
+       "en": "I am twenty-two years old."
+      },
+      {
+       "ko": "제 동생은 열 살이에요.",
+       "en": "My younger sibling is ten years old."
+      }
+     ]
+    },
+    {
+     "point": "Ordinals with 번째, plus 처음 and 마지막",
+     "explanation": "Adding 번째 after a pure Korean number makes an ordinal (second, third...), but \"first\" is 첫 번째. 처음 means the first time or the beginning, and 마지막 means last in a sequence (not \"last\" meaning previous).",
+     "examples": [
+      {
+       "ko": "이것은 저의 두 번째 수업이에요.",
+       "en": "This is my second class."
+      },
+      {
+       "ko": "저는 첫 번째 사람이었어요.",
+       "en": "I was the first person."
+      },
+      {
+       "ko": "저는 처음 지하철을 탔어요.",
+       "en": "I rode the subway for the first time."
+      },
+      {
+       "ko": "오늘은 마지막 날이에요.",
+       "en": "Today is the last day."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Lesson 11: 동안, Seconds, Minutes, Hours, Days, Weeks, Months, Years",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-11/",
+   "vocab": [
+    {
+     "ko": "일월",
+     "en": "January",
+     "pos": "noun"
+    },
+    {
+     "ko": "이월",
+     "en": "February",
+     "pos": "noun"
+    },
+    {
+     "ko": "삼월",
+     "en": "March",
+     "pos": "noun"
+    },
+    {
+     "ko": "사월",
+     "en": "April",
+     "pos": "noun"
+    },
+    {
+     "ko": "오월",
+     "en": "May",
+     "pos": "noun"
+    },
+    {
+     "ko": "유월",
+     "en": "June",
+     "pos": "noun"
+    },
+    {
+     "ko": "칠월",
+     "en": "July",
+     "pos": "noun"
+    },
+    {
+     "ko": "팔월",
+     "en": "August",
+     "pos": "noun"
+    },
+    {
+     "ko": "구월",
+     "en": "September",
+     "pos": "noun"
+    },
+    {
+     "ko": "시월",
+     "en": "October",
+     "pos": "noun"
+    },
+    {
+     "ko": "십일월",
+     "en": "November",
+     "pos": "noun"
+    },
+    {
+     "ko": "십이월",
+     "en": "December",
+     "pos": "noun"
+    },
+    {
+     "ko": "기회",
+     "en": "chance/opportunity",
+     "pos": "noun"
+    },
+    {
+     "ko": "계획",
+     "en": "plans",
+     "pos": "noun"
+    },
+    {
+     "ko": "회사원",
+     "en": "office worker",
+     "pos": "noun"
+    },
+    {
+     "ko": "요리사",
+     "en": "a cook/chef",
+     "pos": "noun"
+    },
+    {
+     "ko": "운전사",
+     "en": "a driver",
+     "pos": "noun"
+    },
+    {
+     "ko": "달리다",
+     "en": "to run",
+     "pos": "verb"
+    },
+    {
+     "ko": "요리하다",
+     "en": "to cook",
+     "pos": "verb"
+    },
+    {
+     "ko": "운전하다",
+     "en": "to drive",
+     "pos": "verb"
+    },
+    {
+     "ko": "죽다",
+     "en": "to die",
+     "pos": "verb"
+    },
+    {
+     "ko": "두렵다",
+     "en": "to be scared",
+     "pos": "adjective"
+    },
+    {
+     "ko": "이상하다",
+     "en": "to be strange",
+     "pos": "adjective"
+    },
+    {
+     "ko": "동안",
+     "en": "for, during, while",
+     "pos": "noun"
+    },
+    {
+     "ko": "달",
+     "en": "month",
+     "pos": "noun"
+    },
+    {
+     "ko": "개월",
+     "en": "month",
+     "pos": "other"
+    },
+    {
+     "ko": "날",
+     "en": "day",
+     "pos": "noun"
+    },
+    {
+     "ko": "하루",
+     "en": "one day",
+     "pos": "noun"
+    },
+    {
+     "ko": "이틀",
+     "en": "two days",
+     "pos": "noun"
+    },
+    {
+     "ko": "사흘",
+     "en": "three days",
+     "pos": "noun"
+    },
+    {
+     "ko": "지난 주",
+     "en": "last week",
+     "pos": "noun"
+    },
+    {
+     "ko": "지난 달",
+     "en": "last month",
+     "pos": "noun"
+    },
+    {
+     "ko": "이번 주",
+     "en": "this week",
+     "pos": "noun"
+    },
+    {
+     "ko": "이번 달",
+     "en": "this month",
+     "pos": "noun"
+    },
+    {
+     "ko": "다음 주",
+     "en": "next week",
+     "pos": "noun"
+    },
+    {
+     "ko": "다음 달",
+     "en": "next month",
+     "pos": "noun"
+    },
+    {
+     "ko": "작년",
+     "en": "last year",
+     "pos": "noun"
+    },
+    {
+     "ko": "올해",
+     "en": "this year",
+     "pos": "noun"
+    },
+    {
+     "ko": "내년",
+     "en": "next year",
+     "pos": "noun"
+    },
+    {
+     "ko": "평생 (동안)",
+     "en": "whole life, lifetime",
+     "pos": "noun"
+    },
+    {
+     "ko": "보통",
+     "en": "usually",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "동안 \"for (a period of time)\"",
+     "explanation": "Place 동안 right after a length of time to say how long something lasts, like English \"for\". No extra particle is needed after 동안. Use whichever number system the time word requires.",
+     "examples": [
+      {
+       "ko": "저는 두 시간 동안 운전했어요.",
+       "en": "I drove for two hours."
+      },
+      {
+       "ko": "그는 십 분 동안 달렸어요.",
+       "en": "He ran for ten minutes."
+      },
+      {
+       "ko": "우리는 삼 일 동안 서울에 있었어요.",
+       "en": "We were in Seoul for three days."
+      },
+      {
+       "ko": "저는 일 년 동안 한국어를 공부했어요.",
+       "en": "I studied Korean for one year."
+      }
+     ]
+    },
+    {
+     "point": "Counting units of time (초, 분, 시간, 일, 주, 달/개월, 년)",
+     "explanation": "Seconds (초), minutes (분), days (일), weeks (주), months with 개월, and years (년) take Sino-Korean numbers. Hours counted as a duration use 시간 with pure Korean numbers (시 is only for clock time), and months counted with 달 also use pure Korean numbers.",
+     "examples": [
+      {
+       "ko": "저는 세 시간 동안 요리했어요.",
+       "en": "I cooked for three hours."
+      },
+      {
+       "ko": "저는 한국에서 육 개월 동안 살았어요.",
+       "en": "I lived in Korea for six months."
+      },
+      {
+       "ko": "저는 한국에서 여섯 달 동안 살았어요.",
+       "en": "I lived in Korea for six months."
+      },
+      {
+       "ko": "그 수업은 이 주 동안 해요.",
+       "en": "That class runs for two weeks."
+      }
+     ]
+    },
+    {
+     "point": "지난 / 이번 / 다음 and 작년 / 올해 / 내년",
+     "explanation": "지난 (previous), 이번 (this) and 다음 (next) go before 주 and 달 to mean last/this/next week or month, and before 번 for last/this/next time. They cannot be used with 년; instead use 작년 (last year), 올해 (this year) and 내년 (next year). 마지막 means final, not previous.",
+     "examples": [
+      {
+       "ko": "저는 지난 주에 극장에 갔어요.",
+       "en": "I went to the theater last week."
+      },
+      {
+       "ko": "다음 달에 할머니를 방문할 거예요.",
+       "en": "I will visit my grandmother next month."
+      },
+      {
+       "ko": "이번 주에 계획이 있어요.",
+       "en": "I have plans this week."
+      },
+      {
+       "ko": "저는 내년에 한국에 갈 거예요.",
+       "en": "I will go to Korea next year."
+      }
+     ]
+    },
+    {
+     "point": "Days and dates (일, 날, 하루/이틀/사흘)",
+     "explanation": "일 counts days with Sino-Korean numbers and also gives dates, written month then day (5월 5일). 날 means \"day\" as a noun but is not used for counting. For short spans there are special words: 하루 (one day), 이틀 (two days), 사흘 (three days).",
+     "examples": [
+      {
+       "ko": "제 생일은 5월 5일이에요.",
+       "en": "My birthday is May 5th."
+      },
+      {
+       "ko": "저는 이틀 동안 아팠어요.",
+       "en": "I was sick for two days."
+      },
+      {
+       "ko": "그 날은 정말 추웠어요.",
+       "en": "That day was really cold."
+      },
+      {
+       "ko": "하루 동안 집에서 쉬었어요.",
+       "en": "I rested at home for a day."
+      }
+     ]
+    },
+    {
+     "point": "\"Per\" with ~에",
+     "explanation": "Attaching ~에 to a unit of time expresses frequency within that unit, like English \"per\" or \"a\". Put the time + 에 first, then the amount (often with 번 or another counter).",
+     "examples": [
+      {
+       "ko": "저는 일주일에 두 번 달려요.",
+       "en": "I run twice a week."
+      },
+      {
+       "ko": "저는 하루에 커피를 세 잔 마셔요.",
+       "en": "I drink three cups of coffee a day."
+      },
+      {
+       "ko": "저는 한 달에 책을 한 권 읽어요.",
+       "en": "I read one book a month."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Lesson 12: Korean Particles 들, 만, 에서, 부터, 까지, (으)로",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-12/",
+   "vocab": [
+    {
+     "ko": "점원",
+     "en": "store assistant",
+     "pos": "noun"
+    },
+    {
+     "ko": "배우",
+     "en": "actor",
+     "pos": "noun"
+    },
+    {
+     "ko": "목",
+     "en": "neck/throat",
+     "pos": "noun"
+    },
+    {
+     "ko": "소리",
+     "en": "noise/sound",
+     "pos": "noun"
+    },
+    {
+     "ko": "목소리",
+     "en": "voice",
+     "pos": "noun"
+    },
+    {
+     "ko": "의미",
+     "en": "meaning",
+     "pos": "noun"
+    },
+    {
+     "ko": "상황",
+     "en": "situation",
+     "pos": "noun"
+    },
+    {
+     "ko": "닭",
+     "en": "chicken",
+     "pos": "noun"
+    },
+    {
+     "ko": "문장",
+     "en": "sentence",
+     "pos": "noun"
+    },
+    {
+     "ko": "기름",
+     "en": "oil/grease/gasoline",
+     "pos": "noun"
+    },
+    {
+     "ko": "그들",
+     "en": "them",
+     "pos": "noun"
+    },
+    {
+     "ko": "생활",
+     "en": "lifestyle/life",
+     "pos": "noun"
+    },
+    {
+     "ko": "속삭이다",
+     "en": "to whisper",
+     "pos": "verb"
+    },
+    {
+     "ko": "복습하다",
+     "en": "to review, to re-study",
+     "pos": "verb"
+    },
+    {
+     "ko": "바꾸다",
+     "en": "to change",
+     "pos": "verb"
+    },
+    {
+     "ko": "유학하다",
+     "en": "to study abroad",
+     "pos": "verb"
+    },
+    {
+     "ko": "넘어지다",
+     "en": "to fall",
+     "pos": "verb"
+    },
+    {
+     "ko": "독서하다",
+     "en": "to read a book",
+     "pos": "verb"
+    },
+    {
+     "ko": "출발하다",
+     "en": "to depart",
+     "pos": "verb"
+    },
+    {
+     "ko": "마시다",
+     "en": "to drink",
+     "pos": "verb"
+    },
+    {
+     "ko": "내리다",
+     "en": "to get off, to come down",
+     "pos": "verb"
+    },
+    {
+     "ko": "나오다",
+     "en": "to come out",
+     "pos": "verb"
+    },
+    {
+     "ko": "나가다",
+     "en": "to go out",
+     "pos": "verb"
+    },
+    {
+     "ko": "쓰다",
+     "en": "to wear (on the head)",
+     "pos": "verb"
+    },
+    {
+     "ko": "모르다",
+     "en": "to not know",
+     "pos": "verb"
+    },
+    {
+     "ko": "신청하다",
+     "en": "to apply",
+     "pos": "verb"
+    },
+    {
+     "ko": "사다",
+     "en": "to buy",
+     "pos": "verb"
+    },
+    {
+     "ko": "팔다",
+     "en": "to sell",
+     "pos": "verb"
+    },
+    {
+     "ko": "얇다",
+     "en": "to be thin",
+     "pos": "adjective"
+    },
+    {
+     "ko": "적당하다",
+     "en": "to be moderate",
+     "pos": "adjective"
+    },
+    {
+     "ko": "어리다",
+     "en": "to be young",
+     "pos": "adjective"
+    },
+    {
+     "ko": "기쁘다",
+     "en": "to be glad",
+     "pos": "adjective"
+    },
+    {
+     "ko": "꽤",
+     "en": "fairly/quite",
+     "pos": "adverb"
+    },
+    {
+     "ko": "때",
+     "en": "time, when",
+     "pos": "noun"
+    },
+    {
+     "ko": "그때",
+     "en": "at that time",
+     "pos": "adverb"
+    },
+    {
+     "ko": "쪽",
+     "en": "side/direction",
+     "pos": "noun"
+    },
+    {
+     "ko": "열심히",
+     "en": "hard, diligently",
+     "pos": "adverb"
+    },
+    {
+     "ko": "완전히",
+     "en": "perfectly, completely",
+     "pos": "adverb"
+    },
+    {
+     "ko": "몇",
+     "en": "how many, some (with counter)",
+     "pos": "other"
+    },
+    {
+     "ko": "층",
+     "en": "floor",
+     "pos": "noun"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Dropping obvious subjects and topics",
+     "explanation": "Korean speakers usually leave out the subject or topic, especially 저/나, when it is clear from context. Sentences without 저는 are complete and sound more natural in conversation.",
+     "examples": [
+      {
+       "ko": "어제 극장에 갔어요.",
+       "en": "(I) went to the theater yesterday."
+      },
+      {
+       "ko": "지금 뭐 해요?",
+       "en": "What are (you) doing now?"
+      },
+      {
+       "ko": "내일 친구를 만날 거예요.",
+       "en": "(I) will meet a friend tomorrow."
+      }
+     ]
+    },
+    {
+     "point": "Plural ~들 and 몇 with counters",
+     "explanation": "~들 attached to a noun (usually people or animals) marks it as plural, but Korean often leaves plurals unmarked when the meaning is clear. 몇 + counter asks \"how many\", and in a statement it means \"a few\".",
+     "examples": [
+      {
+       "ko": "학생들이 공원에서 축구를 해요.",
+       "en": "The students are playing soccer in the park."
+      },
+      {
+       "ko": "친구들이 우리 집에 왔어요.",
+       "en": "My friends came to our house."
+      },
+      {
+       "ko": "사과 몇 개를 샀어요?",
+       "en": "How many apples did you buy?"
+      },
+      {
+       "ko": "사람 몇 명이 늦었어요.",
+       "en": "A few people were late."
+      }
+     ]
+    },
+    {
+     "point": "~만 \"only\"",
+     "explanation": "~만 attaches to a noun to mean \"only\" or \"just\". It can replace 이/가 or 을/를, or stack on top of other particles such as 에서만.",
+     "examples": [
+      {
+       "ko": "저는 물만 마셨어요.",
+       "en": "I only drank water."
+      },
+      {
+       "ko": "그 학생만 왔어요.",
+       "en": "Only that student came."
+      },
+      {
+       "ko": "저는 집에서만 공부해요.",
+       "en": "I only study at home."
+      }
+     ]
+    },
+    {
+     "point": "~에서 \"from\" (a place)",
+     "explanation": "Besides marking where an action happens, ~에서 marks the starting point or origin of movement, meaning \"from\". It is often used with verbs like 오다 and 출발하다.",
+     "examples": [
+      {
+       "ko": "저는 캐나다에서 왔어요.",
+       "en": "I came from Canada."
+      },
+      {
+       "ko": "기차는 서울에서 출발했어요.",
+       "en": "The train departed from Seoul."
+      },
+      {
+       "ko": "그 사람은 방에서 나왔어요.",
+       "en": "That person came out of the room."
+      }
+     ]
+    },
+    {
+     "point": "~부터 / ~까지 \"from / until\"",
+     "explanation": "~부터 marks a starting time or point and ~까지 marks the end point, like \"from ... to/until\". For places, ~에서 is usually paired with ~까지 instead of ~부터.",
+     "examples": [
+      {
+       "ko": "저는 아홉 시부터 다섯 시까지 일해요.",
+       "en": "I work from nine to five."
+      },
+      {
+       "ko": "월요일부터 금요일까지 수업이 있어요.",
+       "en": "I have class from Monday to Friday."
+      },
+      {
+       "ko": "서울에서 부산까지 운전했어요.",
+       "en": "I drove from Seoul to Busan."
+      },
+      {
+       "ko": "내일부터 열심히 공부할 거예요.",
+       "en": "I will study hard starting tomorrow."
+      }
+     ]
+    },
+    {
+     "point": "~(으)로 \"toward / by means of / with\"",
+     "explanation": "~(으)로 (~로 after a vowel or ㄹ, ~으로 after other consonants) shows direction toward a place, the tool or method used, or what something changes into. It often translates as \"to/toward\", \"by\" or \"with\".",
+     "examples": [
+      {
+       "ko": "저는 지하철로 회사에 가요.",
+       "en": "I go to work by subway."
+      },
+      {
+       "ko": "연필로 문장을 썼어요.",
+       "en": "I wrote the sentence with a pencil."
+      },
+      {
+       "ko": "왼쪽으로 가세요.",
+       "en": "Please go to the left."
+      },
+      {
+       "ko": "저는 차를 새 차로 바꿨어요.",
+       "en": "I changed my car for a new one."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Lesson 13: Korean Particles: and, with, to, from, for, about",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-13/",
+   "vocab": [
+    {
+     "ko": "사실",
+     "en": "fact",
+     "pos": "noun"
+    },
+    {
+     "ko": "약",
+     "en": "medicine",
+     "pos": "noun"
+    },
+    {
+     "ko": "음악",
+     "en": "music",
+     "pos": "noun"
+    },
+    {
+     "ko": "하늘",
+     "en": "sky",
+     "pos": "noun"
+    },
+    {
+     "ko": "땅",
+     "en": "land",
+     "pos": "noun"
+    },
+    {
+     "ko": "지하",
+     "en": "underground",
+     "pos": "noun"
+    },
+    {
+     "ko": "빵",
+     "en": "bread",
+     "pos": "noun"
+    },
+    {
+     "ko": "쓰레기",
+     "en": "trash/garbage",
+     "pos": "noun"
+    },
+    {
+     "ko": "회계사",
+     "en": "accountant",
+     "pos": "noun"
+    },
+    {
+     "ko": "녹차",
+     "en": "green tea",
+     "pos": "noun"
+    },
+    {
+     "ko": "이",
+     "en": "teeth",
+     "pos": "noun"
+    },
+    {
+     "ko": "정부",
+     "en": "government",
+     "pos": "noun"
+    },
+    {
+     "ko": "성격",
+     "en": "personality",
+     "pos": "noun"
+    },
+    {
+     "ko": "온도",
+     "en": "temperature",
+     "pos": "noun"
+    },
+    {
+     "ko": "커튼",
+     "en": "curtains",
+     "pos": "noun"
+    },
+    {
+     "ko": "숨",
+     "en": "breath",
+     "pos": "noun"
+    },
+    {
+     "ko": "축하하다",
+     "en": "to congratulate",
+     "pos": "verb"
+    },
+    {
+     "ko": "일어나다",
+     "en": "to rise, to get up",
+     "pos": "verb"
+    },
+    {
+     "ko": "준비하다",
+     "en": "to prepare, to get ready",
+     "pos": "verb"
+    },
+    {
+     "ko": "들어오다",
+     "en": "to come in",
+     "pos": "verb"
+    },
+    {
+     "ko": "들어가다",
+     "en": "to go in",
+     "pos": "verb"
+    },
+    {
+     "ko": "입장하다",
+     "en": "to enter (a venue)",
+     "pos": "verb"
+    },
+    {
+     "ko": "숨쉬다",
+     "en": "to breathe",
+     "pos": "verb"
+    },
+    {
+     "ko": "흥미롭다",
+     "en": "to be interesting",
+     "pos": "adjective"
+    },
+    {
+     "ko": "늦다",
+     "en": "to be late",
+     "pos": "adjective"
+    },
+    {
+     "ko": "시원하다",
+     "en": "to be cool, refreshing",
+     "pos": "adjective"
+    },
+    {
+     "ko": "질투하다",
+     "en": "to be jealous",
+     "pos": "adjective"
+    },
+    {
+     "ko": "맵다",
+     "en": "to be spicy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "죄송하다",
+     "en": "to be sorry",
+     "pos": "adjective"
+    },
+    {
+     "ko": "미안하다",
+     "en": "to be sorry",
+     "pos": "adjective"
+    },
+    {
+     "ko": "무겁다",
+     "en": "to be heavy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "가볍다",
+     "en": "to be light",
+     "pos": "adjective"
+    },
+    {
+     "ko": "유명하다",
+     "en": "to be famous",
+     "pos": "adjective"
+    },
+    {
+     "ko": "익숙하다",
+     "en": "to be familiar with",
+     "pos": "adjective"
+    },
+    {
+     "ko": "요즘",
+     "en": "these days",
+     "pos": "adverb"
+    },
+    {
+     "ko": "같이",
+     "en": "together",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "\"And\" between nouns: 와/과, 하고, (이)랑",
+     "explanation": "To join two nouns with \"and\", attach 와 (after a vowel) or 과 (after a consonant), 하고, or 랑/이랑 to the first noun. 와/과 sounds more formal or written, 하고 is neutral, and (이)랑 is casual.",
+     "examples": [
+      {
+       "ko": "저는 빵과 우유를 샀어요.",
+       "en": "I bought bread and milk."
+      },
+      {
+       "ko": "엄마하고 아빠는 집에 있어요.",
+       "en": "Mom and Dad are at home."
+      },
+      {
+       "ko": "녹차랑 커피를 마셨어요.",
+       "en": "I drank green tea and coffee."
+      }
+     ]
+    },
+    {
+     "point": "\"With\" someone: 와/과, 하고, (이)랑 (+ 같이)",
+     "explanation": "The same particles also mean \"with\" when attached to a person you do something with. 같이 (\"together\") is often added after the particle to make the meaning clear.",
+     "examples": [
+      {
+       "ko": "저는 친구하고 같이 음악을 들었어요.",
+       "en": "I listened to music with my friend."
+      },
+      {
+       "ko": "동생이랑 같이 영화를 봤어요.",
+       "en": "I watched a movie with my younger sibling."
+      },
+      {
+       "ko": "선생님과 점심을 먹었어요.",
+       "en": "I had lunch with the teacher."
+      },
+      {
+       "ko": "저는 그 사람이랑 결혼할 거예요.",
+       "en": "I will marry that person."
+      }
+     ]
+    },
+    {
+     "point": "\"To\" a person: 에게, 한테, 께",
+     "explanation": "When giving, saying or sending something to a person or animal, attach 에게 (neutral/written) or 한테 (spoken). 께 is the honorific version for respected people. Use 에, not these, for places.",
+     "examples": [
+      {
+       "ko": "저는 친구에게 문자를 보냈어요.",
+       "en": "I sent a text to my friend."
+      },
+      {
+       "ko": "동생한테 빵을 줬어요.",
+       "en": "I gave bread to my younger sibling."
+      },
+      {
+       "ko": "할머니께 꽃을 드렸어요.",
+       "en": "I gave flowers to my grandmother."
+      }
+     ]
+    },
+    {
+     "point": "\"From\" a person: 에게서, 한테서, (으)로부터",
+     "explanation": "To show that something came from a person, add 에게서 or the more spoken 한테서. (으)로부터 also means \"from\" and sounds formal, often used for organizations or in writing.",
+     "examples": [
+      {
+       "ko": "저는 친구한테서 선물을 받았어요.",
+       "en": "I received a present from my friend."
+      },
+      {
+       "ko": "선생님에게서 책을 받았어요.",
+       "en": "I got a book from the teacher."
+      },
+      {
+       "ko": "정부로부터 편지를 받았어요.",
+       "en": "I received a letter from the government."
+      }
+     ]
+    },
+    {
+     "point": "~을/를 위해(서) \"for (the sake of)\"",
+     "explanation": "Attach 을/를 위해 or 을/를 위해서 to a noun to say you do something for the benefit of that person or thing. It comes before the action it explains.",
+     "examples": [
+      {
+       "ko": "저는 가족을 위해서 일해요.",
+       "en": "I work for my family."
+      },
+      {
+       "ko": "우리는 엄마를 위해 저녁을 준비했어요.",
+       "en": "We prepared dinner for Mom."
+      },
+      {
+       "ko": "저는 건강을 위해서 매일 달려요.",
+       "en": "I run every day for my health."
+      }
+     ]
+    },
+    {
+     "point": "~에 대해(서) \"about\"",
+     "explanation": "Attach 에 대해 or 에 대해서 to a noun to mean \"about\" or \"regarding\" that topic. It is common with verbs of speaking, knowing and thinking.",
+     "examples": [
+      {
+       "ko": "우리는 한국 음악에 대해 이야기했어요.",
+       "en": "We talked about Korean music."
+      },
+      {
+       "ko": "저는 그 사실에 대해 몰랐어요.",
+       "en": "I didn't know about that fact."
+      },
+      {
+       "ko": "선생님은 한국 역사에 대해서 가르쳤어요.",
+       "en": "The teacher taught about Korean history."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Lesson 14: Korean Passive Verbs",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-14-korean-passive-verbs/",
+   "vocab": [
+    {
+     "ko": "냄새 (나다)",
+     "en": "smell",
+     "pos": "noun"
+    },
+    {
+     "ko": "청소기",
+     "en": "vacuum cleaner",
+     "pos": "noun"
+    },
+    {
+     "ko": "얼굴",
+     "en": "face",
+     "pos": "noun"
+    },
+    {
+     "ko": "시장",
+     "en": "market",
+     "pos": "noun"
+    },
+    {
+     "ko": "몸",
+     "en": "body",
+     "pos": "noun"
+    },
+    {
+     "ko": "불",
+     "en": "light/fire",
+     "pos": "noun"
+    },
+    {
+     "ko": "숙제",
+     "en": "homework",
+     "pos": "noun"
+    },
+    {
+     "ko": "기억",
+     "en": "memory",
+     "pos": "noun"
+    },
+    {
+     "ko": "상자",
+     "en": "box",
+     "pos": "noun"
+    },
+    {
+     "ko": "바람",
+     "en": "wind",
+     "pos": "noun"
+    },
+    {
+     "ko": "세금",
+     "en": "tax",
+     "pos": "noun"
+    },
+    {
+     "ko": "켜다",
+     "en": "to turn on",
+     "pos": "verb"
+    },
+    {
+     "ko": "끄다",
+     "en": "to turn off",
+     "pos": "verb"
+    },
+    {
+     "ko": "숨다",
+     "en": "to hide oneself",
+     "pos": "verb"
+    },
+    {
+     "ko": "숨기다",
+     "en": "to hide an object",
+     "pos": "verb"
+    },
+    {
+     "ko": "고장내다",
+     "en": "to break",
+     "pos": "verb"
+    },
+    {
+     "ko": "놓다",
+     "en": "to lay an object down",
+     "pos": "verb"
+    },
+    {
+     "ko": "눕다",
+     "en": "to lie down",
+     "pos": "verb"
+    },
+    {
+     "ko": "존경하다",
+     "en": "to respect",
+     "pos": "verb"
+    },
+    {
+     "ko": "대체하다",
+     "en": "to replace",
+     "pos": "verb"
+    },
+    {
+     "ko": "제공하다",
+     "en": "to provide, to offer",
+     "pos": "verb"
+    },
+    {
+     "ko": "포함하다",
+     "en": "to include",
+     "pos": "verb"
+    },
+    {
+     "ko": "내다",
+     "en": "to make (something) arise",
+     "pos": "verb"
+    },
+    {
+     "ko": "싸우다",
+     "en": "to fight",
+     "pos": "verb"
+    },
+    {
+     "ko": "속이다",
+     "en": "to trick somebody",
+     "pos": "verb"
+    },
+    {
+     "ko": "감동하다",
+     "en": "to impress",
+     "pos": "verb"
+    },
+    {
+     "ko": "서다",
+     "en": "to stand",
+     "pos": "verb"
+    },
+    {
+     "ko": "잠기다",
+     "en": "to be locked",
+     "pos": "verb"
+    },
+    {
+     "ko": "켜지다",
+     "en": "to be turned on",
+     "pos": "verb"
+    },
+    {
+     "ko": "꺼지다",
+     "en": "to be turned off",
+     "pos": "verb"
+    },
+    {
+     "ko": "나다",
+     "en": "to arise, to come about",
+     "pos": "verb"
+    },
+    {
+     "ko": "고장나다",
+     "en": "to be broken",
+     "pos": "verb"
+    },
+    {
+     "ko": "화나다",
+     "en": "to be mad",
+     "pos": "verb"
+    },
+    {
+     "ko": "짜증나다",
+     "en": "to be annoyed",
+     "pos": "verb"
+    },
+    {
+     "ko": "놓이다",
+     "en": "to be placed (lying)",
+     "pos": "verb"
+    },
+    {
+     "ko": "열리다",
+     "en": "to be open",
+     "pos": "verb"
+    },
+    {
+     "ko": "닫히다",
+     "en": "to be closed",
+     "pos": "verb"
+    },
+    {
+     "ko": "속다",
+     "en": "to be tricked",
+     "pos": "verb"
+    },
+    {
+     "ko": "자꾸",
+     "en": "repeatedly",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Passive with 하다 → 되다",
+     "explanation": "Many 하다 verbs become passive by swapping 하다 for 되다, so the subject receives the action instead of doing it. Because the result is passive, the noun takes 이/가 rather than 을/를.",
+     "examples": [
+      {
+       "ko": "수업이 시작됐어요.",
+       "en": "The class started (was started)."
+      },
+      {
+       "ko": "세금이 가격에 포함됐어요.",
+       "en": "Tax is included in the price."
+      },
+      {
+       "ko": "그 기계는 새 기계로 대체됐어요.",
+       "en": "That machine was replaced with a new one."
+      }
+     ]
+    },
+    {
+     "point": "Passive with 하다 → 받다",
+     "explanation": "Some 하다 verbs, especially ones describing how people treat someone, become passive with 받다 (\"to receive\"). 존경받다 means \"to be respected\" and 사랑받다 \"to be loved\". The person doing the action is marked with 에게/한테.",
+     "examples": [
+      {
+       "ko": "그 선생님은 학생들에게 존경받아요.",
+       "en": "That teacher is respected by students."
+      },
+      {
+       "ko": "그 배우는 많은 사람들에게 사랑받아요.",
+       "en": "That actor is loved by many people."
+      },
+      {
+       "ko": "저는 선생님한테 칭찬받았어요.",
+       "en": "I was praised by the teacher."
+      }
+     ]
+    },
+    {
+     "point": "Passive suffixes 이/히/리/기",
+     "explanation": "Many non-하다 verbs have a passive form made by inserting 이, 히, 리 or 기 into the stem, such as 열다 → 열리다, 닫다 → 닫히다, 잠그다 → 잠기다 and 놓다 → 놓이다. There is no rule for which suffix a verb takes, so learn each one as vocabulary.",
+     "examples": [
+      {
+       "ko": "문이 열렸어요.",
+       "en": "The door opened (was opened)."
+      },
+      {
+       "ko": "창문이 닫혔어요.",
+       "en": "The window was closed."
+      },
+      {
+       "ko": "그 방은 잠겼어요.",
+       "en": "That room was locked."
+      },
+      {
+       "ko": "상자가 책상 위에 놓였어요.",
+       "en": "The box was placed on the desk."
+      }
+     ]
+    },
+    {
+     "point": "내다 (active) vs 나다 (passive)",
+     "explanation": "Words ending in 내다 describe causing something to happen, while the matching 나다 form describes it happening by itself: 고장내다 means \"to break\", 고장나다 \"to be broken\". 나다 also appears in fixed phrases like 화나다, 짜증나다 and 냄새가 나다.",
+     "examples": [
+      {
+       "ko": "제가 컴퓨터를 고장냈어요.",
+       "en": "I broke the computer."
+      },
+      {
+       "ko": "컴퓨터가 고장났어요.",
+       "en": "The computer is broken."
+      },
+      {
+       "ko": "저는 오늘 화가 났어요.",
+       "en": "I got angry today."
+      },
+      {
+       "ko": "부엌에서 좋은 냄새가 나요.",
+       "en": "A nice smell is coming from the kitchen."
+      }
+     ]
+    },
+    {
+     "point": "Passive with ~아/어지다",
+     "explanation": "Verbs without a special passive form can usually become passive by adding ~아/어지다 to the stem, so 켜다 → 켜지다 and 끄다 → 꺼지다. The thing affected becomes the subject with 이/가.",
+     "examples": [
+      {
+       "ko": "불이 켜졌어요.",
+       "en": "The light came on."
+      },
+      {
+       "ko": "텔레비전이 갑자기 꺼졌어요.",
+       "en": "The TV suddenly turned off."
+      },
+      {
+       "ko": "컵이 깨졌어요.",
+       "en": "The cup broke."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "title": "Lesson 15: Miscellaneous Words and Grammar: 들다, Korean Homonyms, Being Sick, Different/Similar/Same",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-15/",
+   "vocab": [
+    {
+     "ko": "잠",
+     "en": "sleep",
+     "pos": "noun"
+    },
+    {
+     "ko": "모자",
+     "en": "hat",
+     "pos": "noun"
+    },
+    {
+     "ko": "줄",
+     "en": "line, string, rope, queue",
+     "pos": "noun"
+    },
+    {
+     "ko": "감기",
+     "en": "a cold",
+     "pos": "noun"
+    },
+    {
+     "ko": "기침",
+     "en": "cough",
+     "pos": "noun"
+    },
+    {
+     "ko": "설사",
+     "en": "diarrhea",
+     "pos": "noun"
+    },
+    {
+     "ko": "독감",
+     "en": "the flu",
+     "pos": "noun"
+    },
+    {
+     "ko": "재채기",
+     "en": "sneeze",
+     "pos": "noun"
+    },
+    {
+     "ko": "동아리",
+     "en": "club (school)",
+     "pos": "noun"
+    },
+    {
+     "ko": "취미",
+     "en": "hobby",
+     "pos": "noun"
+    },
+    {
+     "ko": "수학",
+     "en": "math",
+     "pos": "noun"
+    },
+    {
+     "ko": "가족",
+     "en": "family",
+     "pos": "noun"
+    },
+    {
+     "ko": "실력",
+     "en": "skills",
+     "pos": "noun"
+    },
+    {
+     "ko": "사촌",
+     "en": "cousin",
+     "pos": "noun"
+    },
+    {
+     "ko": "삶",
+     "en": "life",
+     "pos": "noun"
+    },
+    {
+     "ko": "맥주",
+     "en": "beer",
+     "pos": "noun"
+    },
+    {
+     "ko": "과거",
+     "en": "past",
+     "pos": "noun"
+    },
+    {
+     "ko": "마음",
+     "en": "heart, mind",
+     "pos": "noun"
+    },
+    {
+     "ko": "그림",
+     "en": "picture, painting",
+     "pos": "noun"
+    },
+    {
+     "ko": "속",
+     "en": "inside",
+     "pos": "noun"
+    },
+    {
+     "ko": "들다",
+     "en": "to lift, to carry, to hold",
+     "pos": "verb"
+    },
+    {
+     "ko": "들다",
+     "en": "to enter, to go into",
+     "pos": "verb"
+    },
+    {
+     "ko": "가져오다",
+     "en": "to bring an object",
+     "pos": "verb"
+    },
+    {
+     "ko": "가져가다",
+     "en": "to take (an object)",
+     "pos": "verb"
+    },
+    {
+     "ko": "돌리다",
+     "en": "to turn, to run (a machine)",
+     "pos": "verb"
+    },
+    {
+     "ko": "돌다",
+     "en": "to turn, to rotate",
+     "pos": "verb"
+    },
+    {
+     "ko": "돌아보다",
+     "en": "to look back",
+     "pos": "verb"
+    },
+    {
+     "ko": "돌아가다",
+     "en": "to go back, to return",
+     "pos": "verb"
+    },
+    {
+     "ko": "돌아오다",
+     "en": "to come back, to return",
+     "pos": "verb"
+    },
+    {
+     "ko": "돌려주다",
+     "en": "to give back",
+     "pos": "verb"
+    },
+    {
+     "ko": "걸다",
+     "en": "to hang",
+     "pos": "verb"
+    },
+    {
+     "ko": "주문하다",
+     "en": "to order",
+     "pos": "verb"
+    },
+    {
+     "ko": "결혼하다",
+     "en": "to get married",
+     "pos": "verb"
+    },
+    {
+     "ko": "부르다",
+     "en": "to call out",
+     "pos": "verb"
+    },
+    {
+     "ko": "고르다",
+     "en": "to choose, to pick",
+     "pos": "verb"
+    },
+    {
+     "ko": "넣다",
+     "en": "to insert, to put inside",
+     "pos": "verb"
+    },
+    {
+     "ko": "경험하다",
+     "en": "to experience",
+     "pos": "verb"
+    },
+    {
+     "ko": "설명하다",
+     "en": "to explain",
+     "pos": "verb"
+    },
+    {
+     "ko": "자랑하다",
+     "en": "to show off",
+     "pos": "verb"
+    },
+    {
+     "ko": "걸리다",
+     "en": "to be hanging",
+     "pos": "verb"
+    },
+    {
+     "ko": "걸리다",
+     "en": "to be caught, to be stuck",
+     "pos": "verb"
+    },
+    {
+     "ko": "걸리다",
+     "en": "to catch (a cold)",
+     "pos": "verb"
+    },
+    {
+     "ko": "걸리다",
+     "en": "to take (time)",
+     "pos": "verb"
+    },
+    {
+     "ko": "똑같다",
+     "en": "to be exactly the same",
+     "pos": "adjective"
+    },
+    {
+     "ko": "자랑스럽다",
+     "en": "to be proud",
+     "pos": "adjective"
+    },
+    {
+     "ko": "또 다르다",
+     "en": "another",
+     "pos": "adjective"
+    },
+    {
+     "ko": "시끄럽다",
+     "en": "to be noisy, to be loud",
+     "pos": "adjective"
+    },
+    {
+     "ko": "흔하다",
+     "en": "to be common",
+     "pos": "adjective"
+    },
+    {
+     "ko": "드물다",
+     "en": "to be rare",
+     "pos": "adjective"
+    },
+    {
+     "ko": "아마도",
+     "en": "maybe/might",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "좋다/싫다 vs 좋아하다/싫어하다",
+     "explanation": "Feeling adjectives like 좋다 and 싫다 describe something as good or disliked, while adding ~아/어하다 to the stem turns them into action verbs: 좋아하다 \"to like\", 싫어하다 \"to dislike\". The verb version takes an object with 을/를 and is the natural way to describe what another person feels.",
+     "examples": [
+      {
+       "ko": "저는 고기를 좋아해요.",
+       "en": "I like meat."
+      },
+      {
+       "ko": "제 동생은 비를 싫어해요.",
+       "en": "My younger sibling dislikes rain."
+      },
+      {
+       "ko": "그 아이는 개를 무서워해요.",
+       "en": "That child is afraid of dogs."
+      }
+     ]
+    },
+    {
+     "point": "Subject + subject + adjective (나는 네가 좋아)",
+     "explanation": "An adjective can never act on an object, so a sentence like \"I like X\" built with an adjective marks X with 이/가, not 을/를. The pattern is topic (저는) + thing with 이/가 + adjective. It also works with adjectives such as 그립다 and 자랑스럽다.",
+     "examples": [
+      {
+       "ko": "저는 그 노래가 좋아요.",
+       "en": "I like that song."
+      },
+      {
+       "ko": "저는 고양이가 싫어요.",
+       "en": "I don't like cats."
+      },
+      {
+       "ko": "나는 네가 자랑스러워.",
+       "en": "I am proud of you."
+      },
+      {
+       "ko": "저는 한국 음식이 그리워요.",
+       "en": "I miss Korean food."
+      }
+     ]
+    },
+    {
+     "point": "The verb 들다",
+     "explanation": "들다 has several unrelated meanings: to lift or hold something, to enter or go into, to cost (money or effort), and in 마음에 들다, to be to one's liking. Work out which meaning applies from the surrounding words.",
+     "examples": [
+      {
+       "ko": "저는 무거운 상자를 들었어요.",
+       "en": "I lifted a heavy box."
+      },
+      {
+       "ko": "이 모자가 마음에 들어요.",
+       "en": "I like this hat."
+      },
+      {
+       "ko": "유학은 돈이 많이 들어요.",
+       "en": "Studying abroad costs a lot of money."
+      }
+     ]
+    },
+    {
+     "point": "Compound verbs (돌아가다, 가져오다 ...)",
+     "explanation": "Korean often joins two verbs with ~아/어 to make one compound verb, like 돌다 + 가다 → 돌아가다 (to go back) or 가지다 + 오다 → 가져오다 (to bring). The first verb shows how the action is done and the second, often 가다 or 오다, shows the direction.",
+     "examples": [
+      {
+       "ko": "저는 일찍 집에 돌아갔어요.",
+       "en": "I went back home early."
+      },
+      {
+       "ko": "친구가 책을 가져왔어요.",
+       "en": "My friend brought a book."
+      },
+      {
+       "ko": "저는 뒤를 돌아봤어요.",
+       "en": "I looked back."
+      },
+      {
+       "ko": "그 책을 돌려주세요.",
+       "en": "Please give that book back."
+      }
+     ]
+    },
+    {
+     "point": "다르다 / 비슷하다 / 같다",
+     "explanation": "To compare two things, use the noun + 와/과 (or 하고, 랑) + 다르다 (different), 비슷하다 (similar) or 같다 (same). 똑같다 stresses \"exactly the same\", and 다른 + noun means \"another, a different\" one.",
+     "examples": [
+      {
+       "ko": "한국 음식은 일본 음식과 달라요.",
+       "en": "Korean food is different from Japanese food."
+      },
+      {
+       "ko": "형은 아버지하고 비슷해요.",
+       "en": "My older brother is similar to my father."
+      },
+      {
+       "ko": "이 두 가방은 똑같아요.",
+       "en": "These two bags are exactly the same."
+      },
+      {
+       "ko": "제 취미는 친구의 취미와 같아요.",
+       "en": "My hobby is the same as my friend's hobby."
+      }
+     ]
+    },
+    {
+     "point": "Homonyms such as 걸리다 and 배",
+     "explanation": "Some Korean words have several unrelated meanings that you tell apart by context. 걸리다 can mean to hang, to be caught, to catch an illness, or to take an amount of time, and 배 can mean pear, stomach or boat.",
+     "examples": [
+      {
+       "ko": "학교까지 십 분 걸려요.",
+       "en": "It takes ten minutes to get to school."
+      },
+      {
+       "ko": "저는 감기에 걸렸어요.",
+       "en": "I caught a cold."
+      },
+      {
+       "ko": "벽에 그림이 걸렸어요.",
+       "en": "A picture was hung on the wall."
+      },
+      {
+       "ko": "저는 배를 먹었어요.",
+       "en": "I ate a pear."
+      }
+     ]
+    },
+    {
+     "point": "Talking about being sick",
+     "explanation": "Common phrases are body part + 이/가 아프다 for pain, illness + 에 걸리다 for catching a cold or the flu, 열이 나다 for running a fever, and 기침을 하다 for coughing.",
+     "examples": [
+      {
+       "ko": "저는 목이 아파요.",
+       "en": "My throat hurts."
+      },
+      {
+       "ko": "저는 독감에 걸렸어요.",
+       "en": "I caught the flu."
+      },
+      {
+       "ko": "아들이 열이 났어요.",
+       "en": "My son had a fever."
+      },
+      {
+       "ko": "저는 밤에 기침을 많이 했어요.",
+       "en": "I coughed a lot at night."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Lesson 16: Noun + ~적, ~적으로, ~적이다, ~스럽다",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-16/",
+   "vocab": [
+    {
+     "ko": "경제",
+     "en": "economy/economics",
+     "pos": "noun"
+    },
+    {
+     "ko": "경제적",
+     "en": "economical",
+     "pos": "noun"
+    },
+    {
+     "ko": "역사",
+     "en": "history",
+     "pos": "noun"
+    },
+    {
+     "ko": "역사적",
+     "en": "historical",
+     "pos": "noun"
+    },
+    {
+     "ko": "과학",
+     "en": "science",
+     "pos": "noun"
+    },
+    {
+     "ko": "과학적",
+     "en": "scientific",
+     "pos": "noun"
+    },
+    {
+     "ko": "충동",
+     "en": "impulse/shock",
+     "pos": "noun"
+    },
+    {
+     "ko": "충동적",
+     "en": "impulsive",
+     "pos": "noun"
+    },
+    {
+     "ko": "문화",
+     "en": "culture",
+     "pos": "noun"
+    },
+    {
+     "ko": "문화적",
+     "en": "cultural",
+     "pos": "noun"
+    },
+    {
+     "ko": "민주(주의)",
+     "en": "democracy",
+     "pos": "noun"
+    },
+    {
+     "ko": "민주적",
+     "en": "democratic",
+     "pos": "noun"
+    },
+    {
+     "ko": "개인",
+     "en": "individual/personal",
+     "pos": "noun"
+    },
+    {
+     "ko": "개인적",
+     "en": "individual",
+     "pos": "noun"
+    },
+    {
+     "ko": "자연",
+     "en": "nature",
+     "pos": "noun"
+    },
+    {
+     "ko": "자연스럽다",
+     "en": "to be natural",
+     "pos": "adjective"
+    },
+    {
+     "ko": "실망(하다)",
+     "en": "disappointment",
+     "pos": "noun"
+    },
+    {
+     "ko": "실망스럽다",
+     "en": "to be disappointing",
+     "pos": "adjective"
+    },
+    {
+     "ko": "사랑(하다)",
+     "en": "love",
+     "pos": "noun"
+    },
+    {
+     "ko": "사랑스럽다",
+     "en": "to be lovely",
+     "pos": "adjective"
+    },
+    {
+     "ko": "만족(하다)",
+     "en": "satisfaction",
+     "pos": "noun"
+    },
+    {
+     "ko": "만족스럽다",
+     "en": "to be satisfactory",
+     "pos": "adjective"
+    },
+    {
+     "ko": "관계",
+     "en": "relationship",
+     "pos": "noun"
+    },
+    {
+     "ko": "스트레스",
+     "en": "stress",
+     "pos": "noun"
+    },
+    {
+     "ko": "연필",
+     "en": "pencil",
+     "pos": "noun"
+    },
+    {
+     "ko": "색깔",
+     "en": "color",
+     "pos": "noun"
+    },
+    {
+     "ko": "그",
+     "en": "he, him",
+     "pos": "noun"
+    },
+    {
+     "ko": "그녀",
+     "en": "she, her",
+     "pos": "noun"
+    },
+    {
+     "ko": "결과",
+     "en": "result",
+     "pos": "noun"
+    },
+    {
+     "ko": "꿈",
+     "en": "a dream",
+     "pos": "noun"
+    },
+    {
+     "ko": "세상",
+     "en": "world",
+     "pos": "noun"
+    },
+    {
+     "ko": "세계",
+     "en": "world",
+     "pos": "noun"
+    },
+    {
+     "ko": "회화",
+     "en": "conversation",
+     "pos": "noun"
+    },
+    {
+     "ko": "문자",
+     "en": "text message",
+     "pos": "noun"
+    },
+    {
+     "ko": "가슴",
+     "en": "chest",
+     "pos": "noun"
+    },
+    {
+     "ko": "제목",
+     "en": "title",
+     "pos": "noun"
+    },
+    {
+     "ko": "근처",
+     "en": "close/near by",
+     "pos": "noun"
+    },
+    {
+     "ko": "나중",
+     "en": "later",
+     "pos": "noun"
+    },
+    {
+     "ko": "최근",
+     "en": "recently",
+     "pos": "noun"
+    },
+    {
+     "ko": "풀다",
+     "en": "to untie, to unfasten, to loosen",
+     "pos": "verb"
+    },
+    {
+     "ko": "꿈꾸다",
+     "en": "to dream",
+     "pos": "verb"
+    },
+    {
+     "ko": "태어나다",
+     "en": "to be born",
+     "pos": "verb"
+    },
+    {
+     "ko": "다니다",
+     "en": "to attend regularly",
+     "pos": "verb"
+    },
+    {
+     "ko": "믿다",
+     "en": "to believe, to trust",
+     "pos": "verb"
+    },
+    {
+     "ko": "가깝다",
+     "en": "to be close to, to be near",
+     "pos": "adjective"
+    },
+    {
+     "ko": "힘들다",
+     "en": "to be hard, tiring",
+     "pos": "adjective"
+    },
+    {
+     "ko": "순수하다",
+     "en": "to be pure",
+     "pos": "adjective"
+    },
+    {
+     "ko": "조금",
+     "en": "a little",
+     "pos": "adverb"
+    },
+    {
+     "ko": "그러나",
+     "en": "but/however",
+     "pos": "noun"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Noun + ~적 / ~적인 / ~적으로 / ~적이다",
+     "explanation": "Adding ~적 to many Sino-Korean nouns makes an \"-ic/-al\" form: 역사 → 역사적 (historical). Use ~적인 before a noun to describe it, ~적으로 as an adverb (\"-ically\"), and ~적이다 to end a sentence like an adjective.",
+     "examples": [
+      {
+       "ko": "그곳은 역사적인 장소예요.",
+       "en": "That is a historic place."
+      },
+      {
+       "ko": "이 차는 정말 경제적이에요.",
+       "en": "This car is really economical."
+      },
+      {
+       "ko": "우리는 그 문제를 과학적으로 설명했어요.",
+       "en": "We explained that problem scientifically."
+      },
+      {
+       "ko": "개인적으로 저는 그 영화가 좋아요.",
+       "en": "Personally, I like that movie."
+      }
+     ]
+    },
+    {
+     "point": "Noun + ~스럽다",
+     "explanation": "~스럽다 attaches to certain nouns to make an adjective meaning \"having that quality\" or \"giving that feeling\", such as 사랑 → 사랑스럽다 (lovely) and 자연 → 자연스럽다 (natural). It conjugates like other ㅂ-irregular adjectives: 스러워요, 스러운.",
+     "examples": [
+      {
+       "ko": "그 아이는 정말 사랑스러워요.",
+       "en": "That child is really lovely."
+      },
+      {
+       "ko": "결과가 실망스러웠어요.",
+       "en": "The result was disappointing."
+      },
+      {
+       "ko": "그의 한국어는 아주 자연스러워요.",
+       "en": "His Korean is very natural."
+      },
+      {
+       "ko": "저는 이 결과가 만족스러워요.",
+       "en": "I am satisfied with this result."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "title": "Lesson 17: Connecting Particle ~고 and ~고 싶다 \"I want to\"",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-17/",
+   "vocab": [
+    {
+     "ko": "과일",
+     "en": "fruit",
+     "pos": "noun"
+    },
+    {
+     "ko": "술",
+     "en": "alcohol",
+     "pos": "noun"
+    },
+    {
+     "ko": "우산",
+     "en": "umbrella",
+     "pos": "noun"
+    },
+    {
+     "ko": "잎",
+     "en": "leaf",
+     "pos": "noun"
+    },
+    {
+     "ko": "교회",
+     "en": "church",
+     "pos": "noun"
+    },
+    {
+     "ko": "강",
+     "en": "river",
+     "pos": "noun"
+    },
+    {
+     "ko": "계절",
+     "en": "season",
+     "pos": "noun"
+    },
+    {
+     "ko": "날씨",
+     "en": "weather",
+     "pos": "noun"
+    },
+    {
+     "ko": "부엌",
+     "en": "kitchen",
+     "pos": "noun"
+    },
+    {
+     "ko": "담임선생님",
+     "en": "homeroom teacher",
+     "pos": "noun"
+    },
+    {
+     "ko": "방학",
+     "en": "vacation",
+     "pos": "noun"
+    },
+    {
+     "ko": "배",
+     "en": "pear",
+     "pos": "noun"
+    },
+    {
+     "ko": "당근",
+     "en": "carrot",
+     "pos": "noun"
+    },
+    {
+     "ko": "무",
+     "en": "radish",
+     "pos": "noun"
+    },
+    {
+     "ko": "감자",
+     "en": "potato",
+     "pos": "noun"
+    },
+    {
+     "ko": "칼",
+     "en": "knife",
+     "pos": "noun"
+    },
+    {
+     "ko": "단어",
+     "en": "word",
+     "pos": "noun"
+    },
+    {
+     "ko": "문법",
+     "en": "grammar",
+     "pos": "noun"
+    },
+    {
+     "ko": "발",
+     "en": "foot",
+     "pos": "noun"
+    },
+    {
+     "ko": "바다",
+     "en": "sea",
+     "pos": "noun"
+    },
+    {
+     "ko": "신문",
+     "en": "newspaper",
+     "pos": "noun"
+    },
+    {
+     "ko": "고객",
+     "en": "customer",
+     "pos": "noun"
+    },
+    {
+     "ko": "부자",
+     "en": "a rich person",
+     "pos": "noun"
+    },
+    {
+     "ko": "교육",
+     "en": "education",
+     "pos": "noun"
+    },
+    {
+     "ko": "기분",
+     "en": "feelings",
+     "pos": "noun"
+    },
+    {
+     "ko": "산",
+     "en": "mountain",
+     "pos": "noun"
+    },
+    {
+     "ko": "순서",
+     "en": "turn (turn to go)/order",
+     "pos": "noun"
+    },
+    {
+     "ko": "시험",
+     "en": "exam/test",
+     "pos": "noun"
+    },
+    {
+     "ko": "머무르다",
+     "en": "to stay",
+     "pos": "verb"
+    },
+    {
+     "ko": "쉬다",
+     "en": "to relax, to rest",
+     "pos": "verb"
+    },
+    {
+     "ko": "보내다",
+     "en": "to send",
+     "pos": "verb"
+    },
+    {
+     "ko": "걸어오다",
+     "en": "to come by walking",
+     "pos": "verb"
+    },
+    {
+     "ko": "걸어가다",
+     "en": "to go by walking",
+     "pos": "verb"
+    },
+    {
+     "ko": "초대하다",
+     "en": "to invite",
+     "pos": "verb"
+    },
+    {
+     "ko": "울다",
+     "en": "to cry",
+     "pos": "verb"
+    },
+    {
+     "ko": "환영하다",
+     "en": "to welcome",
+     "pos": "verb"
+    },
+    {
+     "ko": "반갑다",
+     "en": "to be glad to meet",
+     "pos": "adjective"
+    },
+    {
+     "ko": "따뜻하다",
+     "en": "to be warm",
+     "pos": "adjective"
+    },
+    {
+     "ko": "높다",
+     "en": "to be high",
+     "pos": "adjective"
+    },
+    {
+     "ko": "가난하다",
+     "en": "to be poor",
+     "pos": "adjective"
+    },
+    {
+     "ko": "낮다",
+     "en": "to be low",
+     "pos": "adjective"
+    },
+    {
+     "ko": "권",
+     "en": "counter for books",
+     "pos": "other"
+    },
+    {
+     "ko": "분",
+     "en": "person (honorific); counter",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Connecting with ~고 \"and\"",
+     "explanation": "Attach ~고 to a verb or adjective stem (or ~이고 after a noun) to link two clauses, meaning \"and\" or \"and then\". Tense and politeness go only on the final verb. With 은/는 on both subjects, ~고 can set two contrasting facts side by side.",
+     "examples": [
+      {
+       "ko": "저는 밥을 먹고 학교에 갔어요.",
+       "en": "I ate and then went to school."
+      },
+      {
+       "ko": "날씨가 따뜻하고 바람이 시원해요.",
+       "en": "The weather is warm and the wind is cool."
+      },
+      {
+       "ko": "이 산은 높고 저 산은 낮아요.",
+       "en": "This mountain is high and that one is low."
+      },
+      {
+       "ko": "그 사람은 부자이고 친절해요.",
+       "en": "That person is rich and kind."
+      }
+     ]
+    },
+    {
+     "point": "Sequential ~아/어서 (with 가다/오다)",
+     "explanation": "~아/어서 also connects one action to the next, but it implies the first action leads into the second. With 가다 and 오다 you must use 가서/와서 when you go somewhere and then do something there. The verb before ~아/어서 never takes past tense.",
+     "examples": [
+      {
+       "ko": "저는 시장에 가서 과일을 샀어요.",
+       "en": "I went to the market and bought fruit."
+      },
+      {
+       "ko": "친구가 우리 집에 와서 쉬었어요.",
+       "en": "My friend came to our house and rested."
+      },
+      {
+       "ko": "문을 열어서 밖으로 나갔어요.",
+       "en": "I opened the door and went outside."
+      }
+     ]
+    },
+    {
+     "point": "Position verbs with ~아/어서 (앉아서, 서서, 누워서)",
+     "explanation": "Position verbs like 앉다, 서다 and 눕다 take ~아/어서 rather than ~고 when the second action happens while in that position. Using ~고 would suggest you sat, got up, and then did something else.",
+     "examples": [
+      {
+       "ko": "저는 소파에 앉아서 텔레비전을 봤어요.",
+       "en": "I sat on the sofa and watched TV."
+      },
+      {
+       "ko": "우리는 줄에 서서 기다렸어요.",
+       "en": "We stood in line and waited."
+      },
+      {
+       "ko": "저는 침대에 누워서 음악을 들었어요.",
+       "en": "I lay on the bed and listened to music."
+      }
+     ]
+    },
+    {
+     "point": "~고 싶다 \"want to\"",
+     "explanation": "Add ~고 싶다 to a verb stem to say you want to do something; conjugate 싶다 for tense and politeness (싶어요, 싶었어요). With 되다 it means \"want to become\". 보고 싶다 is also how you say you miss a person.",
+     "examples": [
+      {
+       "ko": "저는 바다에 가고 싶어요.",
+       "en": "I want to go to the sea."
+      },
+      {
+       "ko": "저는 오늘 쉬고 싶어요.",
+       "en": "I want to rest today."
+      },
+      {
+       "ko": "저는 요리사가 되고 싶었어요.",
+       "en": "I wanted to become a chef."
+      },
+      {
+       "ko": "엄마가 너무 보고 싶어요.",
+       "en": "I miss my mom so much."
+      }
+     ]
+    },
+    {
+     "point": "~은/는 vs ~이/가 revisited",
+     "explanation": "~은/는 marks the topic and often carries a comparing or contrasting feel (\"as for X...\"), while ~이/가 simply identifies the subject and puts the focus on it. When two things are contrasted, both usually take 은/는.",
+     "examples": [
+      {
+       "ko": "날씨가 좋아요.",
+       "en": "The weather is nice."
+      },
+      {
+       "ko": "오늘은 날씨가 좋아요.",
+       "en": "Today, the weather is nice."
+      },
+      {
+       "ko": "문법은 어렵고 단어는 쉬워요.",
+       "en": "Grammar is hard, but vocabulary is easy."
+      },
+      {
+       "ko": "누가 왔어요?",
+       "en": "Who came?"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

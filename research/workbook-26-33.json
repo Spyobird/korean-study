@@ -1,0 +1,154 @@
+{"range": "26-33", "lessons": [
+{"n": 26, "exercises": [
+{"type":"fill","ko":"우리 동네에 ___ 사람들은 친절해요.","answer":"사는","options":["사는","살는","사은","살은"],"en":"The people who live in our neighborhood are kind.","why":"Present ~는 on an ㄹ-stem drops the ㄹ: 살다 → 사는."},
+{"type":"fill","ko":"어제 시장에서 ___ 사과가 정말 맛있어요.","answer":"산","options":["산","사는","살","샀은"],"en":"The apples I bought at the market yesterday are really delicious.","why":"A finished action uses the past modifier ~ㄴ after a vowel stem."},
+{"type":"fill","ko":"다음 주에 ___ 옷을 샀어요.","answer":"입을","options":["입을","입는","입은","입를"],"en":"I bought clothes that I will wear next week.","why":"A future action uses ~을 after a consonant stem."},
+{"type":"fill","ko":"저는 한국 음식을 ___ 것을 좋아해요.","answer":"만드는","options":["만드는","만들는","만든는","만들은"],"en":"I like making Korean food.","why":"~는 것 turns the action into a noun, and 만들다 drops ㄹ before ~는."},
+{"type":"fill","ko":"아침에 운동하는 것___ 좋아요.","answer":"이","options":["이","가","을","를"],"en":"Exercising in the morning is good.","why":"것 ends in a consonant and is the subject of the adjective 좋다, so it takes 이."},
+{"type":"fill","ko":"어제 ___ 음식을 오늘 먹었어요.","answer":"남은","options":["남은","남는","남을","남언"],"en":"Today I ate the food that was left over yesterday.","why":"Past modifier ~은 goes after a consonant stem like 남-."},
+{"type":"fill","ko":"허리를 ___ 선수는 오늘 경기를 안 해요.","answer":"다친","options":["다친","다치는","다칠","다쳤는"],"en":"The player who hurt his back isn't playing in today's game.","why":"The injury already happened, so use the past modifier ~ㄴ."},
+{"type":"fill","ko":"내일 ___ 질문이 있어요.","answer":"물어볼","options":["물어볼","물어본","물어보을","물어볼을"],"en":"I have a question that I will ask tomorrow.","why":"For a future action, a vowel stem takes ~ㄹ."},
+{"type":"translate","en":"I don't like cleaning.","ko":"저는 청소하는 것을 싫어해요."},
+{"type":"translate","en":"The neighborhood I live in is clean.","ko":"제가 사는 동네는 깨끗해요."},
+{"type":"translate","en":"I have a lot of things to do tomorrow.","ko":"내일 할 일이 많아요."},
+{"type":"translate","en":"Do you know the man who is talking with that older woman?","ko":"그 아줌마와 이야기하는 남자를 알아요?"}
+],
+"reading": {"ko":"우리 동네에는 작은 가게가 있어요. 가게에서 일하는 아줌마는 아주 친절해요. 저는 그 가게에서 물건을 사는 것을 좋아해요. 어제 산 사과는 정말 맛있었어요. 오늘은 친구에게 줄 과일을 샀어요. 내일 친구와 같이 먹을 거예요.","en":"There is a small shop in our neighborhood. The older woman who works at the shop is very kind. I like buying things at that shop. The apples I bought yesterday were really delicious. Today I bought fruit to give to my friend. Tomorrow I will eat it together with my friend.","questions":[
+{"q":"가게에서 일하는 아줌마는 어때요?","a":"아주 친절해요."},
+{"q":"어제 산 사과는 어땠어요?","a":"정말 맛있었어요."},
+{"q":"오늘 무엇을 샀어요?","a":"친구에게 줄 과일을 샀어요."}
+]}},
+{"n": 27, "exercises": [
+{"type":"fill","ko":"제가 매일 ___ 숟가락이 어디에 있어요?","answer":"쓰던","options":["쓰던","쓸던","쓰든","써던"],"en":"Where is the spoon I used to use every day?","why":"~던 attaches straight to the stem for something done repeatedly in the past."},
+{"type":"fill","ko":"제가 한때 자주 ___ 공원에 오늘 다시 갔어요.","answer":"가던","options":["가던","갈던","가든","가는던"],"en":"Today I went again to the park I once used to go to often.","why":"Repeated past habit: stem + ~던."},
+{"type":"fill","ko":"작년에 한 번 ___ 식당에 다시 가고 싶어요.","answer":"갔던","options":["갔던","갔는","가었던","갔은"],"en":"I want to go again to the restaurant I went to once last year.","why":"A one-time, finished action takes ~았/었던, and 가 + 았 contracts to 갔."},
+{"type":"fill","ko":"한때 ___ 우리 동네가 지금은 아주 깨끗해요.","answer":"더러웠던","options":["더러웠던","더럽웠던","더러운던","더러웠는"],"en":"Our neighborhood, which was once dirty, is very clean now.","why":"A past state of an adjective takes ~았/었던, and 더럽다 is ㅂ-irregular."},
+{"type":"fill","ko":"한국에서 ___ 시간도 저에게는 소중해요.","answer":"외로웠던","options":["외로웠던","외롭었던","외로운던","외로웠은"],"en":"Even the time I was lonely in Korea is precious to me.","why":"외롭다 is ㅂ-irregular: 외로워 + ㅆ던 for a past state."},
+{"type":"fill","ko":"제가 ___ 햄버거를 누가 먹었어요?","answer":"먹던","options":["먹던","먹은던","먹을던","먹든"],"en":"Who ate the hamburger I was eating?","why":"~던 shows the eating was in progress and not finished."},
+{"type":"fill","ko":"제가 오 년 동안 ___ 회사가 문을 닫았어요.","answer":"근무했던","options":["근무했던","근무핸던","근무하었던","근무했는"],"en":"The company I had worked at for five years closed down.","why":"하다 + 였 becomes 했, then add ~던."},
+{"type":"fill","ko":"그 가게에서 ___ 주스는 정말 맛있었어요.","answer":"팔던","options":["팔던","파던","판던","팔은던"],"en":"The juice that shop used to sell was really delicious.","why":"ㄹ-stems keep their ㄹ before ~던."},
+{"type":"translate","en":"This is the calendar I used last year.","ko":"이건 제가 작년에 쓰던 달력이에요."},
+{"type":"translate","en":"The pharmacy I used to go to often is next to the post office.","ko":"제가 자주 가던 약국은 우체국 옆에 있어요."},
+{"type":"translate","en":"The movie I saw last year was really fun.","ko":"작년에 봤던 영화는 정말 재미있었어요."},
+{"type":"translate","en":"My friend, who was once lonely, is happy now.","ko":"한때 외로웠던 제 친구는 지금 행복해요."}
+],
+"reading": {"ko":"우리 동네에 제가 자주 가던 식당이 있었어요. 그 식당의 햄버거는 정말 맛있었어요. 종업원들도 아주 친절했어요. 하지만 작년에 그 식당이 문을 닫았어요. 어제 그 식당이 있던 곳에 갔어요. 지금 거기에는 약국이 있어요. 저는 그 식당에서 먹었던 햄버거를 영원히 잊지 않을 거예요.","en":"There was a restaurant in our neighborhood that I used to go to often. That restaurant's hamburgers were really delicious. The servers were very kind too. But last year that restaurant closed. Yesterday I went to the place where the restaurant used to be. Now there is a pharmacy there. I will never forget the hamburgers I ate at that restaurant.","questions":[
+{"q":"그 식당에서 무엇이 맛있었어요?","a":"햄버거가 맛있었어요."},
+{"q":"식당은 언제 문을 닫았어요?","a":"작년에 문을 닫았어요."},
+{"q":"지금 거기에는 무엇이 있어요?","a":"약국이 있어요."}
+]}},
+{"n": 28, "exercises": [
+{"type":"fill","ko":"제가 ___ 케이크가 맛있어요?","answer":"만든","options":["만든","만들은","만드은","만든은"],"en":"Is the cake I made tasty?","why":"An ㄹ-stem drops ㄹ and takes ~ㄴ for the past: 만들다 → 만든."},
+{"type":"fill","ko":"제가 어제 ___ 음악은 정말 좋았어요.","answer":"들은","options":["들은","듣은","들는","드은"],"en":"The music I listened to yesterday was really good.","why":"듣다 is ㄷ-irregular: ㄷ becomes ㄹ before ~은."},
+{"type":"fill","ko":"저를 ___ 이웃사람은 정말 친절했어요.","answer":"도운","options":["도운","돕은","도은","도와은"],"en":"The neighbor who helped me was really kind.","why":"돕다 is ㅂ-irregular: ㅂ becomes 우, then ~ㄴ."},
+{"type":"fill","ko":"제 친구가 ___ 집은 아주 커요.","answer":"지은","options":["지은","짓은","진","지는"],"en":"The house my friend built is very big.","why":"짓다 is ㅅ-irregular: ㅅ drops but the stem still takes ~은."},
+{"type":"fill","ko":"제가 가장 ___ 운동은 배구예요.","answer":"좋아하는","options":["좋아하는","좋은","좋아한","좋아할"],"en":"My favorite sport is volleyball.","why":"\"Favorite\" is 가장/제일 좋아하는 + noun."},
+{"type":"fill","ko":"___ 제일 좋아하는 계절은 가을이에요.","answer":"제가","options":["제가","저의","저를","저는"],"en":"My favorite season is autumn.","why":"The speaker is the subject of 좋아하다 inside the clause, so use 제가, not 저의."},
+{"type":"fill","ko":"제가 살고 ___ 곳은 바다가 가까운 곳이에요.","answer":"싶은","options":["싶은","싶는","싶을","싶어"],"en":"The place I want to live is somewhere near the sea.","why":"싶다 is an adjective, so it takes ~은 to describe a noun."},
+{"type":"fill","ko":"이 농장에는 ___ 과일이 많아요.","answer":"맛있는","options":["맛있는","맛있은","맛인","맛있을"],"en":"There is a lot of delicious fruit on this farm.","why":"Words built on 있다/없다 take ~는, even though they are adjectives."},
+{"type":"translate","en":"My favorite food is kimchi stew.","ko":"제가 제일 좋아하는 음식은 김치찌개예요."},
+{"type":"translate","en":"That person I met yesterday was really honest.","ko":"제가 어제 만난 그 사람은 정말 솔직했어요."},
+{"type":"translate","en":"The country I want to go to is Korea.","ko":"제가 가고 싶은 나라는 한국이에요."},
+{"type":"translate","en":"The story I heard yesterday was interesting.","ko":"어제 들은 이야기는 재미있었어요."}
+],
+"reading": {"ko":"제가 제일 좋아하는 운동은 농구예요. 제 친구 민수가 제일 좋아하는 운동은 배구예요. 우리는 주말마다 같이 운동해요. 지난주에는 민수가 만든 김밥을 먹었어요. 정말 맛있었어요. 다음 주말에는 제가 가고 싶은 농장에 같이 갈 거예요. 거기에는 재미있는 동물이 많아요.","en":"My favorite sport is basketball. My friend Minsu's favorite sport is volleyball. We exercise together every weekend. Last week I ate the gimbap Minsu made. It was really delicious. Next weekend we will go together to a farm I want to visit. There are lots of fun animals there.","questions":[
+{"q":"이 사람이 제일 좋아하는 운동은 뭐예요?","a":"농구예요."},
+{"q":"민수가 제일 좋아하는 운동은 뭐예요?","a":"배구예요."},
+{"q":"다음 주말에 어디에 갈 거예요?","a":"농장에 갈 거예요."}
+]}},
+{"n": 29, "exercises": [
+{"type":"fill","ko":"이 동네는 주차하___ 어려워요.","answer":"기","options":["기","고","게","지"],"en":"Parking is hard in this neighborhood.","why":"Stem + ~기 makes a noun, often used with 어렵다, 쉽다 and 좋다."},
+{"type":"fill","ko":"아이가 갑자기 ___ 시작했어요.","answer":"울기","options":["울기","우기","울고","울어"],"en":"The child suddenly started to cry.","why":"\"Start doing\" is stem + ~기 시작하다; ㄹ stays before ~기."},
+{"type":"fill","ko":"저는 지난달에 운동하기 ___.","answer":"시작했어요","options":["시작했어요","시작할 거예요","시작하기","시작했기"],"en":"I started exercising last month.","why":"The tense goes on 시작하다, and last month needs the past."},
+{"type":"fill","ko":"오늘은 아무것도 ___ 싫어요.","answer":"하기","options":["하기","하고","하는","해"],"en":"I don't want to do anything today.","why":"\"Not want to\" is stem + ~기 싫다."},
+{"type":"fill","ko":"동생은 숙제하기 ___.","answer":"싫어해요","options":["싫어해요","싫어요","싫해요","싫어하기"],"en":"My younger sibling doesn't want to do homework.","why":"For someone other than the speaker, use ~기 싫어하다."},
+{"type":"fill","ko":"저는 형과 자주 ___을 해요.","answer":"싸움","options":["싸움","싸우음","싸웜","싸우믄"],"en":"I often have fights with my older brother.","why":"싸우다 ends in a vowel, so it takes ~ㅁ to become the noun 싸움."},
+{"type":"fill","ko":"아이는 우리의 큰 ___이에요.","answer":"기쁨","options":["기쁨","기쁘음","기뻐음","기쁜"],"en":"Our child is our great joy.","why":"기쁘다 ends in a vowel, so add ~ㅁ: 기쁨."},
+{"type":"fill","ko":"내일 할 일은 숙제___와 운동하기예요.","answer":"하기","options":["하기","하는","해","하고"],"en":"Tomorrow's to-dos are doing homework and exercising.","why":"To-do lists use the short noun form stem + ~기."},
+{"type":"translate","en":"Korean is hard to pronounce.","ko":"한국어는 발음하기 어려워요."},
+{"type":"translate","en":"It started to snow.","ko":"눈이 오기 시작했어요."},
+{"type":"translate","en":"I don't want to get up early tomorrow.","ko":"내일은 일찍 일어나기 싫어요."},
+{"type":"translate","en":"My friend and I had a fight yesterday.","ko":"어제 친구와 싸움을 했어요."}
+],
+"reading": {"ko":"저는 작년에 한국어를 공부하기 시작했어요. 한국어는 읽기는 쉬워요. 하지만 말하기는 어려워요. 저는 매일 한국 친구와 이야기해요. 친구의 도움은 저에게 아주 소중해요. 오늘은 공부하기 싫어요. 하지만 내일 시험이 있어요.","en":"I started studying Korean last year. Reading Korean is easy. But speaking is hard. I talk with a Korean friend every day. My friend's help is very precious to me. Today I don't want to study. But I have a test tomorrow.","questions":[
+{"q":"이 사람은 언제 한국어를 공부하기 시작했어요?","a":"작년에 시작했어요."},
+{"q":"한국어에서 무엇이 어려워요?","a":"말하기가 어려워요."},
+{"q":"내일 무엇이 있어요?","a":"시험이 있어요."}
+]}},
+{"n": 30, "exercises": [
+{"type":"fill","ko":"버스가 몇 시에 ___ 알아요?","answer":"오는지","options":["오는지","오는 지","오는것","오기"],"en":"Do you know what time the bus comes?","why":"For an embedded question, attach ~는지 to a verb stem with no space."},
+{"type":"fill","ko":"이 가방이 얼마나 ___ 몰라요.","answer":"무거운지","options":["무거운지","무겁는지","무거는지","무겁은지"],"en":"I don't know how heavy this bag is.","why":"Adjectives take ~ㄴ/은지, and 무겁다 is ㅂ-irregular."},
+{"type":"fill","ko":"친구가 어제 왜 ___ 몰라요.","answer":"울었는지","options":["울었는지","울는지","운는지","울었지"],"en":"I don't know why my friend cried yesterday.","why":"For the past, use ~았/었는지."},
+{"type":"fill","ko":"출구가 어디___ 물어봤어요.","answer":"인지","options":["인지","는지","은지","이지"],"en":"I asked where the exit is.","why":"이다 always becomes ~인지."},
+{"type":"fill","ko":"그 식당이 오늘 문을 여는지 안 ___ 몰라요.","answer":"여는지","options":["여는지","열는지","연지","열지"],"en":"I don't know whether that restaurant is open today or not.","why":"Repeat the clause after 안 for \"whether or not\"; 열다 drops ㄹ before ~는지."},
+{"type":"fill","ko":"내일은 ___ 몰라요.","answer":"쌀쌀할지도","options":["쌀쌀할지도","쌀쌀한지도","쌀쌀하지도","쌀쌀할지만"],"en":"It might be chilly tomorrow.","why":"\"Might\" is ~ㄹ/을지도 모르다."},
+{"type":"fill","ko":"아르바이트를 ___ 지 세 달 됐어요.","answer":"시작한","options":["시작한","시작하는","시작할","시작했는"],"en":"It has been three months since I started my part-time job.","why":"\"It has been X since\" uses the past modifier ~ㄴ/은 + 지."},
+{"type":"fill","ko":"서울에서 ___ 지 이 년 됐어요.","answer":"산","options":["산","살은","사는","살"],"en":"I have been living in Seoul for two years.","why":"살다 drops ㄹ and takes ~ㄴ before 지."},
+{"type":"translate","en":"I don't know where the post office is.","ko":"우체국이 어디인지 몰라요."},
+{"type":"translate","en":"It might snow tomorrow.","ko":"내일 눈이 올지도 몰라요."},
+{"type":"translate","en":"How long has it been since you came to Korea?","ko":"한국에 온 지 얼마나 됐어요?"},
+{"type":"translate","en":"I don't know whether my friend will come or not.","ko":"친구가 올지 안 올지 몰라요."}
+],
+"reading": {"ko":"저는 서울에 산 지 일 년 됐어요. 서울은 지하철이 아주 편해요. 하지만 처음에는 몇 호선을 타는지 몰랐어요. 그때 역에서 일하는 사람에게 물어봤어요. 오늘은 친구를 만나요. 그런데 친구가 몇 번 출구에 있는지 몰라요. 친구에게 전화할 거예요.","en":"It has been a year since I started living in Seoul. The subway in Seoul is very convenient. But at first I didn't know which line to take. Back then I asked a person who works at the station. Today I'm meeting a friend. But I don't know which exit my friend is at. I will call my friend.","questions":[
+{"q":"이 사람은 서울에 산 지 얼마나 됐어요?","a":"일 년 됐어요."},
+{"q":"처음에 무엇을 몰랐어요?","a":"몇 호선을 타는지 몰랐어요."},
+{"q":"오늘 누구를 만나요?","a":"친구를 만나요."}
+]}},
+{"n": 31, "exercises": [
+{"type":"fill","ko":"의사___ 제 친구는 항상 바빠요.","answer":"인","options":["인","은","이는","일"],"en":"My friend, who is a doctor, is always busy.","why":"이다 takes ~ㄴ to describe a noun: N1인 N2."},
+{"type":"fill","ko":"학생___ 동생은 용돈을 받아요.","answer":"인","options":["인","이","은","는"],"en":"My younger sibling, who is a student, gets an allowance.","why":"N인 + noun works after both vowels and consonants."},
+{"type":"fill","ko":"저 건물이 무엇___ 몰라요.","answer":"인지","options":["인지","는지","이는지","인 지"],"en":"I don't know what that building is.","why":"이다 + ~ㄴ지 is always 인지, written without a space."},
+{"type":"fill","ko":"내일이 동생 생일___ 것을 잊어버렸어요.","answer":"인","options":["인","이","는","이는"],"en":"I forgot that tomorrow is my sibling's birthday.","why":"\"The fact that X is Y\" is N인 것."},
+{"type":"fill","ko":"그 사람이 가수인 ___ 알았어요?","answer":"것을","options":["것을","것이","것에","것와"],"en":"Did you know that person is a singer?","why":"The clause is the object of 알다, so 것 takes 을."},
+{"type":"fill","ko":"그 사람은 불법___ 일을 했어요.","answer":"인","options":["인","은","이","을"],"en":"That person did something illegal.","why":"불법 is a noun, so it describes 일 with 인."},
+{"type":"fill","ko":"이 목걸이가 얼마___ 몰라요.","answer":"인지","options":["인지","은지","는지","이지"],"en":"I don't know how much this necklace is.","why":"After a noun or question word like 얼마, use 인지."},
+{"type":"fill","ko":"저는 ___ 친구가 부러워요.","answer":"부자인","options":["부자인","부자는","부자한","부자이는"],"en":"I envy my friend who is rich.","why":"Noun + 인 describes the next noun."},
+{"type":"translate","en":"My friend, who is a nurse, works at a hospital.","ko":"간호사인 제 친구는 병원에서 일해요."},
+{"type":"translate","en":"Do you know what day it is today?","ko":"오늘이 무슨 요일인지 알아요?"},
+{"type":"translate","en":"I didn't know that person was a student.","ko":"그 사람이 학생인 것을 몰랐어요."},
+{"type":"translate","en":"I have a friend who is the same age as me.","ko":"저와 동갑인 친구가 있어요."}
+],
+"reading": {"ko":"제 친구 지민은 의사예요. 의사인 지민은 항상 바빠요. 지민과 저는 동갑이에요. 어제는 지민의 생일이었어요. 그런데 저는 어제가 지민의 생일인 것을 몰랐어요. 오늘 지민에게 줄 목걸이를 샀어요. 이 목걸이가 지민에게 어울리는지 모르겠어요.","en":"My friend Jimin is a doctor. Jimin, who is a doctor, is always busy. Jimin and I are the same age. Yesterday was Jimin's birthday. But I didn't know yesterday was Jimin's birthday. Today I bought a necklace to give to Jimin. I'm not sure whether this necklace suits Jimin.","questions":[
+{"q":"지민은 무슨 일을 해요?","a":"의사예요."},
+{"q":"어제는 무슨 날이었어요?","a":"지민의 생일이었어요."},
+{"q":"오늘 무엇을 샀어요?","a":"지민에게 줄 목걸이를 샀어요."}
+]}},
+{"n": 32, "exercises": [
+{"type":"fill","ko":"김밥을 ___ 야채를 샀어요.","answer":"만들려고","options":["만들려고","만들으려고","만드려고","만들러"],"en":"I bought vegetables to make gimbap.","why":"ㄹ-stems take ~려고; ~러 is only used with movement verbs."},
+{"type":"fill","ko":"책을 ___ 불을 켰어요.","answer":"읽으려고","options":["읽으려고","읽려고","읽으러","읽어려고"],"en":"I turned on the light to read a book.","why":"A consonant stem takes ~으려고; 켜다 is not a movement verb, so not ~으러."},
+{"type":"fill","ko":"점심을 ___ 나갔어요.","answer":"먹으러","options":["먹으러","먹러","먹어러","먹을러"],"en":"I went out to eat lunch.","why":"Before a movement verb, a consonant stem takes ~으러."},
+{"type":"fill","ko":"옷을 ___ 백화점에 갔어요.","answer":"사러","options":["사러","사으러","살러","사어러"],"en":"I went to the department store to buy clothes.","why":"A vowel stem takes ~러 before 가다."},
+{"type":"fill","ko":"이번 주말에 집을 ___ 해요.","answer":"청소하려고","options":["청소하려고","청소하러","청소하으려고","청소해려고"],"en":"I plan to clean the house this weekend.","why":"~(으)려고 하다 means \"plan to / intend to\"."},
+{"type":"fill","ko":"매일 한국어로 ___ 노력해요.","answer":"말하려고","options":["말하려고","말하러","말하으려고","말해려고"],"en":"I try hard to speak in Korean every day.","why":"~(으)려고 노력하다 means \"try hard to\"."},
+{"type":"fill","ko":"어제 처음으로 김치를 ___ 봤어요.","answer":"만들어","options":["만들어","만들고","만들기","만드러"],"en":"Yesterday I tried making kimchi for the first time.","why":"\"Try doing\" is verb + ~아/어 보다."},
+{"type":"fill","ko":"저는 비행기를 ___ 적이 없어요.","answer":"타 본","options":["타 본","타 보는","타 볼","타 봤은"],"en":"I have never been on a plane.","why":"Experience uses the past modifier: ~아/어 본 적이 있다/없다."},
+{"type":"translate","en":"I came to Korea to study.","ko":"공부하려고 한국에 왔어요."},
+{"type":"translate","en":"Have you ever eaten kimchi?","ko":"김치를 먹어 본 적이 있어요?"},
+{"type":"translate","en":"I'm going to a restaurant to meet a friend.","ko":"친구를 만나러 식당에 가요."},
+{"type":"translate","en":"I plan to apply for that job.","ko":"그 일자리에 지원하려고 해요."}
+],
+"reading": {"ko":"저는 요즘 일자리를 구하고 있어요. 어제는 이력서를 쓰려고 도서관에 갔어요. 저는 이력서를 써 본 적이 없어요. 이력서를 쓰는 것은 정말 어려웠어요. 오늘은 친구를 만나러 친구 집에 갔어요. 친구는 비서로 일한 적이 있어요. 우리는 같이 이력서를 다시 썼어요.","en":"These days I'm looking for a job. Yesterday I went to the library to write a resume. I have never written a resume. Writing a resume was really hard. Today I went to my friend's house to meet my friend. My friend has worked as a secretary before. We rewrote the resume together.","questions":[
+{"q":"이 사람은 왜 도서관에 갔어요?","a":"이력서를 쓰려고 갔어요."},
+{"q":"이 사람은 전에 이력서를 써 본 적이 있어요?","a":"아니요, 써 본 적이 없어요."},
+{"q":"친구는 무슨 일을 한 적이 있어요?","a":"비서로 일한 적이 있어요."}
+]}},
+{"n": 33, "exercises": [
+{"type":"fill","ko":"지금 숙제를 ___ 중이에요.","answer":"하는","options":["하는","한","할","하고"],"en":"I'm in the middle of doing homework right now.","why":"\"In the middle of\" is stem + ~는 중이다."},
+{"type":"fill","ko":"그 상가는 지금 공사 ___이에요.","answer":"중","options":["중","동안","때","것"],"en":"That shopping building is under construction now.","why":"중 attaches straight to 하다-nouns like 공사."},
+{"type":"fill","ko":"친구가 ___ 동안 저는 아침을 먹었어요.","answer":"샤워하는","options":["샤워하는","샤워한","샤워할","샤워하고"],"en":"While my friend showered, I ate breakfast.","why":"\"While\" is stem + ~는 동안."},
+{"type":"fill","ko":"서울에 ___ 동안 매일 지하철을 탔어요.","answer":"사는","options":["사는","살는","산","살"],"en":"While living in Seoul, I took the subway every day.","why":"~는 동안 with 살다: ㄹ drops before ~는."},
+{"type":"fill","ko":"커피와 주스 ___ 뭐가 더 좋아요?","answer":"중에","options":["중에","동안","중으로","중이에요"],"en":"Between coffee and juice, which do you like more?","why":"N 중에 means \"among / between\" when choosing."},
+{"type":"fill","ko":"제가 가 본 나라 ___ 한국이 제일 좋았어요.","answer":"중에","options":["중에","중으로","동안","중이"],"en":"Of the countries I have been to, I liked Korea the most.","why":"A described noun + 중에 means \"of / among\"."},
+{"type":"fill","ko":"다음 달 ___ 이사할 거예요.","answer":"중으로","options":["중으로","중이에요","중이","중을"],"en":"I will move sometime next month.","why":"Time + 중으로 means \"sometime within that time\"."},
+{"type":"fill","ko":"어제 저녁에 저는 영화를 ___ 중이었어요.","answer":"보는","options":["보는","본","볼","봤는"],"en":"Yesterday evening I was in the middle of watching a movie.","why":"Keep ~는 and put the past tense on 이다: 중이었어요."},
+{"type":"translate","en":"I'm in the middle of editing a photo.","ko":"지금 사진을 편집하는 중이에요."},
+{"type":"translate","en":"I read a book while waiting for the bus.","ko":"버스를 기다리는 동안 책을 읽었어요."},
+{"type":"translate","en":"Among these, which one is the cheapest?","ko":"이 중에 뭐가 제일 싸요?"},
+{"type":"translate","en":"I will finish my homework sometime today.","ko":"오늘 중으로 숙제를 끝낼 거예요."}
+],
+"reading": {"ko":"저는 교환학생이에요. 이번 학기 동안 서울에서 공부하고 있어요. 지금은 도서관에서 강의 자료를 정리하는 중이에요. 제가 듣는 강의 중에 한국 지리 강의가 제일 재미있어요. 다음 주에 시험이 있어요. 이번 주 중으로 숙제를 끝낼 거예요.","en":"I am an exchange student. I'm studying in Seoul during this semester. Right now I'm in the library organizing lecture materials. Of the lectures I take, the Korean geography lecture is the most interesting. There is a test next week. I will finish my homework sometime this week.","questions":[
+{"q":"이 사람은 지금 뭐 하는 중이에요?","a":"도서관에서 강의 자료를 정리하는 중이에요."},
+{"q":"어떤 강의가 제일 재미있어요?","a":"한국 지리 강의가 제일 재미있어요."},
+{"q":"숙제를 언제 끝낼 거예요?","a":"이번 주 중으로 끝낼 거예요."}
+]}}
+]}

@@ -1,0 +1,1545 @@
+{
+ "range": "59-66",
+ "lessons": [
+  {
+   "n": 59,
+   "title": "Lesson 59: Difficult words: 어쩌면, 아무래도, 가꾸다, 연세, 뵈다, 차림, 즉",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-59/",
+   "vocab": [
+    {
+     "ko": "어쩌면",
+     "en": "maybe, perhaps",
+     "pos": "adverb"
+    },
+    {
+     "ko": "아무래도",
+     "en": "probably",
+     "pos": "adverb"
+    },
+    {
+     "ko": "가꾸다",
+     "en": "to grow (plants); to groom oneself",
+     "pos": "verb"
+    },
+    {
+     "ko": "연세",
+     "en": "age",
+     "pos": "noun"
+    },
+    {
+     "ko": "뵈다",
+     "en": "to see (high respect)",
+     "pos": "verb"
+    },
+    {
+     "ko": "차림",
+     "en": "attire, dressed in",
+     "pos": "noun"
+    },
+    {
+     "ko": "옷차림",
+     "en": "outfit",
+     "pos": "noun"
+    },
+    {
+     "ko": "잠옷",
+     "en": "pajamas",
+     "pos": "noun"
+    },
+    {
+     "ko": "운동복",
+     "en": "exercise clothes",
+     "pos": "noun"
+    },
+    {
+     "ko": "즉",
+     "en": "that is, in other words",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "어쩌면 (maybe / how on earth)",
+     "explanation": "어쩌면 marks a guess the speaker isn't sure about, so it usually pairs with an ending like ~ㄹ/을지(도) 모르다 ('might'). In a question, it can instead express amazement, roughly 'how on earth is it that...?'.",
+     "examples": [
+      {
+       "ko": "어쩌면 내일 비가 올지도 몰라요.",
+       "en": "It might rain tomorrow."
+      },
+      {
+       "ko": "어쩌면 다음 주에 할아버지를 뵐 수 있을지도 몰라요.",
+       "en": "Maybe I'll be able to see Grandfather next week."
+      },
+      {
+       "ko": "어쩌면 정원을 이렇게 예쁘게 가꿨어요?",
+       "en": "How did you manage to make the garden this pretty?"
+      }
+     ]
+    },
+    {
+     "point": "아무래도 + ~ㄹ/을 것 같다 (probably)",
+     "explanation": "아무래도 shows that the speaker, after weighing things up, thinks something is likely. It is usually paired with a guessing ending such as ~ㄹ/을 것 같다 or ~ㄴ/은 것 같다.",
+     "examples": [
+      {
+       "ko": "아무래도 오늘은 늦을 것 같아요.",
+       "en": "It looks like I'll probably be late today."
+      },
+      {
+       "ko": "아무래도 그 사람이 벌써 떠난 것 같아요.",
+       "en": "He has probably already left."
+      },
+      {
+       "ko": "아무래도 비가 올 것 같아요.",
+       "en": "It will probably rain."
+      }
+     ]
+    },
+    {
+     "point": "Honorific words: 연세 and 뵈다/뵙다",
+     "explanation": "연세 is the respectful word for 나이 (age), used when talking about elderly people. 뵈다 is the humble/honorific version of 보다 for seeing or meeting someone you must respect; it conjugates like 되다 (뵈어요 → 봬요). 뵙다 means the same but is a bit more formal.",
+     "examples": [
+      {
+       "ko": "할머니께서는 연세가 어떻게 되세요?",
+       "en": "How old is your grandmother?"
+      },
+      {
+       "ko": "내일 선생님을 뵈러 갈 거예요.",
+       "en": "I'm going to go see my teacher tomorrow."
+      },
+      {
+       "ko": "다음 주에 봬요.",
+       "en": "See you next week."
+      },
+      {
+       "ko": "처음 뵙겠습니다.",
+       "en": "Nice to meet you."
+      }
+     ]
+    },
+    {
+     "point": "가꾸다 (to grow / to groom)",
+     "explanation": "가꾸다 means tending something carefully so it looks good. With plants, gardens or vegetables it means 'to grow/cultivate'; with 외모, 몸 or 머리 it means taking care of one's appearance.",
+     "examples": [
+      {
+       "ko": "아버지는 마당에서 채소를 가꿔요.",
+       "en": "My father grows vegetables in the yard."
+      },
+      {
+       "ko": "요즘 운동하면서 몸을 가꾸고 있어요.",
+       "en": "These days I'm getting in shape by exercising."
+      },
+      {
+       "ko": "데이트 전에 외모를 가꿔야 돼요.",
+       "en": "I need to fix myself up before the date."
+      }
+     ]
+    },
+    {
+     "point": "Noun + 차림 (dressed in ...)",
+     "explanation": "차림 refers to how someone is dressed. Put it after a clothing word (잠옷 차림, 운동복 차림) to say someone is in that outfit; 옷차림 is the general word for an outfit.",
+     "examples": [
+      {
+       "ko": "동생이 잠옷 차림으로 밖에 나갔어요.",
+       "en": "My brother went outside in his pajamas."
+      },
+      {
+       "ko": "그는 운동복 차림으로 학교에 왔어요.",
+       "en": "He came to school in workout clothes."
+      },
+      {
+       "ko": "오늘 옷차림이 정말 멋있어요.",
+       "en": "Your outfit today is really nice."
+      }
+     ]
+    },
+    {
+     "point": "즉 (that is / in other words)",
+     "explanation": "즉 introduces a restatement or clarification of what was just said, like 'i.e.' or 'in other words'. It often comes after a comma, before the rephrased part.",
+     "examples": [
+      {
+       "ko": "그분은 제 아버지의 아버지, 즉 제 할아버지예요.",
+       "en": "He is my father's father, in other words my grandfather."
+      },
+      {
+       "ko": "시험은 다음 주 월요일, 즉 3일에 있어요.",
+       "en": "The exam is next Monday, that is, on the 3rd."
+      },
+      {
+       "ko": "그는 연락이 없어요. 즉 오지 않을 거예요.",
+       "en": "He hasn't been in touch. In other words, he won't come."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "title": "Lesson 60: Difficult words: 차다, 가득, 왠지, 설마, 찍다, 다행, ~달",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-60/",
+   "vocab": [
+    {
+     "ko": "차다",
+     "en": "to be full",
+     "pos": "verb"
+    },
+    {
+     "ko": "가득",
+     "en": "filled (adverb)",
+     "pos": "adverb"
+    },
+    {
+     "ko": "자신감",
+     "en": "confidence",
+     "pos": "noun"
+    },
+    {
+     "ko": "표정",
+     "en": "facial expression",
+     "pos": "noun"
+    },
+    {
+     "ko": "왠지",
+     "en": "for some reason",
+     "pos": "adverb"
+    },
+    {
+     "ko": "설마",
+     "en": "don't tell me...",
+     "pos": "adverb"
+    },
+    {
+     "ko": "찍다",
+     "en": "to take (a photo); to stamp; to dip",
+     "pos": "verb"
+    },
+    {
+     "ko": "도장",
+     "en": "personal seal, stamp",
+     "pos": "noun"
+    },
+    {
+     "ko": "다행하다",
+     "en": "to be fortunate",
+     "pos": "adjective"
+    },
+    {
+     "ko": "~달",
+     "en": "sometime in (a month)",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "(가득) 차다 / 차 있다 (to be full)",
+     "explanation": "차다 says a space is filled; mark what fills it with (으)로. Although 찼어요 is past tense, it describes something full right now, and 차 있다 says the same thing as a state. The adverb 가득 adds the feeling of 'completely'. 차다 also works with feelings: Noun에 찬 = 'full of ...'.",
+     "examples": [
+      {
+       "ko": "버스가 사람들로 가득 찼어요.",
+       "en": "The bus is packed with people."
+      },
+      {
+       "ko": "병에 물이 가득 차 있어요.",
+       "en": "The bottle is full of water."
+      },
+      {
+       "ko": "그는 자신감에 찬 표정으로 말했어요.",
+       "en": "He spoke with a confident expression."
+      }
+     ]
+    },
+    {
+     "point": "왠지 (for some reason)",
+     "explanation": "왠지 comes from 왜 그런지 ('why it is so') and means 'for some reason' or 'I don't know why, but...'. Use it when something happens or is felt without a clear cause.",
+     "examples": [
+      {
+       "ko": "오늘은 왠지 기분이 좋아요.",
+       "en": "For some reason I'm in a good mood today."
+      },
+      {
+       "ko": "왠지 그 사람이 마음에 안 들어요.",
+       "en": "I don't know why, but I don't like that person."
+      },
+      {
+       "ko": "왠지 집에 일찍 가고 싶어요.",
+       "en": "For some reason I want to go home early."
+      }
+     ]
+    },
+    {
+     "point": "설마 (don't tell me...)",
+     "explanation": "Putting 설마 at the start of a question shows the speaker can hardly believe something is (or isn't) the case, like 'Don't tell me...!' or 'Surely not...?'.",
+     "examples": [
+      {
+       "ko": "설마 벌써 다 먹었어요?",
+       "en": "Don't tell me you already ate it all?"
+      },
+      {
+       "ko": "설마 혼자 갔어요?",
+       "en": "Don't tell me you went alone?"
+      },
+      {
+       "ko": "설마 그 사람이 거짓말을 했어요?",
+       "en": "Surely he didn't lie?"
+      }
+     ]
+    },
+    {
+     "point": "찍다 (to touch one thing onto another)",
+     "explanation": "찍다's core idea is pressing or touching one thing onto another, so it covers taking photos, stamping a seal (도장), dipping food into sauce, and more. The object tells you which meaning is meant.",
+     "examples": [
+      {
+       "ko": "친구가 제 사진을 많이 찍었어요.",
+       "en": "My friend took a lot of pictures of me."
+      },
+      {
+       "ko": "여기에 도장을 찍어 주세요.",
+       "en": "Please stamp your seal here."
+      },
+      {
+       "ko": "만두를 간장에 찍어서 먹어요.",
+       "en": "I dip the dumplings in soy sauce and eat them."
+      }
+     ]
+    },
+    {
+     "point": "~아/어서 다행이다 / 다행히 (thankfully)",
+     "explanation": "Adding 다행이다 after a clause ending in ~아/어서 expresses relief that something happened or didn't happen ('Thank goodness...'). The adverb 다행히 means 'fortunately'.",
+     "examples": [
+      {
+       "ko": "길이 안 막혀서 다행이에요.",
+       "en": "Thankfully the roads weren't jammed."
+      },
+      {
+       "ko": "아무도 다치지 않아서 다행이에요.",
+       "en": "Thank goodness nobody got hurt."
+      },
+      {
+       "ko": "다행히 시험에 늦지 않았어요.",
+       "en": "Fortunately I wasn't late for the exam."
+      }
+     ]
+    },
+    {
+     "point": "Month + 달 (sometime in ...)",
+     "explanation": "Adding 달 after a month name (3월 달) means 'sometime in that month' when the exact day isn't known or isn't important.",
+     "examples": [
+      {
+       "ko": "저는 3월 달에 이사할 거예요.",
+       "en": "I'm moving sometime in March."
+      },
+      {
+       "ko": "언니는 10월 달에 결혼해요.",
+       "en": "My sister is getting married sometime in October."
+      },
+      {
+       "ko": "5월 달에 한국에 가요.",
+       "en": "I'm going to Korea sometime in May."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "title": "Lesson 61: To wish/to hope: 바라다, ~았/었으면 좋겠다",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-61/",
+   "vocab": [
+    {
+     "ko": "쌍둥이",
+     "en": "twin",
+     "pos": "noun"
+    },
+    {
+     "ko": "보충",
+     "en": "supplement",
+     "pos": "noun"
+    },
+    {
+     "ko": "백조",
+     "en": "swan",
+     "pos": "noun"
+    },
+    {
+     "ko": "실내",
+     "en": "interior",
+     "pos": "noun"
+    },
+    {
+     "ko": "정책",
+     "en": "policy",
+     "pos": "noun"
+    },
+    {
+     "ko": "통화",
+     "en": "currency",
+     "pos": "noun"
+    },
+    {
+     "ko": "단백질",
+     "en": "protein",
+     "pos": "noun"
+    },
+    {
+     "ko": "지방",
+     "en": "fat",
+     "pos": "noun"
+    },
+    {
+     "ko": "탄수화물",
+     "en": "carbohydrate",
+     "pos": "noun"
+    },
+    {
+     "ko": "양",
+     "en": "amount",
+     "pos": "noun"
+    },
+    {
+     "ko": "야간",
+     "en": "night",
+     "pos": "noun"
+    },
+    {
+     "ko": "최선",
+     "en": "one’s best",
+     "pos": "noun"
+    },
+    {
+     "ko": "사전",
+     "en": "beforehand, prior",
+     "pos": "noun"
+    },
+    {
+     "ko": "쌍",
+     "en": "a pair",
+     "pos": "noun"
+    },
+    {
+     "ko": "의도적",
+     "en": "intentional",
+     "pos": "noun"
+    },
+    {
+     "ko": "헤엄치다",
+     "en": "to swim, to move through water",
+     "pos": "verb"
+    },
+    {
+     "ko": "해고하다",
+     "en": "to fire (from a job)",
+     "pos": "verb"
+    },
+    {
+     "ko": "건네다",
+     "en": "to hand-over, to pass on",
+     "pos": "verb"
+    },
+    {
+     "ko": "해설하다",
+     "en": "to explain",
+     "pos": "verb"
+    },
+    {
+     "ko": "다하다",
+     "en": "to do all of, use up",
+     "pos": "verb"
+    },
+    {
+     "ko": "데리러 오다",
+     "en": "to come pick someone up",
+     "pos": "verb"
+    },
+    {
+     "ko": "데리러 가다",
+     "en": "to go pick someone up",
+     "pos": "verb"
+    },
+    {
+     "ko": "추가하다",
+     "en": "to add to, to supplement",
+     "pos": "verb"
+    },
+    {
+     "ko": "의도하다",
+     "en": "to intend",
+     "pos": "verb"
+    },
+    {
+     "ko": "청결하다",
+     "en": "to be clean",
+     "pos": "adjective"
+    },
+    {
+     "ko": "꾸준하다",
+     "en": "to be steady, consistent",
+     "pos": "adjective"
+    },
+    {
+     "ko": "한가롭다",
+     "en": "to be leisurely",
+     "pos": "adjective"
+    },
+    {
+     "ko": "딱",
+     "en": "exactly, perfectly, precisely",
+     "pos": "adverb"
+    },
+    {
+     "ko": "무조건",
+     "en": "unconditionally",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~기(를) 바라다 (to hope / request)",
+     "explanation": "바라다 expresses wanting something to happen. To hope for a whole clause, nominalize the verb with ~기(를) and add 바라다. ~기 바랍니다 is also a formal, rather authoritative way of asking people to do something, often softened as ~아/어 주시기 바랍니다 in announcements. In speech, 바라요 is commonly pronounced 바래요.",
+     "examples": [
+      {
+       "ko": "모두 건강하시기를 바랍니다.",
+       "en": "I hope everyone stays healthy."
+      },
+      {
+       "ko": "좋은 결과가 있기를 바랍니다.",
+       "en": "I hope there will be a good result."
+      },
+      {
+       "ko": "실내에서는 조용히 해 주시기 바랍니다.",
+       "en": "Please be quiet indoors."
+      },
+      {
+       "ko": "즐거운 시간 보내시기 바랍니다.",
+       "en": "I hope you have a good time."
+      }
+     ]
+    },
+    {
+     "point": "~았/었으면 좋겠다 (I hope / I wish)",
+     "explanation": "Attach ~았/었으면 좋겠다 to a verb or adjective to say what you wish or hope for now; treat it as one fixed unit despite the past and future pieces inside it. ~(으)면 좋겠다 without the past tense is also used with almost the same meaning.",
+     "examples": [
+      {
+       "ko": "내일 날씨가 맑았으면 좋겠어요.",
+       "en": "I hope the weather is clear tomorrow."
+      },
+      {
+       "ko": "친구가 저를 데리러 왔으면 좋겠어요.",
+       "en": "I wish my friend would come pick me up."
+      },
+      {
+       "ko": "시험이 빨리 끝났으면 좋겠어요.",
+       "en": "I wish the exam would end quickly."
+      },
+      {
+       "ko": "돈이 많았으면 좋겠어요.",
+       "en": "I wish I had a lot of money."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "title": "Lesson 62: While: ~(으)면서, ~(으)며",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-62/",
+   "vocab": [
+    {
+     "ko": "일정",
+     "en": "schedule",
+     "pos": "noun"
+    },
+    {
+     "ko": "앞문",
+     "en": "front door",
+     "pos": "noun"
+    },
+    {
+     "ko": "뒷문",
+     "en": "back door",
+     "pos": "noun"
+    },
+    {
+     "ko": "기념품",
+     "en": "souvenir",
+     "pos": "noun"
+    },
+    {
+     "ko": "기념비",
+     "en": "monument",
+     "pos": "noun"
+    },
+    {
+     "ko": "학업",
+     "en": "studies",
+     "pos": "noun"
+    },
+    {
+     "ko": "사안",
+     "en": "issue/matter",
+     "pos": "noun"
+    },
+    {
+     "ko": "무단",
+     "en": "without permission",
+     "pos": "noun"
+    },
+    {
+     "ko": "상반기",
+     "en": "the first half of the year",
+     "pos": "noun"
+    },
+    {
+     "ko": "하반기",
+     "en": "the second half of the year",
+     "pos": "noun"
+    },
+    {
+     "ko": "사계절",
+     "en": "four seasons",
+     "pos": "noun"
+    },
+    {
+     "ko": "관광객",
+     "en": "tourists",
+     "pos": "noun"
+    },
+    {
+     "ko": "영상",
+     "en": "picture, image",
+     "pos": "noun"
+    },
+    {
+     "ko": "동영상",
+     "en": "video",
+     "pos": "noun"
+    },
+    {
+     "ko": "갈다",
+     "en": "to change/replace; to grind/sharpen",
+     "pos": "verb"
+    },
+    {
+     "ko": "꼬집다",
+     "en": "to pinch",
+     "pos": "verb"
+    },
+    {
+     "ko": "쌓다",
+     "en": "to build up, to stack up",
+     "pos": "verb"
+    },
+    {
+     "ko": "기념하다",
+     "en": "to commemorate",
+     "pos": "verb"
+    },
+    {
+     "ko": "뒤따르다",
+     "en": "to follow, to go after",
+     "pos": "verb"
+    },
+    {
+     "ko": "진행하다",
+     "en": "to progress",
+     "pos": "verb"
+    },
+    {
+     "ko": "누르다",
+     "en": "to press",
+     "pos": "verb"
+    },
+    {
+     "ko": "자라다",
+     "en": "to grow up",
+     "pos": "verb"
+    },
+    {
+     "ko": "횡단하다",
+     "en": "to cross",
+     "pos": "verb"
+    },
+    {
+     "ko": "판매하다",
+     "en": "to sell",
+     "pos": "verb"
+    },
+    {
+     "ko": "쌓이다",
+     "en": "to be stacked/build up",
+     "pos": "verb"
+    },
+    {
+     "ko": "흐리다",
+     "en": "to be cloudy, hazy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "적발 시",
+     "en": "if caught",
+     "pos": "other"
+    },
+    {
+     "ko": "문득",
+     "en": "suddenly",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~(으)면서 (while doing two things at once)",
+     "explanation": "~(으)면서 joins two actions done at the same time by the same person: ~면서 after a vowel or ㄹ stem, ~으면서 after a consonant. It often translates as 'while' or 'as'. With 자라다 it gives 'grew up doing'. For posture verbs like 앉다 or 서다, use ~아/어서 instead, because ~(으)면서 would mean you were in the middle of sitting down.",
+     "examples": [
+      {
+       "ko": "음악을 들으면서 공부해요.",
+       "en": "I study while listening to music."
+      },
+      {
+       "ko": "커피를 마시면서 신문을 읽었어요.",
+       "en": "I read the newspaper while drinking coffee."
+      },
+      {
+       "ko": "저는 한국 음식을 먹으면서 자랐어요.",
+       "en": "I grew up eating Korean food."
+      }
+     ]
+    },
+    {
+     "point": "~(으)면서 with adjectives and 이다",
+     "explanation": "With adjectives and 이다, ~(으)면서 says something has two qualities or roles at once. It is close to ~고, but feels like the two descriptions are tied together more closely.",
+     "examples": [
+      {
+       "ko": "이 식당은 싸면서 맛있어요.",
+       "en": "This restaurant is cheap and tasty at the same time."
+      },
+      {
+       "ko": "그는 선생님이면서 작가예요.",
+       "en": "He is a teacher and also a writer."
+      },
+      {
+       "ko": "오늘은 흐리면서 추워요.",
+       "en": "Today it's cloudy and cold."
+      }
+     ]
+    },
+    {
+     "point": "~(으)면서(도) for contradiction",
+     "explanation": "~(으)면서 can also connect two things one person does that clash, often when the speaker finds it unreasonable ('even though', 'yet'). Adding 도 (~(으)면서도) strengthens the contrast.",
+     "examples": [
+      {
+       "ko": "그는 바쁘다고 하면서 하루 종일 텔레비전을 봐요.",
+       "en": "He says he's busy, yet he watches TV all day."
+      },
+      {
+       "ko": "다 알면서 왜 물어봐요?",
+       "en": "You know everything, so why are you asking?"
+      },
+      {
+       "ko": "돈이 없으면서도 비싼 옷을 샀어요.",
+       "en": "She bought expensive clothes even though she has no money."
+      }
+     ]
+    },
+    {
+     "point": "~(으)며 (formal 'while' / 'and')",
+     "explanation": "~(으)며 is a shortened form of ~(으)면서 and can mean 'while', but ~(으)면서 is much more common for that. ~(으)며 is mostly used, especially in formal writing and speeches, to list or link related clauses, much like ~고.",
+     "examples": [
+      {
+       "ko": "이 도시는 깨끗하며 조용합니다.",
+       "en": "This city is clean and quiet."
+      },
+      {
+       "ko": "관광객들이 사진을 찍으며 웃었습니다.",
+       "en": "The tourists laughed while taking pictures."
+      },
+      {
+       "ko": "상반기에는 판매가 늘었으며 하반기에도 늘 것입니다.",
+       "en": "Sales rose in the first half and will also rise in the second half."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "title": "Lesson 63: ~ㄹ/을까(요), ~ㄹ/을게요",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-63/",
+   "vocab": [
+    {
+     "ko": "책자",
+     "en": "booklet, pamphlet",
+     "pos": "noun"
+    },
+    {
+     "ko": "바퀴",
+     "en": "wheel",
+     "pos": "noun"
+    },
+    {
+     "ko": "기운",
+     "en": "energy, vigor",
+     "pos": "noun"
+    },
+    {
+     "ko": "무리",
+     "en": "group",
+     "pos": "noun"
+    },
+    {
+     "ko": "정체",
+     "en": "identity",
+     "pos": "noun"
+    },
+    {
+     "ko": "교원",
+     "en": "teacher",
+     "pos": "noun"
+    },
+    {
+     "ko": "살인",
+     "en": "murder",
+     "pos": "noun"
+    },
+    {
+     "ko": "살인자",
+     "en": "murderer",
+     "pos": "noun"
+    },
+    {
+     "ko": "선착순",
+     "en": "first come first served",
+     "pos": "noun"
+    },
+    {
+     "ko": "초과하다",
+     "en": "to exceed",
+     "pos": "verb"
+    },
+    {
+     "ko": "울리다",
+     "en": "to make somebody cry",
+     "pos": "verb"
+    },
+    {
+     "ko": "결재하다",
+     "en": "to approve",
+     "pos": "verb"
+    },
+    {
+     "ko": "퇴근하다",
+     "en": "to leave work",
+     "pos": "verb"
+    },
+    {
+     "ko": "흘러나오다",
+     "en": "to trickle out of",
+     "pos": "verb"
+    },
+    {
+     "ko": "주고받다",
+     "en": "to exchange",
+     "pos": "verb"
+    },
+    {
+     "ko": "고용하다",
+     "en": "to hire",
+     "pos": "verb"
+    },
+    {
+     "ko": "공고하다",
+     "en": "to announce",
+     "pos": "verb"
+    },
+    {
+     "ko": "연기하다",
+     "en": "to act",
+     "pos": "verb"
+    },
+    {
+     "ko": "이루다",
+     "en": "to achieve, accomplish",
+     "pos": "verb"
+    },
+    {
+     "ko": "이루어지다",
+     "en": "to be made up of; to come true",
+     "pos": "verb"
+    },
+    {
+     "ko": "부서지다",
+     "en": "to be smashed into pieces",
+     "pos": "verb"
+    },
+    {
+     "ko": "부러지다",
+     "en": "to be broken in half",
+     "pos": "verb"
+    },
+    {
+     "ko": "위태롭다",
+     "en": "to be risky, critical",
+     "pos": "adjective"
+    },
+    {
+     "ko": "부유하다",
+     "en": "to be rich",
+     "pos": "adjective"
+    },
+    {
+     "ko": "번거롭다",
+     "en": "to be cumbersome",
+     "pos": "adjective"
+    },
+    {
+     "ko": "모금",
+     "en": "sip/breath (counter)",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~ㄹ/을까? (wondering to oneself)",
+     "explanation": "Ending a sentence with ~ㄹ/을까 (without 요) can be a question the speaker asks themselves, such as 'Should I...?' or 'I wonder if...'. Context tells you whether it is self-talk or meant for someone else.",
+     "examples": [
+      {
+       "ko": "오늘 저녁에 뭘 먹을까?",
+       "en": "What should I eat tonight?"
+      },
+      {
+       "ko": "이 책을 살까?",
+       "en": "Should I buy this book?"
+      },
+      {
+       "ko": "내일 비가 올까?",
+       "en": "I wonder if it'll rain tomorrow."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을까요? (shall we...?)",
+     "explanation": "When the speaker and listener will do something together, ~ㄹ/을까(요)? suggests it and asks for the listener's opinion: 'Shall we...?'. Add 요 for politeness. 그럴까요? is a common way to accept a suggestion.",
+     "examples": [
+      {
+       "ko": "같이 영화 볼까요?",
+       "en": "Shall we watch a movie together?"
+      },
+      {
+       "ko": "우리 어디에서 만날까요?",
+       "en": "Where shall we meet?"
+      },
+      {
+       "ko": "잠깐 쉴까요?",
+       "en": "Shall we take a short break?"
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을까요? (shall I...?)",
+     "explanation": "When only the speaker will act, ~ㄹ/을까요? offers to do something and asks for permission, often right before helping or giving something. It pairs naturally with 드리다 or ~아/어 드리다.",
+     "examples": [
+      {
+       "ko": "창문을 열까요?",
+       "en": "Shall I open the window?"
+      },
+      {
+       "ko": "제가 도와 드릴까요?",
+       "en": "Shall I help you?"
+      },
+      {
+       "ko": "커피 한 잔 드릴까요?",
+       "en": "Shall I get you a cup of coffee?"
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을게(요) (I'll do it)",
+     "explanation": "~ㄹ/을게(요) is a statement, not a question: the speaker announces or promises what they will do, usually for or in consideration of the listener. It sounds softer and more cooperative than ~ㄹ/을 거예요.",
+     "examples": [
+      {
+       "ko": "제가 문을 열게요.",
+       "en": "I'll open the door."
+      },
+      {
+       "ko": "내일 다시 전화할게요.",
+       "en": "I'll call you again tomorrow."
+      },
+      {
+       "ko": "퇴근하고 바로 갈게요.",
+       "en": "I'll come right after I leave work."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을까요? (do you think...?)",
+     "explanation": "~ㄹ/을까(요)? can also ask the listener's opinion about how likely something is: 'Do you think...?'. Use ~았/었을까요? to guess about something that may already have happened.",
+     "examples": [
+      {
+       "ko": "내일 날씨가 좋을까요?",
+       "en": "Do you think the weather will be nice tomorrow?"
+      },
+      {
+       "ko": "그 사람이 지금 집에 있을까요?",
+       "en": "Do you think he's home now?"
+      },
+      {
+       "ko": "그 사람이 벌써 퇴근했을까요?",
+       "en": "Do you think he already left work?"
+      }
+     ]
+    },
+    {
+     "point": "어떨까요? (how about...?)",
+     "explanation": "어떻다 + ~ㄹ/을까요 becomes 어떨까요?, a gentle way to ask what someone thinks of an idea. ~는 게 어떨까요? politely suggests an action.",
+     "examples": [
+      {
+       "ko": "이 색깔은 어떨까요?",
+       "en": "How about this color?"
+      },
+      {
+       "ko": "내일 가는 게 어떨까요?",
+       "en": "How about going tomorrow?"
+      },
+      {
+       "ko": "사람을 더 고용하는 게 어떨까요?",
+       "en": "What do you think about hiring more people?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "title": "Lesson 64: “I am thinking of:” ~ㄹ/을까(요)",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-64/",
+   "vocab": [
+    {
+     "ko": "물리",
+     "en": "physics",
+     "pos": "noun"
+    },
+    {
+     "ko": "분수",
+     "en": "fountain",
+     "pos": "noun"
+    },
+    {
+     "ko": "암",
+     "en": "cancer",
+     "pos": "noun"
+    },
+    {
+     "ko": "기상예보",
+     "en": "weather forecast",
+     "pos": "noun"
+    },
+    {
+     "ko": "이슬비",
+     "en": "drizzle",
+     "pos": "noun"
+    },
+    {
+     "ko": "상표",
+     "en": "trademark",
+     "pos": "noun"
+    },
+    {
+     "ko": "단풍",
+     "en": "autumn foliage",
+     "pos": "noun"
+    },
+    {
+     "ko": "재해",
+     "en": "disaster",
+     "pos": "noun"
+    },
+    {
+     "ko": "범죄",
+     "en": "crime",
+     "pos": "noun"
+    },
+    {
+     "ko": "범죄자",
+     "en": "criminal",
+     "pos": "noun"
+    },
+    {
+     "ko": "대책",
+     "en": "measures, steps",
+     "pos": "noun"
+    },
+    {
+     "ko": "횟수",
+     "en": "number of times",
+     "pos": "noun"
+    },
+    {
+     "ko": "당일",
+     "en": "the day of",
+     "pos": "noun"
+    },
+    {
+     "ko": "영화관",
+     "en": "movie theater",
+     "pos": "noun"
+    },
+    {
+     "ko": "동부",
+     "en": "eastern part",
+     "pos": "noun"
+    },
+    {
+     "ko": "남부",
+     "en": "southern part",
+     "pos": "noun"
+    },
+    {
+     "ko": "서부",
+     "en": "western part",
+     "pos": "noun"
+    },
+    {
+     "ko": "북부",
+     "en": "northern part",
+     "pos": "noun"
+    },
+    {
+     "ko": "방지하다",
+     "en": "to prevent",
+     "pos": "verb"
+    },
+    {
+     "ko": "들이마시다",
+     "en": "to inhale",
+     "pos": "verb"
+    },
+    {
+     "ko": "완료하다",
+     "en": "to complete",
+     "pos": "verb"
+    },
+    {
+     "ko": "개명하다",
+     "en": "to change one’s name",
+     "pos": "verb"
+    },
+    {
+     "ko": "지명하다",
+     "en": "to nominate, designate",
+     "pos": "verb"
+    },
+    {
+     "ko": "중복되다",
+     "en": "to be duplicated/overlapped",
+     "pos": "verb"
+    },
+    {
+     "ko": "수십",
+     "en": "dozens of",
+     "pos": "other"
+    },
+    {
+     "ko": "박",
+     "en": "nights (counter)",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~ㄹ/을까 하다 (I'm thinking of ...)",
+     "explanation": "Adding 하다 after ~ㄹ/을까 states a tentative plan: 'I'm thinking of / I intend to...'. It can be connected with ~아/어서 (~ㄹ/을까 해서) to mean 'I was thinking of..., so...'.",
+     "examples": [
+      {
+       "ko": "이번 주말에 단풍 구경을 갈까 해요.",
+       "en": "I'm thinking of going to see the autumn leaves this weekend."
+      },
+      {
+       "ko": "오늘은 일찍 잘까 해요.",
+       "en": "I'm thinking of going to bed early today."
+      },
+      {
+       "ko": "영화관에 갈까 해서 친구에게 전화했어요.",
+       "en": "I was thinking of going to the movies, so I called a friend."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을까 봐(요) (I think I might ...)",
+     "explanation": "At the end of a sentence, 보다 can replace 하다 with the same meaning of intent, almost always in the forms 봐 or 봐요. Don't use it mid-sentence with ~아/어서; use ~ㄹ/을까 해서 there instead.",
+     "examples": [
+      {
+       "ko": "오늘은 집에서 쉴까 봐요.",
+       "en": "I think I might rest at home today."
+      },
+      {
+       "ko": "머리를 짧게 자를까 봐요.",
+       "en": "I'm thinking of cutting my hair short."
+      },
+      {
+       "ko": "점심에 비빔밥을 먹을까 봐요.",
+       "en": "I think I might have bibimbap for lunch."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을까 했다 (I was thinking of ..., but)",
+     "explanation": "Putting 하다 in the past (~ㄹ/을까 했다) shows that you had considered doing something but didn't actually do it. It is often followed by ~는데 or ~지만 and the reason.",
+     "examples": [
+      {
+       "ko": "어제 친구를 만날까 했는데 비가 와서 못 만났어요.",
+       "en": "I was thinking of meeting a friend yesterday, but it rained so I couldn't."
+      },
+      {
+       "ko": "택시를 탈까 했지만 그냥 걸어갔어요.",
+       "en": "I thought about taking a taxi, but I just walked."
+      },
+      {
+       "ko": "이름을 바꿀까 했는데 그만뒀어요.",
+       "en": "I was thinking of changing my name, but I gave up on it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "title": "Lesson 65: I am worried about: ㄹ/을까 봐",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-65/",
+   "vocab": [
+    {
+     "ko": "호랑이",
+     "en": "tiger",
+     "pos": "noun"
+    },
+    {
+     "ko": "역사가",
+     "en": "historian",
+     "pos": "noun"
+    },
+    {
+     "ko": "집주인",
+     "en": "landlord",
+     "pos": "noun"
+    },
+    {
+     "ko": "다과",
+     "en": "refreshments",
+     "pos": "noun"
+    },
+    {
+     "ko": "작업",
+     "en": "work, operations",
+     "pos": "noun"
+    },
+    {
+     "ko": "예산",
+     "en": "budget",
+     "pos": "noun"
+    },
+    {
+     "ko": "소독약",
+     "en": "disinfectant",
+     "pos": "noun"
+    },
+    {
+     "ko": "기구",
+     "en": "apparatus, equipment",
+     "pos": "noun"
+    },
+    {
+     "ko": "지붕",
+     "en": "roof",
+     "pos": "noun"
+    },
+    {
+     "ko": "한구석",
+     "en": "corner, nook",
+     "pos": "noun"
+    },
+    {
+     "ko": "가로",
+     "en": "width",
+     "pos": "noun"
+    },
+    {
+     "ko": "세로",
+     "en": "length",
+     "pos": "noun"
+    },
+    {
+     "ko": "논문",
+     "en": "thesis",
+     "pos": "noun"
+    },
+    {
+     "ko": "파도",
+     "en": "waves",
+     "pos": "noun"
+    },
+    {
+     "ko": "총",
+     "en": "gun",
+     "pos": "noun"
+    },
+    {
+     "ko": "찾아내다",
+     "en": "to find out, to discover",
+     "pos": "verb"
+    },
+    {
+     "ko": "쏘다",
+     "en": "to shoot, to sting",
+     "pos": "verb"
+    },
+    {
+     "ko": "방해하다",
+     "en": "to distract",
+     "pos": "verb"
+    },
+    {
+     "ko": "소독하다",
+     "en": "to disinfect",
+     "pos": "verb"
+    },
+    {
+     "ko": "대단하다",
+     "en": "to be great, tremendous",
+     "pos": "adjective"
+    },
+    {
+     "ko": "화려하다",
+     "en": "to be fancy, splendid",
+     "pos": "adjective"
+    },
+    {
+     "ko": "엷다",
+     "en": "to be light (in shade)",
+     "pos": "adjective"
+    },
+    {
+     "ko": "무례하다",
+     "en": "to be rude",
+     "pos": "adjective"
+    },
+    {
+     "ko": "오래 전",
+     "en": "a long time before",
+     "pos": "other"
+    },
+    {
+     "ko": "글쎄",
+     "en": "well... / let me see",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~ㄹ/을까 봐 (걱정되다) (I'm worried that ...)",
+     "explanation": "~ㄹ/을까 봐 followed by 걱정되다 says you are worried something might happen. For something that may already have happened, use ~았/었을까 봐. 걱정되다 is often dropped, leaving just ~ㄹ/을까 봐(요), and context tells you it means worry rather than intent.",
+     "examples": [
+      {
+       "ko": "시험에 떨어질까 봐 걱정돼요.",
+       "en": "I'm worried I'll fail the exam."
+      },
+      {
+       "ko": "예산이 부족할까 봐 걱정돼요.",
+       "en": "I'm worried the budget won't be enough."
+      },
+      {
+       "ko": "아이가 길을 잃었을까 봐 걱정돼요.",
+       "en": "I'm worried the child might have gotten lost."
+      },
+      {
+       "ko": "비가 올까 봐요.",
+       "en": "I'm worried it might rain."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을까 봐 + clause (worried that ..., so ...)",
+     "explanation": "Follow ~ㄹ/을까 봐 with another clause to say what you did because of the worry. The tense goes on the final verb, not on the verb before ~ㄹ/을까 봐.",
+     "examples": [
+      {
+       "ko": "늦을까 봐 택시를 탔어요.",
+       "en": "I was worried I'd be late, so I took a taxi."
+      },
+      {
+       "ko": "비가 올까 봐 우산을 가져왔어요.",
+       "en": "I brought an umbrella in case it rained."
+      },
+      {
+       "ko": "아기가 깰까 봐 조용히 말했어요.",
+       "en": "I spoke quietly so the baby wouldn't wake up."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "title": "Lesson 66: Almost: 거의 and ~ㄹ/을 뻔 했다",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-66/",
+   "vocab": [
+    {
+     "ko": "반항아",
+     "en": "a rebel",
+     "pos": "noun"
+    },
+    {
+     "ko": "귀신",
+     "en": "ghost",
+     "pos": "noun"
+    },
+    {
+     "ko": "거미",
+     "en": "spider",
+     "pos": "noun"
+    },
+    {
+     "ko": "고래",
+     "en": "whale",
+     "pos": "noun"
+    },
+    {
+     "ko": "늑대",
+     "en": "wolf",
+     "pos": "noun"
+    },
+    {
+     "ko": "학위",
+     "en": "academic degree",
+     "pos": "noun"
+    },
+    {
+     "ko": "학사 학위",
+     "en": "bachelor’s degree",
+     "pos": "noun"
+    },
+    {
+     "ko": "석사 학위",
+     "en": "master’s degree",
+     "pos": "noun"
+    },
+    {
+     "ko": "박사 학위",
+     "en": "Ph.D.",
+     "pos": "noun"
+    },
+    {
+     "ko": "지식",
+     "en": "knowledge",
+     "pos": "noun"
+    },
+    {
+     "ko": "비평",
+     "en": "criticism",
+     "pos": "noun"
+    },
+    {
+     "ko": "등급",
+     "en": "rating, grade",
+     "pos": "noun"
+    },
+    {
+     "ko": "단추",
+     "en": "button",
+     "pos": "noun"
+    },
+    {
+     "ko": "화장품",
+     "en": "cosmetics",
+     "pos": "noun"
+    },
+    {
+     "ko": "소화기",
+     "en": "fire extinguisher",
+     "pos": "noun"
+    },
+    {
+     "ko": "분필",
+     "en": "chalk",
+     "pos": "noun"
+    },
+    {
+     "ko": "동기",
+     "en": "motive",
+     "pos": "noun"
+    },
+    {
+     "ko": "일상",
+     "en": "everyday life",
+     "pos": "noun"
+    },
+    {
+     "ko": "유의하다",
+     "en": "to pay attention to",
+     "pos": "verb"
+    },
+    {
+     "ko": "정지하다",
+     "en": "to stop, to halt",
+     "pos": "verb"
+    },
+    {
+     "ko": "모방하다",
+     "en": "to imitate, to mimic",
+     "pos": "verb"
+    },
+    {
+     "ko": "반항하다",
+     "en": "to rebel",
+     "pos": "verb"
+    },
+    {
+     "ko": "보장하다",
+     "en": "to guarantee",
+     "pos": "verb"
+    },
+    {
+     "ko": "어긋나다",
+     "en": "to be out of line/step",
+     "pos": "verb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "거의 (almost)",
+     "explanation": "거의 is an adverb meaning 'almost'. It shows an action has nearly reached its end point (often with 다), or that something is very close to a description without quite matching it.",
+     "examples": [
+      {
+       "ko": "숙제를 거의 다 했어요.",
+       "en": "I've almost finished my homework."
+      },
+      {
+       "ko": "거의 다 왔어요.",
+       "en": "We're almost there."
+      },
+      {
+       "ko": "이 두 가방은 거의 같아요.",
+       "en": "These two bags are almost the same."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을 뻔했다 (nearly happened)",
+     "explanation": "Attach ~ㄹ/을 뻔했다 to a verb for something that almost happened but never actually started, like nearly falling or nearly missing a bus. 뻔 is a bound noun with no meaning of its own, and since 'almost' is built in, 거의 is optional. It is almost always used in the past tense.",
+     "examples": [
+      {
+       "ko": "계단에서 넘어질 뻔했어요.",
+       "en": "I almost fell on the stairs."
+      },
+      {
+       "ko": "늦잠을 자서 비행기를 놓칠 뻔했어요.",
+       "en": "I overslept and nearly missed my flight."
+      },
+      {
+       "ko": "거미를 보고 소리를 지를 뻔했어요.",
+       "en": "I saw a spider and almost screamed."
+      },
+      {
+       "ko": "차에 거의 부딪칠 뻔했어요.",
+       "en": "I very nearly hit the car."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

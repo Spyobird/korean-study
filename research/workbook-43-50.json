@@ -1,0 +1,1181 @@
+{
+ "range": "43-50",
+ "lessons": [
+  {
+   "n": 43,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "습도가 ___ 빨래가 빨리 말라요.",
+     "answer": "낮으면",
+     "options": [
+      "낮으면",
+      "낮면",
+      "낮아면",
+      "낮는다면"
+     ],
+     "en": "When the humidity is low, laundry dries quickly.",
+     "why": "낮다 ends in a consonant, so it takes 으면."
+    },
+    {
+     "type": "fill",
+     "ko": "날씨가 ___ 집에서 쉴 거예요.",
+     "answer": "추우면",
+     "options": [
+      "추우면",
+      "춥으면",
+      "춥면",
+      "추으면"
+     ],
+     "en": "If the weather is cold, I'll rest at home.",
+     "why": "춥다 is ㅂ irregular, so ㅂ becomes 우 before 면."
+    },
+    {
+     "type": "fill",
+     "ko": "음악을 ___ 마음이 편해져요.",
+     "answer": "들으면",
+     "options": [
+      "들으면",
+      "듣으면",
+      "듣면",
+      "들어면"
+     ],
+     "en": "Whenever I listen to music, I feel at ease.",
+     "why": "듣다 is ㄷ irregular, so ㄷ becomes ㄹ before 으면."
+    },
+    {
+     "type": "fill",
+     "ko": "그때 열심히 ___ 시험을 잘 봤을 거예요.",
+     "answer": "공부했으면",
+     "options": [
+      "공부했으면",
+      "공부하면",
+      "공부해면",
+      "공부했어면"
+     ],
+     "en": "If I had studied hard back then, I would have done well on the test.",
+     "why": "For 'would have', the condition goes in the past: ~았/었으면."
+    },
+    {
+     "type": "fill",
+     "ko": "제가 날개가 ___ 하늘을 날 거예요.",
+     "answer": "있다면",
+     "options": [
+      "있다면",
+      "있는다면",
+      "있으다면",
+      "있ㄴ다면"
+     ],
+     "en": "If I had wings, I would fly in the sky.",
+     "why": "있다 stays 있다 in the plain form, so it becomes 있다면."
+    },
+    {
+     "type": "fill",
+     "ko": "매일 운동을 ___ 더 건강해질 거예요.",
+     "answer": "한다면",
+     "options": [
+      "한다면",
+      "하는다면",
+      "하다면",
+      "했는다면"
+     ],
+     "en": "If you exercise every day, you will get healthier.",
+     "why": "A vowel-stem verb takes ㄴ다면: 하다 becomes 한다면."
+    },
+    {
+     "type": "fill",
+     "ko": "제가 신부___ 아주 행복할 거예요.",
+     "answer": "라면",
+     "options": [
+      "라면",
+      "이라면",
+      "다면",
+      "는다면"
+     ],
+     "en": "If I were the bride, I would be very happy.",
+     "why": "With nouns 이다 becomes (이)라면, and 신부 ends in a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "가지 ___ 고추를 사 주세요.",
+     "answer": "아니면",
+     "options": [
+      "아니면",
+      "그러면",
+      "그렇다면",
+      "만약"
+     ],
+     "en": "Please buy eggplant or hot peppers.",
+     "why": "Between two nouns, 아니면 works like 'or'."
+    },
+    {
+     "type": "translate",
+     "en": "If you are tired, rest at home.",
+     "ko": "피곤하면 집에서 쉬세요."
+    },
+    {
+     "type": "translate",
+     "en": "If there is a rainstorm tomorrow, I won't go out.",
+     "ko": "만약 내일 비바람이 불면 저는 밖에 안 나갈 거예요."
+    },
+    {
+     "type": "translate",
+     "en": "If I had known, I would have helped you.",
+     "ko": "제가 알았으면 도와줬을 거예요."
+    },
+    {
+     "type": "translate",
+     "en": "If so, I will go alone.",
+     "ko": "그렇다면 저 혼자 갈 거예요."
+    }
+   ],
+   "reading": {
+    "ko": "주말에 날씨가 좋으면 저는 빨래를 해요. 햇살이 강하면 빨래가 빨리 말라요. 하지만 습도가 높으면 빨래가 잘 안 말라요. 그러면 저는 기분이 안 좋아요. 만약 내일 비가 오면 빨래를 안 할 거예요. 친구에게 맛있는 음식을 대접할 거예요.",
+    "en": "When the weather is nice on the weekend, I do the laundry. When the sunlight is strong, the laundry dries quickly. But when the humidity is high, the laundry doesn't dry well. Then I'm in a bad mood. If it rains tomorrow, I won't do the laundry. I'll treat a friend to some delicious food.",
+    "questions": [
+     {
+      "q": "날씨가 좋으면 이 사람은 뭘 해요?",
+      "a": "빨래를 해요."
+     },
+     {
+      "q": "습도가 높으면 빨래가 어때요?",
+      "a": "잘 안 말라요."
+     },
+     {
+      "q": "내일 비가 오면 뭘 할 거예요?",
+      "a": "친구에게 맛있는 음식을 대접할 거예요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 44,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "같이 숙어를 ___.",
+     "answer": "외우자",
+     "options": [
+      "외우자",
+      "외워자",
+      "외우자요",
+      "외웠자"
+     ],
+     "en": "Let's memorize the idioms together. (casual)",
+     "why": "~자 attaches directly to the stem and never takes 요."
+    },
+    {
+     "type": "fill",
+     "ko": "그 친구를 놀리지 ___.",
+     "answer": "말자",
+     "options": [
+      "말자",
+      "않자",
+      "마자",
+      "말아자"
+     ],
+     "en": "Let's not tease that friend. (casual)",
+     "why": "'Let's not' is ~지 말자."
+    },
+    {
+     "type": "fill",
+     "ko": "회의를 내일로 ___.",
+     "answer": "연기합시다",
+     "options": [
+      "연기합시다",
+      "연기하읍시다",
+      "연기해읍시다",
+      "연기합니다"
+     ],
+     "en": "Let's postpone the meeting to tomorrow.",
+     "why": "하다 ends in a vowel, so it takes ㅂ시다."
+    },
+    {
+     "type": "fill",
+     "ko": "점심을 같이 ___.",
+     "answer": "먹읍시다",
+     "options": [
+      "먹읍시다",
+      "먹ㅂ시다",
+      "먹습시다",
+      "먹어읍시다"
+     ],
+     "en": "Let's eat lunch together.",
+     "why": "먹다 ends in a consonant, so it takes 읍시다."
+    },
+    {
+     "type": "fill",
+     "ko": "다 같이 김밥을 ___.",
+     "answer": "만듭시다",
+     "options": [
+      "만듭시다",
+      "만들읍시다",
+      "만들ㅂ시다",
+      "만들습시다"
+     ],
+     "en": "Let's all make gimbap together.",
+     "why": "With ㄹ stems, the ㄹ drops before ㅂ시다."
+    },
+    {
+     "type": "fill",
+     "ko": "주말에 같이 공원에서 ___?",
+     "answer": "걸을래요",
+     "options": [
+      "걸을래요",
+      "걷을래요",
+      "걸래요",
+      "걷래요"
+     ],
+     "en": "Shall we walk in the park together on the weekend?",
+     "why": "걷다 is ㄷ irregular, so it becomes 걸을래요."
+    },
+    {
+     "type": "fill",
+     "ko": "이 쪽지를 민수에게 전해 ___?",
+     "answer": "줄래요",
+     "options": [
+      "줄래요",
+      "줄자",
+      "줍시다",
+      "주을래요"
+     ],
+     "en": "Could you pass this note to Minsu?",
+     "why": "~아/어 줄래요? makes a soft request."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 이 영화 안 ___.",
+     "answer": "볼래요",
+     "options": [
+      "볼래요",
+      "보을래요",
+      "봅시다",
+      "보자"
+     ],
+     "en": "I don't want to watch this movie.",
+     "why": "As a statement, ~ㄹ래요 says what I want to do."
+    },
+    {
+     "type": "translate",
+     "en": "Let's go to the library together. (casual)",
+     "ko": "같이 도서관에 가자."
+    },
+    {
+     "type": "translate",
+     "en": "Let's start the training tomorrow.",
+     "ko": "연수를 내일 시작합시다."
+    },
+    {
+     "type": "translate",
+     "en": "What do you want to eat for dinner?",
+     "ko": "저녁에 뭐 먹을래요?"
+    },
+    {
+     "type": "translate",
+     "en": "Could you turn on the TV?",
+     "ko": "텔레비전 좀 틀어 줄래요?"
+    }
+   ],
+   "reading": {
+    "ko": "민수: 지수야, 주말에 뭐 할래? 지수: 날씨가 좋으면 공원에 가자. 민수: 좋아. 같이 김밥을 만들자. 지수: 그런데 나는 토요일에 연수가 있어. 일요일에 갈래? 민수: 그래, 일요일에 가자. 지수: 그럼 열한 시에 우리 집 앞에서 만나자.",
+    "en": "Minsu: Jisu, what do you want to do this weekend? Jisu: If the weather is nice, let's go to the park. Minsu: Sounds good. Let's make gimbap together. Jisu: But I have training on Saturday. Do you want to go on Sunday? Minsu: OK, let's go on Sunday. Jisu: Then let's meet in front of my house at eleven.",
+    "questions": [
+     {
+      "q": "두 사람은 언제 공원에 가요?",
+      "a": "일요일에 가요."
+     },
+     {
+      "q": "지수는 왜 토요일에 못 가요?",
+      "a": "연수가 있어요."
+     },
+     {
+      "q": "두 사람은 어디에서 만나요?",
+      "a": "지수 집 앞에서 만나요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 45,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 한국 노래를 ___ 수 있어요.",
+     "answer": "부를",
+     "options": [
+      "부를",
+      "부르을",
+      "불를",
+      "부른"
+     ],
+     "en": "I can sing Korean songs.",
+     "why": "부르다 ends in a vowel, so it takes ㄹ before 수."
+    },
+    {
+     "type": "fill",
+     "ko": "다리가 아파서 오래 ___ 수 없어요.",
+     "answer": "걸을",
+     "options": [
+      "걸을",
+      "걷을",
+      "걸",
+      "걷는"
+     ],
+     "en": "My leg hurts, so I can't walk for long.",
+     "why": "걷다 is ㄷ irregular, so it becomes 걸을."
+    },
+    {
+     "type": "fill",
+     "ko": "이 약은 손에 ___ 수 있어요.",
+     "answer": "바를",
+     "options": [
+      "바를",
+      "바르을",
+      "발를",
+      "바른"
+     ],
+     "en": "You can apply this medicine to your hands.",
+     "why": "바르다 ends in a vowel, so it simply takes ㄹ."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 김치를 ___ 수 있어요.",
+     "answer": "만들",
+     "options": [
+      "만들",
+      "만들을",
+      "만드을",
+      "만든"
+     ],
+     "en": "I can make kimchi.",
+     "why": "ㄹ stems take nothing extra: 만들 수 있어요."
+    },
+    {
+     "type": "fill",
+     "ko": "어제는 너무 바빠서 점심을 먹을 수 ___.",
+     "answer": "없었어요",
+     "options": [
+      "없었어요",
+      "없어요",
+      "없을 거예요",
+      "없겠어요"
+     ],
+     "en": "Yesterday I was so busy that I couldn't eat lunch.",
+     "why": "Only 없다 changes for tense, so the past is 없었어요."
+    },
+    {
+     "type": "fill",
+     "ko": "내일은 일찍 올 수 ___.",
+     "answer": "있을 거예요",
+     "options": [
+      "있을 거예요",
+      "있었어요",
+      "있었을 거예요",
+      "있을 것예요"
+     ],
+     "en": "I'll probably be able to come early tomorrow.",
+     "why": "For the future, put 있다 in the future: 있을 거예요."
+    },
+    {
+     "type": "fill",
+     "ko": "이 문제는 너무 어려워서 혼자 풀 수___ 없어요.",
+     "answer": "가",
+     "options": [
+      "가",
+      "이",
+      "를",
+      "에"
+     ],
+     "en": "This problem is so hard that I just can't solve it alone.",
+     "why": "수 ends in a vowel, so the emphatic particle is 가."
+    },
+    {
+     "type": "fill",
+     "ko": "숙제를 할 때 이 사전을 참고___ 수 있어요.",
+     "answer": "할",
+     "options": [
+      "할",
+      "하을",
+      "한",
+      "해"
+     ],
+     "en": "When you do your homework, you can refer to this dictionary.",
+     "why": "하다 becomes 할 before 수 있다."
+    },
+    {
+     "type": "translate",
+     "en": "Can you speak Japanese?",
+     "ko": "일본어를 할 수 있어요?"
+    },
+    {
+     "type": "translate",
+     "en": "I couldn't go to the party yesterday.",
+     "ko": "어제 파티에 갈 수 없었어요."
+    },
+    {
+     "type": "translate",
+     "en": "If the deadline passes, you can't get a refund.",
+     "ko": "기한이 지나면 환불을 받을 수 없어요."
+    },
+    {
+     "type": "translate",
+     "en": "This road is slippery, so you can't ride a bike.",
+     "ko": "이 길은 미끄러워서 자전거를 탈 수 없어요."
+    }
+   ],
+   "reading": {
+    "ko": "오늘 아침에 첫눈이 왔어요. 길이 아주 미끄러웠어요. 그래서 저는 빨리 걸을 수 없었어요. 버스도 빨리 올 수 없었어요. 저는 회사에 늦게 도착했어요. 내일은 눈이 안 오면 일찍 갈 수 있을 거예요.",
+    "en": "This morning the first snow fell. The roads were very slippery. So I couldn't walk fast. The bus couldn't come quickly either. I arrived at work late. Tomorrow, if it doesn't snow, I'll probably be able to go early.",
+    "questions": [
+     {
+      "q": "오늘 아침에 뭐가 왔어요?",
+      "a": "첫눈이 왔어요."
+     },
+     {
+      "q": "왜 빨리 걸을 수 없었어요?",
+      "a": "길이 아주 미끄러웠어요."
+     },
+     {
+      "q": "이 사람은 회사에 언제 도착했어요?",
+      "a": "늦게 도착했어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 46,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "회의 전에 이 계획을 ___ 돼요.",
+     "answer": "검토해야",
+     "options": [
+      "검토해야",
+      "검토하야",
+      "검토해도",
+      "검토하면"
+     ],
+     "en": "I have to review this plan before the meeting.",
+     "why": "하다 verbs become 해야 before 하다/되다."
+    },
+    {
+     "type": "fill",
+     "ko": "내일 시험이 있어서 오늘 일찍 ___ 해요.",
+     "answer": "자야",
+     "options": [
+      "자야",
+      "자어야",
+      "잘야",
+      "자서"
+     ],
+     "en": "I have a test tomorrow, so I have to go to bed early today.",
+     "why": "자다 ends in ㅏ, so 아야 contracts to 자야."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님 말씀을 잘 ___ 돼요.",
+     "answer": "들어야",
+     "options": [
+      "들어야",
+      "듣어야",
+      "들아야",
+      "듣야"
+     ],
+     "en": "You have to listen carefully to what the teacher says.",
+     "why": "듣다 is ㄷ irregular, so it becomes 들어야."
+    },
+    {
+     "type": "fill",
+     "ko": "지난주에는 매일 회사에 일찍 가야 ___.",
+     "answer": "했어요",
+     "options": [
+      "했어요",
+      "해요",
+      "할 거예요",
+      "하세요"
+     ],
+     "en": "Last week I had to go to the office early every day.",
+     "why": "Only the final 하다 changes for tense: 가야 했어요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 새 컴퓨터___ 필요해요.",
+     "answer": "가",
+     "options": [
+      "가",
+      "를",
+      "이",
+      "을"
+     ],
+     "en": "I need a new computer.",
+     "why": "필요하다 is an adjective, so the needed thing takes 이/가, and 컴퓨터 ends in a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 우산을 가져갈 ___ 없어요.",
+     "answer": "필요가",
+     "options": [
+      "필요가",
+      "필요를",
+      "필요해",
+      "필요한"
+     ],
+     "en": "There's no need to take an umbrella today.",
+     "why": "~ㄹ/을 필요가 없다 means there is no need to."
+    },
+    {
+     "type": "fill",
+     "ko": "벌써 열 시예요. 이제 집에 ___.",
+     "answer": "가야겠어요",
+     "options": [
+      "가야겠어요",
+      "가겠어야요",
+      "가어야겠어요",
+      "가야겄어요"
+     ],
+     "en": "It's already ten o'clock. I'd better go home now.",
+     "why": "~아/어야겠다 means 'I'd better' after realizing something."
+    },
+    {
+     "type": "fill",
+     "ko": "아프면 병원에 ___.",
+     "answer": "가야죠",
+     "options": [
+      "가야죠",
+      "가야요",
+      "가죠야",
+      "가어야죠"
+     ],
+     "en": "If you're sick, you should go to the hospital, of course.",
+     "why": "In speech, ~아/어야죠 means 'of course you should'."
+    },
+    {
+     "type": "translate",
+     "en": "We have to connect these two computers.",
+     "ko": "이 두 컴퓨터를 연결해야 돼요."
+    },
+    {
+     "type": "translate",
+     "en": "I need a new phone.",
+     "ko": "저는 새 핸드폰이 필요해요."
+    },
+    {
+     "type": "translate",
+     "en": "If you want to succeed, you have to work hard.",
+     "ko": "성공하고 싶으면 열심히 일해야 돼요."
+    },
+    {
+     "type": "translate",
+     "en": "There's no need to buy a new fence.",
+     "ko": "새 울타리를 살 필요가 없어요."
+    }
+   ],
+   "reading": {
+    "ko": "다음 주에 시험이 있어요. 그래서 이번 주에는 공부를 많이 해야 돼요. 그런데 요즘 시력이 나빠져서 화면이 잘 안 보여요. 안경이 필요해요. 내일 안경을 사러 가야겠어요. 친구가 좋은 안경 가게를 알고 있어요. 그래서 걱정할 필요가 없어요.",
+    "en": "I have a test next week. So I have to study a lot this week. But lately my eyesight has gotten worse, so I can't see the screen well. I need glasses. I'd better go buy glasses tomorrow. My friend knows a good glasses shop. So there's no need to worry.",
+    "questions": [
+     {
+      "q": "다음 주에 뭐가 있어요?",
+      "a": "시험이 있어요."
+     },
+     {
+      "q": "이 사람은 뭐가 필요해요?",
+      "a": "안경이 필요해요."
+     },
+     {
+      "q": "왜 걱정할 필요가 없어요?",
+      "a": "친구가 좋은 안경 가게를 알고 있어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 47,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "이 아파트는 ___ 아주 넓어요.",
+     "answer": "비싸지만",
+     "options": [
+      "비싸지만",
+      "비싸만",
+      "비싼지만",
+      "비싸서"
+     ],
+     "en": "This apartment is expensive, but it's very spacious.",
+     "why": "~지만 attaches straight to the stem to show contrast."
+    },
+    {
+     "type": "fill",
+     "ko": "어제는 많이 ___ 오늘은 괜찮아요.",
+     "answer": "아팠지만",
+     "options": [
+      "아팠지만",
+      "아프지만",
+      "아파지만",
+      "아팠만"
+     ],
+     "en": "I was very sick yesterday, but today I'm okay.",
+     "why": "For a past contrast, add ~지만 after 았/었: 아팠지만."
+    },
+    {
+     "type": "fill",
+     "ko": "그 사람은 학생___ 돈이 많아요.",
+     "answer": "이지만",
+     "options": [
+      "이지만",
+      "지만",
+      "이만",
+      "인지만"
+     ],
+     "en": "That person is a student, but has a lot of money.",
+     "why": "학생 ends in a consonant, so 이다 + 지만 is 이지만."
+    },
+    {
+     "type": "fill",
+     "ko": "그 영화는 ___ 재미있었어요.",
+     "answer": "길었지만",
+     "options": [
+      "길었지만",
+      "길었만",
+      "긴지만",
+      "길어지만"
+     ],
+     "en": "That movie was long, but it was fun.",
+     "why": "The movie was long in the past, so use 길었지만."
+    },
+    {
+     "type": "fill",
+     "ko": "상처는 ___ 많이 아프지 않아요.",
+     "answer": "크지만",
+     "options": [
+      "크지만",
+      "커지만",
+      "큰지만",
+      "크만"
+     ],
+     "en": "The wound is big, but it doesn't hurt much.",
+     "why": "~지만 attaches to the stem with no change: 크지만."
+    },
+    {
+     "type": "fill",
+     "ko": "내일은 ___ 저는 운동하러 갈 거예요.",
+     "answer": "춥겠지만",
+     "options": [
+      "춥겠지만",
+      "추웠지만",
+      "추우지만",
+      "춥겠만"
+     ],
+     "en": "It will probably be cold tomorrow, but I'll go exercise.",
+     "why": "For a guess about the future, use ~겠지만."
+    },
+    {
+     "type": "fill",
+     "ko": "로그인___ 화면이 안 바뀌어요.",
+     "answer": "했지만",
+     "options": [
+      "했지만",
+      "해지만",
+      "한지만",
+      "하만"
+     ],
+     "en": "I logged in, but the screen doesn't change.",
+     "why": "The login already happened, so use the past 했지만."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 그 사람이 좋아요. ___ 결혼은 안 할 거예요.",
+     "answer": "그렇지만",
+     "options": [
+      "그렇지만",
+      "그러면",
+      "그래서",
+      "아니면"
+     ],
+     "en": "I like that person. However, I won't marry them.",
+     "why": "그렇지만 starts a sentence meaning 'however'."
+    },
+    {
+     "type": "translate",
+     "en": "I wanted to participate, but I didn't have time.",
+     "ko": "참가하고 싶었지만 시간이 없었어요."
+    },
+    {
+     "type": "translate",
+     "en": "The sunlight is warm, but the wind is cold.",
+     "ko": "햇살은 따뜻하지만 바람은 차가워요."
+    },
+    {
+     "type": "translate",
+     "en": "However, I can't go today.",
+     "ko": "그렇지만 저는 오늘 갈 수 없어요."
+    },
+    {
+     "type": "translate",
+     "en": "I'm sorry, but I can't help you.",
+     "ko": "미안하지만 도와줄 수 없어요."
+    }
+   ],
+   "reading": {
+    "ko": "우리 아파트는 작지만 아주 깨끗해요. 아파트 앞에는 넓은 잔디가 있어요. 잔디는 예쁘지만 들어갈 수 없어요. 경비 아저씨는 엄격하시지만 친절하세요. 어제 우리 강아지가 잔디에 들어갔어요. 아저씨는 소리를 지르셨지만 강아지를 보고 웃으셨어요.",
+    "en": "Our apartment is small but very clean. In front of the apartment there is a wide lawn. The lawn is pretty, but you can't go on it. The security guard is strict but kind. Yesterday our puppy went onto the lawn. The guard shouted, but then he saw the puppy and laughed.",
+    "questions": [
+     {
+      "q": "아파트 앞에 뭐가 있어요?",
+      "a": "넓은 잔디가 있어요."
+     },
+     {
+      "q": "경비 아저씨는 어떤 분이에요?",
+      "a": "엄격하시지만 친절하세요."
+     },
+     {
+      "q": "어제 강아지가 어디에 들어갔어요?",
+      "a": "잔디에 들어갔어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 48,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "비가 ___ 저는 산책할 거예요.",
+     "answer": "와도",
+     "options": [
+      "와도",
+      "오도",
+      "와서",
+      "오아도"
+     ],
+     "en": "Even if it rains, I'll go for a walk.",
+     "why": "오다 + 아도 contracts to 와도."
+    },
+    {
+     "type": "fill",
+     "ko": "아무리 ___ 살이 안 빠져요.",
+     "answer": "운동해도",
+     "options": [
+      "운동해도",
+      "운동하도",
+      "운동하지만",
+      "운동해서"
+     ],
+     "en": "No matter how much I exercise, I don't lose weight.",
+     "why": "아무리 goes with ~아/어도, and 하다 becomes 해도."
+    },
+    {
+     "type": "fill",
+     "ko": "이 식당에서는 뭘 ___ 맛있어요.",
+     "answer": "먹어도",
+     "options": [
+      "먹어도",
+      "먹아도",
+      "먹도",
+      "먹으면도"
+     ],
+     "en": "At this restaurant, whatever you eat is delicious.",
+     "why": "뭘 + ~아/어도 means 'whatever', and 먹다 takes 어도."
+    },
+    {
+     "type": "fill",
+     "ko": "날씨가 ___ 저는 창문을 열어요.",
+     "answer": "추워도",
+     "options": [
+      "추워도",
+      "춥어도",
+      "추와도",
+      "춥도"
+     ],
+     "en": "Even if it's cold, I open the window.",
+     "why": "춥다 is ㅂ irregular, so it becomes 추워도."
+    },
+    {
+     "type": "fill",
+     "ko": "버스가 아무리 ___ 우리는 늦을 거예요.",
+     "answer": "빨라도",
+     "options": [
+      "빨라도",
+      "빠르어도",
+      "빨러도",
+      "빠라도"
+     ],
+     "en": "No matter how fast the bus is, we will be late.",
+     "why": "빠르다 is 르 irregular, so it becomes 빨라도."
+    },
+    {
+     "type": "fill",
+     "ko": "비싼 보석___ 저는 안 받을 거예요.",
+     "answer": "이어도",
+     "options": [
+      "이어도",
+      "여도",
+      "어도",
+      "아도"
+     ],
+     "en": "Even if it's an expensive jewel, I won't accept it.",
+     "why": "보석 ends in a consonant, so 이다 becomes 이어도."
+    },
+    {
+     "type": "fill",
+     "ko": "그 사람이 건축가___ 이 집은 지을 수 없을 거예요.",
+     "answer": "여도",
+     "options": [
+      "여도",
+      "이어도",
+      "이여도",
+      "해도"
+     ],
+     "en": "Even if that person is an architect, they won't be able to build this house.",
+     "why": "건축가 ends in a vowel, so 이어도 shortens to 여도."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 비가 많이 와요. ___ 박람회에 갈 거예요.",
+     "answer": "그래도",
+     "options": [
+      "그래도",
+      "그래서",
+      "그러면",
+      "그렇다면"
+     ],
+     "en": "It's raining a lot today. Even so, I'll go to the fair.",
+     "why": "그래도 means 'even so'."
+    },
+    {
+     "type": "translate",
+     "en": "Even if I'm busy, I call my mom every day.",
+     "ko": "저는 바빠도 매일 엄마에게 전화해요."
+    },
+    {
+     "type": "translate",
+     "en": "No matter how sweet it is, I don't like cake.",
+     "ko": "아무리 달콤해도 저는 케이크를 안 좋아해요."
+    },
+    {
+     "type": "translate",
+     "en": "Even on weekends, I can't sleep late.",
+     "ko": "주말이어도 늦게까지 잘 수 없어요."
+    },
+    {
+     "type": "translate",
+     "en": "It's expensive. Even so, I want to buy it.",
+     "ko": "비싸요. 그래도 사고 싶어요."
+    }
+   ],
+   "reading": {
+    "ko": "우리 가족은 매년 여름에 호숫가에 가요. 비가 와도 우리는 꼭 가요. 작년에는 태풍이 왔어요. 그래도 우리는 호숫가에 갔어요. 거기는 아무리 더워도 바람이 시원해요. 호수에는 새끼 오리가 많아요. 새끼 오리는 아무리 봐도 귀여워요.",
+    "en": "My family goes to the lakeside every summer. Even if it rains, we always go. Last year a typhoon came. Even so, we went to the lakeside. No matter how hot it is there, the wind is cool. There are many ducklings on the lake. No matter how often I look at them, the ducklings are cute.",
+    "questions": [
+     {
+      "q": "이 가족은 매년 어디에 가요?",
+      "a": "호숫가에 가요."
+     },
+     {
+      "q": "작년에 뭐가 왔어요?",
+      "a": "태풍이 왔어요."
+     },
+     {
+      "q": "태풍이 왔지만 이 가족은 어떻게 했어요?",
+      "a": "호숫가에 갔어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 49,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "이 컴퓨터를 ___ 돼요?",
+     "answer": "써도",
+     "options": [
+      "써도",
+      "쓰어도",
+      "쓰도",
+      "써서"
+     ],
+     "en": "May I use this computer?",
+     "why": "쓰다 is ㅡ irregular, so 쓰 + 어도 becomes 써도."
+    },
+    {
+     "type": "fill",
+     "ko": "이 펜을 ___ 돼요?",
+     "answer": "빌려도",
+     "options": [
+      "빌려도",
+      "빌리도",
+      "빌러도",
+      "빌려서"
+     ],
+     "en": "May I borrow this pen?",
+     "why": "빌리 + 어도 contracts to 빌려도."
+    },
+    {
+     "type": "fill",
+     "ko": "음악을 ___ 괜찮아요?",
+     "answer": "들어도",
+     "options": [
+      "들어도",
+      "듣어도",
+      "들도",
+      "듣도"
+     ],
+     "en": "Is it okay if I listen to music?",
+     "why": "듣다 is ㄷ irregular, so it becomes 들어도."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 일찍 ___ 좋아요.",
+     "answer": "자도",
+     "options": [
+      "자도",
+      "자아도",
+      "자지도",
+      "자서"
+     ],
+     "en": "You can go to bed early today.",
+     "why": "~아/어도 좋다 gives permission, and 자 + 아도 is 자도."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 숙제를 ___ 해도 돼요.",
+     "answer": "안",
+     "options": [
+      "안",
+      "않",
+      "아니",
+      "없"
+     ],
+     "en": "You don't have to do your homework today.",
+     "why": "안 + ~아/어도 되다 means 'you don't have to'."
+    },
+    {
+     "type": "fill",
+     "ko": "정장을 ___ 않아도 돼요.",
+     "answer": "입지",
+     "options": [
+      "입지",
+      "입어",
+      "입고",
+      "입을"
+     ],
+     "en": "You don't have to wear a suit.",
+     "why": "~지 않아도 되다 means 'you don't have to'."
+    },
+    {
+     "type": "fill",
+     "ko": "인터넷이 잘 안 ___.",
+     "answer": "돼요",
+     "options": [
+      "돼요",
+      "되요",
+      "대요",
+      "돼어요"
+     ],
+     "en": "The internet isn't working well.",
+     "why": "되다 here means 'to work', and 되어요 contracts to 돼요."
+    },
+    {
+     "type": "fill",
+     "ko": "밥이 다 ___.",
+     "answer": "됐어요",
+     "options": [
+      "됐어요",
+      "됬어요",
+      "돼었어요",
+      "되었요"
+     ],
+     "en": "The rice is ready.",
+     "why": "되다 can mean 'to be done', and 되었어요 contracts to 됐어요."
+    },
+    {
+     "type": "translate",
+     "en": "May I open this box?",
+     "ko": "이 상자를 열어도 돼요?"
+    },
+    {
+     "type": "translate",
+     "en": "You don't have to come tomorrow.",
+     "ko": "내일은 안 와도 돼요."
+    },
+    {
+     "type": "translate",
+     "en": "Is it okay if I call you tonight?",
+     "ko": "오늘 밤에 전화해도 괜찮아요?"
+    },
+    {
+     "type": "translate",
+     "en": "You don't have to have a license.",
+     "ko": "자격증이 없어도 돼요."
+    }
+   ],
+   "reading": {
+    "ko": "오늘 학교에서 탁구 시합이 있었어요. 시합 전에 감독관님이 규정을 설명해 주셨어요. 시합 중에 물을 마셔도 돼요. 그리고 꼭 이기지 않아도 돼요. 저는 시합에서 이기지 못했지만 정말 재미있었어요. 다음 시합에도 꼭 참가할 거예요.",
+    "en": "Today there was a table tennis match at school. Before the match, the supervisor explained the rules. You may drink water during the match. And you don't have to win. I couldn't win the match, but it was really fun. I'll definitely take part in the next match too.",
+    "questions": [
+     {
+      "q": "오늘 학교에서 무슨 시합이 있었어요?",
+      "a": "탁구 시합이 있었어요."
+     },
+     {
+      "q": "누가 규정을 설명해 주셨어요?",
+      "a": "감독관님이 설명해 주셨어요."
+     },
+     {
+      "q": "시합 중에 뭘 해도 돼요?",
+      "a": "물을 마셔도 돼요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 50,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 다음 주에 제주도에 ___ 예정이에요.",
+     "answer": "갈",
+     "options": [
+      "갈",
+      "가는",
+      "간",
+      "가을"
+     ],
+     "en": "I'm scheduled to go to Jeju Island next week.",
+     "why": "예정 is described with the future modifier ㄹ/을."
+    },
+    {
+     "type": "fill",
+     "ko": "그 섬에 큰 공항을 ___ 예정이에요.",
+     "answer": "지을",
+     "options": [
+      "지을",
+      "짓을",
+      "질",
+      "짓는"
+     ],
+     "en": "They plan to build a big airport on that island.",
+     "why": "짓다 is ㅅ irregular, so the ㅅ drops: 지을."
+    },
+    {
+     "type": "fill",
+     "ko": "회의는 두 시에 끝날 예정___.",
+     "answer": "이에요",
+     "options": [
+      "이에요",
+      "예요",
+      "있어요",
+      "해요"
+     ],
+     "en": "The meeting is scheduled to end at two.",
+     "why": "예정 ends in a consonant, so 이다 becomes 이에요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 채식주의자가 될 계획___ 있어요.",
+     "answer": "이",
+     "options": [
+      "이",
+      "가",
+      "을",
+      "를"
+     ],
+     "en": "I have plans to become a vegetarian.",
+     "why": "계획 ends in a consonant and is followed by 있다, so it takes 이."
+    },
+    {
+     "type": "fill",
+     "ko": "올해는 이사할 계획이 ___.",
+     "answer": "없어요",
+     "options": [
+      "없어요",
+      "있어요",
+      "아니에요",
+      "안 돼요"
+     ],
+     "en": "I have no plans to move this year.",
+     "why": "Having no plans is ~ㄹ/을 계획이 없다."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 이제 시험을 볼 준비가 ___.",
+     "answer": "됐어요",
+     "options": [
+      "됐어요",
+      "했어요",
+      "됬어요",
+      "있어요"
+     ],
+     "en": "I am ready to take the test now.",
+     "why": "준비가 됐어요 means the preparation is done: 'I'm ready'."
+    },
+    {
+     "type": "fill",
+     "ko": "지금 나갈 준비___ 하고 있어요.",
+     "answer": "를",
+     "options": [
+      "를",
+      "가",
+      "이",
+      "을"
+     ],
+     "en": "I'm getting ready to go out now.",
+     "why": "With the action verb 하다, 준비 takes the object particle, and it ends in a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "엄마가 고기를 ___ 준비를 하고 계세요.",
+     "answer": "구울",
+     "options": [
+      "구울",
+      "굽을",
+      "굴",
+      "굽는"
+     ],
+     "en": "Mom is getting ready to grill the meat.",
+     "why": "굽다 (to grill) is ㅂ irregular, so it becomes 구울."
+    },
+    {
+     "type": "translate",
+     "en": "The test is scheduled to start at nine.",
+     "ko": "시험은 아홉 시에 시작할 예정이에요."
+    },
+    {
+     "type": "translate",
+     "en": "Do you have plans to quit your job?",
+     "ko": "일을 그만둘 계획이 있어요?"
+    },
+    {
+     "type": "translate",
+     "en": "Are you ready to leave?",
+     "ko": "떠날 준비가 됐어요?"
+    },
+    {
+     "type": "translate",
+     "en": "Hurry up and get ready to eat.",
+     "ko": "빨리 먹을 준비를 하세요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 다음 달에 친구들과 작은 섬에 갈 예정이에요. 섬에서 삼 일 동안 있을 계획이에요. 저는 채식주의자라서 고기를 안 먹어요. 그래서 친구들이 고기를 구우면 저는 야채를 구울 거예요. 섬에서 복숭아하고 참외도 먹을 계획이 있어요. 지금 여행 갈 준비를 하고 있어요. 하지만 아직 준비가 다 안 됐어요.",
+    "en": "Next month I'm scheduled to go to a small island with my friends. We plan to stay on the island for three days. I'm a vegetarian, so I don't eat meat. So when my friends grill meat, I'll grill vegetables. We also plan to eat peaches and oriental melons on the island. I'm getting ready for the trip now. But I'm not completely ready yet.",
+    "questions": [
+     {
+      "q": "이 사람은 다음 달에 어디에 갈 예정이에요?",
+      "a": "작은 섬에 갈 예정이에요."
+     },
+     {
+      "q": "이 사람은 왜 고기를 안 먹어요?",
+      "a": "채식주의자라서 고기를 안 먹어요."
+     },
+     {
+      "q": "여행 준비가 다 됐어요?",
+      "a": "아니요, 아직 다 안 됐어요."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,1320 @@
+{
+ "range": "34-42",
+ "lessons": [
+  {
+   "n": 34,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "아이가 대답하기 전에 ___.",
+     "answer": "머뭇거렸어요",
+     "options": [
+      "머뭇거렸어요",
+      "반짝거렸어요",
+      "끈적거렸어요",
+      "출렁거렸어요"
+     ],
+     "en": "The child hesitated before answering.",
+     "why": "머뭇거리다 means to hesitate; the other ~거리다 verbs describe shining, stickiness and sloshing."
+    },
+    {
+     "type": "fill",
+     "ko": "하늘에 별이 ___.",
+     "answer": "반짝거려요",
+     "options": [
+      "반짝거려요",
+      "머뭇거려요",
+      "끈적거려요",
+      "두리번거려요"
+     ],
+     "en": "Stars are twinkling in the sky.",
+     "why": "반짝거리다 describes something repeatedly shining or twinkling."
+    },
+    {
+     "type": "fill",
+     "ko": "지수는 ___ 가방을 찾고 있어요.",
+     "answer": "자기",
+     "options": [
+      "자기",
+      "제",
+      "내",
+      "네"
+     ],
+     "en": "Jisu is looking for her own bag.",
+     "why": "자기 points back to the third-person subject, 지수."
+    },
+    {
+     "type": "fill",
+     "ko": "버스가 ___ 안 왔어요.",
+     "answer": "아직",
+     "options": [
+      "아직",
+      "여전히",
+      "훨씬",
+      "일단"
+     ],
+     "en": "The bus hasn't come yet.",
+     "why": "아직 with a negative means \"not yet\"."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 커피를 ___ 안 마셔요.",
+     "answer": "전혀",
+     "options": [
+      "전혀",
+      "별로",
+      "훨씬",
+      "일단"
+     ],
+     "en": "I don't drink coffee at all.",
+     "why": "전혀 with a negative means \"not at all\"; 별로 would only mean \"not much\"."
+    },
+    {
+     "type": "fill",
+     "ko": "지하철이 버스보다 ___ 빨라요.",
+     "answer": "훨씬",
+     "options": [
+      "훨씬",
+      "별로",
+      "전혀",
+      "아직"
+     ],
+     "en": "The subway is much faster than the bus.",
+     "why": "훨씬 strengthens a ~보다 comparison; 별로 and 전혀 need a negative."
+    },
+    {
+     "type": "fill",
+     "ko": "한국 음식에 ___ 책을 샀어요.",
+     "answer": "관한",
+     "options": [
+      "관한",
+      "관해",
+      "관하는",
+      "관해서"
+     ],
+     "en": "I bought a book about Korean food.",
+     "why": "Before a noun (책) use 관한; 관해(서) goes before a verb."
+    },
+    {
+     "type": "fill",
+     "ko": "요즘 살이 많이 ___.",
+     "answer": "쪘어요",
+     "options": [
+      "쪘어요",
+      "빠졌어요",
+      "찌어요",
+      "쪄었어요"
+     ],
+     "en": "I've gained a lot of weight lately.",
+     "why": "살이 찌다 is to gain weight; 찌 + 었어요 contracts to 쪘어요."
+    },
+    {
+     "type": "translate",
+     "en": "This coffee isn't very hot.",
+     "ko": "이 커피는 별로 뜨겁지 않아요."
+    },
+    {
+     "type": "translate",
+     "en": "There are many restaurants around the station.",
+     "ko": "역 주위에 식당이 많아요."
+    },
+    {
+     "type": "translate",
+     "en": "For now, I will wait here.",
+     "ko": "일단 여기서 기다릴 거예요."
+    },
+    {
+     "type": "translate",
+     "en": "Minsu is still busy (as always).",
+     "ko": "민수는 여전히 바빠요."
+    }
+   ],
+   "reading": {
+    "ko": "민수는 요즘 살이 많이 쪘어요. 작년보다 몸무게가 훨씬 많이 나가요. 민수는 일단 매일 공원에서 걷기 시작했어요. 공원 주위에는 나무가 많고 아주 조용해요. 살은 아직 별로 안 빠졌어요. 하지만 민수는 자기 자신을 믿어요. 요즘은 운동에 관한 책도 읽고 있어요.",
+    "en": "Minsu has gained a lot of weight lately. He weighs much more than last year. For now, he has started walking in the park every day. Around the park there are many trees and it is very quiet. He hasn't really lost weight yet. But Minsu believes in himself. These days he is also reading a book about exercise.",
+    "questions": [
+     {
+      "q": "민수는 요즘 살이 쪘어요, 빠졌어요?",
+      "a": "살이 많이 쪘어요."
+     },
+     {
+      "q": "민수는 매일 어디에서 걸어요?",
+      "a": "공원에서 걸어요."
+     },
+     {
+      "q": "민수는 무엇에 관한 책을 읽고 있어요?",
+      "a": "운동에 관한 책을 읽고 있어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 35,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "하늘이 어두워요. 오후에 비가 ___ 것 같아요.",
+     "answer": "올",
+     "options": [
+      "올",
+      "오는",
+      "온",
+      "와"
+     ],
+     "en": "The sky is dark. I think it will rain this afternoon.",
+     "why": "For a guess about the future, use the ~(으)ㄹ modifier before 것 같다."
+    },
+    {
+     "type": "fill",
+     "ko": "이 영화는 재미___ 것 같아요.",
+     "answer": "있을",
+     "options": [
+      "있을",
+      "있는",
+      "있은",
+      "있울"
+     ],
+     "en": "This movie will probably be fun (I haven't seen it yet).",
+     "why": "A guess about something not yet experienced uses ~(으)ㄹ 것 같다."
+    },
+    {
+     "type": "fill",
+     "ko": "밖에 눈이 ___ 것 같아요.",
+     "answer": "오는",
+     "options": [
+      "오는",
+      "온",
+      "올",
+      "와"
+     ],
+     "en": "It seems to be snowing outside right now.",
+     "why": "A present action you judge from evidence takes ~는 것 같다."
+    },
+    {
+     "type": "fill",
+     "ko": "민수가 벌써 휴가를 ___ 것 같아요.",
+     "answer": "간",
+     "options": [
+      "간",
+      "가는",
+      "갈",
+      "가"
+     ],
+     "en": "It seems Minsu has already gone on vacation.",
+     "why": "A past action takes the ~(으)ㄴ modifier before 것 같다."
+    },
+    {
+     "type": "fill",
+     "ko": "이 방은 너무 ___ 것 같아요.",
+     "answer": "답답한",
+     "options": [
+      "답답한",
+      "답답하는",
+      "답답할",
+      "답답해"
+     ],
+     "en": "This room seems really stuffy.",
+     "why": "A present-tense adjective takes ~(으)ㄴ before 것 같다, never ~는."
+    },
+    {
+     "type": "fill",
+     "ko": "저 식당이 비싸요? — 네, ___ 것 같아요.",
+     "answer": "그런",
+     "options": [
+      "그런",
+      "그렇는",
+      "그렇은",
+      "그렇게"
+     ],
+     "en": "Is that restaurant expensive? — Yes, it seems so.",
+     "why": "그렇다 becomes 그런 before 것 같다 (\"it seems so\")."
+    },
+    {
+     "type": "fill",
+     "ko": "하루 종일 일했어요? 정말 ___.",
+     "answer": "피곤하겠어요",
+     "options": [
+      "피곤하겠어요",
+      "피곤하겠요",
+      "피곤하게요",
+      "피곤하겠어서"
+     ],
+     "en": "You worked all day? You must be really tired.",
+     "why": "~겠어요 expresses a guess about someone else's state."
+    },
+    {
+     "type": "fill",
+     "ko": "와, 이 새우가 정말 ___!",
+     "answer": "맛있겠어요",
+     "options": [
+      "맛있겠어요",
+      "맛있겠요",
+      "맛있게요",
+      "맛있게어요"
+     ],
+     "en": "Wow, this shrimp must be really delicious!",
+     "why": "~겠어요 reacts to what you see with a guess: \"it must be\"."
+    },
+    {
+     "type": "translate",
+     "en": "I think it will be peaceful there.",
+     "ko": "거기는 평화로울 것 같아요."
+    },
+    {
+     "type": "translate",
+     "en": "That person seems really stylish.",
+     "ko": "그 사람은 정말 멋있는 것 같아요."
+    },
+    {
+     "type": "translate",
+     "en": "It seems he already replied.",
+     "ko": "그 사람이 벌써 답장한 것 같아요."
+    },
+    {
+     "type": "translate",
+     "en": "That must be really amazing!",
+     "ko": "정말 신기하겠어요!"
+    }
+   ],
+   "reading": {
+    "ko": "다음 주부터 휴가예요. 저는 친구하고 바다에 갈 거예요. 거기는 아주 평화로울 것 같아요. 친구는 낚시를 좋아하고 저는 새우를 좋아해요. 하지만 다음 주에 비가 올 것 같아요. 그래도 괜찮을 것 같아요. 친구도 이 여행을 아주 기대하는 것 같아요.",
+    "en": "My vacation starts next week. I'm going to the sea with a friend. I think it will be very peaceful there. My friend likes fishing and I like shrimp. But it looks like it will rain next week. Still, I think it will be okay. My friend seems to be really looking forward to this trip too.",
+    "questions": [
+     {
+      "q": "이 사람은 누구하고 바다에 갈 거예요?",
+      "a": "친구하고 갈 거예요."
+     },
+     {
+      "q": "친구는 무엇을 좋아해요?",
+      "a": "낚시를 좋아해요."
+     },
+     {
+      "q": "다음 주 날씨는 어떨 것 같아요?",
+      "a": "비가 올 것 같아요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 36,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "민수 씨, 오늘 기분이 ___ 보여요.",
+     "answer": "좋아",
+     "options": [
+      "좋아",
+      "좋",
+      "좋은",
+      "좋고"
+     ],
+     "en": "Minsu, you look like you're in a good mood today.",
+     "why": "An adjective takes its ~아/어 form before 보이다."
+    },
+    {
+     "type": "fill",
+     "ko": "이 김치가 좀 ___ 보여요.",
+     "answer": "짜",
+     "options": [
+      "짜",
+      "짠",
+      "짜고",
+      "짜다"
+     ],
+     "en": "This kimchi looks a bit salty.",
+     "why": "짜다 + ~아 보이다 contracts to 짜 보이다."
+    },
+    {
+     "type": "fill",
+     "ko": "그 아이가 아주 ___ 보였어요.",
+     "answer": "행복해",
+     "options": [
+      "행복해",
+      "행복한",
+      "행복하",
+      "행복하고"
+     ],
+     "en": "That child looked very happy.",
+     "why": "하다 adjectives become ~해 before 보이다; the tense goes on 보이다."
+    },
+    {
+     "type": "fill",
+     "ko": "저 구름은 고양이___ 보여요.",
+     "answer": "같이",
+     "options": [
+      "같이",
+      "같은",
+      "같아",
+      "같고"
+     ],
+     "en": "That cloud looks like a cat.",
+     "why": "Noun + 같이 + 보이다 means \"to look like\" that noun."
+    },
+    {
+     "type": "fill",
+     "ko": "창문으로 소방서가 ___.",
+     "answer": "보여요",
+     "options": [
+      "보여요",
+      "봐요",
+      "들려요",
+      "보아요"
+     ],
+     "en": "I can see the fire station through the window.",
+     "why": "보이다 (\"to be seen\") takes the thing seen as its subject: 소방서가 보여요."
+    },
+    {
+     "type": "fill",
+     "ko": "옆 방에서 음악 소리가 ___.",
+     "answer": "들려요",
+     "options": [
+      "들려요",
+      "들어요",
+      "보여요",
+      "듣어요"
+     ],
+     "en": "I can hear music from the next room.",
+     "why": "With 소리가 as the subject, use 들리다 (\"to be heard\"), not 듣다."
+    },
+    {
+     "type": "fill",
+     "ko": "음악___ 잘 안 들려요.",
+     "answer": "이",
+     "options": [
+      "이",
+      "을",
+      "에",
+      "으로"
+     ],
+     "en": "I can't hear the music well.",
+     "why": "The thing heard is the subject of 들리다, so it takes 이/가."
+    },
+    {
+     "type": "fill",
+     "ko": "이 음료수는 딸기 ___ 같아요.",
+     "answer": "맛",
+     "options": [
+      "맛",
+      "냄새",
+      "색",
+      "소리"
+     ],
+     "en": "This drink tastes like strawberry.",
+     "why": "Noun + 맛 같다 means \"tastes like\" that noun."
+    },
+    {
+     "type": "translate",
+     "en": "This studio apartment looks small.",
+     "ko": "이 원룸은 작아 보여요."
+    },
+    {
+     "type": "translate",
+     "en": "That bag looks heavy.",
+     "ko": "그 가방은 무거워 보여요."
+    },
+    {
+     "type": "translate",
+     "en": "That man looks like a student.",
+     "ko": "그 남자는 학생같이 보여요."
+    },
+    {
+     "type": "translate",
+     "en": "This smells like coffee.",
+     "ko": "이거 커피 냄새 같아요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 오늘 새 원룸을 보러 갔어요. 원룸은 좀 작아 보였어요. 하지만 아주 깨끗해 보였어요. 창문으로 산이 보였어요. 밖에서 차 소리가 조금 들렸어요. 관리비는 조금 비싼 것 같아요. 하지만 저는 그 원룸이 마음에 들어요.",
+    "en": "Today I went to see a new studio apartment. The studio looked a little small. But it looked very clean. I could see a mountain through the window. I could hear a little car noise from outside. The maintenance fee seems a bit expensive. But I like that studio.",
+    "questions": [
+     {
+      "q": "원룸은 어때 보였어요?",
+      "a": "좀 작아 보였어요. 하지만 아주 깨끗해 보였어요."
+     },
+     {
+      "q": "창문으로 뭐가 보였어요?",
+      "a": "산이 보였어요."
+     },
+     {
+      "q": "밖에서 무슨 소리가 들렸어요?",
+      "a": "차 소리가 들렸어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 37,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "배가 너무 ___ 라면을 두 개 먹었어요.",
+     "answer": "고파서",
+     "options": [
+      "고파서",
+      "고프서",
+      "고팠어서",
+      "고프고서"
+     ],
+     "en": "I was so hungry that I ate two packs of ramen.",
+     "why": "고프다 is ㅡ irregular, so it becomes 고파서."
+    },
+    {
+     "type": "fill",
+     "ko": "어제 눈이 많이 ___ 학교에 안 갔어요.",
+     "answer": "와서",
+     "options": [
+      "와서",
+      "왔어서",
+      "오서",
+      "올서"
+     ],
+     "en": "It snowed a lot yesterday, so I didn't go to school.",
+     "why": "Never put the past tense before ~아/어서; the final verb carries it."
+    },
+    {
+     "type": "fill",
+     "ko": "다리가 ___ 택시를 탔어요.",
+     "answer": "아파서",
+     "options": [
+      "아파서",
+      "아프서",
+      "아팠어서",
+      "아퍼서"
+     ],
+     "en": "My legs hurt, so I took a taxi.",
+     "why": "아프다 is ㅡ irregular: 아프 + 아서 becomes 아파서."
+    },
+    {
+     "type": "fill",
+     "ko": "연휴___ 서울역에 사람이 많아요.",
+     "answer": "라서",
+     "options": [
+      "라서",
+      "이라서",
+      "에서",
+      "가서"
+     ],
+     "en": "It's a long holiday, so Seoul Station is crowded.",
+     "why": "연휴 ends in a vowel, so it takes 라서."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 일요일___ 학교에 안 가요.",
+     "answer": "이라서",
+     "options": [
+      "이라서",
+      "라서",
+      "에서",
+      "으로서"
+     ],
+     "en": "Today is Sunday, so I'm not going to school.",
+     "why": "일요일 ends in a consonant, so it takes 이라서."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 일이 너무 많았어요. ___ 저녁을 못 먹었어요.",
+     "answer": "그래서",
+     "options": [
+      "그래서",
+      "하지만",
+      "왜냐하면",
+      "그런데"
+     ],
+     "en": "I had too much work today. So I couldn't eat dinner.",
+     "why": "그래서 starts a sentence that is the result of the one before."
+    },
+    {
+     "type": "fill",
+     "ko": "날씨가 ___ 창문을 열었어요.",
+     "answer": "더워서",
+     "options": [
+      "더워서",
+      "덥어서",
+      "더웠어서",
+      "덥서"
+     ],
+     "en": "It was hot, so I opened the window.",
+     "why": "덥다 is ㅂ irregular: 덥 + 어서 becomes 더워서."
+    },
+    {
+     "type": "fill",
+     "ko": "친구 이름을 ___ 너무 미안했어요.",
+     "answer": "깜빡해서",
+     "options": [
+      "깜빡해서",
+      "깜빡했어서",
+      "깜빡하서",
+      "깜빡해고"
+     ],
+     "en": "I forgot my friend's name, so I felt really sorry.",
+     "why": "하다 verbs become ~해서, with no past tense before it."
+    },
+    {
+     "type": "translate",
+     "en": "The long holiday starts tomorrow, so I'm really excited.",
+     "ko": "내일부터 연휴라서 정말 설레요."
+    },
+    {
+     "type": "translate",
+     "en": "I was busy, so I couldn't call.",
+     "ko": "바빠서 전화를 못 했어요."
+    },
+    {
+     "type": "translate",
+     "en": "It's not my bag, so I don't know.",
+     "ko": "제 가방이 아니라서 몰라요."
+    },
+    {
+     "type": "translate",
+     "en": "I was sick yesterday. So I didn't go to school.",
+     "ko": "어제 아팠어요. 그래서 학교에 안 갔어요."
+    }
+   ],
+   "reading": {
+    "ko": "지난 주말은 연휴라서 가족하고 부산에 갔어요. 고속도로가 너무 막혀서 다섯 시간이 걸렸어요. 저는 도시락을 깜빡했어요. 그래서 배가 많이 고팠어요. 부산에서 바다를 봤어요. 바다가 너무 예뻐서 기분이 좋았어요.",
+    "en": "Last weekend was a long holiday, so I went to Busan with my family. The highway was so jammed that it took five hours. I forgot my lunch box. So I was very hungry. In Busan I saw the sea. The sea was so pretty that I felt good.",
+    "questions": [
+     {
+      "q": "고속도로가 어땠어요?",
+      "a": "너무 막혔어요."
+     },
+     {
+      "q": "왜 배가 고팠어요?",
+      "a": "도시락을 깜빡해서 배가 고팠어요."
+     },
+     {
+      "q": "바다를 보고 기분이 어땠어요?",
+      "a": "기분이 좋았어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 38,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "눈 ___ 학교에 못 갔어요.",
+     "answer": "때문에",
+     "options": [
+      "때문에",
+      "때문이에요",
+      "때문을",
+      "때문이"
+     ],
+     "en": "I couldn't go to school because of the snow.",
+     "why": "Noun + 때문에 means \"because of\" that noun."
+    },
+    {
+     "type": "fill",
+     "ko": "내일 시험이 ___ 때문에 오늘은 공부할 거예요.",
+     "answer": "있기",
+     "options": [
+      "있기",
+      "있어서",
+      "있는",
+      "있게"
+     ],
+     "en": "Because I have an exam tomorrow, I'll study today.",
+     "why": "A verb or adjective needs ~기 before 때문에."
+    },
+    {
+     "type": "fill",
+     "ko": "어젯밤에 잠을 못 ___ 때문에 너무 피곤해요.",
+     "answer": "잤기",
+     "options": [
+      "잤기",
+      "자기",
+      "잔",
+      "잘"
+     ],
+     "en": "I'm very tired because I couldn't sleep last night.",
+     "why": "~기 때문에 can carry its own past tense: 잤기 때문에."
+    },
+    {
+     "type": "fill",
+     "ko": "제 동생은 학생___ 때문에 교복을 입어요.",
+     "answer": "이기",
+     "options": [
+      "이기",
+      "기",
+      "인",
+      "이에"
+     ],
+     "en": "My younger sibling wears a school uniform because they are a student.",
+     "why": "With 이다, use 이기 때문에; 학생 ends in a consonant, so 이 can't drop."
+    },
+    {
+     "type": "fill",
+     "ko": "제가 늦은 이유는 길이 ___ 때문이에요.",
+     "answer": "막혔기",
+     "options": [
+      "막혔기",
+      "막혀서",
+      "막힌",
+      "막히고"
+     ],
+     "en": "The reason I was late is that the road was jammed.",
+     "why": "End with ~았/었기 때문이에요 to give a past reason."
+    },
+    {
+     "type": "fill",
+     "ko": "요즘 너무 바빠요. ___ 친구를 자주 못 만나요.",
+     "answer": "그렇기 때문에",
+     "options": [
+      "그렇기 때문에",
+      "그렇지만",
+      "그런",
+      "왜냐하면"
+     ],
+     "en": "I'm very busy these days. Because of that, I can't see my friends often.",
+     "why": "그렇기 때문에 starts a sentence that follows from the previous one."
+    },
+    {
+     "type": "fill",
+     "ko": "왜 안 먹어요? — 배가 안 ___ 때문이에요.",
+     "answer": "고프기",
+     "options": [
+      "고프기",
+      "고파서",
+      "고픈",
+      "고프게"
+     ],
+     "en": "Why aren't you eating? — It's because I'm not hungry.",
+     "why": "~기 때문이에요 answers a 왜 question."
+    },
+    {
+     "type": "fill",
+     "ko": "작년에 주식에 ___ 때문에 지금 돈이 없어요.",
+     "answer": "투자했기",
+     "options": [
+      "투자했기",
+      "투자하기",
+      "투자해서",
+      "투자한"
+     ],
+     "en": "I have no money now because I invested in stocks last year.",
+     "why": "The reason is in the past, so use ~았/었기 때문에."
+    },
+    {
+     "type": "translate",
+     "en": "I couldn't sleep because of the noise.",
+     "ko": "소리 때문에 잠을 못 잤어요."
+    },
+    {
+     "type": "translate",
+     "en": "I don't want to do it because it's annoying.",
+     "ko": "귀찮기 때문에 하기 싫어요."
+    },
+    {
+     "type": "translate",
+     "en": "The streets are crowded because it's the weekend.",
+     "ko": "주말이기 때문에 거리가 북적거려요."
+    },
+    {
+     "type": "translate",
+     "en": "It's because I dropped my phone.",
+     "ko": "휴대폰을 떨어뜨렸기 때문이에요."
+    }
+   ],
+   "reading": {
+    "ko": "오늘 아침에 늦게 일어났어요. 어젯밤에 친구하고 오래 통화했기 때문이에요. 늦었기 때문에 세수도 못 했어요. 그리고 버스에서 휴대폰을 떨어뜨렸어요. 그렇기 때문에 지금 휴대폰이 안 돼요. 오늘은 정말 힘든 하루예요.",
+    "en": "I woke up late this morning. It's because I talked on the phone with a friend for a long time last night. Because I was late, I couldn't even wash my face. And I dropped my phone on the bus. Because of that, my phone doesn't work now. Today is a really hard day.",
+    "questions": [
+     {
+      "q": "왜 늦게 일어났어요?",
+      "a": "어젯밤에 친구하고 오래 통화했기 때문이에요."
+     },
+     {
+      "q": "왜 지금 휴대폰이 안 돼요?",
+      "a": "버스에서 휴대폰을 떨어뜨렸기 때문이에요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 39,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "할머니가 책을 ___.",
+     "answer": "읽으세요",
+     "options": [
+      "읽으세요",
+      "읽세요",
+      "읽어세요",
+      "읽으시요"
+     ],
+     "en": "Grandmother is reading a book.",
+     "why": "읽다 ends in a consonant, so it takes ~으세요."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님이 어제 한국에서 ___.",
+     "answer": "오셨어요",
+     "options": [
+      "오셨어요",
+      "왔으셨어요",
+      "오셨요",
+      "오시었요"
+     ],
+     "en": "The teacher came from Korea yesterday.",
+     "why": "~시 goes before the past tense: 오 + 시 + 었어요 = 오셨어요."
+    },
+    {
+     "type": "fill",
+     "ko": "아버지는 지금 미국에 ___.",
+     "answer": "사세요",
+     "options": [
+      "사세요",
+      "살으세요",
+      "살세요",
+      "살아세요"
+     ],
+     "en": "My father lives in America now.",
+     "why": "ㄹ stems drop the ㄹ before ~시: 살다 becomes 사세요."
+    },
+    {
+     "type": "fill",
+     "ko": "할아버지가 지금 방에서 ___.",
+     "answer": "주무세요",
+     "options": [
+      "주무세요",
+      "자세요",
+      "자요",
+      "주무어요"
+     ],
+     "en": "Grandfather is sleeping in his room now.",
+     "why": "주무시다 is the honorific verb for 자다."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님이 지금 교실에 ___.",
+     "answer": "계세요",
+     "options": [
+      "계세요",
+      "있으세요",
+      "있어요",
+      "계시세요"
+     ],
+     "en": "The teacher is in the classroom now.",
+     "why": "For a respected person being in a place, use 계시다."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님이 점심을 ___.",
+     "answer": "드셨어요",
+     "options": [
+      "드셨어요",
+      "드렸어요",
+      "먹었어요",
+      "드시었요"
+     ],
+     "en": "The teacher ate lunch.",
+     "why": "드시다 is the honorific verb for 먹다; 드리다 means to give."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님___ 꽃을 드렸어요.",
+     "answer": "께",
+     "options": [
+      "께",
+      "에게서",
+      "에",
+      "를"
+     ],
+     "en": "I gave the teacher flowers.",
+     "why": "~께 is the honorific \"to\" used with 드리다."
+    },
+    {
+     "type": "fill",
+     "ko": "할아버지께 커피를 ___ 싶어요.",
+     "answer": "드리고",
+     "options": [
+      "드리고",
+      "주고",
+      "드시고",
+      "주무시고"
+     ],
+     "en": "I want to give Grandfather some coffee.",
+     "why": "Giving to a respected person uses 드리다, not 주다."
+    },
+    {
+     "type": "translate",
+     "en": "My grandmother lives alone.",
+     "ko": "할머니는 혼자 사세요."
+    },
+    {
+     "type": "translate",
+     "en": "Is your mother at home?",
+     "ko": "어머니가 집에 계세요?"
+    },
+    {
+     "type": "translate",
+     "en": "The teacher answered my question.",
+     "ko": "선생님이 제 질문에 대답하셨어요."
+    },
+    {
+     "type": "translate",
+     "en": "I gave my grandmother a letter.",
+     "ko": "할머니께 편지를 드렸어요."
+    }
+   ],
+   "reading": {
+    "ko": "그저께 할머니 집에 갔어요. 할머니는 부산에 사세요. 저는 할머니께 과일을 드렸어요. 할머니가 정말 좋아하셨어요. 저녁에 할머니가 맛있는 음식을 많이 만드셨어요. 할머니는 밤 아홉 시에 주무셨어요.",
+    "en": "The day before yesterday I went to my grandmother's house. My grandmother lives in Busan. I gave her some fruit. She really liked it. In the evening she made a lot of delicious food. She went to sleep at nine at night.",
+    "questions": [
+     {
+      "q": "할머니는 어디에 사세요?",
+      "a": "부산에 사세요."
+     },
+     {
+      "q": "할머니께 무엇을 드렸어요?",
+      "a": "과일을 드렸어요."
+     },
+     {
+      "q": "할머니는 몇 시에 주무셨어요?",
+      "a": "아홉 시에 주무셨어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 40,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "의자에 ___.",
+     "answer": "앉으세요",
+     "options": [
+      "앉으세요",
+      "앉세요",
+      "앉아세요",
+      "앉으요"
+     ],
+     "en": "Please sit on the chair.",
+     "why": "앉다 ends in a consonant, so the polite command is 앉으세요."
+    },
+    {
+     "type": "fill",
+     "ko": "앞으로 ___.",
+     "answer": "직진하십시오",
+     "options": [
+      "직진하십시오",
+      "직진하십시요",
+      "직진합십시오",
+      "직진하시십시오"
+     ],
+     "en": "Please go straight ahead. (very formal)",
+     "why": "The most formal command is ~(으)십시오, spelled with 오."
+    },
+    {
+     "type": "fill",
+     "ko": "방을 깨끗하게 ___.",
+     "answer": "청소해라",
+     "options": [
+      "청소해라",
+      "청소하어라",
+      "청소해러",
+      "청소했라"
+     ],
+     "en": "Clean your room! (plain command to a child)",
+     "why": "~아/어라 is the blunt plain command; 하다 becomes 해라."
+    },
+    {
+     "type": "fill",
+     "ko": "늦지 ___.",
+     "answer": "마",
+     "options": [
+      "마",
+      "말",
+      "마서",
+      "말고"
+     ],
+     "en": "Don't be late. (casual)",
+     "why": "~지 말다 becomes ~지 마 as a casual command."
+    },
+    {
+     "type": "fill",
+     "ko": "여기에서 음식을 먹지 ___.",
+     "answer": "마세요",
+     "options": [
+      "마세요",
+      "말세요",
+      "말으세요",
+      "마서요"
+     ],
+     "en": "Please don't eat food here.",
+     "why": "말다 drops its ㄹ before ~세요: 마세요."
+    },
+    {
+     "type": "fill",
+     "ko": "빨리 ___!",
+     "answer": "일어나",
+     "options": [
+      "일어나",
+      "일어너",
+      "일어나아",
+      "일어났어"
+     ],
+     "en": "Get up quickly! (casual)",
+     "why": "The casual command is the plain ~아/어 form; 일어나 + 아 contracts to 일어나."
+    },
+    {
+     "type": "fill",
+     "ko": "안에서 담배를 ___ 마십시오.",
+     "answer": "피우지",
+     "options": [
+      "피우지",
+      "피우고",
+      "피워",
+      "피우게"
+     ],
+     "en": "Do not smoke inside.",
+     "why": "Negative commands are verb stem + ~지 + a form of 말다."
+    },
+    {
+     "type": "fill",
+     "ko": "왼쪽으로 ___.",
+     "answer": "가세요",
+     "options": [
+      "가세요",
+      "가으세요",
+      "갈세요",
+      "가새요"
+     ],
+     "en": "Please go to the left.",
+     "why": "가다 ends in a vowel, so it takes ~세요."
+    },
+    {
+     "type": "translate",
+     "en": "Please don't worry.",
+     "ko": "걱정하지 마세요."
+    },
+    {
+     "type": "translate",
+     "en": "Please come up here.",
+     "ko": "여기로 올라오세요."
+    },
+    {
+     "type": "translate",
+     "en": "Wash your hands first. (to a child)",
+     "ko": "먼저 손을 씻어라."
+    },
+    {
+     "type": "translate",
+     "en": "Please do not go in. (formal sign)",
+     "ko": "들어가지 마십시오."
+    }
+   ],
+   "reading": {
+    "ko": "엄마가 아이에게 편지를 썼어요. 일찍 일어나라. 일어나서 먼저 세수해라. 그리고 아침을 꼭 먹어라. 학교에서 친구하고 다투지 마라. 선생님 말씀을 잘 들어라. 늦지 마라!",
+    "en": "Mom wrote a letter to her child. Get up early. When you get up, wash your face first. And be sure to eat breakfast. Don't argue with your friends at school. Listen carefully to your teacher. Don't be late!",
+    "questions": [
+     {
+      "q": "누가 편지를 썼어요?",
+      "a": "엄마가 썼어요."
+     },
+     {
+      "q": "아이는 일어나서 먼저 뭐 해요?",
+      "a": "세수해요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 41,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "문 좀 ___ 주세요.",
+     "answer": "닫아",
+     "options": [
+      "닫아",
+      "닫어",
+      "닫고",
+      "닫은"
+     ],
+     "en": "Please close the door.",
+     "why": "닫다 has ㅏ, so it takes ~아 before 주세요."
+    },
+    {
+     "type": "fill",
+     "ko": "표 좀 ___ 주세요.",
+     "answer": "보여",
+     "options": [
+      "보여",
+      "봐",
+      "보이",
+      "보고"
+     ],
+     "en": "Please show me your ticket.",
+     "why": "보여 주다 means \"to show\"; 봐 주세요 would mean \"please look at\"."
+    },
+    {
+     "type": "fill",
+     "ko": "아버지가 저에게 자전거를 사 ___.",
+     "answer": "주셨어요",
+     "options": [
+      "주셨어요",
+      "드렸어요",
+      "드리셨어요",
+      "주시었요"
+     ],
+     "en": "My father bought me a bicycle.",
+     "why": "A respected person doing a favor for me: ~아/어 주시다; 드리다 is only for giving to them."
+    },
+    {
+     "type": "fill",
+     "ko": "친구가 이사를 ___ 줬어요.",
+     "answer": "도와",
+     "options": [
+      "도와",
+      "돕아",
+      "도와서",
+      "돕고"
+     ],
+     "en": "My friend helped me move.",
+     "why": "돕다 is ㅂ irregular and becomes 도와 before 주다."
+    },
+    {
+     "type": "fill",
+     "ko": "제 컴퓨터를 만지지 ___ 주세요.",
+     "answer": "말아",
+     "options": [
+      "말아",
+      "마",
+      "마세요",
+      "말고"
+     ],
+     "en": "Please don't touch my computer.",
+     "why": "\"Please don't\" as a favor is ~지 말아 주세요."
+    },
+    {
+     "type": "fill",
+     "ko": "생일 선물을 ___ 고마워요.",
+     "answer": "줘서",
+     "options": [
+      "줘서",
+      "주고",
+      "줬어서",
+      "주세요"
+     ],
+     "en": "Thank you for giving me a birthday present.",
+     "why": "Thanking someone uses ~아/어서 + 고마워요, with no past tense before 서."
+    },
+    {
+     "type": "fill",
+     "ko": "기다려 ___ 감사합니다.",
+     "answer": "주셔서",
+     "options": [
+      "주셔서",
+      "드려서",
+      "주셨어서",
+      "주시고"
+     ],
+     "en": "Thank you for waiting. (to a respected person)",
+     "why": "With respected people, use ~아/어 주셔서 감사합니다."
+    },
+    {
+     "type": "fill",
+     "ko": "그 펜 좀 ___.",
+     "answer": "줘",
+     "options": [
+      "줘",
+      "주",
+      "줘서",
+      "주고"
+     ],
+     "en": "Give me that pen. (casual)",
+     "why": "The casual command of 주다 is 줘."
+    },
+    {
+     "type": "translate",
+     "en": "Please show me the menu.",
+     "ko": "메뉴 좀 보여 주세요."
+    },
+    {
+     "type": "translate",
+     "en": "Thanks for listening to me. (casual)",
+     "ko": "내 말을 들어 줘서 고마워."
+    },
+    {
+     "type": "translate",
+     "en": "Please don't open my bag.",
+     "ko": "제 가방을 열지 말아 주세요."
+    },
+    {
+     "type": "translate",
+     "en": "My colleague bought me coffee.",
+     "ko": "동료가 커피를 사 줬어요."
+    }
+   ],
+   "reading": {
+    "ko": "어제 저는 왼발 발목을 다쳤어요. 그래서 걷기가 아주 힘들었어요. 동료가 제 가방을 들어 줬어요. 친구는 저녁을 만들어 줬어요. 저는 두 사람에게 정말 고마웠어요. 오늘은 동료에게 커피를 사 줄 거예요.",
+    "en": "Yesterday I hurt my left ankle. So walking was very hard. My colleague carried my bag for me. My friend made dinner for me. I was really grateful to both of them. Today I'm going to buy my colleague a coffee.",
+    "questions": [
+     {
+      "q": "어디를 다쳤어요?",
+      "a": "왼발 발목을 다쳤어요."
+     },
+     {
+      "q": "동료가 무엇을 해 줬어요?",
+      "a": "가방을 들어 줬어요."
+     },
+     {
+      "q": "오늘 동료에게 무엇을 사 줄 거예요?",
+      "a": "커피를 사 줄 거예요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 42,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 운동___ 때 음악을 들어요.",
+     "answer": "할",
+     "options": [
+      "할",
+      "하는",
+      "한",
+      "해"
+     ],
+     "en": "I listen to music when I exercise.",
+     "why": "Verb stem + ~(으)ㄹ 때 means \"when\"; 하다 becomes 할."
+    },
+    {
+     "type": "fill",
+     "ko": "책을 ___ 때 안경을 써요.",
+     "answer": "읽을",
+     "options": [
+      "읽을",
+      "읽는",
+      "읽은",
+      "읽울"
+     ],
+     "en": "I wear glasses when I read books.",
+     "why": "읽다 ends in a consonant, so it takes ~을 때."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 때 저는 부산에 살았어요.",
+     "answer": "어렸을",
+     "options": [
+      "어렸을",
+      "어린",
+      "어렸는",
+      "어려운"
+     ],
+     "en": "When I was young, I lived in Busan.",
+     "why": "For a time in the past, use ~았/었을 때: 어렸을 때."
+    },
+    {
+     "type": "fill",
+     "ko": "제가 역에 ___ 때 친구가 기다리고 있었어요.",
+     "answer": "도착했을",
+     "options": [
+      "도착했을",
+      "도착한",
+      "도착하는",
+      "도착했는"
+     ],
+     "en": "When I arrived at the station, my friend was waiting.",
+     "why": "A completed past action takes ~았/었을 때."
+    },
+    {
+     "type": "fill",
+     "ko": "점심 ___ 뭐 먹었어요?",
+     "answer": "때",
+     "options": [
+      "때",
+      "을 때",
+      "때문에",
+      "에서"
+     ],
+     "en": "What did you eat at lunchtime?",
+     "why": "A noun takes 때 directly, with no ~을."
+    },
+    {
+     "type": "fill",
+     "ko": "이 사진을 ___ 때마다 웃어요.",
+     "answer": "볼",
+     "options": [
+      "볼",
+      "보는",
+      "본",
+      "봐"
+     ],
+     "en": "Every time I look at this photo, I smile.",
+     "why": "때마다 follows the ~(으)ㄹ form: 볼 때마다."
+    },
+    {
+     "type": "fill",
+     "ko": "버스가 올 때___ 여기서 기다리세요.",
+     "answer": "까지",
+     "options": [
+      "까지",
+      "부터",
+      "마다",
+      "에서"
+     ],
+     "en": "Please wait here until the bus comes.",
+     "why": "때까지 means \"until\"."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 초등학교 때___ 한국 음악을 좋아했어요.",
+     "answer": "부터",
+     "options": [
+      "부터",
+      "까지",
+      "마다",
+      "에서"
+     ],
+     "en": "I have liked Korean music since elementary school.",
+     "why": "때부터 means \"since\" that time."
+    },
+    {
+     "type": "translate",
+     "en": "When I'm sad, I listen to music.",
+     "ko": "슬플 때 음악을 들어요."
+    },
+    {
+     "type": "translate",
+     "en": "When I was in Korea, I ate a lot of kimchi.",
+     "ko": "한국에 있었을 때 김치를 많이 먹었어요."
+    },
+    {
+     "type": "translate",
+     "en": "I will go to Busan during vacation.",
+     "ko": "방학 때 부산에 갈 거예요."
+    },
+    {
+     "type": "translate",
+     "en": "Every time I go to Seoul, I meet my friend.",
+     "ko": "서울에 갈 때마다 친구를 만나요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 어렸을 때 곤충을 아주 무서워했어요. 곤충을 볼 때마다 울었어요. 초등학교 때 선생님이 곤충에 관한 책을 주셨어요. 그때부터 곤충을 좋아하기 시작했어요. 지금은 시간이 있을 때 산에 가서 곤충을 봐요. 곤충은 정말 신기한 것 같아요.",
+    "en": "When I was young, I was very scared of insects. Every time I saw an insect, I cried. In elementary school, a teacher gave me a book about insects. From then on, I started to like insects. Now when I have time, I go to the mountains and look at insects. I think insects are really amazing.",
+    "questions": [
+     {
+      "q": "어렸을 때 무엇을 무서워했어요?",
+      "a": "곤충을 무서워했어요."
+     },
+     {
+      "q": "누가 곤충에 관한 책을 주셨어요?",
+      "a": "선생님이 주셨어요."
+     },
+     {
+      "q": "지금은 시간이 있을 때 뭐 해요?",
+      "a": "산에 가서 곤충을 봐요."
+     }
+    ]
+   }
+  }
+ ]
+}

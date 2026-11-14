@@ -1,0 +1,2615 @@
+{
+ "range": "1-8",
+ "lessons": [
+  {
+   "n": 1,
+   "title": "Lesson 1: Basic Korean Sentences",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-1/",
+   "vocab": [
+    {
+     "ko": "한국",
+     "en": "Korea",
+     "pos": "noun"
+    },
+    {
+     "ko": "도시",
+     "en": "city",
+     "pos": "noun"
+    },
+    {
+     "ko": "이름",
+     "en": "name",
+     "pos": "noun"
+    },
+    {
+     "ko": "저",
+     "en": "I, me (formal)",
+     "pos": "noun"
+    },
+    {
+     "ko": "나",
+     "en": "I, me (informal)",
+     "pos": "noun"
+    },
+    {
+     "ko": "남자",
+     "en": "man",
+     "pos": "noun"
+    },
+    {
+     "ko": "여자",
+     "en": "woman",
+     "pos": "noun"
+    },
+    {
+     "ko": "이",
+     "en": "this",
+     "pos": "other"
+    },
+    {
+     "ko": "그",
+     "en": "that",
+     "pos": "other"
+    },
+    {
+     "ko": "저",
+     "en": "that (over there)",
+     "pos": "other"
+    },
+    {
+     "ko": "것",
+     "en": "thing",
+     "pos": "noun"
+    },
+    {
+     "ko": "이것",
+     "en": "this (thing)",
+     "pos": "noun"
+    },
+    {
+     "ko": "그것",
+     "en": "that (thing)",
+     "pos": "noun"
+    },
+    {
+     "ko": "저것",
+     "en": "that (thing over there)",
+     "pos": "noun"
+    },
+    {
+     "ko": "의자",
+     "en": "chair",
+     "pos": "noun"
+    },
+    {
+     "ko": "탁자",
+     "en": "table",
+     "pos": "noun"
+    },
+    {
+     "ko": "선생님",
+     "en": "teacher",
+     "pos": "noun"
+    },
+    {
+     "ko": "침대",
+     "en": "bed",
+     "pos": "noun"
+    },
+    {
+     "ko": "집",
+     "en": "house",
+     "pos": "noun"
+    },
+    {
+     "ko": "차",
+     "en": "car",
+     "pos": "noun"
+    },
+    {
+     "ko": "사람",
+     "en": "person",
+     "pos": "noun"
+    },
+    {
+     "ko": "책",
+     "en": "book",
+     "pos": "noun"
+    },
+    {
+     "ko": "컴퓨터",
+     "en": "computer",
+     "pos": "noun"
+    },
+    {
+     "ko": "나무",
+     "en": "tree/wood",
+     "pos": "noun"
+    },
+    {
+     "ko": "소파",
+     "en": "sofa",
+     "pos": "noun"
+    },
+    {
+     "ko": "중국",
+     "en": "China",
+     "pos": "noun"
+    },
+    {
+     "ko": "일본",
+     "en": "Japan",
+     "pos": "noun"
+    },
+    {
+     "ko": "문",
+     "en": "door",
+     "pos": "noun"
+    },
+    {
+     "ko": "의사",
+     "en": "doctor",
+     "pos": "noun"
+    },
+    {
+     "ko": "학생",
+     "en": "student",
+     "pos": "noun"
+    },
+    {
+     "ko": "이다",
+     "en": "to be",
+     "pos": "other"
+    },
+    {
+     "ko": "네",
+     "en": "yes",
+     "pos": "other"
+    },
+    {
+     "ko": "아니",
+     "en": "no",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Sentence word order (S-O-V)",
+     "explanation": "A Korean sentence ends with its predicate: a verb, an adjective, or 이다. The subject usually comes first and any object sits between the subject and the verb, so \"I eat an apple\" becomes \"I apple eat\". Particles attached to each noun show what role it plays.",
+     "examples": [
+      {
+       "ko": "저는 사과를 먹어요.",
+       "en": "I eat an apple."
+      },
+      {
+       "ko": "선생님은 책을 읽어요.",
+       "en": "The teacher reads a book."
+      },
+      {
+       "ko": "그 남자는 의사예요.",
+       "en": "That man is a doctor."
+      }
+     ]
+    },
+    {
+     "point": "~는/은 topic marker",
+     "explanation": "Attach 는 to a noun ending in a vowel and 은 to one ending in a consonant. It marks the topic of the sentence, which at this stage is usually the subject. 저 (formal) and 나 (informal) both mean \"I\", giving 저는 and 나는.",
+     "examples": [
+      {
+       "ko": "저는 학생이에요.",
+       "en": "I am a student."
+      },
+      {
+       "ko": "선생님은 한국 사람이에요.",
+       "en": "The teacher is Korean."
+      },
+      {
+       "ko": "이 집은 커요.",
+       "en": "This house is big."
+      },
+      {
+       "ko": "나는 남자야.",
+       "en": "I am a man."
+      }
+     ]
+    },
+    {
+     "point": "~를/을 object marker",
+     "explanation": "Attach 를 after a vowel and 을 after a consonant to mark the object, the thing the verb acts on. The object goes before the verb at the end of the sentence.",
+     "examples": [
+      {
+       "ko": "저는 책을 읽어요.",
+       "en": "I read a book."
+      },
+      {
+       "ko": "학생은 컴퓨터를 원해요.",
+       "en": "The student wants a computer."
+      },
+      {
+       "ko": "아버지는 의자를 만들어요.",
+       "en": "Father makes a chair."
+      },
+      {
+       "ko": "남자는 문을 열어요.",
+       "en": "The man opens the door."
+      }
+     ]
+    },
+    {
+     "point": "이다 (to be) with nouns",
+     "explanation": "이다 links two nouns to say that A is B, and it attaches directly to the second noun. In polite speech it becomes 이에요 after a consonant and 예요 after a vowel. It is not used with adjectives, because Korean adjectives already include the meaning \"to be\".",
+     "examples": [
+      {
+       "ko": "저는 학생이에요.",
+       "en": "I am a student."
+      },
+      {
+       "ko": "이것은 의자예요.",
+       "en": "This is a chair."
+      },
+      {
+       "ko": "그 사람은 선생님이에요.",
+       "en": "That person is a teacher."
+      },
+      {
+       "ko": "그것은 제 차예요.",
+       "en": "That is my car."
+      }
+     ]
+    },
+    {
+     "point": "이/그/저 + 것 (this/that/that over there)",
+     "explanation": "이 points to something near the speaker, 그 to something near the listener or already mentioned, and 저 to something far from both. They go in front of a noun (이 사람, 저 나무). Combined with 것 (thing) they become the pronouns 이것, 그것 and 저것.",
+     "examples": [
+      {
+       "ko": "이것은 책이에요.",
+       "en": "This is a book."
+      },
+      {
+       "ko": "그것은 컴퓨터예요.",
+       "en": "That is a computer."
+      },
+      {
+       "ko": "저것은 나무예요.",
+       "en": "That over there is a tree."
+      },
+      {
+       "ko": "저 사람은 의사예요.",
+       "en": "That person over there is a doctor."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Lesson 2: Korean Particles 이/가",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-2/",
+   "vocab": [
+    {
+     "ko": "나라",
+     "en": "country",
+     "pos": "noun"
+    },
+    {
+     "ko": "가방",
+     "en": "bag/backpack",
+     "pos": "noun"
+    },
+    {
+     "ko": "창문",
+     "en": "window",
+     "pos": "noun"
+    },
+    {
+     "ko": "잡지",
+     "en": "magazine",
+     "pos": "noun"
+    },
+    {
+     "ko": "방",
+     "en": "room",
+     "pos": "noun"
+    },
+    {
+     "ko": "냉장고",
+     "en": "refrigerator",
+     "pos": "noun"
+    },
+    {
+     "ko": "개",
+     "en": "dog",
+     "pos": "noun"
+    },
+    {
+     "ko": "강아지",
+     "en": "puppy",
+     "pos": "noun"
+    },
+    {
+     "ko": "고양이",
+     "en": "cat",
+     "pos": "noun"
+    },
+    {
+     "ko": "쥐",
+     "en": "rat, mouse",
+     "pos": "noun"
+    },
+    {
+     "ko": "펜",
+     "en": "pen",
+     "pos": "noun"
+    },
+    {
+     "ko": "전화기",
+     "en": "phone",
+     "pos": "noun"
+    },
+    {
+     "ko": "커피",
+     "en": "coffee",
+     "pos": "noun"
+    },
+    {
+     "ko": "식당",
+     "en": "restaurant",
+     "pos": "noun"
+    },
+    {
+     "ko": "건물",
+     "en": "building",
+     "pos": "noun"
+    },
+    {
+     "ko": "텔레비전",
+     "en": "television",
+     "pos": "noun"
+    },
+    {
+     "ko": "미국",
+     "en": "USA",
+     "pos": "noun"
+    },
+    {
+     "ko": "캐나다",
+     "en": "Canada",
+     "pos": "noun"
+    },
+    {
+     "ko": "호텔",
+     "en": "hotel",
+     "pos": "noun"
+    },
+    {
+     "ko": "학교",
+     "en": "school",
+     "pos": "noun"
+    },
+    {
+     "ko": "은행",
+     "en": "bank",
+     "pos": "noun"
+    },
+    {
+     "ko": "안",
+     "en": "inside",
+     "pos": "noun"
+    },
+    {
+     "ko": "위",
+     "en": "on top",
+     "pos": "noun"
+    },
+    {
+     "ko": "밑",
+     "en": "below",
+     "pos": "noun"
+    },
+    {
+     "ko": "옆",
+     "en": "beside",
+     "pos": "noun"
+    },
+    {
+     "ko": "뒤",
+     "en": "behind",
+     "pos": "noun"
+    },
+    {
+     "ko": "앞",
+     "en": "in front",
+     "pos": "noun"
+    },
+    {
+     "ko": "여기",
+     "en": "here",
+     "pos": "noun"
+    },
+    {
+     "ko": "있다",
+     "en": "to be at a location",
+     "pos": "verb"
+    },
+    {
+     "ko": "있다",
+     "en": "to have something",
+     "pos": "adjective"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~이/가 subject marker",
+     "explanation": "Attach 이 after a consonant and 가 after a vowel to mark the grammatical subject. When 이/가 attaches to 저 or 나, they change to 제가 and 내가. Unlike 는/은, which sets up a topic, 이/가 simply points to who or what does or is something.",
+     "examples": [
+      {
+       "ko": "고양이가 방에 있어요.",
+       "en": "The cat is in the room."
+      },
+      {
+       "ko": "책이 탁자 위에 있어요.",
+       "en": "The book is on the table."
+      },
+      {
+       "ko": "제가 학생이에요.",
+       "en": "I am the student."
+      },
+      {
+       "ko": "개가 커요.",
+       "en": "The dog is big."
+      }
+     ]
+    },
+    {
+     "point": "있다 (to have)",
+     "explanation": "To say someone has something, use \"Person는/은 Thing이/가 있다\". The thing owned takes 이/가, not 을/를, because 있다 here works like \"Thing exists for the person\".",
+     "examples": [
+      {
+       "ko": "저는 가방이 있어요.",
+       "en": "I have a bag."
+      },
+      {
+       "ko": "선생님은 차가 있어요.",
+       "en": "The teacher has a car."
+      },
+      {
+       "ko": "나는 강아지가 있어.",
+       "en": "I have a puppy."
+      },
+      {
+       "ko": "제 친구는 고양이가 있어요.",
+       "en": "My friend has a cat."
+      }
+     ]
+    },
+    {
+     "point": "~에 (place or time)",
+     "explanation": "~에 attaches to a place or a time. With 있다 it shows where something is. With movement verbs like 가다 it shows where someone is going, and with time words it means \"at\" or \"on\".",
+     "examples": [
+      {
+       "ko": "저는 학교에 있어요.",
+       "en": "I am at school."
+      },
+      {
+       "ko": "우유는 냉장고에 있어요.",
+       "en": "The milk is in the fridge."
+      },
+      {
+       "ko": "저는 은행에 가요.",
+       "en": "I go to the bank."
+      },
+      {
+       "ko": "고양이는 방에 있어요.",
+       "en": "The cat is in the room."
+      }
+     ]
+    },
+    {
+     "point": "Position words + ~에 있다 (in/on/under/beside/behind/in front)",
+     "explanation": "To describe position, put the reference noun first and then a position noun such as 안, 위, 밑, 옆, 뒤 or 앞, followed by ~에 있다. \"On the table\" becomes \"table top-at\" (탁자 위에).",
+     "examples": [
+      {
+       "ko": "펜은 탁자 위에 있어요.",
+       "en": "The pen is on the table."
+      },
+      {
+       "ko": "개는 의자 밑에 있어요.",
+       "en": "The dog is under the chair."
+      },
+      {
+       "ko": "은행은 호텔 옆에 있어요.",
+       "en": "The bank is next to the hotel."
+      },
+      {
+       "ko": "식당은 학교 앞에 있어요.",
+       "en": "The restaurant is in front of the school."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Lesson 3: Korean Verbs/Adjectives",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-3/",
+   "vocab": [
+    {
+     "ko": "음식",
+     "en": "food",
+     "pos": "noun"
+    },
+    {
+     "ko": "케이크",
+     "en": "cake",
+     "pos": "noun"
+    },
+    {
+     "ko": "공항",
+     "en": "airport",
+     "pos": "noun"
+    },
+    {
+     "ko": "병원",
+     "en": "hospital",
+     "pos": "noun"
+    },
+    {
+     "ko": "공원",
+     "en": "park",
+     "pos": "noun"
+    },
+    {
+     "ko": "한국어",
+     "en": "Korean (language)",
+     "pos": "noun"
+    },
+    {
+     "ko": "머리",
+     "en": "head",
+     "pos": "noun"
+    },
+    {
+     "ko": "다리",
+     "en": "leg",
+     "pos": "noun"
+    },
+    {
+     "ko": "손가락",
+     "en": "finger",
+     "pos": "noun"
+    },
+    {
+     "ko": "귀",
+     "en": "ear",
+     "pos": "noun"
+    },
+    {
+     "ko": "팔",
+     "en": "arm",
+     "pos": "noun"
+    },
+    {
+     "ko": "눈",
+     "en": "eye",
+     "pos": "noun"
+    },
+    {
+     "ko": "입",
+     "en": "mouth, lips",
+     "pos": "noun"
+    },
+    {
+     "ko": "배",
+     "en": "stomach",
+     "pos": "noun"
+    },
+    {
+     "ko": "버스",
+     "en": "bus",
+     "pos": "noun"
+    },
+    {
+     "ko": "배",
+     "en": "boat",
+     "pos": "noun"
+    },
+    {
+     "ko": "우리",
+     "en": "us/we",
+     "pos": "noun"
+    },
+    {
+     "ko": "먹다",
+     "en": "to eat",
+     "pos": "verb"
+    },
+    {
+     "ko": "가다",
+     "en": "to go",
+     "pos": "verb"
+    },
+    {
+     "ko": "만나다",
+     "en": "to meet",
+     "pos": "verb"
+    },
+    {
+     "ko": "닫다",
+     "en": "to close",
+     "pos": "verb"
+    },
+    {
+     "ko": "열다",
+     "en": "to open",
+     "pos": "verb"
+    },
+    {
+     "ko": "원하다",
+     "en": "to want (an object)",
+     "pos": "verb"
+    },
+    {
+     "ko": "만들다",
+     "en": "to make",
+     "pos": "verb"
+    },
+    {
+     "ko": "하다",
+     "en": "to do",
+     "pos": "verb"
+    },
+    {
+     "ko": "말하다",
+     "en": "to speak",
+     "pos": "verb"
+    },
+    {
+     "ko": "이해하다",
+     "en": "to understand",
+     "pos": "verb"
+    },
+    {
+     "ko": "좋아하다",
+     "en": "to like",
+     "pos": "verb"
+    },
+    {
+     "ko": "크다",
+     "en": "to be big",
+     "pos": "adjective"
+    },
+    {
+     "ko": "작다",
+     "en": "to be small",
+     "pos": "adjective"
+    },
+    {
+     "ko": "새롭다",
+     "en": "to be new",
+     "pos": "adjective"
+    },
+    {
+     "ko": "낡다",
+     "en": "to be old (not age)",
+     "pos": "adjective"
+    },
+    {
+     "ko": "비싸다",
+     "en": "to be expensive",
+     "pos": "adjective"
+    },
+    {
+     "ko": "싸다",
+     "en": "to be cheap",
+     "pos": "adjective"
+    },
+    {
+     "ko": "아름답다",
+     "en": "to be beautiful",
+     "pos": "adjective"
+    },
+    {
+     "ko": "뚱뚱하다",
+     "en": "to be fat, chubby",
+     "pos": "adjective"
+    },
+    {
+     "ko": "길다",
+     "en": "to be long",
+     "pos": "adjective"
+    },
+    {
+     "ko": "좋다",
+     "en": "to be good",
+     "pos": "adjective"
+    },
+    {
+     "ko": "아주",
+     "en": "very",
+     "pos": "adverb"
+    },
+    {
+     "ko": "매우",
+     "en": "very",
+     "pos": "adverb"
+    },
+    {
+     "ko": "너무",
+     "en": "too, very",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Verbs: dictionary form ~다 and the stem",
+     "explanation": "Every Korean verb ends in 다 in its dictionary form. Removing 다 leaves the stem, and endings for tense and politeness attach to it. The verb goes at the end of the sentence and can take an object marked with 을/를.",
+     "examples": [
+      {
+       "ko": "저는 음식을 먹어요.",
+       "en": "I eat food."
+      },
+      {
+       "ko": "저는 문을 닫아요.",
+       "en": "I close the door."
+      },
+      {
+       "ko": "선생님은 한국어를 말해요.",
+       "en": "The teacher speaks Korean."
+      },
+      {
+       "ko": "우리는 공원에 가요.",
+       "en": "We go to the park."
+      }
+     ]
+    },
+    {
+     "point": "Adjectives (descriptive verbs)",
+     "explanation": "Korean adjectives also end in 다 and are conjugated like verbs. They already contain the idea of \"to be\", so 크다 means \"to be big\" and no 이다 is needed. They describe the subject and never take an object.",
+     "examples": [
+      {
+       "ko": "이 버스는 커요.",
+       "en": "This bus is big."
+      },
+      {
+       "ko": "그 케이크는 비싸요.",
+       "en": "That cake is expensive."
+      },
+      {
+       "ko": "공원은 아주 작아요.",
+       "en": "The park is very small."
+      },
+      {
+       "ko": "그 여자는 아름다워요.",
+       "en": "That woman is beautiful."
+      }
+     ]
+    },
+    {
+     "point": "~의 possessive particle",
+     "explanation": "Put 의 between two nouns to make the first one the owner: \"A의 B\" means \"A's B\". 저의 and 나의 are often shortened to 제 and 내. In speech 의 is frequently dropped when the meaning is clear.",
+     "examples": [
+      {
+       "ko": "선생님의 차는 커요.",
+       "en": "The teacher's car is big."
+      },
+      {
+       "ko": "제 친구는 의사예요.",
+       "en": "My friend is a doctor."
+      },
+      {
+       "ko": "그 여자의 눈은 아름다워요.",
+       "en": "That woman's eyes are beautiful."
+      },
+      {
+       "ko": "내 손가락은 길어.",
+       "en": "My fingers are long."
+      }
+     ]
+    },
+    {
+     "point": "좋다 vs 좋아하다",
+     "explanation": "좋다 is an adjective meaning \"to be good\", so it describes the subject and takes no object. 좋아하다 is a verb meaning \"to like\" and takes an object marked with 을/를.",
+     "examples": [
+      {
+       "ko": "이 음식은 좋아요.",
+       "en": "This food is good."
+      },
+      {
+       "ko": "저는 케이크를 좋아해요.",
+       "en": "I like cake."
+      },
+      {
+       "ko": "그 선생님은 좋아요.",
+       "en": "That teacher is good."
+      },
+      {
+       "ko": "우리는 한국 음식을 좋아해요.",
+       "en": "We like Korean food."
+      }
+     ]
+    },
+    {
+     "point": "우리 (we, us, our)",
+     "explanation": "우리 means \"we\" or \"us\", and before a noun it means \"our\". Koreans often say 우리 where English uses \"my\" for shared things like a home, a family member or a country.",
+     "examples": [
+      {
+       "ko": "우리는 학생이에요.",
+       "en": "We are students."
+      },
+      {
+       "ko": "우리 집은 작아요.",
+       "en": "Our house is small."
+      },
+      {
+       "ko": "우리 선생님은 한국 사람이에요.",
+       "en": "Our teacher is Korean."
+      },
+      {
+       "ko": "우리는 공원에 가요.",
+       "en": "We go to the park."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Lesson 4: Korean Adjectives ~ㄴ/은",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-4/",
+   "vocab": [
+    {
+     "ko": "길",
+     "en": "street",
+     "pos": "noun"
+    },
+    {
+     "ko": "거리",
+     "en": "street/road",
+     "pos": "noun"
+    },
+    {
+     "ko": "손",
+     "en": "hand",
+     "pos": "noun"
+    },
+    {
+     "ko": "영어",
+     "en": "English",
+     "pos": "noun"
+    },
+    {
+     "ko": "택시",
+     "en": "taxi",
+     "pos": "noun"
+    },
+    {
+     "ko": "열차",
+     "en": "train",
+     "pos": "noun"
+    },
+    {
+     "ko": "역",
+     "en": "train/subway station",
+     "pos": "noun"
+    },
+    {
+     "ko": "버스 정류장",
+     "en": "bus stop",
+     "pos": "noun"
+    },
+    {
+     "ko": "비행기",
+     "en": "airplane",
+     "pos": "noun"
+    },
+    {
+     "ko": "자전거",
+     "en": "bicycle",
+     "pos": "noun"
+    },
+    {
+     "ko": "아내",
+     "en": "wife",
+     "pos": "noun"
+    },
+    {
+     "ko": "아이",
+     "en": "child",
+     "pos": "noun"
+    },
+    {
+     "ko": "아들",
+     "en": "son",
+     "pos": "noun"
+    },
+    {
+     "ko": "딸",
+     "en": "daughter",
+     "pos": "noun"
+    },
+    {
+     "ko": "남편",
+     "en": "husband",
+     "pos": "noun"
+    },
+    {
+     "ko": "아버지",
+     "en": "father",
+     "pos": "noun"
+    },
+    {
+     "ko": "어머니",
+     "en": "mother",
+     "pos": "noun"
+    },
+    {
+     "ko": "편지",
+     "en": "letter",
+     "pos": "noun"
+    },
+    {
+     "ko": "맛",
+     "en": "taste",
+     "pos": "noun"
+    },
+    {
+     "ko": "식사",
+     "en": "meal",
+     "pos": "noun"
+    },
+    {
+     "ko": "아침",
+     "en": "morning",
+     "pos": "noun"
+    },
+    {
+     "ko": "아침식사",
+     "en": "breakfast",
+     "pos": "noun"
+    },
+    {
+     "ko": "물",
+     "en": "water",
+     "pos": "noun"
+    },
+    {
+     "ko": "사과",
+     "en": "apple",
+     "pos": "noun"
+    },
+    {
+     "ko": "돈",
+     "en": "money",
+     "pos": "noun"
+    },
+    {
+     "ko": "오다",
+     "en": "to come",
+     "pos": "verb"
+    },
+    {
+     "ko": "끝내다",
+     "en": "to finish",
+     "pos": "verb"
+    },
+    {
+     "ko": "춤추다",
+     "en": "to dance",
+     "pos": "verb"
+    },
+    {
+     "ko": "알다",
+     "en": "to know",
+     "pos": "verb"
+    },
+    {
+     "ko": "걷다",
+     "en": "to walk",
+     "pos": "verb"
+    },
+    {
+     "ko": "배우다",
+     "en": "to learn",
+     "pos": "verb"
+    },
+    {
+     "ko": "연습하다",
+     "en": "to practice",
+     "pos": "verb"
+    },
+    {
+     "ko": "생각하다",
+     "en": "to think",
+     "pos": "verb"
+    },
+    {
+     "ko": "살다",
+     "en": "to live",
+     "pos": "verb"
+    },
+    {
+     "ko": "끝나다",
+     "en": "to be finished",
+     "pos": "verb"
+    },
+    {
+     "ko": "위험하다",
+     "en": "to be dangerous",
+     "pos": "adjective"
+    },
+    {
+     "ko": "잘생기다",
+     "en": "to be handsome",
+     "pos": "adjective"
+    },
+    {
+     "ko": "못생기다",
+     "en": "to be ugly",
+     "pos": "adjective"
+    },
+    {
+     "ko": "피곤하다",
+     "en": "to be tired",
+     "pos": "adjective"
+    },
+    {
+     "ko": "다르다",
+     "en": "to be different",
+     "pos": "adjective"
+    },
+    {
+     "ko": "슬프다",
+     "en": "to be sad",
+     "pos": "adjective"
+    },
+    {
+     "ko": "맛있다",
+     "en": "to be delicious",
+     "pos": "adjective"
+    },
+    {
+     "ko": "재미있다",
+     "en": "to be fun, funny",
+     "pos": "adjective"
+    },
+    {
+     "ko": "많다",
+     "en": "to be many, a lot",
+     "pos": "adjective"
+    },
+    {
+     "ko": "행복하다",
+     "en": "to be happy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "거기",
+     "en": "there",
+     "pos": "adverb"
+    },
+    {
+     "ko": "저기",
+     "en": "over there",
+     "pos": "adverb"
+    },
+    {
+     "ko": "지금",
+     "en": "now",
+     "pos": "adverb"
+    },
+    {
+     "ko": "하지만",
+     "en": "but",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Adjective + ~ㄴ/은 to describe a noun",
+     "explanation": "To place an adjective before a noun, add ㄴ to a stem ending in a vowel (크다 → 큰) and 은 to a stem ending in a consonant (작다 → 작은). A stem ending in ㄹ drops the ㄹ and takes ㄴ (길다 → 긴). Adjectives ending in 있다 take 는 instead (맛있는, 재미있는).",
+     "examples": [
+      {
+       "ko": "저는 큰 차를 원해요.",
+       "en": "I want a big car."
+      },
+      {
+       "ko": "비싼 음식은 맛있어요.",
+       "en": "Expensive food is delicious."
+      },
+      {
+       "ko": "행복한 여자는 작은 집에 살아요.",
+       "en": "The happy woman lives in a small house."
+      },
+      {
+       "ko": "그 남자는 재미있는 사람이에요.",
+       "en": "That man is a fun person."
+      }
+     ]
+    },
+    {
+     "point": "많다 (to be many): 많은 + noun vs noun이/가 많다",
+     "explanation": "많다 can describe a noun as 많은 (\"a lot of\") or act as the predicate in \"Noun이/가 많다\" (\"there are many of the noun\"). The predicate pattern is the more natural way to say that a place has a lot of something.",
+     "examples": [
+      {
+       "ko": "길에 사람이 많아요.",
+       "en": "There are many people on the street."
+      },
+      {
+       "ko": "저는 돈이 많아요.",
+       "en": "I have a lot of money."
+      },
+      {
+       "ko": "저는 많은 음식을 먹어요.",
+       "en": "I eat a lot of food."
+      },
+      {
+       "ko": "이 도시는 택시가 많아요.",
+       "en": "This city has many taxis."
+      }
+     ]
+    },
+    {
+     "point": "~도 (also, too)",
+     "explanation": "~도 means \"also\" and replaces 는/은, 이/가 or 을/를 on the noun. Its meaning depends on which noun it attaches to: 저도 means \"I also (do it)\", while 사과도 means \"(I eat) apples too\".",
+     "examples": [
+      {
+       "ko": "저도 학생이에요.",
+       "en": "I am a student too."
+      },
+      {
+       "ko": "저는 사과도 먹어요.",
+       "en": "I eat apples too."
+      },
+      {
+       "ko": "제 딸도 행복해요.",
+       "en": "My daughter is happy too."
+      },
+      {
+       "ko": "아버지도 영어를 배워요.",
+       "en": "Father also learns English."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Lesson 5: Korean Conjugation: Past, Present, Future",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-5/",
+   "vocab": [
+    {
+     "ko": "동생",
+     "en": "younger sibling",
+     "pos": "noun"
+    },
+    {
+     "ko": "남동생",
+     "en": "younger brother",
+     "pos": "noun"
+    },
+    {
+     "ko": "여동생",
+     "en": "younger sister",
+     "pos": "noun"
+    },
+    {
+     "ko": "형",
+     "en": "older brother (said by a male)",
+     "pos": "noun"
+    },
+    {
+     "ko": "오빠",
+     "en": "older brother (said by a female)",
+     "pos": "noun"
+    },
+    {
+     "ko": "누나",
+     "en": "older sister (said by a male)",
+     "pos": "noun"
+    },
+    {
+     "ko": "언니",
+     "en": "older sister (said by a female)",
+     "pos": "noun"
+    },
+    {
+     "ko": "삼촌",
+     "en": "uncle",
+     "pos": "noun"
+    },
+    {
+     "ko": "이모",
+     "en": "aunt (on mother’s side)",
+     "pos": "noun"
+    },
+    {
+     "ko": "고모",
+     "en": "aunt (on father’s side)",
+     "pos": "noun"
+    },
+    {
+     "ko": "아저씨",
+     "en": "older man, mister",
+     "pos": "noun"
+    },
+    {
+     "ko": "아주머니",
+     "en": "older woman, ma'am",
+     "pos": "noun"
+    },
+    {
+     "ko": "할아버지",
+     "en": "grandfather",
+     "pos": "noun"
+    },
+    {
+     "ko": "할머니",
+     "en": "grandmother",
+     "pos": "noun"
+    },
+    {
+     "ko": "친구",
+     "en": "friend",
+     "pos": "noun"
+    },
+    {
+     "ko": "사진",
+     "en": "picture",
+     "pos": "noun"
+    },
+    {
+     "ko": "안경",
+     "en": "glasses",
+     "pos": "noun"
+    },
+    {
+     "ko": "비밀",
+     "en": "secret",
+     "pos": "noun"
+    },
+    {
+     "ko": "비",
+     "en": "rain",
+     "pos": "noun"
+    },
+    {
+     "ko": "가게",
+     "en": "store/shop",
+     "pos": "noun"
+    },
+    {
+     "ko": "박물관",
+     "en": "museum",
+     "pos": "noun"
+    },
+    {
+     "ko": "가스 레인지",
+     "en": "stove (gas range)",
+     "pos": "noun"
+    },
+    {
+     "ko": "오리",
+     "en": "duck (animal)",
+     "pos": "noun"
+    },
+    {
+     "ko": "꼬리",
+     "en": "tail",
+     "pos": "noun"
+    },
+    {
+     "ko": "공",
+     "en": "ball",
+     "pos": "noun"
+    },
+    {
+     "ko": "기대하다",
+     "en": "to expect",
+     "pos": "verb"
+    },
+    {
+     "ko": "건너다",
+     "en": "to cross (a road/etc)",
+     "pos": "verb"
+    },
+    {
+     "ko": "던지다",
+     "en": "to throw",
+     "pos": "verb"
+    },
+    {
+     "ko": "싫어하다",
+     "en": "to not like",
+     "pos": "verb"
+    },
+    {
+     "ko": "떠나다",
+     "en": "to leave somewhere",
+     "pos": "verb"
+    },
+    {
+     "ko": "농담하다",
+     "en": "to joke",
+     "pos": "verb"
+    },
+    {
+     "ko": "공부하다",
+     "en": "to study",
+     "pos": "verb"
+    },
+    {
+     "ko": "지루하다",
+     "en": "to be boring",
+     "pos": "adjective"
+    },
+    {
+     "ko": "마르다",
+     "en": "to be thin (person)",
+     "pos": "adjective"
+    },
+    {
+     "ko": "멀다",
+     "en": "to be far away",
+     "pos": "adjective"
+    },
+    {
+     "ko": "마르다",
+     "en": "to be dry",
+     "pos": "adjective"
+    },
+    {
+     "ko": "비슷하다",
+     "en": "to be similar",
+     "pos": "adjective"
+    },
+    {
+     "ko": "싫다",
+     "en": "to not be good",
+     "pos": "adjective"
+    },
+    {
+     "ko": "오래되다",
+     "en": "to be old (object)",
+     "pos": "adjective"
+    },
+    {
+     "ko": "배고프다",
+     "en": "to be hungry",
+     "pos": "adjective"
+    },
+    {
+     "ko": "오늘",
+     "en": "today",
+     "pos": "adverb"
+    },
+    {
+     "ko": "어제",
+     "en": "yesterday",
+     "pos": "adverb"
+    },
+    {
+     "ko": "내일",
+     "en": "tomorrow",
+     "pos": "adverb"
+    },
+    {
+     "ko": "모레",
+     "en": "the day after tomorrow",
+     "pos": "adverb"
+    },
+    {
+     "ko": "년",
+     "en": "year",
+     "pos": "noun"
+    },
+    {
+     "ko": "일",
+     "en": "day",
+     "pos": "noun"
+    },
+    {
+     "ko": "시간",
+     "en": "time",
+     "pos": "noun"
+    },
+    {
+     "ko": "월요일",
+     "en": "Monday",
+     "pos": "noun"
+    },
+    {
+     "ko": "화요일",
+     "en": "Tuesday",
+     "pos": "noun"
+    },
+    {
+     "ko": "수요일",
+     "en": "Wednesday",
+     "pos": "noun"
+    },
+    {
+     "ko": "목요일",
+     "en": "Thursday",
+     "pos": "noun"
+    },
+    {
+     "ko": "금요일",
+     "en": "Friday",
+     "pos": "noun"
+    },
+    {
+     "ko": "토요일",
+     "en": "Saturday",
+     "pos": "noun"
+    },
+    {
+     "ko": "일요일",
+     "en": "Sunday",
+     "pos": "noun"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Present tense (plain form) ~ㄴ/는다",
+     "explanation": "In the plain written style, a verb stem ending in a vowel takes ~ㄴ다 (가다 → 간다) and a stem ending in a consonant takes ~는다 (먹다 → 먹는다). Adjectives stay in their basic 다 form in the present tense.",
+     "examples": [
+      {
+       "ko": "나는 한국어를 공부한다.",
+       "en": "I study Korean."
+      },
+      {
+       "ko": "동생은 밥을 먹는다.",
+       "en": "My younger sibling eats rice."
+      },
+      {
+       "ko": "친구는 공을 던진다.",
+       "en": "My friend throws the ball."
+      },
+      {
+       "ko": "그 박물관은 멀다.",
+       "en": "That museum is far."
+      }
+     ]
+    },
+    {
+     "point": "Past tense ~았/었/였다",
+     "explanation": "If the last vowel of the stem is ㅏ or ㅗ, add 았다. Otherwise add 었다, and 하 becomes 했다. When the stem ends in a vowel the two usually merge (가았다 → 갔다, 배우었다 → 배웠다, 던지었다 → 던졌다).",
+     "examples": [
+      {
+       "ko": "나는 어제 가게에 갔다.",
+       "en": "I went to the store yesterday."
+      },
+      {
+       "ko": "삼촌은 한국어를 공부했다.",
+       "en": "My uncle studied Korean."
+      },
+      {
+       "ko": "동생은 공을 던졌다.",
+       "en": "My younger sibling threw the ball."
+      },
+      {
+       "ko": "나는 친구를 만났다.",
+       "en": "I met a friend."
+      }
+     ]
+    },
+    {
+     "point": "Future tense ~겠다",
+     "explanation": "Add ~겠다 to any stem, whether it ends in a vowel or a consonant, to express what you will do. It works most naturally for the speaker's own intentions.",
+     "examples": [
+      {
+       "ko": "나는 내일 공부하겠다.",
+       "en": "I will study tomorrow."
+      },
+      {
+       "ko": "나는 박물관에 가겠다.",
+       "en": "I will go to the museum."
+      },
+      {
+       "ko": "우리는 모레 떠나겠다.",
+       "en": "We will leave the day after tomorrow."
+      },
+      {
+       "ko": "나는 오늘 책을 읽겠다.",
+       "en": "I will read a book today."
+      }
+     ]
+    },
+    {
+     "point": "Saying \"I\" and \"you\" (저/나, 너/당신)",
+     "explanation": "저 is the formal \"I\" and 나 the informal one, becoming 제가 and 내가 with 이/가. Koreans usually avoid a direct word for \"you\". They use the person's title or a family term instead, use 너 only with close friends or younger people (너 + 가 becomes 네가), and rarely use 당신.",
+     "examples": [
+      {
+       "ko": "제가 학생이에요.",
+       "en": "I am the student."
+      },
+      {
+       "ko": "너는 내 친구야.",
+       "en": "You are my friend."
+      },
+      {
+       "ko": "선생님은 오늘 학교에 가요?",
+       "en": "Are you (teacher) going to school today?"
+      },
+      {
+       "ko": "네가 내 동생이야?",
+       "en": "Are you my younger sibling?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Lesson 6: Korean Honorifics",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-6/",
+   "vocab": [
+    {
+     "ko": "신발",
+     "en": "shoe",
+     "pos": "noun"
+    },
+    {
+     "ko": "남방",
+     "en": "shirt",
+     "pos": "noun"
+    },
+    {
+     "ko": "질문",
+     "en": "question",
+     "pos": "noun"
+    },
+    {
+     "ko": "문제",
+     "en": "question, problem",
+     "pos": "noun"
+    },
+    {
+     "ko": "나이",
+     "en": "age",
+     "pos": "noun"
+    },
+    {
+     "ko": "화장실",
+     "en": "bathroom, restroom",
+     "pos": "noun"
+    },
+    {
+     "ko": "부장님",
+     "en": "boss",
+     "pos": "noun"
+    },
+    {
+     "ko": "분위기",
+     "en": "atmosphere",
+     "pos": "noun"
+    },
+    {
+     "ko": "차",
+     "en": "tea",
+     "pos": "noun"
+    },
+    {
+     "ko": "바지",
+     "en": "pants",
+     "pos": "noun"
+    },
+    {
+     "ko": "교실",
+     "en": "classroom",
+     "pos": "noun"
+    },
+    {
+     "ko": "급식",
+     "en": "food at school",
+     "pos": "noun"
+    },
+    {
+     "ko": "교감선생님",
+     "en": "vice principal",
+     "pos": "noun"
+    },
+    {
+     "ko": "교장선생님",
+     "en": "principal",
+     "pos": "noun"
+    },
+    {
+     "ko": "풀",
+     "en": "glue",
+     "pos": "noun"
+    },
+    {
+     "ko": "수도",
+     "en": "capital city",
+     "pos": "noun"
+    },
+    {
+     "ko": "병",
+     "en": "bottle",
+     "pos": "noun"
+    },
+    {
+     "ko": "병",
+     "en": "disease, sickness",
+     "pos": "noun"
+    },
+    {
+     "ko": "생선",
+     "en": "fish",
+     "pos": "noun"
+    },
+    {
+     "ko": "야채",
+     "en": "vegetable",
+     "pos": "noun"
+    },
+    {
+     "ko": "언덕",
+     "en": "hill",
+     "pos": "noun"
+    },
+    {
+     "ko": "선물",
+     "en": "present",
+     "pos": "noun"
+    },
+    {
+     "ko": "기타",
+     "en": "guitar",
+     "pos": "noun"
+    },
+    {
+     "ko": "종이",
+     "en": "paper",
+     "pos": "noun"
+    },
+    {
+     "ko": "우유",
+     "en": "milk",
+     "pos": "noun"
+    },
+    {
+     "ko": "손목",
+     "en": "wrist",
+     "pos": "noun"
+    },
+    {
+     "ko": "시계",
+     "en": "clock/watch",
+     "pos": "noun"
+    },
+    {
+     "ko": "손목시계",
+     "en": "wristwatch",
+     "pos": "noun"
+    },
+    {
+     "ko": "영화",
+     "en": "movie",
+     "pos": "noun"
+    },
+    {
+     "ko": "노력하다",
+     "en": "to try",
+     "pos": "verb"
+    },
+    {
+     "ko": "앉다",
+     "en": "to sit",
+     "pos": "verb"
+    },
+    {
+     "ko": "만지다",
+     "en": "to touch",
+     "pos": "verb"
+    },
+    {
+     "ko": "자다",
+     "en": "to sleep",
+     "pos": "verb"
+    },
+    {
+     "ko": "보다",
+     "en": "to see",
+     "pos": "verb"
+    },
+    {
+     "ko": "기다리다",
+     "en": "to wait",
+     "pos": "verb"
+    },
+    {
+     "ko": "청소하다",
+     "en": "to clean",
+     "pos": "verb"
+    },
+    {
+     "ko": "약속하다",
+     "en": "to promise",
+     "pos": "verb"
+    },
+    {
+     "ko": "듣다",
+     "en": "to hear",
+     "pos": "verb"
+    },
+    {
+     "ko": "들어보다",
+     "en": "to listen",
+     "pos": "verb"
+    },
+    {
+     "ko": "그만하다",
+     "en": "to stop",
+     "pos": "verb"
+    },
+    {
+     "ko": "운동하다",
+     "en": "to exercise",
+     "pos": "verb"
+    },
+    {
+     "ko": "놀라다",
+     "en": "to be surprised",
+     "pos": "verb"
+    },
+    {
+     "ko": "빠르다",
+     "en": "to be fast",
+     "pos": "adjective"
+    },
+    {
+     "ko": "느리다",
+     "en": "to be slow",
+     "pos": "adjective"
+    },
+    {
+     "ko": "착하다",
+     "en": "to be nice",
+     "pos": "adjective"
+    },
+    {
+     "ko": "곧",
+     "en": "soon",
+     "pos": "adverb"
+    },
+    {
+     "ko": "항상",
+     "en": "always",
+     "pos": "adverb"
+    },
+    {
+     "ko": "주",
+     "en": "week",
+     "pos": "noun"
+    },
+    {
+     "ko": "아래",
+     "en": "bottom",
+     "pos": "noun"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Informal low respect (반말) ~아/어",
+     "explanation": "Add 아 to a stem whose last vowel is ㅏ or ㅗ and 어 otherwise, and 하 becomes 해. This casual form is used with close friends, younger people or children. The past tense is ~았어/었어 and the future is ~겠어.",
+     "examples": [
+      {
+       "ko": "나는 의자에 앉아.",
+       "en": "I sit on the chair."
+      },
+      {
+       "ko": "동생은 지금 자.",
+       "en": "My younger sibling is sleeping now."
+      },
+      {
+       "ko": "나는 어제 영화를 봤어.",
+       "en": "I watched a movie yesterday."
+      },
+      {
+       "ko": "나는 교실을 청소했어.",
+       "en": "I cleaned the classroom."
+      }
+     ]
+    },
+    {
+     "point": "Informal high respect ~아/어요",
+     "explanation": "Add 요 to the informal low form to make it polite. This is the most common everyday polite speech, used with strangers, coworkers and older people. Past is ~았어요/었어요 and future is ~겠어요.",
+     "examples": [
+      {
+       "ko": "저는 친구를 기다려요.",
+       "en": "I am waiting for my friend."
+      },
+      {
+       "ko": "저는 어제 영화를 봤어요.",
+       "en": "I watched a movie yesterday."
+      },
+      {
+       "ko": "저는 항상 운동해요.",
+       "en": "I always exercise."
+      },
+      {
+       "ko": "저는 곧 청소하겠어요.",
+       "en": "I will clean soon."
+      }
+     ]
+    },
+    {
+     "point": "Formal high respect ~ㅂ니다/습니다",
+     "explanation": "Add ㅂ니다 to a stem ending in a vowel and 습니다 to one ending in a consonant. For past and future, add 습니다 after 았/었 or 겠. This form is used in formal settings such as news, speeches, the military or talking to a boss.",
+     "examples": [
+      {
+       "ko": "저는 부장님을 기다립니다.",
+       "en": "I am waiting for the boss."
+      },
+      {
+       "ko": "학생들은 교실에 앉습니다.",
+       "en": "The students sit in the classroom."
+      },
+      {
+       "ko": "저는 어제 화장실을 청소했습니다.",
+       "en": "I cleaned the bathroom yesterday."
+      },
+      {
+       "ko": "저는 열심히 노력하겠습니다.",
+       "en": "I will try hard."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Lesson 7: Korean Irregulars",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-7/",
+   "vocab": [
+    {
+     "ko": "눈썹",
+     "en": "eyebrow",
+     "pos": "noun"
+    },
+    {
+     "ko": "교사",
+     "en": "teacher",
+     "pos": "noun"
+    },
+    {
+     "ko": "반",
+     "en": "class (of students)",
+     "pos": "noun"
+    },
+    {
+     "ko": "직장",
+     "en": "workplace",
+     "pos": "noun"
+    },
+    {
+     "ko": "벽",
+     "en": "wall",
+     "pos": "noun"
+    },
+    {
+     "ko": "털",
+     "en": "hair (not on head), fur",
+     "pos": "noun"
+    },
+    {
+     "ko": "머리카락",
+     "en": "hair (on head)",
+     "pos": "noun"
+    },
+    {
+     "ko": "저녁",
+     "en": "dinner, evening",
+     "pos": "noun"
+    },
+    {
+     "ko": "점심",
+     "en": "lunch, noonish",
+     "pos": "noun"
+    },
+    {
+     "ko": "옷",
+     "en": "clothes",
+     "pos": "noun"
+    },
+    {
+     "ko": "오전",
+     "en": "morning",
+     "pos": "noun"
+    },
+    {
+     "ko": "오후",
+     "en": "afternoon",
+     "pos": "noun"
+    },
+    {
+     "ko": "여름",
+     "en": "summer",
+     "pos": "noun"
+    },
+    {
+     "ko": "가을",
+     "en": "fall",
+     "pos": "noun"
+    },
+    {
+     "ko": "겨울",
+     "en": "winter",
+     "pos": "noun"
+    },
+    {
+     "ko": "봄",
+     "en": "spring",
+     "pos": "noun"
+    },
+    {
+     "ko": "찾다",
+     "en": "to search for, find",
+     "pos": "verb"
+    },
+    {
+     "ko": "가르치다",
+     "en": "to teach",
+     "pos": "verb"
+    },
+    {
+     "ko": "일하다",
+     "en": "to work",
+     "pos": "verb"
+    },
+    {
+     "ko": "짓다",
+     "en": "to build",
+     "pos": "verb"
+    },
+    {
+     "ko": "가지다",
+     "en": "to own, to possess",
+     "pos": "verb"
+    },
+    {
+     "ko": "잠그다",
+     "en": "to lock",
+     "pos": "verb"
+    },
+    {
+     "ko": "잊다",
+     "en": "to forget",
+     "pos": "verb"
+    },
+    {
+     "ko": "돕다",
+     "en": "to help",
+     "pos": "verb"
+    },
+    {
+     "ko": "주다",
+     "en": "to give",
+     "pos": "verb"
+    },
+    {
+     "ko": "맞다",
+     "en": "to be correct",
+     "pos": "verb"
+    },
+    {
+     "ko": "쉽다",
+     "en": "to be easy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "덥다",
+     "en": "to be hot",
+     "pos": "adjective"
+    },
+    {
+     "ko": "그립다",
+     "en": "to miss (a thing)",
+     "pos": "adjective"
+    },
+    {
+     "ko": "귀엽다",
+     "en": "to be cute",
+     "pos": "adjective"
+    },
+    {
+     "ko": "춥다",
+     "en": "to be cold",
+     "pos": "adjective"
+    },
+    {
+     "ko": "어렵다",
+     "en": "to be difficult",
+     "pos": "adjective"
+    },
+    {
+     "ko": "더럽다",
+     "en": "to be dirty",
+     "pos": "adjective"
+    },
+    {
+     "ko": "바쁘다",
+     "en": "to be busy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "같다",
+     "en": "to be the same",
+     "pos": "adjective"
+    },
+    {
+     "ko": "안전하다",
+     "en": "to be safe",
+     "pos": "adjective"
+    },
+    {
+     "ko": "딱딱하다",
+     "en": "to be hard, to be rigid",
+     "pos": "adjective"
+    },
+    {
+     "ko": "부드럽다",
+     "en": "to be soft",
+     "pos": "adjective"
+    },
+    {
+     "ko": "가능하다",
+     "en": "to be possible",
+     "pos": "adjective"
+    },
+    {
+     "ko": "불가능하다",
+     "en": "to be impossible",
+     "pos": "adjective"
+    },
+    {
+     "ko": "예쁘다",
+     "en": "to be pretty",
+     "pos": "adjective"
+    },
+    {
+     "ko": "일찍",
+     "en": "early",
+     "pos": "adverb"
+    },
+    {
+     "ko": "매일",
+     "en": "everyday",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "ㅅ irregular",
+     "explanation": "Some stems ending in ㅅ, such as 짓다, lose the ㅅ when the next ending starts with a vowel: 짓 + 어요 → 지어요. Not every ㅅ stem does this (웃다 → 웃어요 is regular), so these verbs have to be memorized.",
+     "examples": [
+      {
+       "ko": "아버지는 집을 지어요.",
+       "en": "Father builds a house."
+      },
+      {
+       "ko": "그 회사는 큰 건물을 지었어요.",
+       "en": "That company built a big building."
+      },
+      {
+       "ko": "저는 강아지 이름을 지었어요.",
+       "en": "I named the puppy."
+      }
+     ]
+    },
+    {
+     "point": "ㄷ irregular",
+     "explanation": "In some stems ending in ㄷ, such as 듣다 and 걷다, the ㄷ changes to ㄹ before an ending that starts with a vowel: 듣다 → 들어요, 걷다 → 걸었어요. Others, like 닫다 and 받다, stay regular.",
+     "examples": [
+      {
+       "ko": "저는 음악을 들어요.",
+       "en": "I listen to music."
+      },
+      {
+       "ko": "우리는 공원에서 걸었어요.",
+       "en": "We walked in the park."
+      },
+      {
+       "ko": "저는 선생님의 질문을 들었어요.",
+       "en": "I heard the teacher's question."
+      },
+      {
+       "ko": "저는 문을 닫았어요.",
+       "en": "I closed the door."
+      }
+     ]
+    },
+    {
+     "point": "ㅂ irregular",
+     "explanation": "Most adjectives whose stem ends in ㅂ change the ㅂ to 우 before a vowel ending, and the 우 then merges with 어: 춥다 → 추워요, 쉽다 → 쉬워요. 돕다 is an exception that becomes 도와요.",
+     "examples": [
+      {
+       "ko": "오늘은 너무 추워요.",
+       "en": "It is too cold today."
+      },
+      {
+       "ko": "이 책은 쉬워요.",
+       "en": "This book is easy."
+      },
+      {
+       "ko": "강아지가 정말 귀여워요.",
+       "en": "The puppy is really cute."
+      },
+      {
+       "ko": "저는 어머니를 도와요.",
+       "en": "I help my mother."
+      }
+     ]
+    },
+    {
+     "point": "ㅡ irregular",
+     "explanation": "When a stem ends in the vowel ㅡ, the ㅡ disappears before 아/어. Use 아 if the vowel before it is ㅏ or ㅗ and 어 otherwise: 바쁘다 → 바빠요, 예쁘다 → 예뻐요, 쓰다 → 써요.",
+     "examples": [
+      {
+       "ko": "저는 오늘 바빠요.",
+       "en": "I am busy today."
+      },
+      {
+       "ko": "그 여자는 정말 예뻐요.",
+       "en": "That woman is really pretty."
+      },
+      {
+       "ko": "저는 편지를 썼어요.",
+       "en": "I wrote a letter."
+      },
+      {
+       "ko": "저는 배고파요.",
+       "en": "I am hungry."
+      }
+     ]
+    },
+    {
+     "point": "르 irregular",
+     "explanation": "When a stem ends in 르 and is followed by 아/어, the ㅡ drops and an extra ㄹ is added, giving ㄹ라 or ㄹ러: 다르다 → 달라요, 빠르다 → 빨라요, 모르다 → 몰라요.",
+     "examples": [
+      {
+       "ko": "그 열차는 정말 빨라요.",
+       "en": "That train is really fast."
+      },
+      {
+       "ko": "우리는 아주 달라요.",
+       "en": "We are very different."
+      },
+      {
+       "ko": "저는 그 사람의 이름을 몰라요.",
+       "en": "I don't know that person's name."
+      }
+     ]
+    },
+    {
+     "point": "ㄹ irregular",
+     "explanation": "A stem ending in ㄹ drops the ㄹ when the next part starts with ㄴ, ㅂ or ㅅ: 살다 → 삽니다, 알다 → 압니다, 길다 → 긴. Before an ending that starts with a vowel the ㄹ stays (살아요).",
+     "examples": [
+      {
+       "ko": "저는 한국에 삽니다.",
+       "en": "I live in Korea."
+      },
+      {
+       "ko": "저는 그 사람을 압니다.",
+       "en": "I know that person."
+      },
+      {
+       "ko": "아버지는 의자를 만듭니다.",
+       "en": "Father makes chairs."
+      },
+      {
+       "ko": "저는 긴 편지를 썼어요.",
+       "en": "I wrote a long letter."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Lesson 8: Korean Adverbs, Negative Sentences in Korean",
+   "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-8/",
+   "vocab": [
+    {
+     "ko": "기계",
+     "en": "machine",
+     "pos": "noun"
+    },
+    {
+     "ko": "대학교",
+     "en": "college, university",
+     "pos": "noun"
+    },
+    {
+     "ko": "트럭",
+     "en": "truck",
+     "pos": "noun"
+    },
+    {
+     "ko": "검은색",
+     "en": "black (color)",
+     "pos": "noun"
+    },
+    {
+     "ko": "흰색",
+     "en": "white (color)",
+     "pos": "noun"
+    },
+    {
+     "ko": "음료수",
+     "en": "beverage, drink",
+     "pos": "noun"
+    },
+    {
+     "ko": "외국",
+     "en": "foreign country",
+     "pos": "noun"
+    },
+    {
+     "ko": "외국인",
+     "en": "foreigner",
+     "pos": "noun"
+    },
+    {
+     "ko": "고등학교",
+     "en": "high school",
+     "pos": "noun"
+    },
+    {
+     "ko": "도서관",
+     "en": "library",
+     "pos": "noun"
+    },
+    {
+     "ko": "곳",
+     "en": "place",
+     "pos": "noun"
+    },
+    {
+     "ko": "동시",
+     "en": "same time",
+     "pos": "noun"
+    },
+    {
+     "ko": "밤",
+     "en": "night",
+     "pos": "noun"
+    },
+    {
+     "ko": "어젯밤",
+     "en": "last night",
+     "pos": "noun"
+    },
+    {
+     "ko": "낮",
+     "en": "daytime",
+     "pos": "noun"
+    },
+    {
+     "ko": "동",
+     "en": "East",
+     "pos": "noun"
+    },
+    {
+     "ko": "남",
+     "en": "South",
+     "pos": "noun"
+    },
+    {
+     "ko": "서",
+     "en": "West",
+     "pos": "noun"
+    },
+    {
+     "ko": "북",
+     "en": "North",
+     "pos": "noun"
+    },
+    {
+     "ko": "놀다",
+     "en": "to play",
+     "pos": "verb"
+    },
+    {
+     "ko": "쓰다",
+     "en": "to use",
+     "pos": "verb"
+    },
+    {
+     "ko": "쓰다",
+     "en": "to write",
+     "pos": "verb"
+    },
+    {
+     "ko": "실수하다",
+     "en": "to make a mistake",
+     "pos": "verb"
+    },
+    {
+     "ko": "수리하다",
+     "en": "to repair",
+     "pos": "verb"
+    },
+    {
+     "ko": "잡다",
+     "en": "to catch, to grab",
+     "pos": "verb"
+    },
+    {
+     "ko": "읽다",
+     "en": "to read",
+     "pos": "verb"
+    },
+    {
+     "ko": "내다",
+     "en": "to pay for",
+     "pos": "verb"
+    },
+    {
+     "ko": "받다",
+     "en": "to receive, to get",
+     "pos": "verb"
+    },
+    {
+     "ko": "도착하다",
+     "en": "to arrive",
+     "pos": "verb"
+    },
+    {
+     "ko": "여행하다",
+     "en": "to travel",
+     "pos": "verb"
+    },
+    {
+     "ko": "완벽하다",
+     "en": "to be perfect",
+     "pos": "adjective"
+    },
+    {
+     "ko": "아프다",
+     "en": "to be sick, to be sore",
+     "pos": "adjective"
+    },
+    {
+     "ko": "똑똑하다",
+     "en": "to be smart",
+     "pos": "adjective"
+    },
+    {
+     "ko": "중요하다",
+     "en": "to be important",
+     "pos": "adjective"
+    },
+    {
+     "ko": "젊다",
+     "en": "to be young",
+     "pos": "adjective"
+    },
+    {
+     "ko": "늙다",
+     "en": "to be old",
+     "pos": "adjective"
+    },
+    {
+     "ko": "나쁘다",
+     "en": "to be bad",
+     "pos": "adjective"
+    },
+    {
+     "ko": "바로",
+     "en": "immediately",
+     "pos": "adverb"
+    },
+    {
+     "ko": "즉시",
+     "en": "immediately",
+     "pos": "adverb"
+    },
+    {
+     "ko": "빨리",
+     "en": "quickly/fast",
+     "pos": "adverb"
+    },
+    {
+     "ko": "자주",
+     "en": "often",
+     "pos": "adverb"
+    },
+    {
+     "ko": "가끔",
+     "en": "sometimes",
+     "pos": "adverb"
+    },
+    {
+     "ko": "많이",
+     "en": "many/a lot of",
+     "pos": "adverb"
+    },
+    {
+     "ko": "방금",
+     "en": "a moment ago",
+     "pos": "adverb"
+    },
+    {
+     "ko": "갑자기",
+     "en": "suddenly",
+     "pos": "adverb"
+    },
+    {
+     "ko": "매년",
+     "en": "every year",
+     "pos": "adverb"
+    },
+    {
+     "ko": "다시",
+     "en": "again",
+     "pos": "adverb"
+    },
+    {
+     "ko": "혼자",
+     "en": "alone",
+     "pos": "adverb"
+    },
+    {
+     "ko": "안",
+     "en": "not",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Adverbs of time, place and degree",
+     "explanation": "Adverbs describe when, where or how much something happens. Time and place words usually come near the start of the sentence. Degree and frequency adverbs like 자주, 빨리 and 많이 go right before the verb they modify.",
+     "examples": [
+      {
+       "ko": "저는 자주 도서관에 가요.",
+       "en": "I often go to the library."
+      },
+      {
+       "ko": "저는 어젯밤에 혼자 놀았어요.",
+       "en": "I played alone last night."
+      },
+      {
+       "ko": "저는 밥을 빨리 먹었어요.",
+       "en": "I ate quickly."
+      },
+      {
+       "ko": "저는 가끔 친구를 만나요.",
+       "en": "I sometimes meet my friend."
+      }
+     ]
+    },
+    {
+     "point": "Adjective → adverb with ~게 / ~히",
+     "explanation": "Many adverbs are made by adding ~게 to an adjective stem (쉽다 → 쉽게). Adjectives ending in 하다 can often swap 하다 for 히 as well (안전하게 or 안전히). A few have special forms, such as 많다 → 많이 and 빠르다 → 빨리.",
+     "examples": [
+      {
+       "ko": "저는 거리를 안전하게 건넜어요.",
+       "en": "I crossed the street safely."
+      },
+      {
+       "ko": "우리는 행복하게 살아요.",
+       "en": "We live happily."
+      },
+      {
+       "ko": "그 학생은 똑똑하게 말해요.",
+       "en": "That student speaks smartly."
+      },
+      {
+       "ko": "저는 그 문제를 쉽게 끝냈어요.",
+       "en": "I finished that problem easily."
+      }
+     ]
+    },
+    {
+     "point": "Negation with 안",
+     "explanation": "Put 안 directly before the final verb or adjective to make it negative. For noun + 하다 verbs such as 공부하다, 안 goes between the noun and 하다 (공부 안 하다).",
+     "examples": [
+      {
+       "ko": "저는 생선을 안 먹어요.",
+       "en": "I don't eat fish."
+      },
+      {
+       "ko": "오늘은 안 추워요.",
+       "en": "It isn't cold today."
+      },
+      {
+       "ko": "저는 어제 공부 안 했어요.",
+       "en": "I didn't study yesterday."
+      },
+      {
+       "ko": "동생은 학교에 안 가요.",
+       "en": "My younger sibling doesn't go to school."
+      }
+     ]
+    },
+    {
+     "point": "Negation with ~지 않다",
+     "explanation": "Add ~지 않다 to the stem of the final verb or adjective, then conjugate 않다 for tense and politeness. It means the same as 안 but sounds a little more formal or written.",
+     "examples": [
+      {
+       "ko": "저는 생선을 먹지 않아요.",
+       "en": "I don't eat fish."
+      },
+      {
+       "ko": "이 문제는 어렵지 않아요.",
+       "en": "This problem isn't difficult."
+      },
+      {
+       "ko": "그 트럭은 빠르지 않아요.",
+       "en": "That truck isn't fast."
+      },
+      {
+       "ko": "저는 내일 학교에 가지 않겠어요.",
+       "en": "I won't go to school tomorrow."
+      }
+     ]
+    },
+    {
+     "point": "아니다 (to not be)",
+     "explanation": "아니다 is the negative of 이다. The noun before it takes 이/가: \"A는 B이/가 아니다\" means \"A is not B\". The polite form is 아니에요.",
+     "examples": [
+      {
+       "ko": "저는 선생님이 아니에요.",
+       "en": "I am not a teacher."
+      },
+      {
+       "ko": "이것은 제 가방이 아니에요.",
+       "en": "This is not my bag."
+      },
+      {
+       "ko": "그 사람은 외국인이 아니에요.",
+       "en": "That person is not a foreigner."
+      },
+      {
+       "ko": "나는 의사가 아니야.",
+       "en": "I'm not a doctor."
+      }
+     ]
+    },
+    {
+     "point": "없다 (to not have / not be there)",
+     "explanation": "없다 is the opposite of 있다. \"Person는 Thing이/가 없다\" means the person does not have it, and \"Thing이/가 Place에 없다\" means it is not at that place.",
+     "examples": [
+      {
+       "ko": "저는 돈이 없어요.",
+       "en": "I don't have money."
+      },
+      {
+       "ko": "우리는 시간이 없어요.",
+       "en": "We don't have time."
+      },
+      {
+       "ko": "친구는 지금 도서관에 없어요.",
+       "en": "My friend isn't at the library now."
+      },
+      {
+       "ko": "냉장고에 음료수가 없어요.",
+       "en": "There are no drinks in the fridge."
+      }
+     ]
+    },
+    {
+     "point": "싫어하다 vs 싫다",
+     "explanation": "This pair works like 좋아하다 and 좋다. 싫어하다 is a verb meaning \"to dislike\" and takes an object with 을/를. 싫다 is an adjective, so the disliked thing is marked with 이/가 and becomes the subject.",
+     "examples": [
+      {
+       "ko": "저는 생선을 싫어해요.",
+       "en": "I dislike fish."
+      },
+      {
+       "ko": "저는 비가 싫어요.",
+       "en": "I don't like rain."
+      },
+      {
+       "ko": "동생은 야채를 싫어해요.",
+       "en": "My younger sibling dislikes vegetables."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

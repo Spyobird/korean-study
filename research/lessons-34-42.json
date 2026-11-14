@@ -1,0 +1,2088 @@
+{
+ "range": "34-42",
+ "lessons": [
+  {
+   "n": 34,
+   "title": "Lesson 34: Explanations for Difficult Words",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-34/",
+   "vocab": [
+    {
+     "ko": "흔들다",
+     "en": "to shake",
+     "pos": "verb"
+    },
+    {
+     "ko": "흔들거리다",
+     "en": "to be shaking",
+     "pos": "verb"
+    },
+    {
+     "ko": "머뭇거리다",
+     "en": "to hesitate",
+     "pos": "verb"
+    },
+    {
+     "ko": "반짝거리다",
+     "en": "to be shiny",
+     "pos": "verb"
+    },
+    {
+     "ko": "두리번거리다",
+     "en": "to look around",
+     "pos": "verb"
+    },
+    {
+     "ko": "끈적거리다",
+     "en": "to be sticky",
+     "pos": "verb"
+    },
+    {
+     "ko": "출렁거리다",
+     "en": "to slosh, to rock",
+     "pos": "verb"
+    },
+    {
+     "ko": "자기",
+     "en": "oneself, him/her",
+     "pos": "noun"
+    },
+    {
+     "ko": "자신",
+     "en": "oneself",
+     "pos": "noun"
+    },
+    {
+     "ko": "아직",
+     "en": "still, yet",
+     "pos": "adverb"
+    },
+    {
+     "ko": "여전히",
+     "en": "still",
+     "pos": "adverb"
+    },
+    {
+     "ko": "별로",
+     "en": "not very",
+     "pos": "adverb"
+    },
+    {
+     "ko": "전혀",
+     "en": "not at all",
+     "pos": "adverb"
+    },
+    {
+     "ko": "훨씬",
+     "en": "much more",
+     "pos": "adverb"
+    },
+    {
+     "ko": "관하다",
+     "en": "to relate to, regarding",
+     "pos": "verb"
+    },
+    {
+     "ko": "관련하다",
+     "en": "to be related to",
+     "pos": "verb"
+    },
+    {
+     "ko": "주위",
+     "en": "surroundings, around",
+     "pos": "noun"
+    },
+    {
+     "ko": "일단",
+     "en": "once, first, for now",
+     "pos": "adverb"
+    },
+    {
+     "ko": "무게",
+     "en": "weight",
+     "pos": "noun"
+    },
+    {
+     "ko": "몸무게",
+     "en": "body weight",
+     "pos": "noun"
+    },
+    {
+     "ko": "살",
+     "en": "flesh, weight",
+     "pos": "noun"
+    },
+    {
+     "ko": "찌다",
+     "en": "to gain weight",
+     "pos": "verb"
+    },
+    {
+     "ko": "빠지다",
+     "en": "to lose weight",
+     "pos": "verb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~거리다 verbs",
+     "explanation": "Many verbs end in ~거리다, which attaches to a sound or motion word to describe something happening repeatedly or continuously, like shaking, twinkling or hesitating. They conjugate like any other verb.",
+     "examples": [
+      {
+       "ko": "배가 계속 흔들거려요.",
+       "en": "The boat keeps rocking."
+      },
+      {
+       "ko": "하늘에 별이 반짝거려요.",
+       "en": "Stars are twinkling in the sky."
+      },
+      {
+       "ko": "그는 대답하기 전에 머뭇거렸어요.",
+       "en": "He hesitated before answering."
+      },
+      {
+       "ko": "손이 끈적거려서 손을 씻었어요.",
+       "en": "My hands were sticky, so I washed them."
+      }
+     ]
+    },
+    {
+     "point": "자기 and 자신",
+     "explanation": "자기 points back to the subject of the sentence, like \"his own\" or \"her own\", and is mostly used for third persons. 자신 means \"oneself\" and often appears as 자기 자신 or, for the speaker, 제 자신 / 내 자신.",
+     "examples": [
+      {
+       "ko": "민수는 자기 방을 청소했어요.",
+       "en": "Minsu cleaned his own room."
+      },
+      {
+       "ko": "자신을 사랑하는 것은 중요해요.",
+       "en": "It is important to love yourself."
+      },
+      {
+       "ko": "저는 제 자신을 믿어요.",
+       "en": "I believe in myself."
+      },
+      {
+       "ko": "그녀는 자기 자신에 대해 이야기했어요.",
+       "en": "She talked about herself."
+      }
+     ]
+    },
+    {
+     "point": "아직 vs 여전히 (still)",
+     "explanation": "아직 means \"still\" or, with a negative, \"not yet\", for something that has not changed or finished up to now. 여전히 means \"still, as before\", stressing that a situation remains the same as it was.",
+     "examples": [
+      {
+       "ko": "친구가 아직 안 왔어요.",
+       "en": "My friend hasn’t come yet."
+      },
+      {
+       "ko": "저는 아직 숙제를 하고 있어요.",
+       "en": "I am still doing my homework."
+      },
+      {
+       "ko": "그는 여전히 바빠요.",
+       "en": "He is still busy (as always)."
+      }
+     ]
+    },
+    {
+     "point": "별로 / 전혀 with negatives",
+     "explanation": "Some adverbs only work in negative sentences. 별로 softens a negative to \"not very / not really\", while 전혀 makes it absolute, \"not at all\". Use them with 안, ~지 않다, 못 or 없다/모르다.",
+     "examples": [
+      {
+       "ko": "저는 별로 배고프지 않아요.",
+       "en": "I’m not very hungry."
+      },
+      {
+       "ko": "그 영화는 별로 재미없었어요.",
+       "en": "That movie wasn’t really fun."
+      },
+      {
+       "ko": "저는 고기를 전혀 안 먹어요.",
+       "en": "I don’t eat meat at all."
+      },
+      {
+       "ko": "그 사람을 전혀 몰라요.",
+       "en": "I don’t know that person at all."
+      }
+     ]
+    },
+    {
+     "point": "훨씬 (much more)",
+     "explanation": "훨씬 goes in front of a descriptive word in a comparison with ~보다 to say \"much more\" or \"far\". It intensifies the gap between the two things being compared.",
+     "examples": [
+      {
+       "ko": "오늘이 어제보다 훨씬 추워요.",
+       "en": "Today is much colder than yesterday."
+      },
+      {
+       "ko": "기차가 버스보다 훨씬 빨라요.",
+       "en": "The train is much faster than the bus."
+      },
+      {
+       "ko": "한국어가 영어보다 훨씬 어려워요.",
+       "en": "Korean is much harder than English."
+      }
+     ]
+    },
+    {
+     "point": "관하다 / 관련하다 (about, related to)",
+     "explanation": "Use N에 관한 + noun or N에 관해(서) + verb to mean \"about / regarding\" a topic. 관련하다 has a similar meaning and is very common as 관련된 (\"related to\") in front of a noun.",
+     "examples": [
+      {
+       "ko": "한국 역사에 관한 책을 읽었어요.",
+       "en": "I read a book about Korean history."
+      },
+      {
+       "ko": "우리는 이 문제에 관해 이야기했어요.",
+       "en": "We talked about this problem."
+      },
+      {
+       "ko": "저는 환경과 관련된 일을 하고 싶어요.",
+       "en": "I want to do work related to the environment."
+      }
+     ]
+    },
+    {
+     "point": "주위 (around, surroundings)",
+     "explanation": "주위 refers to the area surrounding something or someone. Put it after a noun (N 주위에) for \"around N\", or use 주위 사람 for the people around you.",
+     "examples": [
+      {
+       "ko": "집 주위에 나무가 많아요.",
+       "en": "There are many trees around the house."
+      },
+      {
+       "ko": "제 주위 사람들은 모두 친절해요.",
+       "en": "The people around me are all kind."
+      },
+      {
+       "ko": "그는 주위를 두리번거렸어요.",
+       "en": "He looked around his surroundings."
+      }
+     ]
+    },
+    {
+     "point": "일단 (first, once, for now)",
+     "explanation": "일단 marks the action you will do first before anything else, often followed by ~고 or ~(으)ㄴ 후에. It can also mean \"for now\" when deciding on a temporary step.",
+     "examples": [
+      {
+       "ko": "일단 밥을 먹고 공부할 거예요.",
+       "en": "First I will eat, and then study."
+      },
+      {
+       "ko": "일단 숙제를 끝낸 후에 친구를 만날 거예요.",
+       "en": "Once I finish my homework, I will meet a friend."
+      },
+      {
+       "ko": "일단 집에 가요.",
+       "en": "Let’s go home for now."
+      }
+     ]
+    },
+    {
+     "point": "Weight words: 무게, 몸무게, 살이 찌다/빠지다",
+     "explanation": "무게 is the weight of an object and 몸무게 is a person’s body weight. To talk about gaining or losing weight, use 살 (flesh) as the subject: 살이 찌다 is to gain weight and 살이 빠지다 is to lose it.",
+     "examples": [
+      {
+       "ko": "요즘 살이 많이 쪘어요.",
+       "en": "I gained a lot of weight lately."
+      },
+      {
+       "ko": "운동을 해서 살이 빠졌어요.",
+       "en": "I exercised, so I lost weight."
+      },
+      {
+       "ko": "이 가방의 무게가 얼마예요?",
+       "en": "How much does this bag weigh?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "title": "Lesson 35: It seems to be/might be: 것 같다",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-35/",
+   "vocab": [
+    {
+     "ko": "수영장",
+     "en": "swimming pool",
+     "pos": "noun"
+    },
+    {
+     "ko": "보건",
+     "en": "public health",
+     "pos": "noun"
+    },
+    {
+     "ko": "소나무",
+     "en": "pine tree",
+     "pos": "noun"
+    },
+    {
+     "ko": "바닥",
+     "en": "floor",
+     "pos": "noun"
+    },
+    {
+     "ko": "변태",
+     "en": "pervert",
+     "pos": "noun"
+    },
+    {
+     "ko": "홍수",
+     "en": "flood",
+     "pos": "noun"
+    },
+    {
+     "ko": "새우",
+     "en": "shrimp",
+     "pos": "noun"
+    },
+    {
+     "ko": "왕따",
+     "en": "outcast",
+     "pos": "noun"
+    },
+    {
+     "ko": "낚시",
+     "en": "fishing",
+     "pos": "noun"
+    },
+    {
+     "ko": "후배",
+     "en": "one’s junior",
+     "pos": "noun"
+    },
+    {
+     "ko": "꿀",
+     "en": "honey",
+     "pos": "noun"
+    },
+    {
+     "ko": "허벅지",
+     "en": "inner thigh",
+     "pos": "noun"
+    },
+    {
+     "ko": "말",
+     "en": "horse",
+     "pos": "noun"
+    },
+    {
+     "ko": "휴가",
+     "en": "holiday, vacation",
+     "pos": "noun"
+    },
+    {
+     "ko": "휴식",
+     "en": "break",
+     "pos": "noun"
+    },
+    {
+     "ko": "넘치다",
+     "en": "to overflow",
+     "pos": "verb"
+    },
+    {
+     "ko": "피하다",
+     "en": "to avoid",
+     "pos": "verb"
+    },
+    {
+     "ko": "펴다",
+     "en": "to unfold, to unroll",
+     "pos": "verb"
+    },
+    {
+     "ko": "답장하다",
+     "en": "to respond to a message",
+     "pos": "verb"
+    },
+    {
+     "ko": "봉사하다",
+     "en": "to volunteer",
+     "pos": "verb"
+    },
+    {
+     "ko": "시도하다",
+     "en": "to try, to attempt",
+     "pos": "verb"
+    },
+    {
+     "ko": "펴지다",
+     "en": "to be unfolded, to be unrolled",
+     "pos": "verb"
+    },
+    {
+     "ko": "답답하다",
+     "en": "to be stuffy, to be frustrated",
+     "pos": "adjective"
+    },
+    {
+     "ko": "평화롭다",
+     "en": "to be peaceful",
+     "pos": "adjective"
+    },
+    {
+     "ko": "신기하다",
+     "en": "to be amazing, to be cool",
+     "pos": "adjective"
+    },
+    {
+     "ko": "멋있다",
+     "en": "to be stylish",
+     "pos": "adjective"
+    },
+    {
+     "ko": "오히려",
+     "en": "on the contrary",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~(으)ㄹ 것 같다 (probably will, seems likely)",
+     "explanation": "Take the future modifier ~(으)ㄹ 것 and put 같다 after it to make a guess: \"I think it will\" or \"it is likely to\". It works with verbs and adjectives, and 같아요 is often pronounced 같애요 in speech.",
+     "examples": [
+      {
+       "ko": "내일 비가 올 것 같아요.",
+       "en": "I think it will rain tomorrow."
+      },
+      {
+       "ko": "이 영화는 재미있을 것 같아요.",
+       "en": "This movie will probably be fun."
+      },
+      {
+       "ko": "후배가 늦을 것 같아요.",
+       "en": "My junior is probably going to be late."
+      },
+      {
+       "ko": "그 사람은 새우를 안 먹을 것 같아요.",
+       "en": "I don’t think that person will eat shrimp."
+      }
+     ]
+    },
+    {
+     "point": "~는 / ~(으)ㄴ 것 같다 (it seems that)",
+     "explanation": "Change the modifier before 것 같다 to talk about the present or past: ~는 for present actions, ~(으)ㄴ for past actions or present-tense adjectives. These forms suggest you are judging from some evidence, while ~았/었을 것 같다 is more of a blind guess about the past.",
+     "examples": [
+      {
+       "ko": "밖에 비가 오는 것 같아요.",
+       "en": "It seems to be raining outside."
+      },
+      {
+       "ko": "친구가 벌써 집에 간 것 같아요.",
+       "en": "It seems my friend already went home."
+      },
+      {
+       "ko": "이 수영장은 아주 깊은 것 같아요.",
+       "en": "This pool seems very deep."
+      },
+      {
+       "ko": "아빠가 벌써 돈을 냈을 것 같아요.",
+       "en": "Dad has probably already paid."
+      }
+     ]
+    },
+    {
+     "point": "그렇다 + 것 같다 (I think so)",
+     "explanation": "그렇다 combined with 것 같다 gives handy replies: 그런 것 같아요 (\"it seems so / I think so\") and 그럴 것 같아요 (\"it will probably be so\"). Negate with 그렇지 않은 것 같아요.",
+     "examples": [
+      {
+       "ko": "네, 그런 것 같아요.",
+       "en": "Yes, I think so."
+      },
+      {
+       "ko": "아마 그럴 것 같아요.",
+       "en": "It will probably be like that."
+      },
+      {
+       "ko": "아니요, 그렇지 않은 것 같아요.",
+       "en": "No, I don’t think so."
+      }
+     ]
+    },
+    {
+     "point": "~겠다 for guesses",
+     "explanation": "Adding ~겠 to a stem can express a guess or impression based on what you see or hear, like \"it must be\" or \"it looks like it will\". It is common in reactions to someone else’s situation.",
+     "examples": [
+      {
+       "ko": "와, 이 꿀이 정말 맛있겠어요!",
+       "en": "Wow, this honey must be really delicious!"
+      },
+      {
+       "ko": "하루 종일 일해서 피곤하겠어요.",
+       "en": "You worked all day, so you must be tired."
+      },
+      {
+       "ko": "그 낚시 여행은 정말 재미있겠어요.",
+       "en": "That fishing trip sounds like it will be really fun."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "title": "Lesson 36: To look like: 보이다 / ~아/어 보이다",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-36/",
+   "vocab": [
+    {
+     "ko": "소방서",
+     "en": "fire station",
+     "pos": "noun"
+    },
+    {
+     "ko": "무릎",
+     "en": "knee",
+     "pos": "noun"
+    },
+    {
+     "ko": "얼음",
+     "en": "ice",
+     "pos": "noun"
+    },
+    {
+     "ko": "흡연",
+     "en": "smoking",
+     "pos": "noun"
+    },
+    {
+     "ko": "종아리",
+     "en": "calf",
+     "pos": "noun"
+    },
+    {
+     "ko": "관리비",
+     "en": "maintenance fee",
+     "pos": "noun"
+    },
+    {
+     "ko": "치료비",
+     "en": "medical fee",
+     "pos": "noun"
+    },
+    {
+     "ko": "보관료",
+     "en": "storage fee",
+     "pos": "noun"
+    },
+    {
+     "ko": "땅값",
+     "en": "land price",
+     "pos": "noun"
+    },
+    {
+     "ko": "입장료",
+     "en": "entrance fee",
+     "pos": "noun"
+    },
+    {
+     "ko": "등록금",
+     "en": "tuition fee",
+     "pos": "noun"
+    },
+    {
+     "ko": "교통비",
+     "en": "transportation cost",
+     "pos": "noun"
+    },
+    {
+     "ko": "원룸",
+     "en": "studio apartment",
+     "pos": "noun"
+    },
+    {
+     "ko": "화장",
+     "en": "makeup",
+     "pos": "noun"
+    },
+    {
+     "ko": "소방",
+     "en": "firefighting",
+     "pos": "noun"
+    },
+    {
+     "ko": "초등학교",
+     "en": "elementary school",
+     "pos": "noun"
+    },
+    {
+     "ko": "첫차",
+     "en": "first bus/train",
+     "pos": "noun"
+    },
+    {
+     "ko": "가격표",
+     "en": "price tag",
+     "pos": "noun"
+    },
+    {
+     "ko": "여우",
+     "en": "fox",
+     "pos": "noun"
+    },
+    {
+     "ko": "의욕",
+     "en": "drive, motivation",
+     "pos": "noun"
+    },
+    {
+     "ko": "일방적",
+     "en": "one-sided",
+     "pos": "noun"
+    },
+    {
+     "ko": "이사하다",
+     "en": "to move to a new house",
+     "pos": "verb"
+    },
+    {
+     "ko": "귀국하다",
+     "en": "to return home (country)",
+     "pos": "verb"
+    },
+    {
+     "ko": "터지다",
+     "en": "to explode",
+     "pos": "verb"
+    },
+    {
+     "ko": "기대다",
+     "en": "to lean against",
+     "pos": "verb"
+    },
+    {
+     "ko": "얻다",
+     "en": "to gain, to get, to obtain",
+     "pos": "verb"
+    },
+    {
+     "ko": "임신하다",
+     "en": "to get pregnant",
+     "pos": "verb"
+    },
+    {
+     "ko": "보이다",
+     "en": "to be seen",
+     "pos": "verb"
+    },
+    {
+     "ko": "들리다",
+     "en": "to be heard",
+     "pos": "verb"
+    },
+    {
+     "ko": "짜다",
+     "en": "to be salty",
+     "pos": "adjective"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "N 같이 보이다 (to look like N)",
+     "explanation": "보이다 means \"to be seen\", so it is often translated as \"can see\". Put a noun before 같이 and end with 보이다 to say that something looks like that noun.",
+     "examples": [
+      {
+       "ko": "너는 선생님 같이 보여.",
+       "en": "You look like a teacher."
+      },
+      {
+       "ko": "저 구름은 여우 같이 보여요.",
+       "en": "That cloud looks like a fox."
+      },
+      {
+       "ko": "그 남자는 연예인 같이 보여요.",
+       "en": "That man looks like a celebrity."
+      }
+     ]
+    },
+    {
+     "point": "보이다 / 들리다 (can see / can hear)",
+     "explanation": "보이다 and 들리다 are passive-like verbs meaning \"to be seen\" and \"to be heard\". The thing seen or heard takes ~이/가, and English usually translates them as \"I can see / I can hear\".",
+     "examples": [
+      {
+       "ko": "여기서 산이 안 보여요.",
+       "en": "I can’t see the mountain from here."
+      },
+      {
+       "ko": "소방서가 보여요?",
+       "en": "Can you see the fire station?"
+      },
+      {
+       "ko": "네 목소리가 잘 안 들려.",
+       "en": "I can’t hear your voice well."
+      },
+      {
+       "ko": "밖에서 이상한 소리가 들렸어요.",
+       "en": "I heard a strange sound outside."
+      }
+     ]
+    },
+    {
+     "point": "N 맛 같다 / N 냄새 같다 (tastes/smells like)",
+     "explanation": "맛 means taste and 냄새 means smell. Put the noun being compared before 맛 or 냄새 and follow it with 같다 to say something tastes or smells like it.",
+     "examples": [
+      {
+       "ko": "이 음식은 김치 맛 같아요.",
+       "en": "This food tastes like kimchi."
+      },
+      {
+       "ko": "이 사탕은 딸기 맛 같아요.",
+       "en": "This candy tastes like strawberry."
+      },
+      {
+       "ko": "이 향수는 장미 냄새 같아요.",
+       "en": "This perfume smells like roses."
+      }
+     ]
+    },
+    {
+     "point": "Adjective + ~아/어 보이다 (to look + adjective)",
+     "explanation": "Attach ~아/어 보이다 to an adjective stem to say how something appears: \"looks tired\", \"looks salty\". The ending 보이다 then takes the tense and politeness.",
+     "examples": [
+      {
+       "ko": "오늘 피곤해 보여요.",
+       "en": "You look tired today."
+      },
+      {
+       "ko": "그 음식이 짜 보여요.",
+       "en": "That food looks salty."
+      },
+      {
+       "ko": "이 원룸은 아주 좋아 보여요.",
+       "en": "This studio looks very nice."
+      },
+      {
+       "ko": "동생이 행복해 보였어요.",
+       "en": "My younger sibling looked happy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "title": "Lesson 37: Because: ~아/어서",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-37/",
+   "vocab": [
+    {
+     "ko": "도로",
+     "en": "road",
+     "pos": "noun"
+    },
+    {
+     "ko": "고속도로",
+     "en": "highway",
+     "pos": "noun"
+    },
+    {
+     "ko": "스님",
+     "en": "Buddhist monk",
+     "pos": "noun"
+    },
+    {
+     "ko": "당국",
+     "en": "authorities",
+     "pos": "noun"
+    },
+    {
+     "ko": "도시락",
+     "en": "lunch box",
+     "pos": "noun"
+    },
+    {
+     "ko": "여행자",
+     "en": "traveler",
+     "pos": "noun"
+    },
+    {
+     "ko": "피해",
+     "en": "damage",
+     "pos": "noun"
+    },
+    {
+     "ko": "성형",
+     "en": "plastic surgery",
+     "pos": "noun"
+    },
+    {
+     "ko": "연휴",
+     "en": "continuous holidays",
+     "pos": "noun"
+    },
+    {
+     "ko": "최신",
+     "en": "the latest",
+     "pos": "noun"
+    },
+    {
+     "ko": "진심",
+     "en": "sincerity, truth",
+     "pos": "noun"
+    },
+    {
+     "ko": "한편",
+     "en": "on the other hand",
+     "pos": "noun"
+    },
+    {
+     "ko": "반면",
+     "en": "on the other hand",
+     "pos": "noun"
+    },
+    {
+     "ko": "점프하다",
+     "en": "to jump",
+     "pos": "verb"
+    },
+    {
+     "ko": "깜빡하다",
+     "en": "to forget (briefly)",
+     "pos": "verb"
+    },
+    {
+     "ko": "빨다",
+     "en": "to suck",
+     "pos": "verb"
+    },
+    {
+     "ko": "뜨다",
+     "en": "to open one’s eyes",
+     "pos": "verb"
+    },
+    {
+     "ko": "감다",
+     "en": "to close one’s eyes",
+     "pos": "verb"
+    },
+    {
+     "ko": "다투다",
+     "en": "to fight verbally",
+     "pos": "verb"
+    },
+    {
+     "ko": "겨루다",
+     "en": "to compete, to vie",
+     "pos": "verb"
+    },
+    {
+     "ko": "개설하다",
+     "en": "to establish, to open",
+     "pos": "verb"
+    },
+    {
+     "ko": "설레다",
+     "en": "to be excited, heart fluttering",
+     "pos": "verb"
+    },
+    {
+     "ko": "떠지다",
+     "en": "to have one’s eyes open",
+     "pos": "verb"
+    },
+    {
+     "ko": "감기다",
+     "en": "to have one’s eyes closed",
+     "pos": "verb"
+    },
+    {
+     "ko": "왜냐하면",
+     "en": "because",
+     "pos": "adverb"
+    },
+    {
+     "ko": "그래서",
+     "en": "therefore",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~아/어서 (because, so)",
+     "explanation": "Attach ~아/어서 to a verb or adjective stem to make the first clause the reason for the second. It is very common in speech, but the second clause cannot be a command or a suggestion.",
+     "examples": [
+      {
+       "ko": "배가 고파서 도시락을 먹었어요.",
+       "en": "I was hungry, so I ate my lunch box."
+      },
+      {
+       "ko": "도로가 막혀서 늦었어요.",
+       "en": "The road was jammed, so I was late."
+      },
+      {
+       "ko": "너무 설레서 잠을 못 잤어요.",
+       "en": "I was so excited that I couldn’t sleep."
+      }
+     ]
+    },
+    {
+     "point": "Tense with ~아/어서",
+     "explanation": "Past or future markers are never put before ~아/어서. The tense of the whole sentence is shown only on the final verb, so the reason clause takes its time from it.",
+     "examples": [
+      {
+       "ko": "어제 비가 와서 집에 있었어요.",
+       "en": "It rained yesterday, so I stayed home."
+      },
+      {
+       "ko": "내일은 바빠서 못 갈 거예요.",
+       "en": "I’ll be busy tomorrow, so I won’t be able to go."
+      },
+      {
+       "ko": "숙제를 깜빡해서 선생님이 화가 났어요.",
+       "en": "I forgot my homework, so the teacher got angry."
+      }
+     ]
+    },
+    {
+     "point": "Noun + (이)라서 (because it is N)",
+     "explanation": "With 이다, the reason form is usually (이)라서: 이라서 after a consonant, 라서 after a vowel. The negative is 아니라서, \"because it is not N\".",
+     "examples": [
+      {
+       "ko": "연휴라서 고속도로가 막혀요.",
+       "en": "It’s a long holiday, so the highway is jammed."
+      },
+      {
+       "ko": "저는 학생이라서 돈이 별로 없어요.",
+       "en": "I’m a student, so I don’t have much money."
+      },
+      {
+       "ko": "그 사람은 스님이라서 고기를 안 먹어요.",
+       "en": "He is a monk, so he doesn’t eat meat."
+      },
+      {
+       "ko": "최신 핸드폰이 아니라서 느려요.",
+       "en": "It’s not the latest phone, so it’s slow."
+      }
+     ]
+    },
+    {
+     "point": "그래서 (so, therefore)",
+     "explanation": "그래서 starts a new sentence and links it to the previous one as its result, much like \"so\" or \"therefore\". It is the sentence-starting version of ~아/어서.",
+     "examples": [
+      {
+       "ko": "어제 너무 피곤했어요. 그래서 일찍 잤어요.",
+       "en": "I was very tired yesterday. So I went to bed early."
+      },
+      {
+       "ko": "비가 많이 왔어요. 그래서 집에 있었어요.",
+       "en": "It rained a lot. So I stayed home."
+      },
+      {
+       "ko": "도시락을 깜빡했어요. 그래서 점심을 못 먹었어요.",
+       "en": "I forgot my lunch box. So I couldn’t eat lunch."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "title": "Lesson 38: Because: ~기 때문에",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-38/",
+   "vocab": [
+    {
+     "ko": "투자자",
+     "en": "investor",
+     "pos": "noun"
+    },
+    {
+     "ko": "주식",
+     "en": "stocks",
+     "pos": "noun"
+    },
+    {
+     "ko": "주식시장",
+     "en": "stock market",
+     "pos": "noun"
+    },
+    {
+     "ko": "교복",
+     "en": "school uniform",
+     "pos": "noun"
+    },
+    {
+     "ko": "여신",
+     "en": "goddess",
+     "pos": "noun"
+    },
+    {
+     "ko": "별명",
+     "en": "nickname",
+     "pos": "noun"
+    },
+    {
+     "ko": "기업",
+     "en": "enterprise",
+     "pos": "noun"
+    },
+    {
+     "ko": "현실",
+     "en": "reality",
+     "pos": "noun"
+    },
+    {
+     "ko": "폼",
+     "en": "posture",
+     "pos": "noun"
+    },
+    {
+     "ko": "제사",
+     "en": "ancestral memorial rite",
+     "pos": "noun"
+    },
+    {
+     "ko": "떨어뜨리다",
+     "en": "to drop",
+     "pos": "verb"
+    },
+    {
+     "ko": "제안하다",
+     "en": "to propose, to suggest",
+     "pos": "verb"
+    },
+    {
+     "ko": "투자하다",
+     "en": "to invest",
+     "pos": "verb"
+    },
+    {
+     "ko": "부정하다",
+     "en": "to deny",
+     "pos": "verb"
+    },
+    {
+     "ko": "되짚다",
+     "en": "to look back, retrace",
+     "pos": "verb"
+    },
+    {
+     "ko": "망설이다",
+     "en": "to hesitate",
+     "pos": "verb"
+    },
+    {
+     "ko": "세수하다",
+     "en": "to wash one’s face",
+     "pos": "verb"
+    },
+    {
+     "ko": "통화하다",
+     "en": "to talk on the phone",
+     "pos": "verb"
+    },
+    {
+     "ko": "떨어지다",
+     "en": "to fall, to drop",
+     "pos": "verb"
+    },
+    {
+     "ko": "북적거리다",
+     "en": "to be crowded, busy",
+     "pos": "verb"
+    },
+    {
+     "ko": "귀찮다",
+     "en": "to be annoying",
+     "pos": "adjective"
+    },
+    {
+     "ko": "고르게",
+     "en": "evenly, flatly",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "N 때문에 (because of N)",
+     "explanation": "때문 is a noun meaning \"reason\". Place it right after a noun with ~에 to say \"because of\" that noun.",
+     "examples": [
+      {
+       "ko": "비 때문에 여행을 못 갔어요.",
+       "en": "I couldn’t go on the trip because of the rain."
+      },
+      {
+       "ko": "너 때문에 늦었어.",
+       "en": "I was late because of you."
+      },
+      {
+       "ko": "시험 때문에 요즘 바빠요.",
+       "en": "I’m busy these days because of exams."
+      }
+     ]
+    },
+    {
+     "point": "~기 때문에 (because)",
+     "explanation": "Add ~기 때문에 to a verb or adjective stem to give a reason; it sounds a little firmer and more formal than ~아/어서. Like ~아/어서, the following clause should not be a command or suggestion.",
+     "examples": [
+      {
+       "ko": "오늘 바쁘기 때문에 못 만나요.",
+       "en": "I can’t meet today because I’m busy."
+      },
+      {
+       "ko": "거리가 북적거리기 때문에 집에 있을 거예요.",
+       "en": "I’ll stay home because the streets are crowded."
+      },
+      {
+       "ko": "그는 학생이기 때문에 교복을 입어요.",
+       "en": "He wears a school uniform because he is a student."
+      }
+     ]
+    },
+    {
+     "point": "~았/었기 때문에 and ~(으)ㄹ 것이기 때문에",
+     "explanation": "Unlike ~아/어서, ~기 때문에 can carry its own tense. Use ~았/었기 때문에 for a past reason and ~(으)ㄹ 것이기 때문에 for a future one.",
+     "examples": [
+      {
+       "ko": "주식에 투자했기 때문에 돈을 벌었어요.",
+       "en": "I made money because I invested in stocks."
+      },
+      {
+       "ko": "어제 늦게 잤기 때문에 피곤해요.",
+       "en": "I’m tired because I went to bed late yesterday."
+      },
+      {
+       "ko": "내일 비가 올 것이기 때문에 우산을 가져갈 거예요.",
+       "en": "I will take an umbrella because it will rain tomorrow."
+      }
+     ]
+    },
+    {
+     "point": "~기 때문이다 and 그렇기 때문에",
+     "explanation": "End a sentence with ~기 때문이에요 to state \"it is because ...\", often after 이유는 (\"the reason is\") or 왜냐하면. 그렇기 때문에 at the start of a sentence means \"because of that / therefore\".",
+     "examples": [
+      {
+       "ko": "제가 늦은 이유는 길이 막혔기 때문이에요.",
+       "en": "The reason I was late is that the road was jammed."
+      },
+      {
+       "ko": "왜냐하면 너무 피곤하기 때문이에요.",
+       "en": "Because I’m too tired."
+      },
+      {
+       "ko": "비가 많이 와요. 그렇기 때문에 밖에 안 나갈 거예요.",
+       "en": "It’s raining a lot. Therefore, I won’t go out."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "title": "Lesson 39: Honorific ‘시’ ending, Honorific words",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-39/",
+   "vocab": [
+    {
+     "ko": "자네",
+     "en": "you",
+     "pos": "noun"
+    },
+    {
+     "ko": "또래",
+     "en": "age, peer group",
+     "pos": "noun"
+    },
+    {
+     "ko": "세제",
+     "en": "laundry detergent",
+     "pos": "noun"
+    },
+    {
+     "ko": "뒷모습",
+     "en": "appearance from behind",
+     "pos": "noun"
+    },
+    {
+     "ko": "봉지",
+     "en": "paper bag, plastic bag",
+     "pos": "noun"
+    },
+    {
+     "ko": "국립",
+     "en": "national",
+     "pos": "noun"
+    },
+    {
+     "ko": "산소",
+     "en": "oxygen",
+     "pos": "noun"
+    },
+    {
+     "ko": "종",
+     "en": "bell",
+     "pos": "noun"
+    },
+    {
+     "ko": "주방",
+     "en": "kitchen",
+     "pos": "noun"
+    },
+    {
+     "ko": "드시다",
+     "en": "to eat (formal)",
+     "pos": "verb"
+    },
+    {
+     "ko": "잡수시다",
+     "en": "to eat (formal)",
+     "pos": "verb"
+    },
+    {
+     "ko": "주무시다",
+     "en": "to sleep (formal)",
+     "pos": "verb"
+    },
+    {
+     "ko": "계시다",
+     "en": "to be in/at a location (formal)",
+     "pos": "verb"
+    },
+    {
+     "ko": "말씀하다",
+     "en": "to speak (formal)",
+     "pos": "verb"
+    },
+    {
+     "ko": "드리다",
+     "en": "to give (formal)",
+     "pos": "verb"
+    },
+    {
+     "ko": "소변을 보다",
+     "en": "to urinate",
+     "pos": "verb"
+    },
+    {
+     "ko": "대답하다",
+     "en": "to answer, to reply",
+     "pos": "verb"
+    },
+    {
+     "ko": "치다",
+     "en": "to tap",
+     "pos": "verb"
+    },
+    {
+     "ko": "망치다",
+     "en": "to spoil, to ruin, to screw up",
+     "pos": "verb"
+    },
+    {
+     "ko": "다가가다",
+     "en": "to approach, to go near",
+     "pos": "verb"
+    },
+    {
+     "ko": "다가오다",
+     "en": "to approach, to come near",
+     "pos": "verb"
+    },
+    {
+     "ko": "가파르다",
+     "en": "to be steep",
+     "pos": "adjective"
+    },
+    {
+     "ko": "그저께",
+     "en": "the day before yesterday",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Honorific ~(으)시",
+     "explanation": "Add ~시 (after a vowel) or ~으시 (after a consonant) to a stem when the person doing the action deserves respect, no matter who you are talking to. Stems ending in ㄹ drop the ㄹ (살다 → 사시다), and the result is then conjugated normally, e.g. 가세요, 가셨어요.",
+     "examples": [
+      {
+       "ko": "할아버지가 신문을 읽으세요.",
+       "en": "Grandfather is reading the newspaper."
+      },
+      {
+       "ko": "선생님이 어제 학교에 오셨어요.",
+       "en": "The teacher came to school yesterday."
+      },
+      {
+       "ko": "할머니는 서울에 사세요.",
+       "en": "Grandmother lives in Seoul."
+      },
+      {
+       "ko": "아버지가 주방에서 요리하셨어요.",
+       "en": "Father cooked in the kitchen."
+      }
+     ]
+    },
+    {
+     "point": "Honorific verbs: 드시다, 주무시다, 계시다",
+     "explanation": "Some verbs have their own honorific forms instead of just adding ~시. 드시다 or 잡수시다 replace 먹다, 주무시다 replaces 자다, and 계시다 replaces 있다 when it means being in a place.",
+     "examples": [
+      {
+       "ko": "할머니가 지금 주무세요.",
+       "en": "Grandmother is sleeping now."
+      },
+      {
+       "ko": "아버지가 집에 계세요.",
+       "en": "Father is at home."
+      },
+      {
+       "ko": "할아버지가 저녁을 드셨어요.",
+       "en": "Grandfather ate dinner."
+      },
+      {
+       "ko": "안녕히 주무세요.",
+       "en": "Good night."
+      }
+     ]
+    },
+    {
+     "point": "드리다 and ~께 (to give to someone respected)",
+     "explanation": "When the receiver deserves respect, use 드리다 instead of 주다, and the particle ~께 instead of ~에게/한테. 드리다 also replaces 주다 when doing something for a respected person.",
+     "examples": [
+      {
+       "ko": "할아버지께 선물을 드렸어요.",
+       "en": "I gave Grandfather a present."
+      },
+      {
+       "ko": "선생님께 편지를 드릴 거예요.",
+       "en": "I will give the teacher a letter."
+      },
+      {
+       "ko": "부모님께 꽃을 드리고 싶어요.",
+       "en": "I want to give my parents flowers."
+      }
+     ]
+    },
+    {
+     "point": "말씀하다 / 말씀 (to speak, honorific)",
+     "explanation": "말씀하다 (usually 말씀하시다) is the respectful way to say that a respected person speaks. The noun 말씀 is used for a respected person’s words, and also humbly for your own words to them, as in 말씀을 드리다.",
+     "examples": [
+      {
+       "ko": "교수님이 천천히 말씀하셨어요.",
+       "en": "The professor spoke slowly."
+      },
+      {
+       "ko": "저는 선생님의 말씀을 잘 들었어요.",
+       "en": "I listened carefully to the teacher’s words."
+      },
+      {
+       "ko": "할머니께 말씀을 드렸어요.",
+       "en": "I told Grandmother."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "title": "Lesson 40: The Imperative Mood: ~아/어(요), ~(으)세요, ~아/어라, (으)십시오, ~지 말다",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-40/",
+   "vocab": [
+    {
+     "ko": "오줌",
+     "en": "urine",
+     "pos": "noun"
+    },
+    {
+     "ko": "권력",
+     "en": "power, authority",
+     "pos": "noun"
+    },
+    {
+     "ko": "수준",
+     "en": "level, standard",
+     "pos": "noun"
+    },
+    {
+     "ko": "학력",
+     "en": "level of education",
+     "pos": "noun"
+    },
+    {
+     "ko": "직원",
+     "en": "employee, staff member",
+     "pos": "noun"
+    },
+    {
+     "ko": "허가",
+     "en": "permission",
+     "pos": "noun"
+    },
+    {
+     "ko": "보안",
+     "en": "security",
+     "pos": "noun"
+    },
+    {
+     "ko": "시선",
+     "en": "one's gaze",
+     "pos": "noun"
+    },
+    {
+     "ko": "물체",
+     "en": "object",
+     "pos": "noun"
+    },
+    {
+     "ko": "수고하다",
+     "en": "to work hard",
+     "pos": "verb"
+    },
+    {
+     "ko": "말다",
+     "en": "to not do (stop)",
+     "pos": "verb"
+    },
+    {
+     "ko": "직진하다",
+     "en": "to go straight",
+     "pos": "verb"
+    },
+    {
+     "ko": "올라가다",
+     "en": "to go up",
+     "pos": "verb"
+    },
+    {
+     "ko": "올라오다",
+     "en": "to come up",
+     "pos": "verb"
+    },
+    {
+     "ko": "올려다보다",
+     "en": "to look up",
+     "pos": "verb"
+    },
+    {
+     "ko": "후들거리다",
+     "en": "to shake, to tremble",
+     "pos": "verb"
+    },
+    {
+     "ko": "남용하다",
+     "en": "to abuse",
+     "pos": "verb"
+    },
+    {
+     "ko": "감시하다",
+     "en": "to monitor, to watch",
+     "pos": "verb"
+    },
+    {
+     "ko": "부끄러워하다",
+     "en": "to be shy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "슬퍼하다",
+     "en": "to be sad",
+     "pos": "adjective"
+    },
+    {
+     "ko": "동등하다",
+     "en": "to be equal",
+     "pos": "adjective"
+    },
+    {
+     "ko": "유쾌하다",
+     "en": "to be pleasant, delightful",
+     "pos": "adjective"
+    },
+    {
+     "ko": "온순하다",
+     "en": "to be gentle",
+     "pos": "adjective"
+    },
+    {
+     "ko": "먼저",
+     "en": "first, in advance",
+     "pos": "adverb"
+    },
+    {
+     "ko": "오른",
+     "en": "right (side)",
+     "pos": "other"
+    },
+    {
+     "ko": "왼",
+     "en": "left (side)",
+     "pos": "other"
+    },
+    {
+     "ko": "줄곧",
+     "en": "constantly, all along",
+     "pos": "adverb"
+    },
+    {
+     "ko": "가만히",
+     "en": "still, quietly",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Command with ~아/어(요)",
+     "explanation": "The simplest command is just the present-tense conjugation of a verb, said as an order; the subject is usually dropped. Without 요 it is for friends or younger people, and adding 요 makes it polite.",
+     "examples": [
+      {
+       "ko": "빨리 와!",
+       "en": "Come quickly!"
+      },
+      {
+       "ko": "여기에 앉아요.",
+       "en": "Sit here."
+      },
+      {
+       "ko": "다음 사거리에서 직진해.",
+       "en": "Go straight at the next intersection."
+      },
+      {
+       "ko": "이거 먹어.",
+       "en": "Eat this."
+      }
+     ]
+    },
+    {
+     "point": "Command with ~(으)세요",
+     "explanation": "~(으)세요 is ~(으)시 plus ~어요, making a polite and respectful request or instruction. It is the most common way to tell someone to do something in everyday polite speech.",
+     "examples": [
+      {
+       "ko": "여기에 앉으세요.",
+       "en": "Please sit here."
+      },
+      {
+       "ko": "안녕히 가세요.",
+       "en": "Goodbye (go well)."
+      },
+      {
+       "ko": "이 약을 하루에 세 번 드세요.",
+       "en": "Take this medicine three times a day."
+      },
+      {
+       "ko": "오른쪽으로 가세요.",
+       "en": "Please go to the right."
+      }
+     ]
+    },
+    {
+     "point": "Command with ~아/어라",
+     "explanation": "~아/어라 is a blunt, plain-style command used to people younger or lower in status, such as parents to children, or in written instructions. It sounds strong, so avoid it with superiors.",
+     "examples": [
+      {
+       "ko": "빨리 일어나라!",
+       "en": "Get up quickly!"
+      },
+      {
+       "ko": "숙제를 먼저 해라.",
+       "en": "Do your homework first."
+      },
+      {
+       "ko": "가만히 있어라.",
+       "en": "Stay still."
+      },
+      {
+       "ko": "밥을 많이 먹어라.",
+       "en": "Eat a lot."
+      }
+     ]
+    },
+    {
+     "point": "Command with ~(으)십시오",
+     "explanation": "~(으)십시오 is the most formal command, heard in announcements, signs, and from staff to customers. It shows high respect to the listener.",
+     "examples": [
+      {
+       "ko": "여기에 앉으십시오.",
+       "en": "Please be seated here."
+      },
+      {
+       "ko": "안으로 들어오십시오.",
+       "en": "Please come inside."
+      },
+      {
+       "ko": "잠시만 기다리십시오.",
+       "en": "Please wait a moment."
+      },
+      {
+       "ko": "안녕히 가십시오.",
+       "en": "Goodbye (go well)."
+      }
+     ]
+    },
+    {
+     "point": "Negative command ~지 말다",
+     "explanation": "To tell someone not to do something, attach ~지 말다 to the verb stem and put the imperative ending on 말다: ~지 마, ~지 마세요, ~지 마라, ~지 마십시오.",
+     "examples": [
+      {
+       "ko": "여기에서 담배를 피우지 마세요.",
+       "en": "Please don’t smoke here."
+      },
+      {
+       "ko": "걱정하지 마.",
+       "en": "Don’t worry."
+      },
+      {
+       "ko": "그 물체를 만지지 마십시오.",
+       "en": "Do not touch that object."
+      },
+      {
+       "ko": "늦지 마라.",
+       "en": "Don’t be late."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "title": "Lesson 41: To Give: 주다, ~아/어 주다",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-41/",
+   "vocab": [
+    {
+     "ko": "동료",
+     "en": "colleague, peer",
+     "pos": "noun"
+    },
+    {
+     "ko": "사거리",
+     "en": "intersection",
+     "pos": "noun"
+    },
+    {
+     "ko": "어린이집",
+     "en": "day care",
+     "pos": "noun"
+    },
+    {
+     "ko": "유치원",
+     "en": "kindergarten",
+     "pos": "noun"
+    },
+    {
+     "ko": "뿌리",
+     "en": "roots",
+     "pos": "noun"
+    },
+    {
+     "ko": "무역",
+     "en": "trade",
+     "pos": "noun"
+    },
+    {
+     "ko": "턱",
+     "en": "chin",
+     "pos": "noun"
+    },
+    {
+     "ko": "왼발",
+     "en": "left foot",
+     "pos": "noun"
+    },
+    {
+     "ko": "왼손",
+     "en": "left hand",
+     "pos": "noun"
+    },
+    {
+     "ko": "오른발",
+     "en": "right foot",
+     "pos": "noun"
+    },
+    {
+     "ko": "오른손",
+     "en": "right hand",
+     "pos": "noun"
+    },
+    {
+     "ko": "손바닥",
+     "en": "palm",
+     "pos": "noun"
+    },
+    {
+     "ko": "음성",
+     "en": "voice",
+     "pos": "noun"
+    },
+    {
+     "ko": "이마",
+     "en": "forehead",
+     "pos": "noun"
+    },
+    {
+     "ko": "발가락",
+     "en": "toe",
+     "pos": "noun"
+    },
+    {
+     "ko": "발목",
+     "en": "ankle",
+     "pos": "noun"
+    },
+    {
+     "ko": "엉덩이",
+     "en": "butt",
+     "pos": "noun"
+    },
+    {
+     "ko": "신체",
+     "en": "body",
+     "pos": "noun"
+    },
+    {
+     "ko": "감옥",
+     "en": "prison",
+     "pos": "noun"
+    },
+    {
+     "ko": "볼",
+     "en": "cheek",
+     "pos": "noun"
+    },
+    {
+     "ko": "제자리",
+     "en": "one's original place",
+     "pos": "noun"
+    },
+    {
+     "ko": "상대하다",
+     "en": "to deal with (people)",
+     "pos": "verb"
+    },
+    {
+     "ko": "미치다",
+     "en": "to go crazy",
+     "pos": "verb"
+    },
+    {
+     "ko": "멀리",
+     "en": "far, far away",
+     "pos": "adverb"
+    },
+    {
+     "ko": "너무나",
+     "en": "extremely",
+     "pos": "adverb"
+    },
+    {
+     "ko": "최초",
+     "en": "the very first (ever)",
+     "pos": "noun"
+    },
+    {
+     "ko": "초",
+     "en": "beginning of a period",
+     "pos": "noun"
+    },
+    {
+     "ko": "말",
+     "en": "end of a period",
+     "pos": "noun"
+    },
+    {
+     "ko": "결코",
+     "en": "never (with negatives)",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "주다 with commands (give me)",
+     "explanation": "To ask someone to give you something, put an imperative ending on 주다: 줘, 주세요, 주십시오. Adding 좀 softens the request and makes it sound more polite.",
+     "examples": [
+      {
+       "ko": "물 좀 주세요.",
+       "en": "Please give me some water."
+      },
+      {
+       "ko": "그 책을 줘.",
+       "en": "Give me that book."
+      },
+      {
+       "ko": "사과 두 개 주세요.",
+       "en": "Two apples, please."
+      }
+     ]
+    },
+    {
+     "point": "~아/어 주다 (do something for someone)",
+     "explanation": "Attach ~아/어 주다 to a verb stem to show the action is done as a favor or benefit for someone. With an imperative ending (~아/어 주세요) it becomes a polite \"please do ... for me\", and 보여 주다 means \"to show\".",
+     "examples": [
+      {
+       "ko": "엄마가 도시락을 만들어 주셨어요.",
+       "en": "Mom made a lunch box for me."
+      },
+      {
+       "ko": "동료가 제 일을 도와 줬어요.",
+       "en": "My colleague helped me with my work."
+      },
+      {
+       "ko": "창문 좀 열어 주세요.",
+       "en": "Please open the window."
+      },
+      {
+       "ko": "그 사진을 보여 주세요.",
+       "en": "Please show me that picture."
+      }
+     ]
+    },
+    {
+     "point": "~지 말아 주세요 (please don’t)",
+     "explanation": "Combine ~지 말다 with ~아/어 주다 to ask someone not to do something as a favor: ~지 말아 주세요. It is softer than a plain ~지 마세요.",
+     "examples": [
+      {
+       "ko": "여기에서 떠들지 말아 주세요.",
+       "en": "Please don’t make noise here."
+      },
+      {
+       "ko": "제 방에 들어오지 말아 주세요.",
+       "en": "Please don’t come into my room."
+      },
+      {
+       "ko": "내일은 늦지 말아 주세요.",
+       "en": "Please don’t be late tomorrow."
+      }
+     ]
+    },
+    {
+     "point": "~아/어 줘서 고마워요 (thank you for ...)",
+     "explanation": "To thank someone for doing something, add ~아/어 주다 to the verb, then ~아/어서 (\"because\"), then 고맙다 or 감사하다. With respected people, use ~아/어 주셔서 감사합니다.",
+     "examples": [
+      {
+       "ko": "와 줘서 고마워요.",
+       "en": "Thank you for coming."
+      },
+      {
+       "ko": "도와 주셔서 감사합니다.",
+       "en": "Thank you for helping me."
+      },
+      {
+       "ko": "제 말을 들어 줘서 고마워.",
+       "en": "Thanks for listening to me."
+      },
+      {
+       "ko": "저녁을 요리해 줘서 고마워요.",
+       "en": "Thank you for cooking dinner."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "title": "Lesson 42: When one does: ~ㄹ/을 때",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-42/",
+   "vocab": [
+    {
+     "ko": "레인",
+     "en": "lane",
+     "pos": "noun"
+    },
+    {
+     "ko": "뼈",
+     "en": "bone",
+     "pos": "noun"
+    },
+    {
+     "ko": "뼈마디",
+     "en": "joint",
+     "pos": "noun"
+    },
+    {
+     "ko": "도매",
+     "en": "wholesale",
+     "pos": "noun"
+    },
+    {
+     "ko": "소매",
+     "en": "retail",
+     "pos": "noun"
+    },
+    {
+     "ko": "사인",
+     "en": "autograph",
+     "pos": "noun"
+    },
+    {
+     "ko": "뇌",
+     "en": "brain",
+     "pos": "noun"
+    },
+    {
+     "ko": "집안",
+     "en": "inside a house",
+     "pos": "noun"
+    },
+    {
+     "ko": "배경",
+     "en": "background",
+     "pos": "noun"
+    },
+    {
+     "ko": "복권",
+     "en": "lottery ticket",
+     "pos": "noun"
+    },
+    {
+     "ko": "시간표",
+     "en": "timetable",
+     "pos": "noun"
+    },
+    {
+     "ko": "사막",
+     "en": "desert",
+     "pos": "noun"
+    },
+    {
+     "ko": "곤충",
+     "en": "bug, insect",
+     "pos": "noun"
+    },
+    {
+     "ko": "버티다",
+     "en": "to endure, bear",
+     "pos": "verb"
+    },
+    {
+     "ko": "견디다",
+     "en": "to endure, bear",
+     "pos": "verb"
+    },
+    {
+     "ko": "응원하다",
+     "en": "to cheer on, to root for",
+     "pos": "verb"
+    },
+    {
+     "ko": "응시하다",
+     "en": "to gaze, to look",
+     "pos": "verb"
+    },
+    {
+     "ko": "짐작하다",
+     "en": "to guess",
+     "pos": "verb"
+    },
+    {
+     "ko": "죽이다",
+     "en": "to kill",
+     "pos": "verb"
+    },
+    {
+     "ko": "감다",
+     "en": "to wash one's hair",
+     "pos": "verb"
+    },
+    {
+     "ko": "예의가 바르다",
+     "en": "to be polite",
+     "pos": "adjective"
+    },
+    {
+     "ko": "얕다",
+     "en": "to be shallow",
+     "pos": "adjective"
+    },
+    {
+     "ko": "어쨌든",
+     "en": "at any rate, in any case, anyways",
+     "pos": "adverb"
+    },
+    {
+     "ko": "깊이",
+     "en": "deeply",
+     "pos": "adverb"
+    },
+    {
+     "ko": "겨우",
+     "en": "barely, hardly, narrowly",
+     "pos": "adverb"
+    },
+    {
+     "ko": "가짜",
+     "en": "fake",
+     "pos": "noun"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Noun + 때 (at the time of N)",
+     "explanation": "때 means \"time\". Put it after a noun for an event or period, like 방학 때 or 점심 때, to mean \"during / at that time\". 그때 means \"at that time\".",
+     "examples": [
+      {
+       "ko": "방학 때 한국에 갈 거예요.",
+       "en": "I will go to Korea during vacation."
+      },
+      {
+       "ko": "점심 때 도시락을 먹었어요.",
+       "en": "I ate my lunch box at lunchtime."
+      },
+      {
+       "ko": "그때 저는 학생이었어요.",
+       "en": "At that time, I was a student."
+      }
+     ]
+    },
+    {
+     "point": "~(으)ㄹ 때 (when ...)",
+     "explanation": "Attach ~(으)ㄹ 때 to a verb or adjective stem to describe the moment when something happens; the main clause happens during that time, not after it. It can refer to the future or to a general habit, and ~에 after 때 is usually dropped.",
+     "examples": [
+      {
+       "ko": "저는 공부할 때 음악을 들어요.",
+       "en": "I listen to music when I study."
+      },
+      {
+       "ko": "밥을 먹을 때 텔레비전을 보지 마세요.",
+       "en": "Don’t watch TV while you eat."
+      },
+      {
+       "ko": "피곤할 때 커피를 마셔요.",
+       "en": "I drink coffee when I’m tired."
+      },
+      {
+       "ko": "머리를 감을 때 노래를 불러요.",
+       "en": "I sing when I wash my hair."
+      }
+     ]
+    },
+    {
+     "point": "~았/었을 때 (when ... happened)",
+     "explanation": "For a time in the past, put ~았/었 before ~을 때. 어렸을 때 (\"when I was young\") is a common way to talk about childhood.",
+     "examples": [
+      {
+       "ko": "한국에 있었을 때 한국어를 많이 배웠어요.",
+       "en": "I learned a lot of Korean when I was in Korea."
+      },
+      {
+       "ko": "어렸을 때 저는 곤충을 무서워했어요.",
+       "en": "When I was young, I was scared of insects."
+      },
+      {
+       "ko": "집에 도착했을 때 아무도 없었어요.",
+       "en": "When I arrived home, nobody was there."
+      }
+     ]
+    },
+    {
+     "point": "때 with other particles",
+     "explanation": "Other particles can follow 때: 때까지 (\"until\"), 때부터 (\"since\"), 때마다 (\"every time\") and 때는 (contrast or topic).",
+     "examples": [
+      {
+       "ko": "저는 어렸을 때부터 축구를 좋아했어요.",
+       "en": "I have liked soccer since I was young."
+      },
+      {
+       "ko": "그 노래를 들을 때마다 행복해요.",
+       "en": "Every time I hear that song, I’m happy."
+      },
+      {
+       "ko": "비가 올 때는 집에 있어요.",
+       "en": "When it rains, I stay home."
+      },
+      {
+       "ko": "친구가 올 때까지 기다릴 거예요.",
+       "en": "I will wait until my friend comes."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

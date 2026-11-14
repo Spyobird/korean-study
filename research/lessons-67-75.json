@@ -1,0 +1,1840 @@
+{
+ "range": "67-75",
+ "lessons": [
+  {
+   "n": 67,
+   "title": "Lesson 67: Like: ~처럼, As if: ~는 듯이, ~듯이",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-67/",
+   "vocab": [
+    {
+     "ko": "상식",
+     "en": "common sense",
+     "pos": "noun"
+    },
+    {
+     "ko": "마감일",
+     "en": "deadline",
+     "pos": "noun"
+    },
+    {
+     "ko": "구멍",
+     "en": "hole, pit",
+     "pos": "noun"
+    },
+    {
+     "ko": "경력",
+     "en": "career, work experience",
+     "pos": "noun"
+    },
+    {
+     "ko": "체력",
+     "en": "physical strength",
+     "pos": "noun"
+    },
+    {
+     "ko": "검진",
+     "en": "health checkup",
+     "pos": "noun"
+    },
+    {
+     "ko": "자녀",
+     "en": "children",
+     "pos": "noun"
+    },
+    {
+     "ko": "자동",
+     "en": "automatic",
+     "pos": "noun"
+    },
+    {
+     "ko": "크기",
+     "en": "size",
+     "pos": "noun"
+    },
+    {
+     "ko": "폭포",
+     "en": "waterfall",
+     "pos": "noun"
+    },
+    {
+     "ko": "바보",
+     "en": "idiot, fool",
+     "pos": "noun"
+    },
+    {
+     "ko": "시련",
+     "en": "hardship, trial",
+     "pos": "noun"
+    },
+    {
+     "ko": "머릿속",
+     "en": "inside one’s head",
+     "pos": "noun"
+    },
+    {
+     "ko": "담당하다",
+     "en": "to be in charge of",
+     "pos": "verb"
+    },
+    {
+     "ko": "삭제하다",
+     "en": "to delete",
+     "pos": "verb"
+    },
+    {
+     "ko": "겪다",
+     "en": "to experience, to undergo",
+     "pos": "verb"
+    },
+    {
+     "ko": "잔소리하다",
+     "en": "to nag",
+     "pos": "verb"
+    },
+    {
+     "ko": "생산하다",
+     "en": "to produce",
+     "pos": "verb"
+    },
+    {
+     "ko": "협의하다",
+     "en": "to discuss, to consult",
+     "pos": "verb"
+    },
+    {
+     "ko": "퇴장하다",
+     "en": "to leave",
+     "pos": "verb"
+    },
+    {
+     "ko": "당기다",
+     "en": "to pull",
+     "pos": "verb"
+    },
+    {
+     "ko": "밀다",
+     "en": "to push",
+     "pos": "verb"
+    },
+    {
+     "ko": "비비다",
+     "en": "to mix",
+     "pos": "verb"
+    },
+    {
+     "ko": "파다",
+     "en": "to dig",
+     "pos": "verb"
+    },
+    {
+     "ko": "소지하다",
+     "en": "to possess",
+     "pos": "verb"
+    },
+    {
+     "ko": "가입하다",
+     "en": "to join (a club)",
+     "pos": "verb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Noun + 처럼 (like)",
+     "explanation": "Attach 처럼 directly to a noun to say something is done in the same way as that noun, or resembles it. The phrase works like an adverb in the sentence. It can also follow ~에서 or a ~는 것 clause (~는 것처럼) to compare whole actions.",
+     "examples": [
+      {
+       "ko": "우리 아들은 아빠처럼 키가 커요.",
+       "en": "Our son is tall like his dad."
+      },
+      {
+       "ko": "바보처럼 웃지 마세요.",
+       "en": "Don’t laugh like an idiot."
+      },
+      {
+       "ko": "그 아이는 어른처럼 말해요.",
+       "en": "That child talks like an adult."
+      },
+      {
+       "ko": "저는 한국 사람이 하는 것처럼 김치를 만들었어요.",
+       "en": "I made kimchi the way Koreans do."
+      }
+     ]
+    },
+    {
+     "point": "Modifier clause + 듯이 (as if)",
+     "explanation": "Put a clause in its modifier form (~는/~(으)ㄴ/~(으)ㄹ) before 듯(이) to mean “as if”. The speaker is guessing what the situation seemed to be, and the two clauses are directly related. The 이 can be dropped with no change in meaning.",
+     "examples": [
+      {
+       "ko": "그 사람은 아무것도 모르는 듯이 웃었어요.",
+       "en": "He laughed as if he knew nothing."
+      },
+      {
+       "ko": "동생이 배가 고픈 듯이 밥을 빨리 먹었어요.",
+       "en": "My sibling ate fast as if he was hungry."
+      },
+      {
+       "ko": "친구가 나를 못 본 듯이 그냥 지나갔어요.",
+       "en": "My friend walked right past as if he hadn’t seen me."
+      }
+     ]
+    },
+    {
+     "point": "Stem + 듯이 (simile)",
+     "explanation": "Adding 듯이 straight onto a verb or adjective stem builds a vivid metaphor, often an exaggerated image, that matches the feeling of the main clause. There is no guessing here, and the two clauses are not logically connected. It mostly shows up in writing such as novels.",
+     "examples": [
+      {
+       "ko": "비가 폭포가 쏟아지듯이 내렸다.",
+       "en": "The rain came down as if a waterfall were pouring."
+      },
+      {
+       "ko": "그는 물을 마시듯이 술을 마셨다.",
+       "en": "He drank alcohol like it was water."
+      },
+      {
+       "ko": "시간이 화살이 날아가듯이 지나갔다.",
+       "en": "Time flew by like an arrow."
+      }
+     ]
+    },
+    {
+     "point": "~는 듯하다 (it seems)",
+     "explanation": "Put 듯하다 after a modifier clause at the end of a sentence to say “it seems that…”. It sounds a bit softer and more formal than ~는 것 같다.",
+     "examples": [
+      {
+       "ko": "밖에 비가 오는 듯해요.",
+       "en": "It seems to be raining outside."
+      },
+      {
+       "ko": "그 사람은 경력이 많은 듯해요.",
+       "en": "That person seems to have a lot of experience."
+      },
+      {
+       "ko": "아이가 피곤한 듯해요.",
+       "en": "The child seems tired."
+      }
+     ]
+    },
+    {
+     "point": "마치 (just like)",
+     "explanation": "마치 is an adverb near the start of a sentence that tells the listener a comparison is coming. It is usually paired with ~처럼, ~듯이 or 같다, much like 만약 goes with ~(으)면.",
+     "examples": [
+      {
+       "ko": "그 여자는 마치 배우처럼 예뻐요.",
+       "en": "She is as pretty as an actress."
+      },
+      {
+       "ko": "그는 마치 아무 일도 없었던 듯이 웃었어요.",
+       "en": "He smiled as if nothing had happened."
+      },
+      {
+       "ko": "오늘은 마치 여름 같아요.",
+       "en": "Today feels just like summer."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 68,
+   "title": "Lesson 68: Only: 유일하다/유일하게",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-68/",
+   "vocab": [
+    {
+     "ko": "단골",
+     "en": "regular customer",
+     "pos": "noun"
+    },
+    {
+     "ko": "동물원",
+     "en": "zoo",
+     "pos": "noun"
+    },
+    {
+     "ko": "토끼",
+     "en": "rabbit",
+     "pos": "noun"
+    },
+    {
+     "ko": "장갑",
+     "en": "gloves",
+     "pos": "noun"
+    },
+    {
+     "ko": "당나귀",
+     "en": "donkey",
+     "pos": "noun"
+    },
+    {
+     "ko": "독수리",
+     "en": "eagle",
+     "pos": "noun"
+    },
+    {
+     "ko": "도마뱀",
+     "en": "lizard",
+     "pos": "noun"
+    },
+    {
+     "ko": "코끼리",
+     "en": "elephant",
+     "pos": "noun"
+    },
+    {
+     "ko": "기린",
+     "en": "giraffe",
+     "pos": "noun"
+    },
+    {
+     "ko": "사자",
+     "en": "lion",
+     "pos": "noun"
+    },
+    {
+     "ko": "개구리",
+     "en": "frog",
+     "pos": "noun"
+    },
+    {
+     "ko": "염소",
+     "en": "goat",
+     "pos": "noun"
+    },
+    {
+     "ko": "상어",
+     "en": "shark",
+     "pos": "noun"
+    },
+    {
+     "ko": "몫",
+     "en": "share, portion",
+     "pos": "noun"
+    },
+    {
+     "ko": "빗방울",
+     "en": "raindrop",
+     "pos": "noun"
+    },
+    {
+     "ko": "복장",
+     "en": "clothes",
+     "pos": "noun"
+    },
+    {
+     "ko": "물가",
+     "en": "cost of living, prices",
+     "pos": "noun"
+    },
+    {
+     "ko": "이기적",
+     "en": "selfish",
+     "pos": "noun"
+    },
+    {
+     "ko": "바람을 피우다",
+     "en": "to cheat on (a spouse)",
+     "pos": "verb"
+    },
+    {
+     "ko": "전송하다",
+     "en": "to transmit, to send",
+     "pos": "verb"
+    },
+    {
+     "ko": "합하다",
+     "en": "to combine",
+     "pos": "verb"
+    },
+    {
+     "ko": "반성하다",
+     "en": "to reflect on oneself",
+     "pos": "verb"
+    },
+    {
+     "ko": "유지하다",
+     "en": "to maintain, to retain",
+     "pos": "verb"
+    },
+    {
+     "ko": "모자라다",
+     "en": "to be insufficient",
+     "pos": "verb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "유일한 + noun (the only / sole)",
+     "explanation": "유일하다 is an adjective, so 유일한 goes before a noun to mark it as the one and only thing with some quality. ~만 just limits the action to a noun, but 유일한 makes the noun stand out from all others. The noun is often also described by a ~는 clause, as in ~는 유일한 (noun).",
+     "examples": [
+      {
+       "ko": "그 사람이 우리 반에서 유일한 외국인이에요.",
+       "en": "He is the only foreigner in our class."
+      },
+      {
+       "ko": "이것은 제가 가진 유일한 사진이에요.",
+       "en": "This is the only photo I have."
+      },
+      {
+       "ko": "제가 매일 마시는 유일한 음료는 커피예요.",
+       "en": "The only drink I have every day is coffee."
+      }
+     ]
+    },
+    {
+     "point": "유일하게 (only, as adverb)",
+     "explanation": "Add ~게 to make the adverb 유일하게, usually placed before the describing verb or adjective. Use it instead of 유일한 when an adjective already describes the noun, because two stacked adjective modifiers sound awkward.",
+     "examples": [
+      {
+       "ko": "제가 유일하게 할 수 있는 운동은 수영이에요.",
+       "en": "The only exercise I can do is swimming."
+      },
+      {
+       "ko": "동물원에서 유일하게 보고 싶은 동물은 코끼리예요.",
+       "en": "The only animal I want to see at the zoo is the elephant."
+      },
+      {
+       "ko": "그 사람이 우리 회사에서 유일하게 친절한 사람이에요.",
+       "en": "He is the only kind person at our company."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "title": "Lesson 69: Nothing but: 밖에 (~ㄹ/을 수밖에 없다)",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-69/",
+   "vocab": [
+    {
+     "ko": "배추",
+     "en": "Korean cabbage",
+     "pos": "noun"
+    },
+    {
+     "ko": "유행",
+     "en": "trend, fashion trend",
+     "pos": "noun"
+    },
+    {
+     "ko": "분야",
+     "en": "field, area",
+     "pos": "noun"
+    },
+    {
+     "ko": "북",
+     "en": "Korean drum",
+     "pos": "noun"
+    },
+    {
+     "ko": "연극",
+     "en": "a play",
+     "pos": "noun"
+    },
+    {
+     "ko": "답안지",
+     "en": "answer sheet",
+     "pos": "noun"
+    },
+    {
+     "ko": "겨드랑이",
+     "en": "armpit",
+     "pos": "noun"
+    },
+    {
+     "ko": "사유",
+     "en": "reason, cause",
+     "pos": "noun"
+    },
+    {
+     "ko": "청중",
+     "en": "audience",
+     "pos": "noun"
+    },
+    {
+     "ko": "충고",
+     "en": "advice",
+     "pos": "noun"
+    },
+    {
+     "ko": "소모품",
+     "en": "supplies",
+     "pos": "noun"
+    },
+    {
+     "ko": "해변",
+     "en": "beach",
+     "pos": "noun"
+    },
+    {
+     "ko": "연속",
+     "en": "in a row/consecutively",
+     "pos": "noun"
+    },
+    {
+     "ko": "참관하다",
+     "en": "to visit, to observe",
+     "pos": "verb"
+    },
+    {
+     "ko": "예방하다",
+     "en": "to prevent",
+     "pos": "verb"
+    },
+    {
+     "ko": "연출하다",
+     "en": "to direct",
+     "pos": "verb"
+    },
+    {
+     "ko": "소모하다",
+     "en": "to consume, to use up",
+     "pos": "verb"
+    },
+    {
+     "ko": "밟다",
+     "en": "to step on",
+     "pos": "verb"
+    },
+    {
+     "ko": "해당되다",
+     "en": "to be applicable",
+     "pos": "verb"
+    },
+    {
+     "ko": "싹",
+     "en": "completely (cleaned out)",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Noun + 밖에 + negative (nothing but)",
+     "explanation": "The particle 밖에 (literally “outside of”) goes on a noun to stress that only that noun applies, and nothing else. The predicate must be negative (없다, 안, 못, 모르다), even though English uses a positive “only”. It is stronger than ~만 and is often used with numbers and counters.",
+     "examples": [
+      {
+       "ko": "지갑에 천 원밖에 없어요.",
+       "en": "I only have 1,000 won in my wallet."
+      },
+      {
+       "ko": "저는 한국어를 조금밖에 못 해요.",
+       "en": "I can only speak a little Korean."
+      },
+      {
+       "ko": "냉장고에 배추 하나밖에 없어요.",
+       "en": "There is only one cabbage in the fridge."
+      },
+      {
+       "ko": "그 사람은 자기밖에 몰라요.",
+       "en": "He only cares about himself."
+      }
+     ]
+    },
+    {
+     "point": "Time + 밖에 안 걸리다 (only takes)",
+     "explanation": "밖에 is often put on an amount of time to stress how short it is, with a negative verb such as 안 걸리다.",
+     "examples": [
+      {
+       "ko": "집에서 학교까지 십 분밖에 안 걸려요.",
+       "en": "It only takes ten minutes from home to school."
+      },
+      {
+       "ko": "숙제가 한 시간밖에 안 걸렸어요.",
+       "en": "The homework only took an hour."
+      },
+      {
+       "ko": "그 영화는 한 번밖에 안 봤어요.",
+       "en": "I have only seen that movie once."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을 수밖에 없다 (have no choice but to)",
+     "explanation": "Because 수 in ~ㄹ/을 수 없다 is a noun, 밖에 can attach to it. The result means the action is the only option left: “have no choice but to” or “can’t help but”.",
+     "examples": [
+      {
+       "ko": "버스가 없어서 걸어갈 수밖에 없었어요.",
+       "en": "There was no bus, so I had no choice but to walk."
+      },
+      {
+       "ko": "내일이 마감일이라서 오늘 밤에 일할 수밖에 없어요.",
+       "en": "Tomorrow is the deadline, so I have no choice but to work tonight."
+      },
+      {
+       "ko": "그 사람이 너무 웃겨서 웃을 수밖에 없었어요.",
+       "en": "He was so funny I couldn’t help laughing."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "title": "Lesson 70: Clause Connector: ~아/어(서)",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-70/",
+   "vocab": [
+    {
+     "ko": "정성",
+     "en": "effort, devotion",
+     "pos": "noun"
+    },
+    {
+     "ko": "배낭",
+     "en": "backpack",
+     "pos": "noun"
+    },
+    {
+     "ko": "서랍",
+     "en": "drawer",
+     "pos": "noun"
+    },
+    {
+     "ko": "실종자",
+     "en": "missing person",
+     "pos": "noun"
+    },
+    {
+     "ko": "지구본",
+     "en": "globe",
+     "pos": "noun"
+    },
+    {
+     "ko": "구호",
+     "en": "relief, aid",
+     "pos": "noun"
+    },
+    {
+     "ko": "연설",
+     "en": "speech",
+     "pos": "noun"
+    },
+    {
+     "ko": "소매",
+     "en": "sleeve",
+     "pos": "noun"
+    },
+    {
+     "ko": "뛰어다니다",
+     "en": "to run around an area",
+     "pos": "verb"
+    },
+    {
+     "ko": "알려주다",
+     "en": "to let somebody know",
+     "pos": "verb"
+    },
+    {
+     "ko": "지켜보다",
+     "en": "to watch over",
+     "pos": "verb"
+    },
+    {
+     "ko": "비켜서다",
+     "en": "to stand/step aside",
+     "pos": "verb"
+    },
+    {
+     "ko": "올려놓다",
+     "en": "to put on top of",
+     "pos": "verb"
+    },
+    {
+     "ko": "뛰어가다",
+     "en": "to run to",
+     "pos": "verb"
+    },
+    {
+     "ko": "달려가다",
+     "en": "to run to",
+     "pos": "verb"
+    },
+    {
+     "ko": "뛰어오다",
+     "en": "to come running",
+     "pos": "verb"
+    },
+    {
+     "ko": "달려오다",
+     "en": "to come running",
+     "pos": "verb"
+    },
+    {
+     "ko": "매혹하다",
+     "en": "to captivate",
+     "pos": "verb"
+    },
+    {
+     "ko": "통하다",
+     "en": "to go through",
+     "pos": "verb"
+    },
+    {
+     "ko": "쭈그리다",
+     "en": "to crouch, to squat",
+     "pos": "verb"
+    },
+    {
+     "ko": "맡다",
+     "en": "to smell",
+     "pos": "verb"
+    },
+    {
+     "ko": "배신하다",
+     "en": "to betray",
+     "pos": "verb"
+    },
+    {
+     "ko": "종합하다",
+     "en": "to synthesize",
+     "pos": "verb"
+    },
+    {
+     "ko": "사로잡다",
+     "en": "to captivate",
+     "pos": "verb"
+    },
+    {
+     "ko": "전력하다",
+     "en": "to try one’s best",
+     "pos": "verb"
+    },
+    {
+     "ko": "마무리하다",
+     "en": "to finish off, to wrap up",
+     "pos": "verb"
+    },
+    {
+     "ko": "실종되다",
+     "en": "to go missing",
+     "pos": "verb"
+    },
+    {
+     "ko": "평범하다",
+     "en": "to be ordinary",
+     "pos": "adjective"
+    },
+    {
+     "ko": "스승의 날",
+     "en": "teachers day",
+     "pos": "noun"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~아/어(서) linked sequence",
+     "explanation": "Like ~고, ~아/어(서) joins two actions in order, but it suggests the first action makes the second possible (for example, going somewhere and then doing something there). In this use 서 is optional.",
+     "examples": [
+      {
+       "ko": "학교에 가서 친구를 만났어요.",
+       "en": "I went to school and met a friend."
+      },
+      {
+       "ko": "집에 와서 잤어요.",
+       "en": "I came home and slept."
+      },
+      {
+       "ko": "사과를 씻어서 먹었어요.",
+       "en": "I washed the apple and ate it."
+      }
+     ]
+    },
+    {
+     "point": "~아/어서 means or method",
+     "explanation": "~아/어서 can show how, or by what means, the second action happens. In this use 서 cannot be dropped. 걸어서 집에 갔어요 can only mean “went home on foot”.",
+     "examples": [
+      {
+       "ko": "저는 걸어서 집에 갔어요.",
+       "en": "I went home on foot."
+      },
+      {
+       "ko": "친구가 뛰어서 학교에 왔어요.",
+       "en": "My friend ran to school."
+      },
+      {
+       "ko": "돈을 모아서 차를 샀어요.",
+       "en": "I saved up money and bought a car."
+      }
+     ]
+    },
+    {
+     "point": "Compound verbs with ~아/어",
+     "explanation": "Two verbs joined with ~아/어 (no 서) form a combined verb such as 뛰어다니다, 달려오다 or 올려놓다. The result works like any normal verb.",
+     "examples": [
+      {
+       "ko": "아이들이 공원에서 뛰어다녀요.",
+       "en": "The kids are running around the park."
+      },
+      {
+       "ko": "엄마가 저에게 달려왔어요.",
+       "en": "Mom came running to me."
+      },
+      {
+       "ko": "책을 책상 위에 올려놓았어요.",
+       "en": "I put the book on the desk."
+      },
+      {
+       "ko": "시간을 알려주세요.",
+       "en": "Please let me know the time."
+      }
+     ]
+    },
+    {
+     "point": "통해(서) (through)",
+     "explanation": "From 통하다, the form (noun)을/를 통해(서) means “through” or “by way of”. It can be a place you pass through, or the object, process or person you learn or hear something from.",
+     "examples": [
+      {
+       "ko": "저는 친구를 통해서 그 소식을 들었어요.",
+       "en": "I heard the news through a friend."
+      },
+      {
+       "ko": "이 문을 통해서 들어가세요.",
+       "en": "Please go in through this door."
+      },
+      {
+       "ko": "저는 영화를 통해 한국 문화를 배웠어요.",
+       "en": "I learned about Korean culture through movies."
+      }
+     ]
+    },
+    {
+     "point": "서둘러(서) + verb (hurriedly)",
+     "explanation": "서두르다 means “to hurry” (르 irregular → 서둘러). It often comes before another verb with ~아/어(서) to say that action was done in a rush.",
+     "examples": [
+      {
+       "ko": "늦어서 서둘러 집을 나갔어요.",
+       "en": "I was late, so I hurried out of the house."
+      },
+      {
+       "ko": "서둘러서 숙제를 끝냈어요.",
+       "en": "I hurried and finished my homework."
+      },
+      {
+       "ko": "서두르지 마세요.",
+       "en": "Don’t rush."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "title": "Lesson 71: To include (포함하다), to exclude (제외하다)",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-71/",
+   "vocab": [
+    {
+     "ko": "문신",
+     "en": "tattoo",
+     "pos": "noun"
+    },
+    {
+     "ko": "나비",
+     "en": "butterfly",
+     "pos": "noun"
+    },
+    {
+     "ko": "낙타",
+     "en": "camel",
+     "pos": "noun"
+    },
+    {
+     "ko": "사슴",
+     "en": "deer",
+     "pos": "noun"
+    },
+    {
+     "ko": "돌고래",
+     "en": "dolphin",
+     "pos": "noun"
+    },
+    {
+     "ko": "흙",
+     "en": "dirt/mud",
+     "pos": "noun"
+    },
+    {
+     "ko": "하체",
+     "en": "lower body",
+     "pos": "noun"
+    },
+    {
+     "ko": "상체",
+     "en": "upper body",
+     "pos": "noun"
+    },
+    {
+     "ko": "조명",
+     "en": "lighting",
+     "pos": "noun"
+    },
+    {
+     "ko": "포도주",
+     "en": "wine",
+     "pos": "noun"
+    },
+    {
+     "ko": "양주",
+     "en": "hard liquor",
+     "pos": "noun"
+    },
+    {
+     "ko": "회원권",
+     "en": "membership",
+     "pos": "noun"
+    },
+    {
+     "ko": "마약",
+     "en": "drug",
+     "pos": "noun"
+    },
+    {
+     "ko": "구급차",
+     "en": "ambulance",
+     "pos": "noun"
+    },
+    {
+     "ko": "월세",
+     "en": "monthly rent",
+     "pos": "noun"
+    },
+    {
+     "ko": "가스비",
+     "en": "gas bill",
+     "pos": "noun"
+    },
+    {
+     "ko": "비용",
+     "en": "fee, charge",
+     "pos": "noun"
+    },
+    {
+     "ko": "외",
+     "en": "outside of, in addition to",
+     "pos": "noun"
+    },
+    {
+     "ko": "제외하다",
+     "en": "to exclude (except)",
+     "pos": "verb"
+    },
+    {
+     "ko": "때리다",
+     "en": "to hit, to beat",
+     "pos": "verb"
+    },
+    {
+     "ko": "양보하다",
+     "en": "to yield",
+     "pos": "verb"
+    },
+    {
+     "ko": "평평하다",
+     "en": "to be flat",
+     "pos": "adjective"
+    },
+    {
+     "ko": "이르다",
+     "en": "to be early, to be premature",
+     "pos": "adjective"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "포함하다 / 포함되다 (include / be included)",
+     "explanation": "포함하다 means “to include”, but at the end of a sentence the passive 포함되다 (with ~이/가 on the item) usually sounds more natural. It is often followed by ~어 있다.",
+     "examples": [
+      {
+       "ko": "이 가격에는 세금이 포함되어 있어요.",
+       "en": "Tax is included in this price."
+      },
+      {
+       "ko": "월세에 가스비가 포함돼요?",
+       "en": "Is the gas bill included in the rent?"
+      },
+      {
+       "ko": "아침 식사가 포함되어 있어요.",
+       "en": "Breakfast is included."
+      }
+     ]
+    },
+    {
+     "point": "Noun을/를 포함해(서) (including)",
+     "explanation": "Put 포함해(서) after a noun to mean “including (noun)”, then continue the sentence. ~(으)면 also works (포함하면, “if you include”).",
+     "examples": [
+      {
+       "ko": "저를 포함해서 다섯 명이 왔어요.",
+       "en": "Five people came, including me."
+      },
+      {
+       "ko": "주말을 포함해서 열흘 동안 여행했어요.",
+       "en": "I traveled for ten days, including the weekend."
+      },
+      {
+       "ko": "비용을 포함하면 얼마예요?",
+       "en": "How much is it if you include the fees?"
+      }
+     ]
+    },
+    {
+     "point": "제외하고 / 제외한 (except)",
+     "explanation": "To exclude something, use (noun)을/를 제외하고, which splits the sentence into two clauses, or 제외한 + noun, which describes the following noun. Use 제외하고 for times and places, or when another clause already describes the noun. Unlike 포함하다, 제외하다 is not normally used with ~아/어서.",
+     "examples": [
+      {
+       "ko": "일요일을 제외하고 매일 일해요.",
+       "en": "I work every day except Sunday."
+      },
+      {
+       "ko": "저를 제외한 모든 사람이 문신이 있어요.",
+       "en": "Everyone except me has a tattoo."
+      },
+      {
+       "ko": "그 사람을 제외하고 모두 왔어요.",
+       "en": "Everyone came except him."
+      }
+     ]
+    },
+    {
+     "point": "빼다 / 빼고 (leave out)",
+     "explanation": "In everyday speech, 빼다 (“to take out”) often replaces 제외하다. It is common when ordering food to ask for something to be left out, often dropping 을/를 or even 주세요.",
+     "examples": [
+      {
+       "ko": "김밥에 햄을 빼 주세요.",
+       "en": "Please leave the ham out of the kimbap."
+      },
+      {
+       "ko": "오이 빼고 주세요.",
+       "en": "Without cucumber, please."
+      },
+      {
+       "ko": "저 빼고 다 갔어요.",
+       "en": "Everyone went except me."
+      }
+     ]
+    },
+    {
+     "point": "(그) 외에 (besides, other than)",
+     "explanation": "외 (外) means “outside”. Put 외에 after a noun, or use 그 외에 for something already mentioned, to talk about everything beyond it: “besides” or “other than”.",
+     "examples": [
+      {
+       "ko": "한국어 외에 일본어도 공부해요.",
+       "en": "Besides Korean, I also study Japanese."
+      },
+      {
+       "ko": "그 외에 질문이 있어요?",
+       "en": "Do you have any other questions besides that?"
+      },
+      {
+       "ko": "이 사람 외에 아무도 몰라요.",
+       "en": "No one knows except this person."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "title": "Lesson 72: As much as: ~만큼, 정도",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/",
+   "vocab": [
+    {
+     "ko": "편의점",
+     "en": "convenience store",
+     "pos": "noun"
+    },
+    {
+     "ko": "학생회",
+     "en": "student council",
+     "pos": "noun"
+    },
+    {
+     "ko": "여배우",
+     "en": "actress",
+     "pos": "noun"
+    },
+    {
+     "ko": "간",
+     "en": "liver",
+     "pos": "noun"
+    },
+    {
+     "ko": "옆구리",
+     "en": "the side of one’s body",
+     "pos": "noun"
+    },
+    {
+     "ko": "배꼽",
+     "en": "belly button",
+     "pos": "noun"
+    },
+    {
+     "ko": "영양",
+     "en": "nutrition",
+     "pos": "noun"
+    },
+    {
+     "ko": "영양소",
+     "en": "nutrients",
+     "pos": "noun"
+    },
+    {
+     "ko": "영양사",
+     "en": "nutritionist",
+     "pos": "noun"
+    },
+    {
+     "ko": "식료품",
+     "en": "groceries",
+     "pos": "noun"
+    },
+    {
+     "ko": "반찬",
+     "en": "side dish",
+     "pos": "noun"
+    },
+    {
+     "ko": "눈곱",
+     "en": "eye crust (sleep)",
+     "pos": "noun"
+    },
+    {
+     "ko": "연",
+     "en": "kite",
+     "pos": "noun"
+    },
+    {
+     "ko": "풍선",
+     "en": "balloon",
+     "pos": "noun"
+    },
+    {
+     "ko": "저리다",
+     "en": "to go numb",
+     "pos": "verb"
+    },
+    {
+     "ko": "날리다",
+     "en": "to make fly",
+     "pos": "verb"
+    },
+    {
+     "ko": "탑승하다",
+     "en": "to board, to embark",
+     "pos": "verb"
+    },
+    {
+     "ko": "이식하다",
+     "en": "to transplant",
+     "pos": "verb"
+    },
+    {
+     "ko": "투표하다",
+     "en": "to vote",
+     "pos": "verb"
+    },
+    {
+     "ko": "닿다",
+     "en": "to brush against, to touch",
+     "pos": "verb"
+    },
+    {
+     "ko": "깜짝",
+     "en": "with a start (surprise)",
+     "pos": "adverb"
+    },
+    {
+     "ko": "대충",
+     "en": "roughly",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Noun + 만큼 (as much as)",
+     "explanation": "Attach 만큼 to a noun to say something is done to the same level or extent as that noun: “as … as (noun)”. Unlike 처럼, which compares manner, 만큼 compares degree.",
+     "examples": [
+      {
+       "ko": "제 동생은 저만큼 키가 커요.",
+       "en": "My younger sibling is as tall as me."
+      },
+      {
+       "ko": "그 사람은 가수만큼 노래를 잘해요.",
+       "en": "That person sings as well as a singer."
+      },
+      {
+       "ko": "저는 형만큼 많이 먹지 못해요.",
+       "en": "I can’t eat as much as my older brother."
+      }
+     ]
+    },
+    {
+     "point": "Clause + 만큼 (to the extent that)",
+     "explanation": "만큼 can also be a noun described by a clause in the past, present or future (~ㄴ/는/ㄹ 만큼). Future-tense clauses often give exaggerated images, as in “so much I could die”. ~는 것만큼 can replace ~는 만큼, but not with the future tense.",
+     "examples": [
+      {
+       "ko": "먹고 싶은 만큼 드세요.",
+       "en": "Eat as much as you want."
+      },
+      {
+       "ko": "노력한 만큼 결과가 나와요.",
+       "en": "You get results in proportion to your effort."
+      },
+      {
+       "ko": "배가 터질 만큼 먹었어요.",
+       "en": "I ate so much my stomach could burst."
+      }
+     ]
+    },
+    {
+     "point": "정도 (degree, extent, about)",
+     "explanation": "정도 means “degree”. Described by a clause (often future ~ㄹ 정도로), it shows the extent of something, much like 만큼. After a number or counter it means “about” or “roughly”.",
+     "examples": [
+      {
+       "ko": "죽을 정도로 피곤해요.",
+       "en": "I’m so tired I could die."
+      },
+      {
+       "ko": "눈물이 날 정도로 웃었어요.",
+       "en": "I laughed so hard I cried."
+      },
+      {
+       "ko": "서울까지 두 시간 정도 걸려요.",
+       "en": "It takes about two hours to Seoul."
+      },
+      {
+       "ko": "열 명 정도 왔어요.",
+       "en": "About ten people came."
+      }
+     ]
+    },
+    {
+     "point": "어느 정도 / 얼마만큼 (to what extent / to some extent)",
+     "explanation": "In a question, 어느 정도 or 얼마만큼 asks “how much” or “to what extent”. In a statement, 어느 정도 means “to some extent” or “fairly”.",
+     "examples": [
+      {
+       "ko": "한국어를 어느 정도 할 수 있어요?",
+       "en": "How well can you speak Korean?"
+      },
+      {
+       "ko": "저는 어느 정도 이해했어요.",
+       "en": "I understood to some extent."
+      },
+      {
+       "ko": "저를 얼마만큼 사랑해요?",
+       "en": "How much do you love me?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "title": "Lesson 73: Instead (대신에)",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-73/",
+   "vocab": [
+    {
+     "ko": "오락실",
+     "en": "arcade",
+     "pos": "noun"
+    },
+    {
+     "ko": "식은땀",
+     "en": "cold sweat",
+     "pos": "noun"
+    },
+    {
+     "ko": "집사람",
+     "en": "wife",
+     "pos": "noun"
+    },
+    {
+     "ko": "상태",
+     "en": "condition/state",
+     "pos": "noun"
+    },
+    {
+     "ko": "머리띠",
+     "en": "hairband",
+     "pos": "noun"
+    },
+    {
+     "ko": "머리핀",
+     "en": "hairpin",
+     "pos": "noun"
+    },
+    {
+     "ko": "친척",
+     "en": "relatives",
+     "pos": "noun"
+    },
+    {
+     "ko": "재능",
+     "en": "talent",
+     "pos": "noun"
+    },
+    {
+     "ko": "부피",
+     "en": "volume, bulk",
+     "pos": "noun"
+    },
+    {
+     "ko": "주부",
+     "en": "housewife",
+     "pos": "noun"
+    },
+    {
+     "ko": "먼지",
+     "en": "dust",
+     "pos": "noun"
+    },
+    {
+     "ko": "거품",
+     "en": "bubble",
+     "pos": "noun"
+    },
+    {
+     "ko": "증거",
+     "en": "evidence",
+     "pos": "noun"
+    },
+    {
+     "ko": "하절(기)",
+     "en": "summer",
+     "pos": "noun"
+    },
+    {
+     "ko": "동절(기)",
+     "en": "winter",
+     "pos": "noun"
+    },
+    {
+     "ko": "자정",
+     "en": "midnight",
+     "pos": "noun"
+    },
+    {
+     "ko": "납치하다",
+     "en": "to kidnap",
+     "pos": "verb"
+    },
+    {
+     "ko": "협박하다",
+     "en": "to threaten",
+     "pos": "verb"
+    },
+    {
+     "ko": "쏟다",
+     "en": "to pour, to spill",
+     "pos": "verb"
+    },
+    {
+     "ko": "재다",
+     "en": "to measure",
+     "pos": "verb"
+    },
+    {
+     "ko": "쥐다",
+     "en": "to grip, to hold",
+     "pos": "verb"
+    },
+    {
+     "ko": "굉장하다",
+     "en": "to be wonderful",
+     "pos": "adjective"
+    },
+    {
+     "ko": "굉장히",
+     "en": "very",
+     "pos": "adverb"
+    },
+    {
+     "ko": "무렵",
+     "en": "around that time",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Noun + 대신(에) (instead of)",
+     "explanation": "Put 대신(에) after a noun to mean “instead of (noun)”. 에 is usually attached, but it can be dropped.",
+     "examples": [
+      {
+       "ko": "커피 대신에 차를 마셨어요.",
+       "en": "I drank tea instead of coffee."
+      },
+      {
+       "ko": "친구 대신에 제가 갔어요.",
+       "en": "I went instead of my friend."
+      },
+      {
+       "ko": "밥 대신 빵을 먹었어요.",
+       "en": "I ate bread instead of rice."
+      }
+     ]
+    },
+    {
+     "point": "~는 (것) 대신에 (instead of doing)",
+     "explanation": "To replace one action with another, use verb stem + ~는 것 대신에 or ~는 대신에. They mean the same thing. Always use the present ~는 form, even when talking about the past or future.",
+     "examples": [
+      {
+       "ko": "버스를 타는 대신에 걸어갔어요.",
+       "en": "Instead of taking the bus, I walked."
+      },
+      {
+       "ko": "게임을 하는 것 대신에 공부를 했어요.",
+       "en": "Instead of playing games, I studied."
+      },
+      {
+       "ko": "영화를 보는 대신에 책을 읽을 거예요.",
+       "en": "Instead of watching a movie, I’ll read a book."
+      }
+     ]
+    },
+    {
+     "point": "차라리 (rather, might as well)",
+     "explanation": "차라리 adds the feeling that the speaker would prefer this option over another, usually less appealing one. It often saves you from spelling out “instead of …”.",
+     "examples": [
+      {
+       "ko": "택시를 타는 것보다 차라리 걸어갈래요.",
+       "en": "I’d rather walk than take a taxi."
+      },
+      {
+       "ko": "이렇게 기다릴 거면 차라리 집에 가요.",
+       "en": "If we’re going to wait like this, let’s just go home."
+      },
+      {
+       "ko": "차라리 혼자 하는 게 나아요.",
+       "en": "It’s better to just do it alone."
+      }
+     ]
+    },
+    {
+     "point": "Noun + 말고 (not X, but…)",
+     "explanation": "Just as ~지 말고 means “don’t do X, (do Y) instead” with verbs, 말고 can follow a noun directly: “not X, (but Y)”. It is very common in requests and choices.",
+     "examples": [
+      {
+       "ko": "이거 말고 저거 주세요.",
+       "en": "Not this one, give me that one."
+      },
+      {
+       "ko": "커피 말고 물 마실래요.",
+       "en": "I’ll have water, not coffee."
+      },
+      {
+       "ko": "오늘 말고 내일 만나요.",
+       "en": "Let’s meet tomorrow instead of today."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 74,
+   "title": "Lesson 74: It doesn’t matter/ Regardless of (상관없다/상관없이)",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-74/",
+   "vocab": [
+    {
+     "ko": "운",
+     "en": "luck",
+     "pos": "noun"
+    },
+    {
+     "ko": "짐",
+     "en": "luggage, load, baggage",
+     "pos": "noun"
+    },
+    {
+     "ko": "부상",
+     "en": "injury",
+     "pos": "noun"
+    },
+    {
+     "ko": "부상자",
+     "en": "injured person",
+     "pos": "noun"
+    },
+    {
+     "ko": "통증",
+     "en": "pain, ache",
+     "pos": "noun"
+    },
+    {
+     "ko": "소화",
+     "en": "digestion",
+     "pos": "noun"
+    },
+    {
+     "ko": "소화기관",
+     "en": "digestive organs",
+     "pos": "noun"
+    },
+    {
+     "ko": "담요",
+     "en": "blanket",
+     "pos": "noun"
+    },
+    {
+     "ko": "식물",
+     "en": "plants",
+     "pos": "noun"
+    },
+    {
+     "ko": "할인",
+     "en": "discount",
+     "pos": "noun"
+    },
+    {
+     "ko": "맨발",
+     "en": "bare foot",
+     "pos": "noun"
+    },
+    {
+     "ko": "광야",
+     "en": "wild-open wilderness",
+     "pos": "noun"
+    },
+    {
+     "ko": "시골",
+     "en": "countryside",
+     "pos": "noun"
+    },
+    {
+     "ko": "학점",
+     "en": "school credit",
+     "pos": "noun"
+    },
+    {
+     "ko": "운전면허",
+     "en": "driver’s license",
+     "pos": "noun"
+    },
+    {
+     "ko": "원산지",
+     "en": "country of origin",
+     "pos": "noun"
+    },
+    {
+     "ko": "국적",
+     "en": "nationality",
+     "pos": "noun"
+    },
+    {
+     "ko": "뒤집다",
+     "en": "to turn over",
+     "pos": "verb"
+    },
+    {
+     "ko": "열광하다",
+     "en": "to be enthusiastic",
+     "pos": "verb"
+    },
+    {
+     "ko": "반응하다",
+     "en": "to react",
+     "pos": "verb"
+    },
+    {
+     "ko": "가출하다",
+     "en": "to run away from home",
+     "pos": "verb"
+    },
+    {
+     "ko": "표기하다",
+     "en": "to write, to mark",
+     "pos": "verb"
+    },
+    {
+     "ko": "차이다",
+     "en": "to be dumped, to get kicked",
+     "pos": "verb"
+    },
+    {
+     "ko": "붓다",
+     "en": "to be swollen",
+     "pos": "verb"
+    },
+    {
+     "ko": "상관없다",
+     "en": "to be irrelevant",
+     "pos": "adjective"
+    },
+    {
+     "ko": "불량하다",
+     "en": "to be faulty, to be poor",
+     "pos": "adjective"
+    },
+    {
+     "ko": "상관없이",
+     "en": "regardless",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~아/어도 상관없다 (it doesn’t matter if)",
+     "explanation": "상관 means “relation”, so 상관없다 says something is irrelevant. On its own it means “it doesn’t matter” or “I don’t mind”. With a clause, the irrelevant condition usually takes ~아/어도.",
+     "examples": [
+      {
+       "ko": "늦어도 상관없어요.",
+       "en": "It doesn’t matter if you’re late."
+      },
+      {
+       "ko": "비싸도 상관없어요.",
+       "en": "It doesn’t matter if it’s expensive."
+      },
+      {
+       "ko": "내일 와도 상관없어요.",
+       "en": "It’s fine if you come tomorrow."
+      }
+     ]
+    },
+    {
+     "point": "Question word + ~는지 / ~든지 상관없다",
+     "explanation": "When the clause has a question word (when, where, who), ~아/어도 sounds unnatural. Use ~는지 or ~든지 before 상관없다 instead.",
+     "examples": [
+      {
+       "ko": "어디에 가는지 상관없어요.",
+       "en": "It doesn’t matter where we go."
+      },
+      {
+       "ko": "누구랑 가든지 상관없어요.",
+       "en": "It doesn’t matter who you go with."
+      },
+      {
+       "ko": "언제 만나든지 상관없어요.",
+       "en": "It doesn’t matter when we meet."
+      }
+     ]
+    },
+    {
+     "point": "Noun와/과 상관없이 (regardless of)",
+     "explanation": "상관없이 is the adverb form, meaning “regardless of”. The noun takes ~와/과, ~하고 or ~(이)랑. A full clause can come before it with ~는지.",
+     "examples": [
+      {
+       "ko": "나이와 상관없이 누구나 가입할 수 있어요.",
+       "en": "Anyone can join regardless of age."
+      },
+      {
+       "ko": "날씨랑 상관없이 매일 운동해요.",
+       "en": "I exercise every day regardless of the weather."
+      },
+      {
+       "ko": "국적과 상관없이 신청할 수 있어요.",
+       "en": "You can apply regardless of nationality."
+      }
+     ]
+    },
+    {
+     "point": "~에도 / ~ㅁ/음에도 불구하고 (despite)",
+     "explanation": "불구하다 is used mid-sentence to mean “despite”. A noun takes ~에도 불구하고. A verb or adjective is first made into a noun with ~ㅁ/음 (past is possible: ~았/었음에도). It is used mostly in writing.",
+     "examples": [
+      {
+       "ko": "비에도 불구하고 경기가 계속되었다.",
+       "en": "Despite the rain, the game went on."
+      },
+      {
+       "ko": "부상에도 불구하고 그 선수는 끝까지 뛰었다.",
+       "en": "Despite the injury, the player ran to the end."
+      },
+      {
+       "ko": "열심히 공부했음에도 불구하고 시험에 떨어졌다.",
+       "en": "Despite studying hard, I failed the exam."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 75,
+   "title": "Lesson 75: I don’t care: 신경 안 쓰다",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-75/",
+   "vocab": [
+    {
+     "ko": "신경",
+     "en": "nerve, care, concern",
+     "pos": "noun"
+    },
+    {
+     "ko": "문서",
+     "en": "document",
+     "pos": "noun"
+    },
+    {
+     "ko": "씨앗",
+     "en": "seed",
+     "pos": "noun"
+    },
+    {
+     "ko": "입시",
+     "en": "entrance exam",
+     "pos": "noun"
+    },
+    {
+     "ko": "지옥",
+     "en": "hell",
+     "pos": "noun"
+    },
+    {
+     "ko": "벌",
+     "en": "bee",
+     "pos": "noun"
+    },
+    {
+     "ko": "과외",
+     "en": "private tutoring",
+     "pos": "noun"
+    },
+    {
+     "ko": "법원",
+     "en": "court of law",
+     "pos": "noun"
+    },
+    {
+     "ko": "물집",
+     "en": "blister",
+     "pos": "noun"
+    },
+    {
+     "ko": "엄지",
+     "en": "thumb",
+     "pos": "noun"
+    },
+    {
+     "ko": "본능",
+     "en": "instinct",
+     "pos": "noun"
+    },
+    {
+     "ko": "단점",
+     "en": "flaw, weak point",
+     "pos": "noun"
+    },
+    {
+     "ko": "장점",
+     "en": "pro, strong point",
+     "pos": "noun"
+    },
+    {
+     "ko": "우측",
+     "en": "right",
+     "pos": "noun"
+    },
+    {
+     "ko": "좌측",
+     "en": "left",
+     "pos": "noun"
+    },
+    {
+     "ko": "저번",
+     "en": "last (previous)",
+     "pos": "noun"
+    },
+    {
+     "ko": "맞은편",
+     "en": "opposite side",
+     "pos": "noun"
+    },
+    {
+     "ko": "건너편",
+     "en": "opposite side",
+     "pos": "noun"
+    },
+    {
+     "ko": "본능적",
+     "en": "instinctively",
+     "pos": "noun"
+    },
+    {
+     "ko": "삼키다",
+     "en": "to swallow",
+     "pos": "verb"
+    },
+    {
+     "ko": "접다",
+     "en": "to fold, to collapse",
+     "pos": "verb"
+    },
+    {
+     "ko": "이발하다",
+     "en": "to get a haircut",
+     "pos": "verb"
+    },
+    {
+     "ko": "포장하다",
+     "en": "to pack up",
+     "pos": "verb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "신경 (nerve; care)",
+     "explanation": "신경 literally means “nerve”, but in daily speech it means attention or concern toward something. It is a noun, so a verb is needed to say you care: usually 쓰다.",
+     "examples": [
+      {
+       "ko": "그 사람은 신경이 예민해요.",
+       "en": "That person is very sensitive (high-strung)."
+      },
+      {
+       "ko": "시험 때문에 신경이 많이 쓰여요.",
+       "en": "I’m really bothered by the exam."
+      },
+      {
+       "ko": "신경 쓰지 마세요.",
+       "en": "Don’t worry about it."
+      }
+     ]
+    },
+    {
+     "point": "Noun에 (대해) 신경(을) 안 쓰다 (not care about)",
+     "explanation": "The negative “I don’t care” is the most common use. Put ~에 대해 (or just ~에) on the thing you don’t care about. 을 on 신경 is often dropped in speech.",
+     "examples": [
+      {
+       "ko": "저는 돈에 대해 신경 안 써요.",
+       "en": "I don’t care about money."
+      },
+      {
+       "ko": "그 사람은 옷에 신경을 안 써요.",
+       "en": "He doesn’t care about clothes."
+      },
+      {
+       "ko": "다른 사람의 말에 신경 쓰지 마세요.",
+       "en": "Don’t mind what other people say."
+      }
+     ]
+    },
+    {
+     "point": "Clause + ~는지 / ~아/어도 신경 안 쓰다",
+     "explanation": "For a clause with a question word, use ~는지 (“I don’t care where/what…”), just as with 상관없다. ~아/어도 instead means “I don’t care even if…” and treats the question word as vague: it’s not even known whether the action happens.",
+     "examples": [
+      {
+       "ko": "네가 어디에 가는지 신경 안 써.",
+       "en": "I don’t care where you go."
+      },
+      {
+       "ko": "비싸도 신경 안 써요.",
+       "en": "I don’t care even if it’s expensive."
+      },
+      {
+       "ko": "사람들이 뭐라고 하든지 신경 안 써요.",
+       "en": "I don’t care what people say."
+      }
+     ]
+    },
+    {
+     "point": "신경(을) 쓰다 (to care, pay attention)",
+     "explanation": "The positive “I care” with 신경 쓰다 often sounds unnatural in statements. It is common in requests or commands telling someone to pay attention to something.",
+     "examples": [
+      {
+       "ko": "건강에 신경 좀 쓰세요.",
+       "en": "Please take care of your health."
+      },
+      {
+       "ko": "손님이 오니까 청소에 신경 좀 써 주세요.",
+       "en": "Guests are coming, so please pay attention to the cleaning."
+      },
+      {
+       "ko": "운전할 때 신경을 많이 써야 해요.",
+       "en": "You need to pay close attention when driving."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2598 @@
+{
+ "range": "26-33",
+ "lessons": [
+  {
+   "n": 26,
+   "title": "Lesson 26: ~는 것 Describing Nouns with Verbs",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-26/",
+   "vocab": [
+    {
+     "ko": "아줌마",
+     "en": "middle aged/older woman",
+     "pos": "noun"
+    },
+    {
+     "ko": "물건",
+     "en": "thing, item, goods",
+     "pos": "noun"
+    },
+    {
+     "ko": "복도",
+     "en": "hall, hallway",
+     "pos": "noun"
+    },
+    {
+     "ko": "목적",
+     "en": "purpose, aim, goal",
+     "pos": "noun"
+    },
+    {
+     "ko": "목적지",
+     "en": "destination",
+     "pos": "noun"
+    },
+    {
+     "ko": "국가",
+     "en": "nation, country",
+     "pos": "noun"
+    },
+    {
+     "ko": "동네",
+     "en": "neighborhood",
+     "pos": "noun"
+    },
+    {
+     "ko": "학비",
+     "en": "tuition",
+     "pos": "noun"
+    },
+    {
+     "ko": "무기",
+     "en": "weapon",
+     "pos": "noun"
+    },
+    {
+     "ko": "정답",
+     "en": "right/correct answer",
+     "pos": "noun"
+    },
+    {
+     "ko": "청소년",
+     "en": "youth",
+     "pos": "noun"
+    },
+    {
+     "ko": "지역",
+     "en": "a certain area or region",
+     "pos": "noun"
+    },
+    {
+     "ko": "경기",
+     "en": "match or game",
+     "pos": "noun"
+    },
+    {
+     "ko": "점수",
+     "en": "grade, score",
+     "pos": "noun"
+    },
+    {
+     "ko": "선수",
+     "en": "player (in sports)",
+     "pos": "noun"
+    },
+    {
+     "ko": "목숨",
+     "en": "life",
+     "pos": "noun"
+    },
+    {
+     "ko": "모기",
+     "en": "mosquito",
+     "pos": "noun"
+    },
+    {
+     "ko": "허리",
+     "en": "waist",
+     "pos": "noun"
+    },
+    {
+     "ko": "달",
+     "en": "moon",
+     "pos": "noun"
+    },
+    {
+     "ko": "인사",
+     "en": "greeting",
+     "pos": "noun"
+    },
+    {
+     "ko": "소금",
+     "en": "salt",
+     "pos": "noun"
+    },
+    {
+     "ko": "담배",
+     "en": "tobacco, cigarettes",
+     "pos": "noun"
+    },
+    {
+     "ko": "환자",
+     "en": "patients",
+     "pos": "noun"
+    },
+    {
+     "ko": "옷걸이",
+     "en": "hanger",
+     "pos": "noun"
+    },
+    {
+     "ko": "국제",
+     "en": "international",
+     "pos": "noun"
+    },
+    {
+     "ko": "일반",
+     "en": "usual, normal, typical",
+     "pos": "noun"
+    },
+    {
+     "ko": "사이",
+     "en": "space, gap",
+     "pos": "noun"
+    },
+    {
+     "ko": "밖",
+     "en": "the outside of something",
+     "pos": "noun"
+    },
+    {
+     "ko": "깎다",
+     "en": "to peel, cut, trim, shave",
+     "pos": "verb"
+    },
+    {
+     "ko": "알아보다",
+     "en": "to recognize, to try to know",
+     "pos": "verb"
+    },
+    {
+     "ko": "극복하다",
+     "en": "to overcome",
+     "pos": "verb"
+    },
+    {
+     "ko": "맞추다",
+     "en": "to adjust, fix, set",
+     "pos": "verb"
+    },
+    {
+     "ko": "합격하다",
+     "en": "to pass, to get accepted",
+     "pos": "verb"
+    },
+    {
+     "ko": "결정하다",
+     "en": "to decide",
+     "pos": "verb"
+    },
+    {
+     "ko": "이혼하다",
+     "en": "to get a divorce",
+     "pos": "verb"
+    },
+    {
+     "ko": "물어보다",
+     "en": "to ask",
+     "pos": "verb"
+    },
+    {
+     "ko": "피우다",
+     "en": "to smoke, to light a fire of some sort",
+     "pos": "verb"
+    },
+    {
+     "ko": "불다",
+     "en": "to blow",
+     "pos": "verb"
+    },
+    {
+     "ko": "계속하다",
+     "en": "to continue",
+     "pos": "verb"
+    },
+    {
+     "ko": "다치다",
+     "en": "to injure, to hurt",
+     "pos": "verb"
+    },
+    {
+     "ko": "답하다",
+     "en": "to answer, to respond",
+     "pos": "verb"
+    },
+    {
+     "ko": "틀리다",
+     "en": "to be incorrect",
+     "pos": "adjective"
+    },
+    {
+     "ko": "깨끗하다",
+     "en": "to be clean",
+     "pos": "adjective"
+    },
+    {
+     "ko": "남다",
+     "en": "to be remaining, to be left over",
+     "pos": "adjective"
+    },
+    {
+     "ko": "맑다",
+     "en": "to be clear, clean, pure",
+     "pos": "adjective"
+    },
+    {
+     "ko": "무료",
+     "en": "free",
+     "pos": "noun"
+    },
+    {
+     "ko": "영업 시간",
+     "en": "business hours",
+     "pos": "noun"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~는 (present verb modifier)",
+     "explanation": "Add ~는 to a verb stem so the verb, together with everything before it, describes the noun that follows: \"the N that (someone) does\". It is used for actions happening now or in general. Final consonants make no difference, but a stem ending in ㄹ loses the ㄹ (살다 → 사는).",
+     "examples": [
+      {
+       "ko": "저는 복도에서 뛰는 학생을 봤어요.",
+       "en": "I saw a student running in the hallway."
+      },
+      {
+       "ko": "담배를 피우는 사람이 많아요.",
+       "en": "There are many people who smoke."
+      },
+      {
+       "ko": "우리 동네에 사는 아줌마는 친절해요.",
+       "en": "The older woman who lives in our neighborhood is kind."
+      }
+     ]
+    },
+    {
+     "point": "~ㄴ/은 (past verb modifier)",
+     "explanation": "For a completed action, add ~ㄴ to a stem ending in a vowel or ~은 to a stem ending in a consonant, then put the noun after it: \"the N that (someone) did\". The result works like any other noun in the sentence.",
+     "examples": [
+      {
+       "ko": "제가 어제 산 물건이 너무 비싸요.",
+       "en": "The item I bought yesterday is too expensive."
+      },
+      {
+       "ko": "경기에서 다친 선수는 병원에 있어요.",
+       "en": "The player who got hurt in the game is in the hospital."
+      },
+      {
+       "ko": "시험에 합격한 학생은 제 친구예요.",
+       "en": "The student who passed the exam is my friend."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을 (future verb modifier)",
+     "explanation": "For an action that hasn't happened yet, add ~ㄹ after a vowel or ~을 after a consonant: \"the N that (someone) will do\". This is the same modifier that sits inside the ~ㄹ/을 것이다 future ending.",
+     "examples": [
+      {
+       "ko": "내일 먹을 음식을 샀어요.",
+       "en": "I bought food to eat tomorrow."
+      },
+      {
+       "ko": "제가 갈 목적지는 부산이에요.",
+       "en": "The destination I will go to is Busan."
+      },
+      {
+       "ko": "이번 주말에 볼 경기가 있어요.",
+       "en": "There is a game I will watch this weekend."
+      }
+     ]
+    },
+    {
+     "point": "~는 것 (turning an action into a noun)",
+     "explanation": "When the noun being described is 것 (\"thing\"), the whole clause becomes a noun meaning \"doing X\" or \"what (someone) did\". You can then use it as a subject or object, with particles like 은/는, 이/가 and 을/를.",
+     "examples": [
+      {
+       "ko": "밤에 혼자 걷는 것은 위험해요.",
+       "en": "Walking alone at night is dangerous."
+      },
+      {
+       "ko": "저는 담배를 피우는 것을 싫어해요.",
+       "en": "I hate smoking."
+      },
+      {
+       "ko": "한국어를 공부하는 것이 재미있어요.",
+       "en": "Studying Korean is fun."
+      },
+      {
+       "ko": "그 사람이 말한 것을 믿어요?",
+       "en": "Do you believe what that person said?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "title": "Lesson 27: Using ~던/었던 to Describe Past Tense",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-27/",
+   "vocab": [
+    {
+     "ko": "이유",
+     "en": "reason",
+     "pos": "noun"
+    },
+    {
+     "ko": "방법",
+     "en": "way, method",
+     "pos": "noun"
+    },
+    {
+     "ko": "예술",
+     "en": "art, the arts",
+     "pos": "noun"
+    },
+    {
+     "ko": "예술가",
+     "en": "artist",
+     "pos": "noun"
+    },
+    {
+     "ko": "내용",
+     "en": "contents",
+     "pos": "noun"
+    },
+    {
+     "ko": "종업원",
+     "en": "employee, server, worker",
+     "pos": "noun"
+    },
+    {
+     "ko": "기술",
+     "en": "technology, skill",
+     "pos": "noun"
+    },
+    {
+     "ko": "공책",
+     "en": "notebook",
+     "pos": "noun"
+    },
+    {
+     "ko": "달력",
+     "en": "calendar",
+     "pos": "noun"
+    },
+    {
+     "ko": "주스",
+     "en": "juice",
+     "pos": "noun"
+    },
+    {
+     "ko": "우체국",
+     "en": "post office",
+     "pos": "noun"
+    },
+    {
+     "ko": "대사관",
+     "en": "embassy",
+     "pos": "noun"
+    },
+    {
+     "ko": "휴지",
+     "en": "toilet paper",
+     "pos": "noun"
+    },
+    {
+     "ko": "햄버거",
+     "en": "hamburger",
+     "pos": "noun"
+    },
+    {
+     "ko": "비누",
+     "en": "soap",
+     "pos": "noun"
+    },
+    {
+     "ko": "숟가락",
+     "en": "spoon",
+     "pos": "noun"
+    },
+    {
+     "ko": "간호사",
+     "en": "nurse",
+     "pos": "noun"
+    },
+    {
+     "ko": "약국",
+     "en": "pharmacy",
+     "pos": "noun"
+    },
+    {
+     "ko": "사회",
+     "en": "community, society",
+     "pos": "noun"
+    },
+    {
+     "ko": "충격",
+     "en": "shock, impact",
+     "pos": "noun"
+    },
+    {
+     "ko": "법",
+     "en": "law",
+     "pos": "noun"
+    },
+    {
+     "ko": "시민",
+     "en": "citizen",
+     "pos": "noun"
+    },
+    {
+     "ko": "땀",
+     "en": "sweat",
+     "pos": "noun"
+    },
+    {
+     "ko": "보험",
+     "en": "insurance",
+     "pos": "noun"
+    },
+    {
+     "ko": "차이",
+     "en": "difference",
+     "pos": "noun"
+    },
+    {
+     "ko": "손님",
+     "en": "guest, visitor",
+     "pos": "noun"
+    },
+    {
+     "ko": "승객",
+     "en": "passenger",
+     "pos": "noun"
+    },
+    {
+     "ko": "대통령",
+     "en": "president (of country)",
+     "pos": "noun"
+    },
+    {
+     "ko": "회원",
+     "en": "member",
+     "pos": "noun"
+    },
+    {
+     "ko": "오렌지",
+     "en": "an orange",
+     "pos": "noun"
+    },
+    {
+     "ko": "담다",
+     "en": "to put something in/on/onto/into",
+     "pos": "verb"
+    },
+    {
+     "ko": "서명하다",
+     "en": "to sign",
+     "pos": "verb"
+    },
+    {
+     "ko": "그리다",
+     "en": "to draw",
+     "pos": "verb"
+    },
+    {
+     "ko": "밝히다",
+     "en": "to lighten something, to reveal",
+     "pos": "verb"
+    },
+    {
+     "ko": "발음하다",
+     "en": "to pronounce",
+     "pos": "verb"
+    },
+    {
+     "ko": "포기하다",
+     "en": "to give up",
+     "pos": "verb"
+    },
+    {
+     "ko": "지나다",
+     "en": "for something to pass by",
+     "pos": "verb"
+    },
+    {
+     "ko": "실패하다",
+     "en": "to fail",
+     "pos": "verb"
+    },
+    {
+     "ko": "근무하다",
+     "en": "to be employed",
+     "pos": "verb"
+    },
+    {
+     "ko": "환승하다",
+     "en": "to transfer on a bus, subway",
+     "pos": "verb"
+    },
+    {
+     "ko": "멈추다",
+     "en": "to stop",
+     "pos": "verb"
+    },
+    {
+     "ko": "담기다",
+     "en": "to be put in/on/onto/into",
+     "pos": "verb"
+    },
+    {
+     "ko": "외롭다",
+     "en": "to be lonely",
+     "pos": "adjective"
+    },
+    {
+     "ko": "소중하다",
+     "en": "to be significant, precious",
+     "pos": "adjective"
+    },
+    {
+     "ko": "따로",
+     "en": "separately, privately",
+     "pos": "adverb"
+    },
+    {
+     "ko": "영원히",
+     "en": "forever",
+     "pos": "adverb"
+    },
+    {
+     "ko": "한때",
+     "en": "once, at one time",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~던 (recalled, repeated past)",
+     "explanation": "Add ~던 to a verb stem to describe a noun with an action the speaker remembers happening repeatedly or over time in the past. It often suggests the action was ongoing, unfinished, or may still continue, so it suits verbs like wearing, using or going somewhere regularly, and sounds wrong with one-time actions such as being born.",
+     "examples": [
+      {
+       "ko": "제가 자주 가던 약국이 문을 닫았어요.",
+       "en": "The pharmacy I used to go to often closed down."
+      },
+      {
+       "ko": "이건 제가 매일 쓰던 공책이에요.",
+       "en": "This is the notebook I used every day."
+      },
+      {
+       "ko": "형이 입던 옷을 지금 제가 입어요.",
+       "en": "I now wear the clothes my older brother used to wear."
+      },
+      {
+       "ko": "손님이 먹던 햄버거가 아직 테이블에 있어요.",
+       "en": "The hamburger the guest was eating is still on the table."
+      }
+     ]
+    },
+    {
+     "point": "~았/었던 (completed past)",
+     "explanation": "Adding ~았/었 before ~던 makes it clear that the action is completely over and no longer happening. Its meaning is close to the plain ~ㄴ/은 past modifier but carries a stronger sense of something finished and remembered.",
+     "examples": [
+      {
+       "ko": "작년에 갔던 대사관은 아주 컸어요.",
+       "en": "The embassy I went to last year was very big."
+      },
+      {
+       "ko": "어제 봤던 영화는 내용이 재미있었어요.",
+       "en": "The movie I saw yesterday had interesting content."
+      },
+      {
+       "ko": "제가 실패했던 이유를 이제 알아요.",
+       "en": "Now I know the reason I failed."
+      },
+      {
+       "ko": "한국에서 근무했던 간호사를 만났어요.",
+       "en": "I met a nurse who had worked in Korea."
+      }
+     ]
+    },
+    {
+     "point": "~았/었던 with adjectives (past state)",
+     "explanation": "Adjectives can take ~았/었던 to describe a noun by a state it used to be in but is no longer. It contrasts with the present ~ㄴ/은 form, which describes how the noun is now.",
+     "examples": [
+      {
+       "ko": "외로웠던 시간이 다 지났어요.",
+       "en": "The lonely times have all passed."
+      },
+      {
+       "ko": "어렸을 때 작았던 동생이 이제 키가 커요.",
+       "en": "My younger sibling, who was small as a kid, is tall now."
+      },
+      {
+       "ko": "소중했던 기억을 영원히 잊지 않을 거예요.",
+       "en": "I will never forget those precious memories."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "title": "Lesson 28: Anomalies with ~는 것",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-28/",
+   "vocab": [
+    {
+     "ko": "어른",
+     "en": "adult",
+     "pos": "noun"
+    },
+    {
+     "ko": "어린이",
+     "en": "child, children",
+     "pos": "noun"
+    },
+    {
+     "ko": "공주",
+     "en": "princess",
+     "pos": "noun"
+    },
+    {
+     "ko": "영향",
+     "en": "influence",
+     "pos": "noun"
+    },
+    {
+     "ko": "글",
+     "en": "some sort of writing",
+     "pos": "noun"
+    },
+    {
+     "ko": "문학",
+     "en": "literature",
+     "pos": "noun"
+    },
+    {
+     "ko": "지방",
+     "en": "district, local area",
+     "pos": "noun"
+    },
+    {
+     "ko": "이웃사람",
+     "en": "neighbor",
+     "pos": "noun"
+    },
+    {
+     "ko": "환경",
+     "en": "environment",
+     "pos": "noun"
+    },
+    {
+     "ko": "농장",
+     "en": "farm",
+     "pos": "noun"
+    },
+    {
+     "ko": "부분",
+     "en": "part, section",
+     "pos": "noun"
+    },
+    {
+     "ko": "광고",
+     "en": "advertisement",
+     "pos": "noun"
+    },
+    {
+     "ko": "농구",
+     "en": "basketball",
+     "pos": "noun"
+    },
+    {
+     "ko": "배구",
+     "en": "volleyball",
+     "pos": "noun"
+    },
+    {
+     "ko": "지구",
+     "en": "earth",
+     "pos": "noun"
+    },
+    {
+     "ko": "방귀",
+     "en": "fart",
+     "pos": "noun"
+    },
+    {
+     "ko": "고개",
+     "en": "head",
+     "pos": "noun"
+    },
+    {
+     "ko": "방향",
+     "en": "direction",
+     "pos": "noun"
+    },
+    {
+     "ko": "해외",
+     "en": "abroad, overseas",
+     "pos": "noun"
+    },
+    {
+     "ko": "자체",
+     "en": "itself, its own",
+     "pos": "noun"
+    },
+    {
+     "ko": "시대",
+     "en": "times, period, era",
+     "pos": "noun"
+    },
+    {
+     "ko": "주의",
+     "en": "caution",
+     "pos": "noun"
+    },
+    {
+     "ko": "연구하다",
+     "en": "to research",
+     "pos": "verb"
+    },
+    {
+     "ko": "집중하다",
+     "en": "to concentrate",
+     "pos": "verb"
+    },
+    {
+     "ko": "나누다",
+     "en": "to divide",
+     "pos": "verb"
+    },
+    {
+     "ko": "이용하다",
+     "en": "to use",
+     "pos": "verb"
+    },
+    {
+     "ko": "등록하다",
+     "en": "to register",
+     "pos": "verb"
+    },
+    {
+     "ko": "메다",
+     "en": "to carry on one's shoulder",
+     "pos": "verb"
+    },
+    {
+     "ko": "세우다",
+     "en": "to stand something up, to line something up",
+     "pos": "verb"
+    },
+    {
+     "ko": "움직이다",
+     "en": "to move",
+     "pos": "verb"
+    },
+    {
+     "ko": "정리하다",
+     "en": "to arrange",
+     "pos": "verb"
+    },
+    {
+     "ko": "취소하다",
+     "en": "to cancel",
+     "pos": "verb"
+    },
+    {
+     "ko": "지키다",
+     "en": "to protect, to defend",
+     "pos": "verb"
+    },
+    {
+     "ko": "놓치다",
+     "en": "to miss (a train/bus/opportunity)",
+     "pos": "verb"
+    },
+    {
+     "ko": "적다",
+     "en": "to be few",
+     "pos": "adjective"
+    },
+    {
+     "ko": "강하다",
+     "en": "to be strong",
+     "pos": "adjective"
+    },
+    {
+     "ko": "불편하다",
+     "en": "to be uncomfortable",
+     "pos": "adjective"
+    },
+    {
+     "ko": "충분하다",
+     "en": "to be enough, to be sufficient",
+     "pos": "adjective"
+    },
+    {
+     "ko": "졸리다",
+     "en": "to be sleepy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "솔직하다",
+     "en": "to be honest/frank",
+     "pos": "adjective"
+    },
+    {
+     "ko": "정확하다",
+     "en": "to be exact",
+     "pos": "adjective"
+    },
+    {
+     "ko": "친하다",
+     "en": "to be familiar with, to be close with",
+     "pos": "adjective"
+    },
+    {
+     "ko": "급하다",
+     "en": "to be urgent",
+     "pos": "adjective"
+    },
+    {
+     "ko": "결국",
+     "en": "eventually",
+     "pos": "adverb"
+    },
+    {
+     "ko": "내내",
+     "en": "throughout a time",
+     "pos": "adverb"
+    },
+    {
+     "ko": "드디어",
+     "en": "finally, at last",
+     "pos": "adverb"
+    },
+    {
+     "ko": "그냥",
+     "en": "only, just",
+     "pos": "adverb"
+    },
+    {
+     "ko": "약간",
+     "en": "slightly/a little bit",
+     "pos": "adverb"
+    },
+    {
+     "ko": "철저히",
+     "en": "thoroughly",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Irregular stems with ~는 / ~ㄴ/은 / ~ㄹ/을",
+     "explanation": "With present ~는, only ㄹ-stems change: the ㄹ drops (만들다 → 만드는). With past ~ㄴ/은 and future ~ㄹ/을, the vowel-triggered irregulars apply: ㅅ drops (짓다 → 지은), ㄷ becomes ㄹ (걷다 → 걸은), ㅂ becomes 우 (돕다 → 도운), and ㄹ-stems drop ㄹ before taking ㄴ or ㄹ (만들다 → 만든, 만들).",
+     "examples": [
+      {
+       "ko": "엄마가 만드는 음식이 제일 맛있어요.",
+       "en": "The food my mom makes is the most delicious."
+      },
+      {
+       "ko": "어제 걸은 길이 아주 길었어요.",
+       "en": "The road I walked yesterday was very long."
+      },
+      {
+       "ko": "저를 도운 사람에게 인사했어요.",
+       "en": "I greeted the person who helped me."
+      },
+      {
+       "ko": "제가 들은 이야기는 사실이에요.",
+       "en": "The story I heard is true."
+      }
+     ]
+    },
+    {
+     "point": "\"My favorite\": 가장/제일 좋아하는 N",
+     "explanation": "Korean has no single word for \"favorite\". Instead you say \"the N that I like most\": 내가/제가 + 가장 or 제일 + 좋아하는 + noun. Use 내가/제가 rather than 나의/저의, because the speaker is the subject of 좋아하다. To say your favorite thing is an activity, make the second half a noun as well with ~는 것이다.",
+     "examples": [
+      {
+       "ko": "내가 가장 좋아하는 운동은 농구야.",
+       "en": "My favorite sport is basketball."
+      },
+      {
+       "ko": "제가 제일 좋아하는 것은 친구와 배구를 하는 것이에요.",
+       "en": "My favorite thing is playing volleyball with friends."
+      },
+      {
+       "ko": "네가 가장 좋아하는 계절이 뭐야?",
+       "en": "What is your favorite season?"
+      }
+     ]
+    },
+    {
+     "point": "Describing nouns with 싶다, 있다 and 없다",
+     "explanation": "싶다 is an adjective, so it takes ~ㄴ/은 to describe a noun (가고 싶은 곳). 있다 and 없다, and words built on them like 재미있다 and 맛없다, take ~는 instead (재미있는, 돈이 없는).",
+     "examples": [
+      {
+       "ko": "제가 가고 싶은 나라는 캐나다예요.",
+       "en": "The country I want to go to is Canada."
+      },
+      {
+       "ko": "어제 재미있는 광고를 봤어요.",
+       "en": "Yesterday I saw a funny advertisement."
+      },
+      {
+       "ko": "돈이 없는 사람도 이 농장에서 일할 수 있어요.",
+       "en": "Even people with no money can work on this farm."
+      }
+     ]
+    },
+    {
+     "point": "Where 그/이/저/나의 go in modified nouns",
+     "explanation": "Small words like 이, 그, 저, 나의 and 저의 always sit directly in front of the noun, so they come after the describing clause, not before it. \"That person I met\" is 내가 만난 그 사람, not 그 내가 만난 사람.",
+     "examples": [
+      {
+       "ko": "내가 어제 만난 그 사람은 정말 솔직했어.",
+       "en": "That person I met yesterday was really frank."
+      },
+      {
+       "ko": "우리가 매일 이용하는 이 버스는 항상 늦어요.",
+       "en": "This bus we use every day is always late."
+      },
+      {
+       "ko": "선생님이 읽은 저의 글은 환경에 대한 글이에요.",
+       "en": "My writing that the teacher read is about the environment."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Lesson 29: Changing Verbs to Nouns with ~기 and 음/ㅁ",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-29/",
+   "vocab": [
+    {
+     "ko": "싸움",
+     "en": "a fight",
+     "pos": "noun"
+    },
+    {
+     "ko": "기쁨",
+     "en": "happiness, gladness",
+     "pos": "noun"
+    },
+    {
+     "ko": "도움",
+     "en": "help",
+     "pos": "noun"
+    },
+    {
+     "ko": "걸음",
+     "en": "step",
+     "pos": "noun"
+    },
+    {
+     "ko": "죽음",
+     "en": "death",
+     "pos": "noun"
+    },
+    {
+     "ko": "느낌",
+     "en": "a feeling",
+     "pos": "noun"
+    },
+    {
+     "ko": "행정",
+     "en": "administration",
+     "pos": "noun"
+    },
+    {
+     "ko": "구역",
+     "en": "zone, area",
+     "pos": "noun"
+    },
+    {
+     "ko": "보행자",
+     "en": "pedestrian",
+     "pos": "noun"
+    },
+    {
+     "ko": "좌석",
+     "en": "seat",
+     "pos": "noun"
+    },
+    {
+     "ko": "사전",
+     "en": "dictionary",
+     "pos": "noun"
+    },
+    {
+     "ko": "언어",
+     "en": "language",
+     "pos": "noun"
+    },
+    {
+     "ko": "국어",
+     "en": "the Korean language",
+     "pos": "noun"
+    },
+    {
+     "ko": "노동자",
+     "en": "laborer",
+     "pos": "noun"
+    },
+    {
+     "ko": "음악가",
+     "en": "musician",
+     "pos": "noun"
+    },
+    {
+     "ko": "능력",
+     "en": "capabilities",
+     "pos": "noun"
+    },
+    {
+     "ko": "자료",
+     "en": "data",
+     "pos": "noun"
+    },
+    {
+     "ko": "제품",
+     "en": "products",
+     "pos": "noun"
+    },
+    {
+     "ko": "사업",
+     "en": "business",
+     "pos": "noun"
+    },
+    {
+     "ko": "감정",
+     "en": "emotion",
+     "pos": "noun"
+    },
+    {
+     "ko": "쌀",
+     "en": "uncooked rice",
+     "pos": "noun"
+    },
+    {
+     "ko": "방송",
+     "en": "broadcast",
+     "pos": "noun"
+    },
+    {
+     "ko": "접시",
+     "en": "plate",
+     "pos": "noun"
+    },
+    {
+     "ko": "역할",
+     "en": "role",
+     "pos": "noun"
+    },
+    {
+     "ko": "정보",
+     "en": "information",
+     "pos": "noun"
+    },
+    {
+     "ko": "모양",
+     "en": "shape",
+     "pos": "noun"
+    },
+    {
+     "ko": "마을",
+     "en": "village/town",
+     "pos": "noun"
+    },
+    {
+     "ko": "합법",
+     "en": "legal",
+     "pos": "noun"
+    },
+    {
+     "ko": "불법",
+     "en": "illegal",
+     "pos": "noun"
+    },
+    {
+     "ko": "효과",
+     "en": "effects",
+     "pos": "noun"
+    },
+    {
+     "ko": "순간",
+     "en": "moment, second",
+     "pos": "noun"
+    },
+    {
+     "ko": "확대하다",
+     "en": "to expand, to enlarge",
+     "pos": "verb"
+    },
+    {
+     "ko": "검색하다",
+     "en": "to search for, to surf the internet",
+     "pos": "verb"
+    },
+    {
+     "ko": "훔치다",
+     "en": "to steal",
+     "pos": "verb"
+    },
+    {
+     "ko": "즐기다",
+     "en": "to enjoy oneself",
+     "pos": "verb"
+    },
+    {
+     "ko": "변하다",
+     "en": "to have changed",
+     "pos": "verb"
+    },
+    {
+     "ko": "붙이다",
+     "en": "to stick/stamp/label/attach",
+     "pos": "verb"
+    },
+    {
+     "ko": "쳐다보다",
+     "en": "to stare",
+     "pos": "verb"
+    },
+    {
+     "ko": "모이다",
+     "en": "to gather, to congregate",
+     "pos": "verb"
+    },
+    {
+     "ko": "낳다",
+     "en": "to give birth",
+     "pos": "verb"
+    },
+    {
+     "ko": "넘다",
+     "en": "to cross over, to climb over",
+     "pos": "verb"
+    },
+    {
+     "ko": "주차하다",
+     "en": "to park a car",
+     "pos": "verb"
+    },
+    {
+     "ko": "보호하다",
+     "en": "to protect",
+     "pos": "verb"
+    },
+    {
+     "ko": "표현하다",
+     "en": "to express",
+     "pos": "verb"
+    },
+    {
+     "ko": "붙다",
+     "en": "to be stuck",
+     "pos": "verb"
+    },
+    {
+     "ko": "현대",
+     "en": "modern times",
+     "pos": "noun"
+    },
+    {
+     "ko": "직접",
+     "en": "directly",
+     "pos": "adverb"
+    },
+    {
+     "ko": "스스로",
+     "en": "for oneself/by oneself",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~기 (verb to noun)",
+     "explanation": "Attach ~기 to a verb or adjective stem to turn it into a noun meaning \"doing X\" or \"being X\". It often goes with words describing how easy, hard or pleasant something is (쉽다, 어렵다, 좋다, 편하다).",
+     "examples": [
+      {
+       "ko": "한국어로 말하기가 어려워요.",
+       "en": "Speaking in Korean is difficult."
+      },
+      {
+       "ko": "이 사전은 쓰기 편해요.",
+       "en": "This dictionary is convenient to use."
+      },
+      {
+       "ko": "이 마을은 살기 좋아요.",
+       "en": "This village is a nice place to live."
+      }
+     ]
+    },
+    {
+     "point": "~기 시작하다 (start doing)",
+     "explanation": "Put ~기 on a verb stem and follow it with 시작하다 to say an action began. The tense goes on 시작하다.",
+     "examples": [
+      {
+       "ko": "갑자기 비가 오기 시작했어요.",
+       "en": "It suddenly started to rain."
+      },
+      {
+       "ko": "저는 작년에 한국어를 공부하기 시작했어요.",
+       "en": "I started studying Korean last year."
+      },
+      {
+       "ko": "사람들이 마을에 모이기 시작했어요.",
+       "en": "People started to gather in the village."
+      }
+     ]
+    },
+    {
+     "point": "~기 싫다 (not want to do)",
+     "explanation": "Verb stem + ~기 싫다 means you don't want to do something. For someone other than the speaker, the verb 싫어하다 is used instead (~기 싫어하다).",
+     "examples": [
+      {
+       "ko": "오늘은 일하기 싫어요.",
+       "en": "I don't want to work today."
+      },
+      {
+       "ko": "아침에 일찍 일어나기 싫어요.",
+       "en": "I don't want to get up early in the morning."
+      },
+      {
+       "ko": "동생은 방을 청소하기 싫어해요.",
+       "en": "My younger sibling hates cleaning the room."
+      }
+     ]
+    },
+    {
+     "point": "~기 in lists and buttons",
+     "explanation": "Because ~기 turns a verb into a short noun, it shows up in to-do lists, instructions and on-screen buttons where English would use a bare verb, for example 보기 (view), 열기 (open), 닫기 (close) and 찾기 (find).",
+     "examples": [
+      {
+       "ko": "오늘 할 일은 쌀 사기와 방 청소하기예요.",
+       "en": "Today's to-dos are buying rice and cleaning my room."
+      },
+      {
+       "ko": "사진을 크게 보고 싶으면 확대하기 버튼을 누르세요.",
+       "en": "If you want to see the photo bigger, press the zoom button."
+      },
+      {
+       "ko": "파일을 열고 싶으면 열기를 누르세요.",
+       "en": "If you want to open the file, press Open."
+      }
+     ]
+    },
+    {
+     "point": "~ㅁ/음 (verb/adjective to noun)",
+     "explanation": "Add ~ㅁ after a stem ending in a vowel (or ㄹ) and ~음 after a consonant to make a noun. Many common nouns come from this form, such as 싸움, 기쁨, 도움, 걸음, 죽음 and 느낌, and it also appears in short written statements and notices.",
+     "examples": [
+      {
+       "ko": "친구의 도움이 필요해요.",
+       "en": "I need my friend's help."
+      },
+      {
+       "ko": "그 소식을 듣고 큰 기쁨을 느꼈어요.",
+       "en": "I felt great joy when I heard that news."
+      },
+      {
+       "ko": "어제 동생과 싸움을 했어요.",
+       "en": "I had a fight with my younger sibling yesterday."
+      },
+      {
+       "ko": "이상한 느낌이 들어요.",
+       "en": "I have a strange feeling."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "title": "Lesson 30: An uncertain clause with ~는지, I have been doing X for…: ~ㄴ/은 지 X 됐다",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-30/",
+   "vocab": [
+    {
+     "ko": "택배",
+     "en": "delivery",
+     "pos": "noun"
+    },
+    {
+     "ko": "가격",
+     "en": "price",
+     "pos": "noun"
+    },
+    {
+     "ko": "용돈",
+     "en": "allowance",
+     "pos": "noun"
+    },
+    {
+     "ko": "아르바이트",
+     "en": "part-time job",
+     "pos": "noun"
+    },
+    {
+     "ko": "빛",
+     "en": "a light",
+     "pos": "noun"
+    },
+    {
+     "ko": "시인",
+     "en": "poet",
+     "pos": "noun"
+    },
+    {
+     "ko": "주제",
+     "en": "subject",
+     "pos": "noun"
+    },
+    {
+     "ko": "그룹",
+     "en": "group",
+     "pos": "noun"
+    },
+    {
+     "ko": "요금",
+     "en": "fare, price",
+     "pos": "noun"
+    },
+    {
+     "ko": "위치",
+     "en": "position, location",
+     "pos": "noun"
+    },
+    {
+     "ko": "해안",
+     "en": "the coast",
+     "pos": "noun"
+    },
+    {
+     "ko": "가정",
+     "en": "family",
+     "pos": "noun"
+    },
+    {
+     "ko": "재료",
+     "en": "materials, ingredients",
+     "pos": "noun"
+    },
+    {
+     "ko": "자유",
+     "en": "freedom",
+     "pos": "noun"
+    },
+    {
+     "ko": "책임",
+     "en": "responsibility",
+     "pos": "noun"
+    },
+    {
+     "ko": "입구",
+     "en": "entrance, way in",
+     "pos": "noun"
+    },
+    {
+     "ko": "출구",
+     "en": "exit , way out",
+     "pos": "noun"
+    },
+    {
+     "ko": "출입",
+     "en": "enter and exit",
+     "pos": "noun"
+    },
+    {
+     "ko": "수술",
+     "en": "surgery, operation",
+     "pos": "noun"
+    },
+    {
+     "ko": "훈련",
+     "en": "training",
+     "pos": "noun"
+    },
+    {
+     "ko": "비상",
+     "en": "emergency",
+     "pos": "noun"
+    },
+    {
+     "ko": "계단",
+     "en": "steps, stairs, staircase",
+     "pos": "noun"
+    },
+    {
+     "ko": "전통",
+     "en": "tradition, culture, heritage",
+     "pos": "noun"
+    },
+    {
+     "ko": "호선",
+     "en": "a subway line",
+     "pos": "noun"
+    },
+    {
+     "ko": "기간",
+     "en": "a period of time",
+     "pos": "noun"
+    },
+    {
+     "ko": "구체적",
+     "en": "detailed, specific",
+     "pos": "noun"
+    },
+    {
+     "ko": "꺼내다",
+     "en": "to take out, to remove something",
+     "pos": "verb"
+    },
+    {
+     "ko": "전하다",
+     "en": "to convey, to deliver",
+     "pos": "verb"
+    },
+    {
+     "ko": "정하다",
+     "en": "to set",
+     "pos": "verb"
+    },
+    {
+     "ko": "줄이다",
+     "en": "to reduce, to decrease",
+     "pos": "verb"
+    },
+    {
+     "ko": "데려오다",
+     "en": "to bring a person (coming)",
+     "pos": "verb"
+    },
+    {
+     "ko": "데려가다",
+     "en": "to bring a person (going)",
+     "pos": "verb"
+    },
+    {
+     "ko": "막다",
+     "en": "to obstruct, to block",
+     "pos": "verb"
+    },
+    {
+     "ko": "허락하다",
+     "en": "to allow, to permit",
+     "pos": "verb"
+    },
+    {
+     "ko": "버리다",
+     "en": "to throw away",
+     "pos": "verb"
+    },
+    {
+     "ko": "잊어버리다",
+     "en": "to forget",
+     "pos": "verb"
+    },
+    {
+     "ko": "벌다",
+     "en": "to earn",
+     "pos": "verb"
+    },
+    {
+     "ko": "기르다",
+     "en": "to raise (a child, pet), to cultivate (a plant)",
+     "pos": "verb"
+    },
+    {
+     "ko": "조심하다",
+     "en": "to act carefully",
+     "pos": "verb"
+    },
+    {
+     "ko": "관리하다",
+     "en": "to manage, to administer",
+     "pos": "verb"
+    },
+    {
+     "ko": "치료하다",
+     "en": "to treat, to cure",
+     "pos": "verb"
+    },
+    {
+     "ko": "헤어지다",
+     "en": "to break up with a person",
+     "pos": "verb"
+    },
+    {
+     "ko": "줄다",
+     "en": "to be reduced, to be decreased",
+     "pos": "verb"
+    },
+    {
+     "ko": "깨지다",
+     "en": "to be broken, cracked, smashed",
+     "pos": "verb"
+    },
+    {
+     "ko": "쌀쌀하다",
+     "en": "to be chilly",
+     "pos": "adjective"
+    },
+    {
+     "ko": "밝다",
+     "en": "to be bright",
+     "pos": "adjective"
+    },
+    {
+     "ko": "목마르다",
+     "en": "to be thirsty",
+     "pos": "adjective"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~는지 (uncertain/embedded question)",
+     "explanation": "Attach ~는지 to a verb stem to turn a question-like clause (\"whether/when/where/why...\") into part of a larger sentence, usually followed by 알다, 모르다, 궁금하다 or 물어보다. For the past use ~았/었는지, and for the future ~ㄹ/을지.",
+     "examples": [
+      {
+       "ko": "택배가 언제 오는지 몰라요.",
+       "en": "I don't know when the delivery is coming."
+      },
+      {
+       "ko": "그 사람이 어디에 사는지 알아요?",
+       "en": "Do you know where that person lives?"
+      },
+      {
+       "ko": "친구에게 왜 화가 났는지 물어봤어요.",
+       "en": "I asked my friend why he got angry."
+      },
+      {
+       "ko": "내일 비가 올지 모르겠어요.",
+       "en": "I'm not sure if it will rain tomorrow."
+      }
+     ]
+    },
+    {
+     "point": "~ㄴ/은지 with adjectives and 이다",
+     "explanation": "Adjectives in the present take ~ㄴ/은지 rather than ~는지 (추운지, 가까운지), and 이다 becomes ~인지. The rest of the sentence works the same way.",
+     "examples": [
+      {
+       "ko": "밖이 얼마나 추운지 알아요?",
+       "en": "Do you know how cold it is outside?"
+      },
+      {
+       "ko": "어느 출구가 더 가까운지 물어볼게요.",
+       "en": "I'll ask which exit is closer."
+      },
+      {
+       "ko": "지하철 요금이 얼마인지 몰라요.",
+       "en": "I don't know how much the subway fare is."
+      }
+     ]
+    },
+    {
+     "point": "~는지 안 ~는지 (whether or not)",
+     "explanation": "Repeat the clause with 안 in front of the second copy to say \"whether X or not\". It works with verbs (~는지), adjectives (~ㄴ/은지) and past forms (~았/었는지).",
+     "examples": [
+      {
+       "ko": "그가 오는지 안 오는지 몰라요.",
+       "en": "I don't know whether he is coming or not."
+      },
+      {
+       "ko": "이 가격이 싼지 안 싼지 모르겠어요.",
+       "en": "I can't tell whether this price is cheap or not."
+      },
+      {
+       "ko": "수술이 잘 됐는지 안 됐는지 아직 몰라요.",
+       "en": "We don't know yet whether the surgery went well or not."
+      }
+     ]
+    },
+    {
+     "point": "~ㄹ/을지도 모르다 (might)",
+     "explanation": "Adding ~도 to ~지 adds little meaning, but the set phrase ~ㄹ/을지도 모르다 is very common for saying something \"might\" happen or \"might\" be true.",
+     "examples": [
+      {
+       "ko": "내일 비가 올지도 몰라요.",
+       "en": "It might rain tomorrow."
+      },
+      {
+       "ko": "그 사람은 벌써 갔을지도 몰라요.",
+       "en": "That person may have already left."
+      },
+      {
+       "ko": "이 계단은 위험할지도 몰라요.",
+       "en": "These stairs might be dangerous."
+      }
+     ]
+    },
+    {
+     "point": "~ㄴ/은 지 (time) 되다 (it has been X since)",
+     "explanation": "Verb stem + ~ㄴ/은 지, then a length of time and 되다 (usually 됐다), expresses how long it has been since an action happened, which English often translates as \"I have been doing X for Y\". In this pattern 지 is written with a space before it, unlike ~는지.",
+     "examples": [
+      {
+       "ko": "한국에 온 지 일 년 됐어요.",
+       "en": "It has been a year since I came to Korea."
+      },
+      {
+       "ko": "그 사람과 헤어진 지 한 달 됐어요.",
+       "en": "It has been a month since I broke up with that person."
+      },
+      {
+       "ko": "아르바이트를 시작한 지 얼마나 됐어요?",
+       "en": "How long has it been since you started your part-time job?"
+      },
+      {
+       "ko": "밥을 먹은 지 세 시간 됐어요.",
+       "en": "It has been three hours since I ate."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "title": "Lesson 31: Using ~는 것 with 이다",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-31/",
+   "vocab": [
+    {
+     "ko": "미소",
+     "en": "smile",
+     "pos": "noun"
+    },
+    {
+     "ko": "배달",
+     "en": "delivery",
+     "pos": "noun"
+    },
+    {
+     "ko": "반지",
+     "en": "ring",
+     "pos": "noun"
+    },
+    {
+     "ko": "입술",
+     "en": "lips",
+     "pos": "noun"
+    },
+    {
+     "ko": "미술",
+     "en": "art",
+     "pos": "noun"
+    },
+    {
+     "ko": "목걸이",
+     "en": "necklace",
+     "pos": "noun"
+    },
+    {
+     "ko": "귀걸이",
+     "en": "earrings",
+     "pos": "noun"
+    },
+    {
+     "ko": "수영복",
+     "en": "bathing suit",
+     "pos": "noun"
+    },
+    {
+     "ko": "간식",
+     "en": "snacks",
+     "pos": "noun"
+    },
+    {
+     "ko": "목표",
+     "en": "goal",
+     "pos": "noun"
+    },
+    {
+     "ko": "숲",
+     "en": "forest",
+     "pos": "noun"
+    },
+    {
+     "ko": "주머니",
+     "en": "pocket",
+     "pos": "noun"
+    },
+    {
+     "ko": "칠판",
+     "en": "blackboard, chalkboard",
+     "pos": "noun"
+    },
+    {
+     "ko": "딸기",
+     "en": "strawberry",
+     "pos": "noun"
+    },
+    {
+     "ko": "상추",
+     "en": "lettuce",
+     "pos": "noun"
+    },
+    {
+     "ko": "공사",
+     "en": "construction",
+     "pos": "noun"
+    },
+    {
+     "ko": "교시",
+     "en": "class, period",
+     "pos": "noun"
+    },
+    {
+     "ko": "종교",
+     "en": "religion",
+     "pos": "noun"
+    },
+    {
+     "ko": "시청",
+     "en": "city hall",
+     "pos": "noun"
+    },
+    {
+     "ko": "동갑",
+     "en": "the same age",
+     "pos": "noun"
+    },
+    {
+     "ko": "긍정적",
+     "en": "positive",
+     "pos": "noun"
+    },
+    {
+     "ko": "부정적",
+     "en": "negative",
+     "pos": "noun"
+    },
+    {
+     "ko": "어울리다",
+     "en": "to get along with",
+     "pos": "verb"
+    },
+    {
+     "ko": "알리다",
+     "en": "to tell, to inform",
+     "pos": "verb"
+    },
+    {
+     "ko": "아끼다",
+     "en": "to cherish, to save",
+     "pos": "verb"
+    },
+    {
+     "ko": "남기다",
+     "en": "to leave something",
+     "pos": "verb"
+    },
+    {
+     "ko": "면도하다",
+     "en": "to shave",
+     "pos": "verb"
+    },
+    {
+     "ko": "빌리다",
+     "en": "to borrow, to lend",
+     "pos": "verb"
+    },
+    {
+     "ko": "샤워하다",
+     "en": "to shower",
+     "pos": "verb"
+    },
+    {
+     "ko": "덮다",
+     "en": "to cover",
+     "pos": "verb"
+    },
+    {
+     "ko": "없어지다",
+     "en": "to disappear",
+     "pos": "verb"
+    },
+    {
+     "ko": "따라가다",
+     "en": "to follow",
+     "pos": "verb"
+    },
+    {
+     "ko": "따라오다",
+     "en": "to be followed",
+     "pos": "verb"
+    },
+    {
+     "ko": "지나가다",
+     "en": "to go and pass by",
+     "pos": "verb"
+    },
+    {
+     "ko": "키우다",
+     "en": "to raise (children), to train (animals), to develop (skills)",
+     "pos": "verb"
+    },
+    {
+     "ko": "참다",
+     "en": "to hold back, to endure",
+     "pos": "verb"
+    },
+    {
+     "ko": "선택하다",
+     "en": "to choose",
+     "pos": "verb"
+    },
+    {
+     "ko": "깨닫다",
+     "en": "to realize",
+     "pos": "verb"
+    },
+    {
+     "ko": "쓰이다",
+     "en": "to be written on",
+     "pos": "verb"
+    },
+    {
+     "ko": "부럽다",
+     "en": "to be envious",
+     "pos": "adjective"
+    },
+    {
+     "ko": "식",
+     "en": "a certain way/method",
+     "pos": "noun"
+    },
+    {
+     "ko": "아까",
+     "en": "earlier",
+     "pos": "adverb"
+    },
+    {
+     "ko": "꽉",
+     "en": "tightly",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Describing nouns with 이다: N1인 N2",
+     "explanation": "이다 conjugates like an adjective, so it takes ~ㄴ to describe a following noun: N1인 N2 means \"N2, who/which is N1\". It is useful with nouns that have an adjective-like meaning (부자, 불법, 동갑) and for attaching a job title to a person.",
+     "examples": [
+      {
+       "ko": "부자인 친구가 밥을 샀어요.",
+       "en": "My friend who is rich paid for the meal."
+      },
+      {
+       "ko": "선생님인 우리 언니는 매일 일찍 일어나요.",
+       "en": "My older sister, who is a teacher, gets up early every day."
+      },
+      {
+       "ko": "저는 동갑인 친구가 많아요.",
+       "en": "I have a lot of friends who are the same age as me."
+      },
+      {
+       "ko": "불법인 일을 하면 안 돼요.",
+       "en": "You must not do things that are illegal."
+      }
+     ]
+    },
+    {
+     "point": "~인지 (이다 + ~ㄴ지)",
+     "explanation": "Because 이다 acts like an adjective, it takes ~ㄴ지 and always becomes ~인지. It often follows question words like 누구, 어디, 얼마 and 무엇 to form embedded questions.",
+     "examples": [
+      {
+       "ko": "이 반지가 얼마인지 알아요?",
+       "en": "Do you know how much this ring is?"
+      },
+      {
+       "ko": "그 사람이 누구인지 몰라요.",
+       "en": "I don't know who that person is."
+      },
+      {
+       "ko": "시청이 어디인지 물어봤어요.",
+       "en": "I asked where city hall is."
+      }
+     ]
+    },
+    {
+     "point": "~인 것 (the fact that X is Y)",
+     "explanation": "Add 것 after N인 to turn a whole \"X is Y\" statement into a noun, then use it as the object or subject of another verb, just like ~는 것 with verbs.",
+     "examples": [
+      {
+       "ko": "그 사람이 의사인 것을 몰랐어요.",
+       "en": "I didn't know that person was a doctor."
+      },
+      {
+       "ko": "오늘이 친구 생일인 것을 아까 깨달았어요.",
+       "en": "I realized earlier that today is my friend's birthday."
+      },
+      {
+       "ko": "우리가 동갑인 것이 신기해요.",
+       "en": "It's amazing that we are the same age."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "title": "Lesson 32: ~(으)려고, ~(으)러 and ~아/어 보다 (with 적)",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-32/",
+   "vocab": [
+    {
+     "ko": "기적",
+     "en": "miracle",
+     "pos": "noun"
+    },
+    {
+     "ko": "차량",
+     "en": "vehicle",
+     "pos": "noun"
+    },
+    {
+     "ko": "관객",
+     "en": "audience",
+     "pos": "noun"
+    },
+    {
+     "ko": "치과",
+     "en": "dentistry",
+     "pos": "noun"
+    },
+    {
+     "ko": "공연",
+     "en": "performance, show, concert",
+     "pos": "noun"
+    },
+    {
+     "ko": "업무",
+     "en": "administrative work",
+     "pos": "noun"
+    },
+    {
+     "ko": "탈의실",
+     "en": "change room",
+     "pos": "noun"
+    },
+    {
+     "ko": "표",
+     "en": "ticket",
+     "pos": "noun"
+    },
+    {
+     "ko": "표",
+     "en": "graph, table",
+     "pos": "noun"
+    },
+    {
+     "ko": "간장",
+     "en": "soy sauce",
+     "pos": "noun"
+    },
+    {
+     "ko": "고생",
+     "en": "some sort of hard time or hardship",
+     "pos": "noun"
+    },
+    {
+     "ko": "휴대폰",
+     "en": "cell phone",
+     "pos": "noun"
+    },
+    {
+     "ko": "뜻",
+     "en": "meaning",
+     "pos": "noun"
+    },
+    {
+     "ko": "세일",
+     "en": "sale",
+     "pos": "noun"
+    },
+    {
+     "ko": "이력서",
+     "en": "resume, curriculum vitae",
+     "pos": "noun"
+    },
+    {
+     "ko": "비서",
+     "en": "secretary",
+     "pos": "noun"
+    },
+    {
+     "ko": "연예인",
+     "en": "celebrity",
+     "pos": "noun"
+    },
+    {
+     "ko": "행사",
+     "en": "event, function",
+     "pos": "noun"
+    },
+    {
+     "ko": "일자리",
+     "en": "job position",
+     "pos": "noun"
+    },
+    {
+     "ko": "평일",
+     "en": "a weekday",
+     "pos": "noun"
+    },
+    {
+     "ko": "명령하다",
+     "en": "to order, to command",
+     "pos": "verb"
+    },
+    {
+     "ko": "빼다",
+     "en": "to pull out, to extract",
+     "pos": "verb"
+    },
+    {
+     "ko": "지원하다",
+     "en": "to apply for",
+     "pos": "verb"
+    },
+    {
+     "ko": "신다",
+     "en": "to put on shoes or socks",
+     "pos": "verb"
+    },
+    {
+     "ko": "신기다",
+     "en": "to put shoes or socks on somebody",
+     "pos": "verb"
+    },
+    {
+     "ko": "따르다",
+     "en": "to pour",
+     "pos": "verb"
+    },
+    {
+     "ko": "채우다",
+     "en": "to fill",
+     "pos": "verb"
+    },
+    {
+     "ko": "비우다",
+     "en": "to empty",
+     "pos": "verb"
+    },
+    {
+     "ko": "끊다",
+     "en": "to cut off, to quit something",
+     "pos": "verb"
+    },
+    {
+     "ko": "살리다",
+     "en": "to save (a life)",
+     "pos": "verb"
+    },
+    {
+     "ko": "썰다",
+     "en": "to chop, to slice",
+     "pos": "verb"
+    },
+    {
+     "ko": "예매하다",
+     "en": "to purchase in advance",
+     "pos": "verb"
+    },
+    {
+     "ko": "판단하다",
+     "en": "to judge",
+     "pos": "verb"
+    },
+    {
+     "ko": "해결하다",
+     "en": "to solve, to resolve",
+     "pos": "verb"
+    },
+    {
+     "ko": "구하다",
+     "en": "to search for a worker, to search for a job, to get a job",
+     "pos": "verb"
+    },
+    {
+     "ko": "통제하다",
+     "en": "to control",
+     "pos": "verb"
+    },
+    {
+     "ko": "연락하다",
+     "en": "to contact",
+     "pos": "verb"
+    },
+    {
+     "ko": "예약하다",
+     "en": "to reserve",
+     "pos": "verb"
+    },
+    {
+     "ko": "평가하다",
+     "en": "to evaluate",
+     "pos": "verb"
+    },
+    {
+     "ko": "갈아입다",
+     "en": "to change clothes",
+     "pos": "verb"
+    },
+    {
+     "ko": "끊기다",
+     "en": "to be cut off",
+     "pos": "verb"
+    },
+    {
+     "ko": "막히다",
+     "en": "to be congested",
+     "pos": "verb"
+    },
+    {
+     "ko": "약하다",
+     "en": "to be weak",
+     "pos": "adjective"
+    },
+    {
+     "ko": "자세하다",
+     "en": "to be detailed",
+     "pos": "adjective"
+    },
+    {
+     "ko": "취하다",
+     "en": "to be drunk",
+     "pos": "adjective"
+    },
+    {
+     "ko": "심심하다",
+     "en": "to be bored",
+     "pos": "adjective"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~(으)려고 (with the intention of)",
+     "explanation": "Attach ~려고 to a stem ending in a vowel or ㄹ, or ~으려고 to one ending in a consonant, to say why you are doing the next action: \"in order to / intending to\". The first clause states the goal and the second states what you do to reach it.",
+     "examples": [
+      {
+       "ko": "여행을 가려고 돈을 모으고 있어요.",
+       "en": "I'm saving money to go on a trip."
+      },
+      {
+       "ko": "한국어를 배우려고 한국에 왔어요.",
+       "en": "I came to Korea to learn Korean."
+      },
+      {
+       "ko": "공연을 보려고 표를 예매했어요.",
+       "en": "I bought tickets in advance to see the performance."
+      },
+      {
+       "ko": "일자리를 구하려고 이력서를 썼어요.",
+       "en": "I wrote a resume to find a job."
+      }
+     ]
+    },
+    {
+     "point": "~(으)려고 하다 / 노력하다",
+     "explanation": "Ending a sentence with ~(으)려고 하다 means you plan or intend to do something. With 노력하다 it means you are making an effort, trying hard, to do it.",
+     "examples": [
+      {
+       "ko": "저는 담배를 끊으려고 노력하고 있어요.",
+       "en": "I'm trying hard to quit smoking."
+      },
+      {
+       "ko": "내일 친구에게 연락하려고 해요.",
+       "en": "I plan to contact my friend tomorrow."
+      },
+      {
+       "ko": "우리는 그 문제를 해결하려고 노력했어요.",
+       "en": "We tried hard to solve that problem."
+      }
+     ]
+    },
+    {
+     "point": "~(으)러 가다/오다 (go/come to do)",
+     "explanation": "Verb stem + ~러 (after a vowel or ㄹ) or ~으러 (after a consonant), followed by a movement verb like 가다, 오다 or 나가다, means going or coming somewhere for the purpose of doing something. Unlike ~(으)려고, it is only used with these movement verbs.",
+     "examples": [
+      {
+       "ko": "이를 빼러 치과에 갔어요.",
+       "en": "I went to the dentist to get a tooth pulled."
+      },
+      {
+       "ko": "친구가 우리 집에 놀러 왔어요.",
+       "en": "My friend came over to my house to hang out."
+      },
+      {
+       "ko": "옷을 갈아입으러 탈의실에 갔어요.",
+       "en": "I went to the changing room to change clothes."
+      },
+      {
+       "ko": "점심을 먹으러 나갈래요?",
+       "en": "Do you want to go out to eat lunch?"
+      }
+     ]
+    },
+    {
+     "point": "~아/어 보다 (try doing)",
+     "explanation": "Conjugate a verb with ~아/어 and add 보다 to mean \"try doing\" or \"do and see\". In the past tense it often means you have had the experience of doing something.",
+     "examples": [
+      {
+       "ko": "이 김치를 한번 먹어 보세요.",
+       "en": "Try this kimchi."
+      },
+      {
+       "ko": "이 신발을 신어 봐도 돼요?",
+       "en": "May I try on these shoes?"
+      },
+      {
+       "ko": "어제 처음으로 한국 음식을 만들어 봤어요.",
+       "en": "Yesterday I tried making Korean food for the first time."
+      }
+     ]
+    },
+    {
+     "point": "~ㄴ/은 적이 있다/없다 (have/have never done)",
+     "explanation": "적 is a noun meaning a past experience. Describe it with the past modifier ~ㄴ/은 and add 있다 or 없다 to say you have or have never done something. It is very often combined with ~아/어 보다 (가 본 적이 있다).",
+     "examples": [
+      {
+       "ko": "저는 연예인을 만난 적이 있어요.",
+       "en": "I have met a celebrity before."
+      },
+      {
+       "ko": "한국에 가 본 적이 있어요?",
+       "en": "Have you ever been to Korea?"
+      },
+      {
+       "ko": "저는 술에 취한 적이 없어요.",
+       "en": "I have never been drunk."
+      },
+      {
+       "ko": "그런 기적은 본 적이 없어요.",
+       "en": "I have never seen a miracle like that."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "title": "Lesson 33: ~중 (하는 중), (~중에)",
+   "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-33/",
+   "vocab": [
+    {
+     "ko": "장면",
+     "en": "movie scene",
+     "pos": "noun"
+    },
+    {
+     "ko": "냄비",
+     "en": "pot, pan",
+     "pos": "noun"
+    },
+    {
+     "ko": "모습",
+     "en": "one's figure, appearance",
+     "pos": "noun"
+    },
+    {
+     "ko": "수표",
+     "en": "cheque",
+     "pos": "noun"
+    },
+    {
+     "ko": "자",
+     "en": "ruler",
+     "pos": "noun"
+    },
+    {
+     "ko": "지우개",
+     "en": "eraser",
+     "pos": "noun"
+    },
+    {
+     "ko": "지리",
+     "en": "geography",
+     "pos": "noun"
+    },
+    {
+     "ko": "태극기",
+     "en": "the Korean flag",
+     "pos": "noun"
+    },
+    {
+     "ko": "국기",
+     "en": "flag",
+     "pos": "noun"
+    },
+    {
+     "ko": "가구",
+     "en": "furniture",
+     "pos": "noun"
+    },
+    {
+     "ko": "미팅",
+     "en": "a kind of group blind date",
+     "pos": "noun"
+    },
+    {
+     "ko": "강의",
+     "en": "lecture",
+     "pos": "noun"
+    },
+    {
+     "ko": "전원",
+     "en": "electricity, power",
+     "pos": "noun"
+    },
+    {
+     "ko": "프린터",
+     "en": "printer",
+     "pos": "noun"
+    },
+    {
+     "ko": "집값",
+     "en": "price of houses",
+     "pos": "noun"
+    },
+    {
+     "ko": "변명",
+     "en": "excuse",
+     "pos": "noun"
+    },
+    {
+     "ko": "규칙",
+     "en": "rule, regulation",
+     "pos": "noun"
+    },
+    {
+     "ko": "주름",
+     "en": "wrinkle",
+     "pos": "noun"
+    },
+    {
+     "ko": "마늘",
+     "en": "garlic",
+     "pos": "noun"
+    },
+    {
+     "ko": "교환학생",
+     "en": "exchange student",
+     "pos": "noun"
+    },
+    {
+     "ko": "상가",
+     "en": "a building with a bunch of stores in it",
+     "pos": "noun"
+    },
+    {
+     "ko": "계약",
+     "en": "contract",
+     "pos": "noun"
+    },
+    {
+     "ko": "웃음",
+     "en": "laughter, smile",
+     "pos": "noun"
+    },
+    {
+     "ko": "학기",
+     "en": "semester",
+     "pos": "noun"
+    },
+    {
+     "ko": "외모",
+     "en": "a person’s outside appearance",
+     "pos": "noun"
+    },
+    {
+     "ko": "제한",
+     "en": "limit, restriction",
+     "pos": "noun"
+    },
+    {
+     "ko": "무제한",
+     "en": "something without limit",
+     "pos": "noun"
+    },
+    {
+     "ko": "현금",
+     "en": "cash",
+     "pos": "noun"
+    },
+    {
+     "ko": "물고기",
+     "en": "fish",
+     "pos": "noun"
+    },
+    {
+     "ko": "오랫동안",
+     "en": "for a long time",
+     "pos": "adverb"
+    },
+    {
+     "ko": "그중",
+     "en": "of those things",
+     "pos": "other"
+    },
+    {
+     "ko": "감정적",
+     "en": "emotional",
+     "pos": "noun"
+    },
+    {
+     "ko": "상담하다",
+     "en": "to consult",
+     "pos": "verb"
+    },
+    {
+     "ko": "높이다",
+     "en": "to heighten, to increase",
+     "pos": "verb"
+    },
+    {
+     "ko": "올리다",
+     "en": "to raise, to lift, to increase",
+     "pos": "verb"
+    },
+    {
+     "ko": "편집하다",
+     "en": "to edit",
+     "pos": "verb"
+    },
+    {
+     "ko": "촬영하다",
+     "en": "to film",
+     "pos": "verb"
+    },
+    {
+     "ko": "보관하다",
+     "en": "to store",
+     "pos": "verb"
+    },
+    {
+     "ko": "복구하다",
+     "en": "to restore, recover",
+     "pos": "verb"
+    },
+    {
+     "ko": "보증하다",
+     "en": "to guarantee",
+     "pos": "verb"
+    },
+    {
+     "ko": "민감하다",
+     "en": "to be sensitive",
+     "pos": "adjective"
+    },
+    {
+     "ko": "상하다",
+     "en": "to be hurt, to be damaged",
+     "pos": "adjective"
+    },
+    {
+     "ko": "옳다",
+     "en": "to be right, to be proper, to be correct",
+     "pos": "adjective"
+    },
+    {
+     "ko": "원래",
+     "en": "originally",
+     "pos": "adverb"
+    },
+    {
+     "ko": "짜리",
+     "en": "the one worth...",
+     "pos": "other"
+    },
+    {
+     "ko": "일부러",
+     "en": "on purpose",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~는 중이다 (in the middle of doing)",
+     "explanation": "중 means \"middle\" and is a noun, so it can take the place of 것: verb stem + ~는 중 + 이다 means someone is in the middle of an action. The meaning is very close to ~고 있다.",
+     "examples": [
+      {
+       "ko": "지금 밥을 먹는 중이에요.",
+       "en": "I'm eating right now."
+      },
+      {
+       "ko": "우리는 새 영화를 촬영하는 중이에요.",
+       "en": "We are in the middle of filming a new movie."
+      },
+      {
+       "ko": "친구에게 편지를 쓰는 중이었어요.",
+       "en": "I was in the middle of writing a letter to my friend."
+      }
+     ]
+    },
+    {
+     "point": "Noun + 중 (하다-nouns, signs)",
+     "explanation": "With nouns that come from 하다 verbs, 중 can attach straight to the noun without ~는 것, as in 공사 중, 수업 중, 회의 중 or 상담 중. This short form is common on signs showing what is going on in a place.",
+     "examples": [
+      {
+       "ko": "이 건물은 지금 공사 중이에요.",
+       "en": "This building is under construction now."
+      },
+      {
+       "ko": "선생님은 지금 상담 중이세요.",
+       "en": "The teacher is in a consultation right now."
+      },
+      {
+       "ko": "강의 중에는 휴대폰을 끄세요.",
+       "en": "Please turn off your cell phone during the lecture."
+      }
+     ]
+    },
+    {
+     "point": "~는 동안 (while)",
+     "explanation": "동안 is also a noun, so verb stem + ~는 동안 means \"during the time that X happens\", or \"while\". It is used with actions that last for a while, not with instant actions.",
+     "examples": [
+      {
+       "ko": "제가 요리하는 동안 동생은 텔레비전을 봤어요.",
+       "en": "While I cooked, my younger sibling watched TV."
+      },
+      {
+       "ko": "한국에 사는 동안 친구를 많이 사귀었어요.",
+       "en": "I made a lot of friends while living in Korea."
+      },
+      {
+       "ko": "친구를 기다리는 동안 책을 읽었어요.",
+       "en": "I read a book while waiting for my friend."
+      }
+     ]
+    },
+    {
+     "point": "N 중에 (among / of / between)",
+     "explanation": "Put 중에 after two or more nouns, or after a noun that stands for a group, to mean \"among\" or \"between\" them. The rest of the sentence usually picks out or compares one of them, and the noun can itself be described with ~는 것 (내가 본 영화 중에).",
+     "examples": [
+      {
+       "ko": "사과와 딸기 중에 뭐가 더 좋아요?",
+       "en": "Between apples and strawberries, which do you like more?"
+      },
+      {
+       "ko": "제 친구들 중에 민수가 키가 제일 커요.",
+       "en": "Among my friends, Minsu is the tallest."
+      },
+      {
+       "ko": "제가 본 영화 중에 이 영화가 제일 재미있었어요.",
+       "en": "Of all the movies I have seen, this one was the most fun."
+      }
+     ]
+    },
+    {
+     "point": "Time + 중으로 (by sometime within)",
+     "explanation": "Put 중으로 after a time word like 오늘, 내일, 이번 주 or 다음 달 to say something will be done within that time, without naming an exact moment. English usually translates it as \"by sometime ...\".",
+     "examples": [
+      {
+       "ko": "이번 주 중으로 일을 끝낼게요.",
+       "en": "I'll finish the work sometime this week."
+      },
+      {
+       "ko": "다음 달 중으로 계약을 할 거예요.",
+       "en": "We will sign the contract sometime next month."
+      },
+      {
+       "ko": "오늘 중으로 연락해 주세요.",
+       "en": "Please contact me sometime today."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

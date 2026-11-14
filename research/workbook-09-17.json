@@ -1,0 +1,1328 @@
+{
+ "range": "9-17",
+ "lessons": [
+  {
+   "n": 9,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "이 고기는 돼지고기___.",
+     "answer": "예요",
+     "options": [
+      "예요",
+      "이에요",
+      "이예요",
+      "에요"
+     ],
+     "en": "This meat is pork.",
+     "why": "After a noun ending in a vowel, use 예요."
+    },
+    {
+     "type": "fill",
+     "ko": "여기는 공장___.",
+     "answer": "이에요",
+     "options": [
+      "이에요",
+      "예요",
+      "이예요",
+      "에요"
+     ],
+     "en": "This is a factory.",
+     "why": "After a noun ending in a consonant, use 이에요."
+    },
+    {
+     "type": "fill",
+     "ko": "그 장소는 극장___.",
+     "answer": "이었어요",
+     "options": [
+      "이었어요",
+      "였어요",
+      "이였어요",
+      "있었어요"
+     ],
+     "en": "That place was a theater.",
+     "why": "Past of 이다 after a consonant is 이었어요."
+    },
+    {
+     "type": "fill",
+     "ko": "그 사람은 제 친구___.",
+     "answer": "였어요",
+     "options": [
+      "였어요",
+      "이였어요",
+      "였요",
+      "예요"
+     ],
+     "en": "That person was my friend.",
+     "why": "After a vowel, 이었어요 shrinks to 였어요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 내일 친구를 소개___ 거예요.",
+     "answer": "할",
+     "options": [
+      "할",
+      "하을",
+      "해",
+      "했"
+     ],
+     "en": "I will introduce my friend tomorrow.",
+     "why": "Future is stem + ㄹ/을 거예요, and 하 ends in a vowel so it takes ㄹ."
+    },
+    {
+     "type": "fill",
+     "ko": "내일은 아주 ___ 거예요.",
+     "answer": "추울",
+     "options": [
+      "추울",
+      "춥을",
+      "추을",
+      "추워"
+     ],
+     "en": "It will be very cold tomorrow.",
+     "why": "춥다 is ㅂ irregular: ㅂ becomes 우 before 을, giving 추울."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 서울에서 ___ 거예요.",
+     "answer": "살",
+     "options": [
+      "살",
+      "살을",
+      "사를",
+      "살아"
+     ],
+     "en": "I will live in Seoul.",
+     "why": "A stem ending in ㄹ just keeps its ㄹ: 살 거예요."
+    },
+    {
+     "type": "fill",
+     "ko": "내일 ___ 음식을 샀어요.",
+     "answer": "먹을",
+     "options": [
+      "먹을",
+      "먹은",
+      "먹어",
+      "먹고"
+     ],
+     "en": "I bought food to eat tomorrow.",
+     "why": "~을 before a noun describes something that will happen."
+    },
+    {
+     "type": "translate",
+     "en": "That was my passport.",
+     "ko": "그것은 제 여권이었어요."
+    },
+    {
+     "type": "translate",
+     "en": "I will visit Seoul tomorrow.",
+     "ko": "저는 내일 서울을 방문할 거예요."
+    },
+    {
+     "type": "translate",
+     "en": "I will play soccer tomorrow.",
+     "ko": "저는 내일 축구를 할 거예요."
+    },
+    {
+     "type": "translate",
+     "en": "This place is not a theater.",
+     "ko": "이 장소는 극장이 아니에요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 민수예요. 저는 회사원이에요. 어제는 토요일이었어요. 저는 극장에서 영화를 봤어요. 영화는 아주 재미있었어요. 내일은 친구를 방문할 거예요. 우리는 친구 집에서 돼지고기를 먹을 거예요.",
+    "en": "I am Minsu. I am an office worker. Yesterday was Saturday. I watched a movie at the theater. The movie was very fun. Tomorrow I will visit a friend. We will eat pork at my friend's house.",
+    "questions": [
+     {
+      "q": "What is Minsu's job?",
+      "a": "He is an office worker."
+     },
+     {
+      "q": "What did Minsu do yesterday?",
+      "a": "He watched a movie at the theater."
+     },
+     {
+      "q": "What will they eat tomorrow?",
+      "a": "Pork, at his friend's house."
+     }
+    ]
+   }
+  },
+  {
+   "n": 10,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "커피 ___ 잔 주세요.",
+     "answer": "세",
+     "options": [
+      "세",
+      "셋",
+      "삼",
+      "서"
+     ],
+     "en": "Three coffees, please.",
+     "why": "Before a counter, 셋 becomes 세."
+    },
+    {
+     "type": "fill",
+     "ko": "교실에 학생이 ___ 명 있어요.",
+     "answer": "스무",
+     "options": [
+      "스무",
+      "스물",
+      "이십",
+      "두십"
+     ],
+     "en": "There are twenty students in the classroom.",
+     "why": "Before a counter, 스물 becomes 스무."
+    },
+    {
+     "type": "fill",
+     "ko": "이 꽃은 ___ 원이에요.",
+     "answer": "오천",
+     "options": [
+      "오천",
+      "다섯천",
+      "다섯 천",
+      "오만"
+     ],
+     "en": "These flowers are 5,000 won.",
+     "why": "Money uses Sino-Korean numbers: 오천."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 그 영화를 ___ 번 봤어요.",
+     "answer": "두",
+     "options": [
+      "두",
+      "둘",
+      "이",
+      "둘째"
+     ],
+     "en": "I watched that movie twice.",
+     "why": "번 takes pure Korean numbers, and 둘 becomes 두 before it."
+    },
+    {
+     "type": "fill",
+     "ko": "지금 ___ 시 삼십 분이에요.",
+     "answer": "네",
+     "options": [
+      "네",
+      "넷",
+      "사",
+      "너"
+     ],
+     "en": "It is 4:30 now.",
+     "why": "Hours use pure Korean numbers, and 넷 becomes 네 before 시."
+    },
+    {
+     "type": "fill",
+     "ko": "수업은 아홉 시 ___ 분에 시작해요.",
+     "answer": "십오",
+     "options": [
+      "십오",
+      "열다섯",
+      "열오",
+      "십다섯"
+     ],
+     "en": "Class starts at 9:15.",
+     "why": "Minutes use Sino-Korean numbers."
+    },
+    {
+     "type": "fill",
+     "ko": "제 동생은 ___ 살이에요.",
+     "answer": "여덟",
+     "options": [
+      "여덟",
+      "팔",
+      "여덜",
+      "일곱"
+     ],
+     "en": "My younger sibling is eight years old.",
+     "why": "Age with 살 uses pure Korean numbers."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 저의 ___ 번째 수업이에요.",
+     "answer": "첫",
+     "options": [
+      "첫",
+      "한",
+      "하나",
+      "일"
+     ],
+     "en": "Today is my first class.",
+     "why": "\"First\" is 첫 번째, not 한 번째."
+    },
+    {
+     "type": "translate",
+     "en": "I have three younger siblings.",
+     "ko": "저는 동생이 세 명 있어요."
+    },
+    {
+     "type": "translate",
+     "en": "I bought two apples.",
+     "ko": "저는 사과 두 개를 샀어요."
+    },
+    {
+     "type": "translate",
+     "en": "It is 2:10 now.",
+     "ko": "지금 두 시 십 분이에요."
+    },
+    {
+     "type": "translate",
+     "en": "I am thirty years old.",
+     "ko": "저는 서른 살이에요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 스물다섯 살이에요. 저는 회사원이에요. 우리 회사에는 사람이 열두 명 있어요. 회사에 차도 두 대 있어요. 저는 아침 여덟 시에 회사에 가요. 오늘 저는 커피 세 잔을 샀어요. 커피 세 잔은 만 이천 원이었어요.",
+    "en": "I am twenty-five years old. I am an office worker. There are twelve people at our company. The company also has two cars. I go to the office at eight in the morning. Today I bought three coffees. The three coffees were 12,000 won.",
+    "questions": [
+     {
+      "q": "How old is the writer?",
+      "a": "Twenty-five."
+     },
+     {
+      "q": "How many people work at the company?",
+      "a": "Twelve."
+     },
+     {
+      "q": "How much did the coffees cost?",
+      "a": "12,000 won for three."
+     }
+    ]
+   }
+  },
+  {
+   "n": 11,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "우리는 이틀 ___ 부산에 있었어요.",
+     "answer": "동안",
+     "options": [
+      "동안",
+      "시간",
+      "에",
+      "날"
+     ],
+     "en": "We were in Busan for two days.",
+     "why": "동안 after a length of time means \"for\"."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 어제 ___ 시간 동안 달렸어요.",
+     "answer": "두",
+     "options": [
+      "두",
+      "이",
+      "둘",
+      "두 개"
+     ],
+     "en": "I ran for two hours yesterday.",
+     "why": "시간 for duration takes pure Korean numbers."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 한국에서 ___ 개월 동안 살았어요.",
+     "answer": "삼",
+     "options": [
+      "삼",
+      "세",
+      "셋",
+      "석"
+     ],
+     "en": "I lived in Korea for three months.",
+     "why": "개월 takes Sino-Korean numbers."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 ___에 한국에 갈 거예요.",
+     "answer": "내년",
+     "options": [
+      "내년",
+      "다음 년",
+      "다음 연",
+      "작년"
+     ],
+     "en": "I will go to Korea next year.",
+     "why": "지난/다음 can't go with 년; \"next year\" is 내년."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 ___에 일본에 갈 거예요.",
+     "answer": "다음 달",
+     "options": [
+      "다음 달",
+      "내년 달",
+      "다음 월",
+      "지난 달"
+     ],
+     "en": "I will go to Japan next month.",
+     "why": "\"Next month\" is 다음 달."
+    },
+    {
+     "type": "fill",
+     "ko": "제 생일은 ___ 십 일이에요.",
+     "answer": "유월",
+     "options": [
+      "유월",
+      "육월",
+      "여섯월",
+      "여섯 달"
+     ],
+     "en": "My birthday is June 10th.",
+     "why": "June is spelled 유월, not 육월."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 일주일___ 세 번 운동해요.",
+     "answer": "에",
+     "options": [
+      "에",
+      "에서",
+      "를",
+      "의"
+     ],
+     "en": "I exercise three times a week.",
+     "why": "Time unit + 에 means \"per\"."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 ___ 동안 집에서 쉬었어요.",
+     "answer": "하루",
+     "options": [
+      "하루",
+      "이틀",
+      "사흘",
+      "하나 날"
+     ],
+     "en": "I rested at home for one day.",
+     "why": "\"One day\" as a span is 하루."
+    },
+    {
+     "type": "translate",
+     "en": "I studied Korean for two years.",
+     "ko": "저는 이 년 동안 한국어를 공부했어요."
+    },
+    {
+     "type": "translate",
+     "en": "I drink coffee twice a day.",
+     "ko": "저는 하루에 커피를 두 번 마셔요."
+    },
+    {
+     "type": "translate",
+     "en": "I have plans next week.",
+     "ko": "다음 주에 계획이 있어요."
+    },
+    {
+     "type": "translate",
+     "en": "I usually drive for one hour.",
+     "ko": "저는 보통 한 시간 동안 운전해요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 요리사예요. 저는 하루에 열 시간 일해요. 일요일에는 일하지 않아요. 작년에 저는 일본에서 육 개월 동안 살았어요. 일본에서 일본 요리를 배웠어요. 내년에는 한국 요리를 배울 거예요.",
+    "en": "I am a chef. I work ten hours a day. I don't work on Sundays. Last year I lived in Japan for six months. I learned Japanese cooking in Japan. Next year I will learn Korean cooking.",
+    "questions": [
+     {
+      "q": "How many hours a day does the writer work?",
+      "a": "Ten hours."
+     },
+     {
+      "q": "How long did the writer live in Japan?",
+      "a": "Six months."
+     },
+     {
+      "q": "What will the writer learn next year?",
+      "a": "Korean cooking."
+     }
+    ]
+   }
+  },
+  {
+   "n": 12,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 아침에 커피___ 마셨어요.",
+     "answer": "만",
+     "options": [
+      "만",
+      "들",
+      "에서",
+      "의"
+     ],
+     "en": "I only drank coffee in the morning.",
+     "why": "~만 means \"only\" and replaces 을/를."
+    },
+    {
+     "type": "fill",
+     "ko": "그 배우는 미국___ 왔어요.",
+     "answer": "에서",
+     "options": [
+      "에서",
+      "에",
+      "부터",
+      "로"
+     ],
+     "en": "That actor came from America.",
+     "why": "~에서 marks the place something comes from."
+    },
+    {
+     "type": "fill",
+     "ko": "수업은 아홉 시___ 열두 시까지 해요.",
+     "answer": "부터",
+     "options": [
+      "부터",
+      "에",
+      "만",
+      "로"
+     ],
+     "en": "Class runs from nine to twelve.",
+     "why": "~부터 marks a starting time."
+    },
+    {
+     "type": "fill",
+     "ko": "서울에서 부산___ 기차로 가요.",
+     "answer": "까지",
+     "options": [
+      "까지",
+      "부터",
+      "만",
+      "에서"
+     ],
+     "en": "I go from Seoul to Busan by train.",
+     "why": "~까지 marks the end point."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 버스___ 학교에 가요.",
+     "answer": "로",
+     "options": [
+      "로",
+      "으로",
+      "에",
+      "를"
+     ],
+     "en": "I go to school by bus.",
+     "why": "버스 ends in a vowel, so use 로."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 손___ 빵을 먹었어요.",
+     "answer": "으로",
+     "options": [
+      "으로",
+      "로",
+      "에서",
+      "을"
+     ],
+     "en": "I ate the bread with my hands.",
+     "why": "손 ends in a consonant (not ㄹ), so use 으로."
+    },
+    {
+     "type": "fill",
+     "ko": "우리는 지하철___ 극장에 갔어요.",
+     "answer": "로",
+     "options": [
+      "로",
+      "으로",
+      "에",
+      "을"
+     ],
+     "en": "We went to the theater by subway.",
+     "why": "After ㄹ, use 로, not 으로."
+    },
+    {
+     "type": "fill",
+     "ko": "사과 ___ 개를 샀어요?",
+     "answer": "몇",
+     "options": [
+      "몇",
+      "뭐",
+      "어느",
+      "무슨"
+     ],
+     "en": "How many apples did you buy?",
+     "why": "몇 + counter asks \"how many\"."
+    },
+    {
+     "type": "translate",
+     "en": "I work from Monday to Friday.",
+     "ko": "저는 월요일부터 금요일까지 일해요."
+    },
+    {
+     "type": "translate",
+     "en": "The train departed from Busan.",
+     "ko": "기차는 부산에서 출발했어요."
+    },
+    {
+     "type": "translate",
+     "en": "I only study at the library.",
+     "ko": "저는 도서관에서만 공부해요."
+    },
+    {
+     "type": "translate",
+     "en": "The store assistant came out of the room.",
+     "ko": "점원이 방에서 나왔어요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 미국에서 왔어요. 지금 서울에서 한국어를 공부해요. 수업은 월요일부터 금요일까지 있어요. 저는 지하철로 학교에 가요. 교실에서는 한국어로만 말해요. 토요일에는 친구들이 우리 집에 와요.",
+    "en": "I came from America. Now I study Korean in Seoul. I have class from Monday to Friday. I go to school by subway. In the classroom I speak only in Korean. On Saturdays my friends come to my house.",
+    "questions": [
+     {
+      "q": "Where is the writer from?",
+      "a": "America."
+     },
+     {
+      "q": "How does the writer get to school?",
+      "a": "By subway."
+     },
+     {
+      "q": "What language does the writer use in the classroom?",
+      "a": "Only Korean."
+     }
+    ]
+   }
+  },
+  {
+   "n": 13,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 녹차___ 빵을 샀어요.",
+     "answer": "와",
+     "options": [
+      "와",
+      "과",
+      "이랑",
+      "을"
+     ],
+     "en": "I bought green tea and bread.",
+     "why": "녹차 ends in a vowel, so use 와."
+    },
+    {
+     "type": "fill",
+     "ko": "책상 위에 약___ 물이 있어요.",
+     "answer": "과",
+     "options": [
+      "과",
+      "와",
+      "랑",
+      "를"
+     ],
+     "en": "There is medicine and water on the desk.",
+     "why": "약 ends in a consonant, so use 과."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 동생___ 같이 음악을 들었어요.",
+     "answer": "이랑",
+     "options": [
+      "이랑",
+      "랑",
+      "와",
+      "를"
+     ],
+     "en": "I listened to music with my younger sibling.",
+     "why": "동생 ends in a consonant, so use 이랑."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 친구___ 편지를 보냈어요.",
+     "answer": "에게",
+     "options": [
+      "에게",
+      "에",
+      "에서",
+      "를"
+     ],
+     "en": "I sent a letter to my friend.",
+     "why": "Use 에게 for a person you send something to; 에 is for places."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 할머니___ 꽃을 드렸어요.",
+     "answer": "께",
+     "options": [
+      "께",
+      "에",
+      "한테서",
+      "를"
+     ],
+     "en": "I gave flowers to my grandmother.",
+     "why": "께 is the honorific \"to\" for respected people."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 친구___ 선물을 받았어요.",
+     "answer": "한테서",
+     "options": [
+      "한테서",
+      "에서",
+      "으로",
+      "를"
+     ],
+     "en": "I received a present from my friend.",
+     "why": "한테서 means \"from\" a person; 에서 is for places."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 엄마를 ___ 빵을 준비했어요.",
+     "answer": "위해서",
+     "options": [
+      "위해서",
+      "대해서",
+      "에게서",
+      "하고"
+     ],
+     "en": "I prepared bread for Mom.",
+     "why": "을/를 위해서 means \"for the sake of\"."
+    },
+    {
+     "type": "fill",
+     "ko": "우리는 그 영화___ 대해서 이야기했어요.",
+     "answer": "에",
+     "options": [
+      "에",
+      "를",
+      "와",
+      "의"
+     ],
+     "en": "We talked about that movie.",
+     "why": "\"About\" is noun + 에 대해서."
+    },
+    {
+     "type": "translate",
+     "en": "I ate lunch with my friend.",
+     "ko": "저는 친구하고 같이 점심을 먹었어요."
+    },
+    {
+     "type": "translate",
+     "en": "I received a letter from my friend.",
+     "ko": "저는 친구한테서 편지를 받았어요."
+    },
+    {
+     "type": "translate",
+     "en": "We talked about music.",
+     "ko": "우리는 음악에 대해서 이야기했어요."
+    },
+    {
+     "type": "translate",
+     "en": "I gave green tea to my friend.",
+     "ko": "저는 친구에게 녹차를 줬어요."
+    }
+   ],
+   "reading": {
+    "ko": "오늘은 엄마 생일이에요. 저는 아침 여섯 시에 일어났어요. 저는 동생하고 같이 엄마를 위해서 아침을 준비했어요. 우리는 빵과 녹차를 준비했어요. 저는 엄마께 꽃을 드렸어요. 동생은 엄마께 편지를 드렸어요. 오늘은 정말 좋은 날이에요.",
+    "en": "Today is Mom's birthday. I got up at six in the morning. With my younger sibling, I prepared breakfast for Mom. We prepared bread and green tea. I gave Mom flowers. My younger sibling gave Mom a letter. Today is a really good day.",
+    "questions": [
+     {
+      "q": "Whose birthday is it?",
+      "a": "Mom's."
+     },
+     {
+      "q": "What did they prepare for breakfast?",
+      "a": "Bread and green tea."
+     },
+     {
+      "q": "What did the younger sibling give Mom?",
+      "a": "A letter."
+     }
+    ]
+   }
+  },
+  {
+   "n": 14,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "이 수업에서는 책이 ___.",
+     "answer": "제공돼요",
+     "options": [
+      "제공돼요",
+      "제공해요",
+      "제공되요",
+      "제공받아요"
+     ],
+     "en": "In this class, books are provided.",
+     "why": "하다 → 되다 makes the passive, and 되어요 contracts to 돼요."
+    },
+    {
+     "type": "fill",
+     "ko": "그 학생은 친구들에게 ___.",
+     "answer": "존경받아요",
+     "options": [
+      "존경받아요",
+      "존경돼요",
+      "존경해요",
+      "존경되요"
+     ],
+     "en": "That student is respected by friends.",
+     "why": "존경하다 becomes passive with 받다."
+    },
+    {
+     "type": "fill",
+     "ko": "창문이 ___.",
+     "answer": "열렸어요",
+     "options": [
+      "열렸어요",
+      "열었어요",
+      "열히었어요",
+      "열기었어요"
+     ],
+     "en": "The window opened.",
+     "why": "The passive of 열다 is 열리다."
+    },
+    {
+     "type": "fill",
+     "ko": "가게 문이 ___.",
+     "answer": "닫혔어요",
+     "options": [
+      "닫혔어요",
+      "닫았어요",
+      "닫겼어요",
+      "닫렸어요"
+     ],
+     "en": "The shop door was closed.",
+     "why": "The passive of 닫다 is 닫히다."
+    },
+    {
+     "type": "fill",
+     "ko": "청소기가 고장 ___.",
+     "answer": "났어요",
+     "options": [
+      "났어요",
+      "냈어요",
+      "나었어요",
+      "내졌어요"
+     ],
+     "en": "The vacuum cleaner is broken.",
+     "why": "나다 describes something happening by itself."
+    },
+    {
+     "type": "fill",
+     "ko": "제가 청소기를 고장 ___.",
+     "answer": "냈어요",
+     "options": [
+      "냈어요",
+      "났어요",
+      "나었어요",
+      "넸어요"
+     ],
+     "en": "I broke the vacuum cleaner.",
+     "why": "내다 means someone caused it, so it takes an object with 을/를."
+    },
+    {
+     "type": "fill",
+     "ko": "텔레비전이 ___.",
+     "answer": "켜졌어요",
+     "options": [
+      "켜졌어요",
+      "켰어요",
+      "켜젔어요",
+      "켜이었어요"
+     ],
+     "en": "The TV turned on.",
+     "why": "켜다 + 어지다 makes the passive 켜지다."
+    },
+    {
+     "type": "fill",
+     "ko": "밤에 불이 ___.",
+     "answer": "꺼졌어요",
+     "options": [
+      "꺼졌어요",
+      "껐어요",
+      "끄졌어요",
+      "꺼젔어요"
+     ],
+     "en": "The light went off at night.",
+     "why": "끄다 + 어지다 becomes 꺼지다 (ㅡ drops)."
+    },
+    {
+     "type": "translate",
+     "en": "The room was locked.",
+     "ko": "방이 잠겼어요."
+    },
+    {
+     "type": "translate",
+     "en": "I turned on the light.",
+     "ko": "저는 불을 켰어요."
+    },
+    {
+     "type": "translate",
+     "en": "A strange smell is coming from the room.",
+     "ko": "방에서 이상한 냄새가 나요."
+    },
+    {
+     "type": "translate",
+     "en": "The box was placed on the chair.",
+     "ko": "상자가 의자 위에 놓였어요."
+    }
+   ],
+   "reading": {
+    "ko": "어제 저는 늦게 집에 왔어요. 방에 들어갔어요. 하지만 불이 켜지지 않았어요. 방에서 이상한 냄새도 났어요. 저는 짜증이 났어요. 저는 창문을 열었어요. 시원한 바람이 들어왔어요.",
+    "en": "Yesterday I came home late. I went into my room. But the light didn't turn on. There was also a strange smell in the room. I got annoyed. I opened the window. A cool wind came in.",
+    "questions": [
+     {
+      "q": "What was wrong with the light?",
+      "a": "It didn't turn on."
+     },
+     {
+      "q": "What did the writer notice in the room?",
+      "a": "A strange smell."
+     },
+     {
+      "q": "What did the writer open?",
+      "a": "The window."
+     }
+    ]
+   }
+  },
+  {
+   "n": 15,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 이 그림___ 좋아요.",
+     "answer": "이",
+     "options": [
+      "이",
+      "을",
+      "가",
+      "를"
+     ],
+     "en": "I like this picture.",
+     "why": "좋다 is an adjective, so the liked thing takes 이/가, and 그림 ends in a consonant."
+    },
+    {
+     "type": "fill",
+     "ko": "제 사촌은 맥주를 ___.",
+     "answer": "싫어해요",
+     "options": [
+      "싫어해요",
+      "싫어요",
+      "싫해요",
+      "싫어하요"
+     ],
+     "en": "My cousin dislikes beer.",
+     "why": "With an object marked 을/를, use the verb 싫어하다."
+    },
+    {
+     "type": "fill",
+     "ko": "그 그림이 마음에 ___.",
+     "answer": "들어요",
+     "options": [
+      "들어요",
+      "드러요",
+      "들러요",
+      "들아요"
+     ],
+     "en": "I like that picture.",
+     "why": "마음에 들다 means \"to be to one's liking\"; 들다 → 들어요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 다섯 시에 집에 ___.",
+     "answer": "돌아갔어요",
+     "options": [
+      "돌아갔어요",
+      "돌아가었어요",
+      "돌가았어요",
+      "돌아갓어요"
+     ],
+     "en": "I went back home at five.",
+     "why": "돌다 + 가다 makes the compound verb 돌아가다."
+    },
+    {
+     "type": "fill",
+     "ko": "친구가 제 책을 ___.",
+     "answer": "돌려줬어요",
+     "options": [
+      "돌려줬어요",
+      "돌아줬어요",
+      "돌리줬어요",
+      "돌려줘었어요"
+     ],
+     "en": "My friend gave my book back.",
+     "why": "\"Give back\" is 돌려주다."
+    },
+    {
+     "type": "fill",
+     "ko": "제 성격은 동생의 성격___ 달라요.",
+     "answer": "과",
+     "options": [
+      "과",
+      "와",
+      "를",
+      "이"
+     ],
+     "en": "My personality is different from my younger sibling's.",
+     "why": "Compare with 와/과 + 다르다; 성격 ends in a consonant."
+    },
+    {
+     "type": "fill",
+     "ko": "집에서 회사까지 한 시간 ___.",
+     "answer": "걸려요",
+     "options": [
+      "걸려요",
+      "걸어요",
+      "걸러요",
+      "걸렸요"
+     ],
+     "en": "It takes one hour from home to the office.",
+     "why": "걸리다 also means \"to take (time)\"."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 감기___ 걸렸어요.",
+     "answer": "에",
+     "options": [
+      "에",
+      "를",
+      "이",
+      "에서"
+     ],
+     "en": "I caught a cold.",
+     "why": "Illness + 에 걸리다 means to catch it."
+    },
+    {
+     "type": "translate",
+     "en": "I have a fever.",
+     "ko": "저는 열이 나요."
+    },
+    {
+     "type": "translate",
+     "en": "My stomach hurts.",
+     "ko": "저는 배가 아파요."
+    },
+    {
+     "type": "translate",
+     "en": "My friend brought beer.",
+     "ko": "친구가 맥주를 가져왔어요."
+    },
+    {
+     "type": "translate",
+     "en": "My hobby is similar to my cousin's hobby.",
+     "ko": "제 취미는 사촌의 취미와 비슷해요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 이번 주에 독감에 걸렸어요. 열이 많이 났어요. 기침도 많이 했어요. 저는 사흘 동안 집에 있었어요. 제 사촌이 약하고 빵을 가져왔어요. 저는 사촌에게 정말 고마웠어요. 이제 저는 괜찮아요.",
+    "en": "I caught the flu this week. I had a high fever. I also coughed a lot. I stayed at home for three days. My cousin brought medicine and bread. I was really grateful to my cousin. Now I'm okay.",
+    "questions": [
+     {
+      "q": "What illness did the writer catch?",
+      "a": "The flu."
+     },
+     {
+      "q": "How long did the writer stay at home?",
+      "a": "Three days."
+     },
+     {
+      "q": "What did the cousin bring?",
+      "a": "Medicine and bread."
+     }
+    ]
+   }
+  },
+  {
+   "n": 16,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "경주는 ___ 도시예요.",
+     "answer": "역사적인",
+     "options": [
+      "역사적인",
+      "역사적으로",
+      "역사적이에요",
+      "역사스러운"
+     ],
+     "en": "Gyeongju is a historic city.",
+     "why": "Use ~적인 before a noun."
+    },
+    {
+     "type": "fill",
+     "ko": "지하철은 아주 ___.",
+     "answer": "경제적이에요",
+     "options": [
+      "경제적이에요",
+      "경제적예요",
+      "경제적인",
+      "경제스러워요"
+     ],
+     "en": "The subway is very economical.",
+     "why": "~적이다 ends a sentence; 적 ends in a consonant, so 이에요."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 저는 이 결과가 좋아요.",
+     "answer": "개인적으로",
+     "options": [
+      "개인적으로",
+      "개인적인",
+      "개인적이",
+      "개인스럽게"
+     ],
+     "en": "Personally, I like this result.",
+     "why": "~적으로 makes an adverb."
+    },
+    {
+     "type": "fill",
+     "ko": "그녀는 그 문제를 ___ 설명했어요.",
+     "answer": "과학적으로",
+     "options": [
+      "과학적으로",
+      "과학적인",
+      "과학스럽게",
+      "과학적이게"
+     ],
+     "en": "She explained the problem scientifically.",
+     "why": "~적으로 describes how an action is done."
+    },
+    {
+     "type": "fill",
+     "ko": "제 고양이는 정말 ___.",
+     "answer": "사랑스러워요",
+     "options": [
+      "사랑스러워요",
+      "사랑스럽어요",
+      "사랑스러요",
+      "사랑적이에요"
+     ],
+     "en": "My cat is really lovely.",
+     "why": "~스럽다 is ㅂ irregular: 스러워요."
+    },
+    {
+     "type": "fill",
+     "ko": "그 영화는 정말 ___.",
+     "answer": "실망스러웠어요",
+     "options": [
+      "실망스러웠어요",
+      "실망스럽었어요",
+      "실망스러었어요",
+      "실망적이었어요"
+     ],
+     "en": "That movie was really disappointing.",
+     "why": "Past of ~스럽다 is ~스러웠어요."
+    },
+    {
+     "type": "fill",
+     "ko": "이 문장은 ___ 않아요.",
+     "answer": "자연스럽지",
+     "options": [
+      "자연스럽지",
+      "자연스러지",
+      "자연스러워지",
+      "자연스럽게"
+     ],
+     "en": "This sentence isn't natural.",
+     "why": "Negation is stem + 지 않다, so keep the stem 자연스럽."
+    },
+    {
+     "type": "fill",
+     "ko": "그것은 정말 ___ 결과였어요.",
+     "answer": "만족스러운",
+     "options": [
+      "만족스러운",
+      "만족스럽은",
+      "만족스러워",
+      "만족적인"
+     ],
+     "en": "That was a really satisfying result.",
+     "why": "Before a noun, ~스럽다 becomes ~스러운."
+    },
+    {
+     "type": "translate",
+     "en": "Personally, I like nature.",
+     "ko": "개인적으로 저는 자연을 좋아해요."
+    },
+    {
+     "type": "translate",
+     "en": "The result was satisfying.",
+     "ko": "결과가 만족스러웠어요."
+    },
+    {
+     "type": "translate",
+     "en": "He is an impulsive person.",
+     "ko": "그는 충동적인 사람이에요."
+    },
+    {
+     "type": "translate",
+     "en": "I was born in Seoul.",
+     "ko": "저는 서울에서 태어났어요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 서울에서 태어났어요. 지금은 대학교에 다녀요. 저는 역사를 공부해요. 서울에는 역사적인 장소가 많아요. 저는 그 장소들에 대해서 공부해요. 공부는 힘들어요. 그러나 정말 재미있어요. 나중에 저는 역사 선생님이 될 거예요.",
+    "en": "I was born in Seoul. Now I attend university. I study history. There are many historic places in Seoul. I study those places. Studying is hard. However, it is really fun. Later I will become a history teacher.",
+    "questions": [
+     {
+      "q": "Where was the writer born?",
+      "a": "Seoul."
+     },
+     {
+      "q": "What does the writer study?",
+      "a": "History."
+     },
+     {
+      "q": "What will the writer become later?",
+      "a": "A history teacher."
+     }
+    ]
+   }
+  },
+  {
+   "n": 17,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "우리 집은 크___ 따뜻해요.",
+     "answer": "고",
+     "options": [
+      "고",
+      "서",
+      "지",
+      "어"
+     ],
+     "en": "Our house is big and warm.",
+     "why": "~고 joins two descriptions with \"and\"."
+    },
+    {
+     "type": "fill",
+     "ko": "제 동생은 학생___ 저는 회사원이에요.",
+     "answer": "이고",
+     "options": [
+      "이고",
+      "고",
+      "이서",
+      "이랑"
+     ],
+     "en": "My younger sibling is a student, and I am an office worker.",
+     "why": "After a noun ending in a consonant, use 이고."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 어제 집에서 ___ 싶었어요.",
+     "answer": "쉬고",
+     "options": [
+      "쉬고",
+      "쉬어서",
+      "쉬지",
+      "쉬게"
+     ],
+     "en": "I wanted to rest at home yesterday.",
+     "why": "\"Want to\" is verb stem + 고 싶다."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 부엌에 ___ 물을 마셨어요.",
+     "answer": "가서",
+     "options": [
+      "가서",
+      "가고",
+      "갔어서",
+      "가어서"
+     ],
+     "en": "I went to the kitchen and drank water.",
+     "why": "When you go somewhere and do something there, use 가서."
+    },
+    {
+     "type": "fill",
+     "ko": "친구가 우리 집에 ___ 저녁을 먹었어요.",
+     "answer": "와서",
+     "options": [
+      "와서",
+      "오고",
+      "왔어서",
+      "오아서"
+     ],
+     "en": "My friend came to our house and ate dinner.",
+     "why": "When you come somewhere and do something there, use 와서."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 의자에 ___ 신문을 읽었어요.",
+     "answer": "앉아서",
+     "options": [
+      "앉아서",
+      "앉고",
+      "앉어서",
+      "앉았어서"
+     ],
+     "en": "I sat on the chair and read the newspaper.",
+     "why": "Position verbs take ~아/어서 when the next action happens in that position."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 소파에 ___ 텔레비전을 봤어요.",
+     "answer": "누워서",
+     "options": [
+      "누워서",
+      "눕어서",
+      "눕고",
+      "누어서"
+     ],
+     "en": "I lay on the sofa and watched TV.",
+     "why": "눕다 is ㅂ irregular, so ~어서 gives 누워서."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 이번 방학에 바다에 가___ 싶어요.",
+     "answer": "고",
+     "options": [
+      "고",
+      "서",
+      "지",
+      "게"
+     ],
+     "en": "I want to go to the sea this vacation.",
+     "why": "\"Want to\" is verb stem + 고 싶다."
+    },
+    {
+     "type": "translate",
+     "en": "I want to eat fruit.",
+     "ko": "저는 과일을 먹고 싶어요."
+    },
+    {
+     "type": "translate",
+     "en": "I went to the mountain and rested.",
+     "ko": "저는 산에 가서 쉬었어요."
+    },
+    {
+     "type": "translate",
+     "en": "Today the weather is nice and warm.",
+     "ko": "오늘은 날씨가 좋고 따뜻해요."
+    },
+    {
+     "type": "translate",
+     "en": "I miss my family.",
+     "ko": "저는 가족이 보고 싶어요."
+    }
+   ],
+   "reading": {
+    "ko": "다음 주부터 방학이에요. 저는 방학에 바다에 가고 싶어요. 바다는 크고 시원해요. 저는 친구들하고 같이 바다에 가서 놀 거예요. 하지만 제 동생은 바다를 싫어해요. 동생은 산을 좋아해요.",
+    "en": "Vacation starts next week. I want to go to the sea during vacation. The sea is big and cool. I will go to the sea with my friends and play. But my younger sibling dislikes the sea. My sibling likes mountains.",
+    "questions": [
+     {
+      "q": "When does vacation start?",
+      "a": "Next week."
+     },
+     {
+      "q": "Where does the writer want to go?",
+      "a": "To the sea."
+     },
+     {
+      "q": "What does the younger sibling like?",
+      "a": "Mountains."
+     }
+    ]
+   }
+  }
+ ]
+}

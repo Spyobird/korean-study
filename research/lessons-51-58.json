@@ -1,0 +1,1604 @@
+{
+ "range": "51-58",
+ "lessons": [
+  {
+   "n": 51,
+   "title": "Lesson 51: ~기도 하고… ~기도 하다",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-51/",
+   "vocab": [
+    {
+     "ko": "억양",
+     "en": "accent",
+     "pos": "noun"
+    },
+    {
+     "ko": "빚",
+     "en": "debt",
+     "pos": "noun"
+    },
+    {
+     "ko": "빗",
+     "en": "comb",
+     "pos": "noun"
+    },
+    {
+     "ko": "솔",
+     "en": "brush",
+     "pos": "noun"
+    },
+    {
+     "ko": "치약",
+     "en": "toothpaste",
+     "pos": "noun"
+    },
+    {
+     "ko": "칫솔",
+     "en": "toothbrush",
+     "pos": "noun"
+    },
+    {
+     "ko": "화학",
+     "en": "chemistry",
+     "pos": "noun"
+    },
+    {
+     "ko": "철학",
+     "en": "philosophy",
+     "pos": "noun"
+    },
+    {
+     "ko": "가죽",
+     "en": "leather",
+     "pos": "noun"
+    },
+    {
+     "ko": "악어",
+     "en": "alligator, crocodile",
+     "pos": "noun"
+    },
+    {
+     "ko": "발명품",
+     "en": "invention",
+     "pos": "noun"
+    },
+    {
+     "ko": "스타일",
+     "en": "style",
+     "pos": "noun"
+    },
+    {
+     "ko": "향수",
+     "en": "perfume",
+     "pos": "noun"
+    },
+    {
+     "ko": "코",
+     "en": "nose",
+     "pos": "noun"
+    },
+    {
+     "ko": "콧구멍",
+     "en": "nostril",
+     "pos": "noun"
+    },
+    {
+     "ko": "양파",
+     "en": "onion",
+     "pos": "noun"
+    },
+    {
+     "ko": "양말",
+     "en": "socks",
+     "pos": "noun"
+    },
+    {
+     "ko": "틈",
+     "en": "crack, gap",
+     "pos": "noun"
+    },
+    {
+     "ko": "시설",
+     "en": "facilities",
+     "pos": "noun"
+    },
+    {
+     "ko": "개수",
+     "en": "number of things",
+     "pos": "noun"
+    },
+    {
+     "ko": "명수",
+     "en": "number of people",
+     "pos": "noun"
+    },
+    {
+     "ko": "대화",
+     "en": "conversation",
+     "pos": "noun"
+    },
+    {
+     "ko": "빗다",
+     "en": "to comb one's hair",
+     "pos": "verb"
+    },
+    {
+     "ko": "비교하다",
+     "en": "to compare",
+     "pos": "verb"
+    },
+    {
+     "ko": "발명하다",
+     "en": "to invent",
+     "pos": "verb"
+    },
+    {
+     "ko": "끓이다",
+     "en": "to boil",
+     "pos": "verb"
+    },
+    {
+     "ko": "솔질하다",
+     "en": "to brush",
+     "pos": "verb"
+    },
+    {
+     "ko": "진학하다",
+     "en": "to go on to (school)",
+     "pos": "verb"
+    },
+    {
+     "ko": "세다",
+     "en": "to count",
+     "pos": "verb"
+    },
+    {
+     "ko": "사과하다",
+     "en": "to apologize",
+     "pos": "verb"
+    },
+    {
+     "ko": "뿌리다",
+     "en": "to sprinkle",
+     "pos": "verb"
+    },
+    {
+     "ko": "끓다",
+     "en": "to be boiling",
+     "pos": "verb"
+    },
+    {
+     "ko": "끝없다",
+     "en": "to be endless",
+     "pos": "adjective"
+    },
+    {
+     "ko": "미묘하다",
+     "en": "to be subtle",
+     "pos": "adjective"
+    },
+    {
+     "ko": "불행하다",
+     "en": "to be unhappy",
+     "pos": "adjective"
+    },
+    {
+     "ko": "밉다",
+     "en": "to be hateful, annoying",
+     "pos": "adjective"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~기도 하다 (also / sometimes)",
+     "explanation": "Turn a verb or adjective into a noun with ~기, attach the particle ~도, then finish with 하다. This adds a sense of 'also' to a whole action or description, and often implies the thing happens only some of the time ('sometimes does').",
+     "examples": [
+      {
+       "ko": "저는 가끔 혼자 영화를 보기도 해요.",
+       "en": "I sometimes watch movies alone, too."
+      },
+      {
+       "ko": "양파를 자르면 눈물이 나기도 해요.",
+       "en": "Sometimes tears come out when you cut onions."
+      },
+      {
+       "ko": "그 사람은 화학을 가르치기도 해요.",
+       "en": "That person also teaches chemistry."
+      },
+      {
+       "ko": "저는 아침에 우유를 끓이기도 해요.",
+       "en": "I sometimes boil milk in the morning."
+      }
+     ]
+    },
+    {
+     "point": "~기도 하고 ~기도 하다 (both A and B)",
+     "explanation": "Link two ~기도 clauses: the first ends in ~기도 하고 and the second in ~기도 하다, conjugated for tense and politeness at the end. It stresses that both actions or both descriptions are true, like 'not only A but also B'. The two parts can be verbs or adjectives, even ones with opposite meanings.",
+     "examples": [
+      {
+       "ko": "저는 주말에 책을 읽기도 하고 친구를 만나기도 해요.",
+       "en": "On weekends I read books and also meet friends."
+      },
+      {
+       "ko": "그 영화는 슬프기도 하고 재미있기도 했어요.",
+       "en": "That movie was both sad and fun."
+      },
+      {
+       "ko": "저는 대학교에서 철학을 공부하기도 하고 화학을 공부하기도 했어요.",
+       "en": "At university I studied both philosophy and chemistry."
+      },
+      {
+       "ko": "이 일은 쉽기도 하고 어렵기도 해요.",
+       "en": "This work is easy in some ways and hard in others."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "title": "Lesson 52: Quoting in Korean (~ㄴ/는다고)",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-52/",
+   "vocab": [
+    {
+     "ko": "식신",
+     "en": "big eater",
+     "pos": "noun"
+    },
+    {
+     "ko": "길이",
+     "en": "length",
+     "pos": "noun"
+    },
+    {
+     "ko": "밧줄",
+     "en": "rope",
+     "pos": "noun"
+    },
+    {
+     "ko": "주인공",
+     "en": "main character",
+     "pos": "noun"
+    },
+    {
+     "ko": "소설가",
+     "en": "novelist",
+     "pos": "noun"
+    },
+    {
+     "ko": "자동차",
+     "en": "car",
+     "pos": "noun"
+    },
+    {
+     "ko": "시식",
+     "en": "free food sample",
+     "pos": "noun"
+    },
+    {
+     "ko": "입력",
+     "en": "input",
+     "pos": "noun"
+    },
+    {
+     "ko": "출력",
+     "en": "output",
+     "pos": "noun"
+    },
+    {
+     "ko": "현금인출기",
+     "en": "ATM",
+     "pos": "noun"
+    },
+    {
+     "ko": "시위자",
+     "en": "protester",
+     "pos": "noun"
+    },
+    {
+     "ko": "불만",
+     "en": "complaint",
+     "pos": "noun"
+    },
+    {
+     "ko": "정각",
+     "en": "on the hour",
+     "pos": "noun"
+    },
+    {
+     "ko": "돌아서다",
+     "en": "to turn around",
+     "pos": "verb"
+    },
+    {
+     "ko": "늘이다",
+     "en": "to lengthen",
+     "pos": "verb"
+    },
+    {
+     "ko": "가리키다",
+     "en": "to point at",
+     "pos": "verb"
+    },
+    {
+     "ko": "상상하다",
+     "en": "to imagine",
+     "pos": "verb"
+    },
+    {
+     "ko": "심다",
+     "en": "to plant",
+     "pos": "verb"
+    },
+    {
+     "ko": "위로하다",
+     "en": "to console",
+     "pos": "verb"
+    },
+    {
+     "ko": "조그맣다",
+     "en": "to be tiny",
+     "pos": "adjective"
+    },
+    {
+     "ko": "월등하다",
+     "en": "to be far superior",
+     "pos": "adjective"
+    },
+    {
+     "ko": "불만족스럽다",
+     "en": "to be dissatisfied",
+     "pos": "adjective"
+    },
+    {
+     "ko": "몹시",
+     "en": "very, badly",
+     "pos": "adverb"
+    },
+    {
+     "ko": "점차",
+     "en": "gradually",
+     "pos": "adverb"
+    },
+    {
+     "ko": "지금껏",
+     "en": "until now",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Quoting verbs: ~ㄴ/는다고 하다",
+     "explanation": "To report what someone said, put the quoted verb in the plain (written) form and add ~고, then a verb like 하다 or 말하다. Present tense uses ~는다고 after a final consonant and ~ㄴ다고 after a vowel; past tense is ~았/었다고, and future is ~(으)ㄹ 거라고 or ~겠다고.",
+     "examples": [
+      {
+       "ko": "친구가 내일 한국에 간다고 했어요.",
+       "en": "My friend said he is going to Korea tomorrow."
+      },
+      {
+       "ko": "동생이 숙제를 다 했다고 말했어요.",
+       "en": "My younger sibling said they finished all their homework."
+      },
+      {
+       "ko": "그 소설가가 새 책을 쓸 거라고 했어요.",
+       "en": "The novelist said she will write a new book."
+      },
+      {
+       "ko": "아이들이 나무를 심는다고 했어요.",
+       "en": "The kids said they are planting trees."
+      }
+     ]
+    },
+    {
+     "point": "Quoting adjectives: ~다고 하다",
+     "explanation": "Adjectives in the present tense take no extra syllable in the plain form, so you add ~다고 straight to the stem. Past tense still uses ~았/었다고. The reporting verb (하다, 말하다) carries the final tense and politeness.",
+     "examples": [
+      {
+       "ko": "민수가 오늘 너무 피곤하다고 했어요.",
+       "en": "Minsu said he is very tired today."
+      },
+      {
+       "ko": "선생님이 이 문제가 어렵다고 말했어요.",
+       "en": "The teacher said this problem is difficult."
+      },
+      {
+       "ko": "친구가 그 방이 조그맣다고 했어요.",
+       "en": "My friend said that room is tiny."
+      }
+     ]
+    },
+    {
+     "point": "Quoting 이다: ~(이)라고 하다",
+     "explanation": "When the quoted sentence ends in 이다, attach ~이라고 after a noun ending in a consonant and ~라고 after a vowel. The negative 아니다 becomes 아니라고. The same form is used to say what someone or something is called, as in introducing your name.",
+     "examples": [
+      {
+       "ko": "그 남자가 자기가 의사라고 했어요.",
+       "en": "That man said he is a doctor."
+      },
+      {
+       "ko": "친구가 이것이 자기 가방이라고 했어요.",
+       "en": "My friend said this is her bag."
+      },
+      {
+       "ko": "그 사람은 학생이 아니라고 했어요.",
+       "en": "That person said he is not a student."
+      },
+      {
+       "ko": "저는 김민수라고 합니다.",
+       "en": "My name is Kim Minsu."
+      }
+     ]
+    },
+    {
+     "point": "Other verbs used with quotes (생각하다, 믿다, 약속하다, 부르다)",
+     "explanation": "A quoted clause can come before verbs other than 말하다 when the content is a thought or statement. Common ones are 생각하다 (think), 믿다 (believe), 약속하다 (promise) and 부르다 (call something a name). Promises usually use a future quote such as ~겠다고 or ~ㄹ 거라고.",
+     "examples": [
+      {
+       "ko": "저는 이 영화가 재미있다고 생각해요.",
+       "en": "I think this movie is fun."
+      },
+      {
+       "ko": "저는 우리 팀이 이길 거라고 믿어요.",
+       "en": "I believe our team will win."
+      },
+      {
+       "ko": "내일까지 빚을 갚겠다고 약속했어요.",
+       "en": "I promised to pay back the debt by tomorrow."
+      },
+      {
+       "ko": "한국 사람들은 이것을 김밥이라고 불러요.",
+       "en": "Koreans call this gimbap."
+      }
+     ]
+    },
+    {
+     "point": "Asking with quotes: 뭐라고? / ~다고요?",
+     "explanation": "Adding ~(이)라고 to 뭐 asks what someone said, with or without 했어요 after it. You can also repeat part of what someone said in quoted form with a rising tone (often with ~요) to check that you heard it correctly.",
+     "examples": [
+      {
+       "ko": "선생님이 뭐라고 했어요?",
+       "en": "What did the teacher say?"
+      },
+      {
+       "ko": "뭐라고요?",
+       "en": "What did you say?"
+      },
+      {
+       "ko": "내일 시험이 있다고요?",
+       "en": "You said there's a test tomorrow?"
+      }
+     ]
+    },
+    {
+     "point": "Quoted clause before a noun: ~ㄴ/는다는 것/사실/소문",
+     "explanation": "A plain-form clause plus ~는 can describe a noun, as a shortened form of ~다고 하는. It shows the content is something that was said or reported. It is especially common with nouns like 것, 사실 (fact) and 소문 (rumor).",
+     "examples": [
+      {
+       "ko": "그 사람이 회사를 그만둔다는 소문을 들었어요.",
+       "en": "I heard a rumor that he is quitting the company."
+      },
+      {
+       "ko": "친구에게 빚이 많다는 사실을 몰랐어요.",
+       "en": "I didn't know that my friend has a lot of debt."
+      },
+      {
+       "ko": "언니가 결혼했다는 것을 어제 알았어요.",
+       "en": "I found out yesterday that my sister got married."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "title": "Lesson 53: Quoting Different Endings: ~자고, ~(으/느)냐고",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-53/",
+   "vocab": [
+    {
+     "ko": "냉동실",
+     "en": "freezer",
+     "pos": "noun"
+    },
+    {
+     "ko": "반팔",
+     "en": "short sleeves",
+     "pos": "noun"
+    },
+    {
+     "ko": "며느리",
+     "en": "daughter in law",
+     "pos": "noun"
+    },
+    {
+     "ko": "사위",
+     "en": "son in law",
+     "pos": "noun"
+    },
+    {
+     "ko": "턱받이",
+     "en": "bib",
+     "pos": "noun"
+    },
+    {
+     "ko": "침",
+     "en": "saliva, spit",
+     "pos": "noun"
+    },
+    {
+     "ko": "남",
+     "en": "others, strangers",
+     "pos": "noun"
+    },
+    {
+     "ko": "신사",
+     "en": "gentleman",
+     "pos": "noun"
+    },
+    {
+     "ko": "숙녀",
+     "en": "lady",
+     "pos": "noun"
+    },
+    {
+     "ko": "지진",
+     "en": "earthquake",
+     "pos": "noun"
+    },
+    {
+     "ko": "열",
+     "en": "heat",
+     "pos": "noun"
+    },
+    {
+     "ko": "곳곳",
+     "en": "everywhere",
+     "pos": "noun"
+    },
+    {
+     "ko": "앞날",
+     "en": "the future",
+     "pos": "noun"
+    },
+    {
+     "ko": "흘리다",
+     "en": "to spill, shed",
+     "pos": "verb"
+    },
+    {
+     "ko": "뱉다",
+     "en": "to spit out",
+     "pos": "verb"
+    },
+    {
+     "ko": "대하다",
+     "en": "to treat",
+     "pos": "verb"
+    },
+    {
+     "ko": "불평하다",
+     "en": "to complain",
+     "pos": "verb"
+    },
+    {
+     "ko": "조르다",
+     "en": "to pester",
+     "pos": "verb"
+    },
+    {
+     "ko": "파괴하다",
+     "en": "to destroy",
+     "pos": "verb"
+    },
+    {
+     "ko": "편안하다",
+     "en": "to be comfortable",
+     "pos": "adjective"
+    },
+    {
+     "ko": "쾌적하다",
+     "en": "to be pleasant",
+     "pos": "adjective"
+    },
+    {
+     "ko": "함부로",
+     "en": "carelessly, rudely",
+     "pos": "adverb"
+    },
+    {
+     "ko": "우연히",
+     "en": "by chance",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Quoting suggestions: ~자고 하다",
+     "explanation": "To report a 'let's...' suggestion, attach ~자 to the verb stem, then add ~고 and a reporting verb. It works the same no matter whether the stem ends in a vowel or a consonant.",
+     "examples": [
+      {
+       "ko": "친구가 같이 영화를 보자고 했어요.",
+       "en": "My friend suggested we watch a movie together."
+      },
+      {
+       "ko": "남자 친구가 주말에 바다에 가자고 했어요.",
+       "en": "My boyfriend suggested we go to the sea this weekend."
+      },
+      {
+       "ko": "동생이 저녁에 피자를 먹자고 했어요.",
+       "en": "My younger sibling suggested we eat pizza for dinner."
+      }
+     ]
+    },
+    {
+     "point": "Quoting questions with verbs: ~(느)냐고",
+     "explanation": "When reporting a question, attach ~느냐고 or the more common, casual ~냐고 to a verb stem, usually followed by 묻다 or 물어보다. Past tense is ~았/었냐고. 있다 and 없다 follow the verb pattern.",
+     "examples": [
+      {
+       "ko": "엄마가 저에게 밥을 먹었냐고 물어봤어요.",
+       "en": "Mom asked me if I had eaten."
+      },
+      {
+       "ko": "친구가 저에게 어디에 가냐고 물어봤어요.",
+       "en": "My friend asked me where I was going."
+      },
+      {
+       "ko": "의사가 저에게 담배를 피우냐고 물어봤어요.",
+       "en": "The doctor asked me if I smoke."
+      }
+     ]
+    },
+    {
+     "point": "Quoting questions with adjectives: ~(으)냐고",
+     "explanation": "For adjectives, the formal pattern adds ~으냐고 after a consonant and ~냐고 after a vowel. In everyday speech many people just use ~냐고 for all adjectives.",
+     "examples": [
+      {
+       "ko": "친구가 저에게 요즘 바쁘냐고 물어봤어요.",
+       "en": "My friend asked me if I'm busy these days."
+      },
+      {
+       "ko": "그 사람이 방이 넓으냐고 물어봤어요.",
+       "en": "That person asked if the room is big."
+      },
+      {
+       "ko": "엄마가 음식이 맛있냐고 물어봤어요.",
+       "en": "Mom asked if the food was tasty."
+      }
+     ]
+    },
+    {
+     "point": "Quoting questions with 이다: ~(이)냐고",
+     "explanation": "When the quoted question ends in 이다, attach ~이냐고 after a consonant and ~냐고 after a vowel. Question words like 뭐 and 누구 often come right before it.",
+     "examples": [
+      {
+       "ko": "그 사람이 저에게 학생이냐고 물어봤어요.",
+       "en": "That person asked me if I was a student."
+      },
+      {
+       "ko": "친구가 이게 뭐냐고 물어봤어요.",
+       "en": "My friend asked what this was."
+      },
+      {
+       "ko": "선생님이 그 남자가 누구냐고 물어봤어요.",
+       "en": "The teacher asked who that man was."
+      }
+     ]
+    },
+    {
+     "point": "Direct quotes: \"...\"라고 하다",
+     "explanation": "To quote someone's exact words, put them in quotation marks and add ~라고 (or 하고), followed by 하다 or 말하다. The original words stay as they were said, with no change to plain form.",
+     "examples": [
+      {
+       "ko": "아이가 \"배고파요\"라고 말했어요.",
+       "en": "The child said, \"I'm hungry.\""
+      },
+      {
+       "ko": "그 남자가 \"안녕하세요\"라고 했어요.",
+       "en": "The man said, \"Hello.\""
+      },
+      {
+       "ko": "엄마가 \"빨리 와\"라고 했어요.",
+       "en": "Mom said, \"Come quickly.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "title": "Lesson 54: Quoted Imperative Sentences: ~(으)라고",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-54/",
+   "vocab": [
+    {
+     "ko": "의사소통",
+     "en": "communication",
+     "pos": "noun"
+    },
+    {
+     "ko": "조각",
+     "en": "piece, slice",
+     "pos": "noun"
+    },
+    {
+     "ko": "지도교사",
+     "en": "guidance counselor",
+     "pos": "noun"
+    },
+    {
+     "ko": "원어민",
+     "en": "native speaker",
+     "pos": "noun"
+    },
+    {
+     "ko": "자막",
+     "en": "subtitles",
+     "pos": "noun"
+    },
+    {
+     "ko": "식중독",
+     "en": "food poisoning",
+     "pos": "noun"
+    },
+    {
+     "ko": "존댓말",
+     "en": "honorific speech",
+     "pos": "noun"
+    },
+    {
+     "ko": "오랜만",
+     "en": "a long time (since)",
+     "pos": "noun"
+    },
+    {
+     "ko": "먹이다",
+     "en": "to feed",
+     "pos": "verb"
+    },
+    {
+     "ko": "뛰다",
+     "en": "to run",
+     "pos": "verb"
+    },
+    {
+     "ko": "운영하다",
+     "en": "to run, operate",
+     "pos": "verb"
+    },
+    {
+     "ko": "갱신하다",
+     "en": "to renew",
+     "pos": "verb"
+    },
+    {
+     "ko": "토하다",
+     "en": "to throw up",
+     "pos": "verb"
+    },
+    {
+     "ko": "과장하다",
+     "en": "to exaggerate",
+     "pos": "verb"
+    },
+    {
+     "ko": "분석하다",
+     "en": "to analyze",
+     "pos": "verb"
+    },
+    {
+     "ko": "올라타다",
+     "en": "to get on, board",
+     "pos": "verb"
+    },
+    {
+     "ko": "참석하다",
+     "en": "to attend",
+     "pos": "verb"
+    },
+    {
+     "ko": "자유롭다",
+     "en": "to be free",
+     "pos": "adjective"
+    },
+    {
+     "ko": "와중",
+     "en": "midst, meanwhile",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Quoting commands: ~(으)라고 하다",
+     "explanation": "To report an order or instruction, attach ~으라고 to a stem ending in a consonant or ~라고 to a stem ending in a vowel. Then add a reporting verb such as 하다 or 말하다. The person who received the order is usually marked with ~에게 or ~한테.",
+     "examples": [
+      {
+       "ko": "선생님이 학생들에게 책을 읽으라고 했어요.",
+       "en": "The teacher told the students to read the book."
+      },
+      {
+       "ko": "엄마가 저에게 일찍 자라고 했어요.",
+       "en": "Mom told me to go to bed early."
+      },
+      {
+       "ko": "의사가 저에게 물을 많이 마시라고 했어요.",
+       "en": "The doctor told me to drink a lot of water."
+      },
+      {
+       "ko": "부장님이 회의에 참석하라고 했어요.",
+       "en": "The manager told me to attend the meeting."
+      }
+     ]
+    },
+    {
+     "point": "Quoting negative commands: ~지 말라고 하다",
+     "explanation": "To report 'don't do...', attach ~지 to the verb stem, then 말라고 (from 말다) and a reporting verb. It is the quoted version of ~지 마(세요).",
+     "examples": [
+      {
+       "ko": "엄마가 저에게 늦게 오지 말라고 했어요.",
+       "en": "Mom told me not to come home late."
+      },
+      {
+       "ko": "선생님이 수업 시간에 떠들지 말라고 했어요.",
+       "en": "The teacher told us not to chat during class."
+      },
+      {
+       "ko": "의사가 저에게 술을 마시지 말라고 했어요.",
+       "en": "The doctor told me not to drink alcohol."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "title": "Lesson 55: Quoting 주다 with ~아/어 달라고",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-55/",
+   "vocab": [
+    {
+     "ko": "세대",
+     "en": "generation",
+     "pos": "noun"
+    },
+    {
+     "ko": "공무원",
+     "en": "civil servant",
+     "pos": "noun"
+    },
+    {
+     "ko": "창고",
+     "en": "warehouse",
+     "pos": "noun"
+    },
+    {
+     "ko": "조사",
+     "en": "investigation, research",
+     "pos": "noun"
+    },
+    {
+     "ko": "설문조사",
+     "en": "survey",
+     "pos": "noun"
+    },
+    {
+     "ko": "고급",
+     "en": "high quality, advanced",
+     "pos": "noun"
+    },
+    {
+     "ko": "주택",
+     "en": "house, housing",
+     "pos": "noun"
+    },
+    {
+     "ko": "희망자",
+     "en": "applicant, hopeful",
+     "pos": "noun"
+    },
+    {
+     "ko": "매출",
+     "en": "sales",
+     "pos": "noun"
+    },
+    {
+     "ko": "성적",
+     "en": "grades",
+     "pos": "noun"
+    },
+    {
+     "ko": "사원",
+     "en": "employee",
+     "pos": "noun"
+    },
+    {
+     "ko": "신입사원",
+     "en": "new employee",
+     "pos": "noun"
+    },
+    {
+     "ko": "편",
+     "en": "counter for films/shows",
+     "pos": "noun"
+    },
+    {
+     "ko": "부탁",
+     "en": "favor",
+     "pos": "noun"
+    },
+    {
+     "ko": "끈",
+     "en": "string, lace",
+     "pos": "noun"
+    },
+    {
+     "ko": "내버려두다",
+     "en": "to leave alone",
+     "pos": "verb"
+    },
+    {
+     "ko": "꼬다",
+     "en": "to twist",
+     "pos": "verb"
+    },
+    {
+     "ko": "가르다",
+     "en": "to split, cut through",
+     "pos": "verb"
+    },
+    {
+     "ko": "애쓰다",
+     "en": "to strive, make an effort",
+     "pos": "verb"
+    },
+    {
+     "ko": "개최하다",
+     "en": "to host (an event)",
+     "pos": "verb"
+    },
+    {
+     "ko": "입주하다",
+     "en": "to move in",
+     "pos": "verb"
+    },
+    {
+     "ko": "묶다",
+     "en": "to tie",
+     "pos": "verb"
+    },
+    {
+     "ko": "풀리다",
+     "en": "to come untied",
+     "pos": "verb"
+    },
+    {
+     "ko": "지치다",
+     "en": "to be exhausted",
+     "pos": "verb"
+    },
+    {
+     "ko": "풍부하다",
+     "en": "to be abundant",
+     "pos": "adjective"
+    },
+    {
+     "ko": "뜻밖에",
+     "en": "unexpectedly",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Quoted requests for oneself: ~(아/어) 달라고 하다",
+     "explanation": "When the original speaker asked for something to be given to them, 주다 is replaced by 달다, giving 달라고. The same happens with ~아/어 주다 when they asked for something to be done for them (~아/어 달라고). This is true no matter who later reports the request.",
+     "examples": [
+      {
+       "ko": "동생이 저에게 물을 달라고 했어요.",
+       "en": "My younger sibling asked me to give them water."
+      },
+      {
+       "ko": "친구가 저에게 돈을 빌려 달라고 했어요.",
+       "en": "My friend asked me to lend him money."
+      },
+      {
+       "ko": "아이가 엄마에게 책을 읽어 달라고 했어요.",
+       "en": "The child asked mom to read him a book."
+      },
+      {
+       "ko": "손님이 창문을 닫아 달라고 했어요.",
+       "en": "The customer asked us to close the window."
+      }
+     ]
+    },
+    {
+     "point": "Giving to someone else: 주라고 하다",
+     "explanation": "If the original speaker told someone to give something to a third person rather than to themselves, use the regular command quote 주라고. Choosing between 달라고 and 주라고 depends on who receives the item or the benefit.",
+     "examples": [
+      {
+       "ko": "엄마가 저에게 동생한테 과자를 주라고 했어요.",
+       "en": "Mom told me to give my younger sibling some snacks."
+      },
+      {
+       "ko": "선생님이 저에게 이 책을 민수에게 주라고 했어요.",
+       "en": "The teacher told me to give this book to Minsu."
+      },
+      {
+       "ko": "친구가 저에게 그 편지를 여자 친구에게 주라고 했어요.",
+       "en": "My friend told me to give that letter to his girlfriend."
+      }
+     ]
+    },
+    {
+     "point": "Favor: 부탁 / 부탁하다",
+     "explanation": "부탁 means a favor or request and can be used as a noun. 부탁하다 means to ask a favor. It often follows a quoted request like ~아/어 달라고.",
+     "examples": [
+      {
+       "ko": "부탁이 하나 있어요.",
+       "en": "I have a favor to ask."
+      },
+      {
+       "ko": "친구에게 이사를 도와 달라고 부탁했어요.",
+       "en": "I asked my friend to help me move."
+      },
+      {
+       "ko": "제 부탁을 들어 줄 수 있어요?",
+       "en": "Can you do me a favor?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "title": "Lesson 56: To make, to let: ~게 하다, ~게: so that",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-56/",
+   "vocab": [
+    {
+     "ko": "부전공",
+     "en": "minor (university)",
+     "pos": "noun"
+    },
+    {
+     "ko": "형식",
+     "en": "form, format",
+     "pos": "noun"
+    },
+    {
+     "ko": "진로",
+     "en": "career path",
+     "pos": "noun"
+    },
+    {
+     "ko": "과정",
+     "en": "process",
+     "pos": "noun"
+    },
+    {
+     "ko": "축제",
+     "en": "festival",
+     "pos": "noun"
+    },
+    {
+     "ko": "목록",
+     "en": "list",
+     "pos": "noun"
+    },
+    {
+     "ko": "상점",
+     "en": "store",
+     "pos": "noun"
+    },
+    {
+     "ko": "시야",
+     "en": "field of vision",
+     "pos": "noun"
+    },
+    {
+     "ko": "도구",
+     "en": "tool",
+     "pos": "noun"
+    },
+    {
+     "ko": "햇빛",
+     "en": "sunlight",
+     "pos": "noun"
+    },
+    {
+     "ko": "도달하다",
+     "en": "to reach",
+     "pos": "verb"
+    },
+    {
+     "ko": "싣다",
+     "en": "to load",
+     "pos": "verb"
+    },
+    {
+     "ko": "둘러보다",
+     "en": "to look around",
+     "pos": "verb"
+    },
+    {
+     "ko": "들여다보다",
+     "en": "to look into",
+     "pos": "verb"
+    },
+    {
+     "ko": "내다보다",
+     "en": "to look out",
+     "pos": "verb"
+    },
+    {
+     "ko": "노크하다",
+     "en": "to knock",
+     "pos": "verb"
+    },
+    {
+     "ko": "성취하다",
+     "en": "to achieve",
+     "pos": "verb"
+    },
+    {
+     "ko": "싸다",
+     "en": "to wrap",
+     "pos": "verb"
+    },
+    {
+     "ko": "맞히다",
+     "en": "to guess correctly",
+     "pos": "verb"
+    },
+    {
+     "ko": "끼다",
+     "en": "to put on (ring, gloves)",
+     "pos": "verb"
+    },
+    {
+     "ko": "깨다",
+     "en": "to wake up",
+     "pos": "verb"
+    },
+    {
+     "ko": "싸이다",
+     "en": "to be wrapped",
+     "pos": "verb"
+    },
+    {
+     "ko": "날씬하다",
+     "en": "to be slim",
+     "pos": "adjective"
+    },
+    {
+     "ko": "더욱",
+     "en": "more and more",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "To make / let someone do: ~게 하다",
+     "explanation": "Attach ~게 하다 to a verb or adjective stem to show that the subject causes someone to do an action or be in a state. Korean does not separate 'make' (force) from 'let' (allow), so context decides the English. The person affected is usually marked with ~을/를 or ~에게, or with ~이/가 when the clause has its own object.",
+     "examples": [
+      {
+       "ko": "엄마가 저를 일찍 자게 했어요.",
+       "en": "Mom made me go to bed early."
+      },
+      {
+       "ko": "선생님이 학생들을 집에 가게 했어요.",
+       "en": "The teacher let the students go home."
+      },
+      {
+       "ko": "그 소식이 저를 놀라게 했어요.",
+       "en": "That news surprised me."
+      },
+      {
+       "ko": "아빠가 동생이 게임을 못 하게 했어요.",
+       "en": "Dad didn't let my younger sibling play games."
+      }
+     ]
+    },
+    {
+     "point": "So that / in a way that: ~게 + verb",
+     "explanation": "~게 can be followed by a verb other than 하다 to say what was done so that something happens. The clause with ~게 gives the purpose or result, and the main verb gives the action that brings it about. It is often used with ~ㄹ 수 있게 or ~지 않게.",
+     "examples": [
+      {
+       "ko": "아이들이 잘 볼 수 있게 글씨를 크게 써 주세요.",
+       "en": "Please write big so the kids can see well."
+      },
+      {
+       "ko": "다른 사람들이 들을 수 있게 크게 말해 주세요.",
+       "en": "Please speak loudly so others can hear."
+      },
+      {
+       "ko": "늦지 않게 일찍 출발하세요.",
+       "en": "Leave early so you are not late."
+      },
+      {
+       "ko": "비가 들어오지 않게 창문을 닫았어요.",
+       "en": "I closed the window so the rain wouldn't come in."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "title": "Lesson 57: To make/order: 시키다",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-57/",
+   "vocab": [
+    {
+     "ko": "우리",
+     "en": "cage, pen",
+     "pos": "noun"
+    },
+    {
+     "ko": "다람쥐",
+     "en": "squirrel",
+     "pos": "noun"
+    },
+    {
+     "ko": "뱀",
+     "en": "snake",
+     "pos": "noun"
+    },
+    {
+     "ko": "실업",
+     "en": "unemployment",
+     "pos": "noun"
+    },
+    {
+     "ko": "실업자",
+     "en": "unemployed person",
+     "pos": "noun"
+    },
+    {
+     "ko": "초인종",
+     "en": "doorbell",
+     "pos": "noun"
+    },
+    {
+     "ko": "포대기",
+     "en": "baby blanket",
+     "pos": "noun"
+    },
+    {
+     "ko": "음주",
+     "en": "drinking alcohol",
+     "pos": "noun"
+    },
+    {
+     "ko": "금주",
+     "en": "abstaining from alcohol",
+     "pos": "noun"
+    },
+    {
+     "ko": "곁",
+     "en": "one's side",
+     "pos": "noun"
+    },
+    {
+     "ko": "심부름",
+     "en": "errand",
+     "pos": "noun"
+    },
+    {
+     "ko": "시키다",
+     "en": "to order, make do",
+     "pos": "verb"
+    },
+    {
+     "ko": "화해하다",
+     "en": "to make up, reconcile",
+     "pos": "verb"
+    },
+    {
+     "ko": "흥분하다",
+     "en": "to get excited",
+     "pos": "verb"
+    },
+    {
+     "ko": "자극하다",
+     "en": "to stimulate",
+     "pos": "verb"
+    },
+    {
+     "ko": "안정하다",
+     "en": "to stabilize",
+     "pos": "verb"
+    },
+    {
+     "ko": "응용하다",
+     "en": "to apply",
+     "pos": "verb"
+    },
+    {
+     "ko": "차리다",
+     "en": "to prepare (a meal); to recover",
+     "pos": "verb"
+    },
+    {
+     "ko": "상기시키다",
+     "en": "to remind",
+     "pos": "verb"
+    },
+    {
+     "ko": "옮다",
+     "en": "to catch (a disease)",
+     "pos": "verb"
+    },
+    {
+     "ko": "옮기다",
+     "en": "to move, transfer",
+     "pos": "verb"
+    },
+    {
+     "ko": "불확실하다",
+     "en": "to be uncertain",
+     "pos": "adjective"
+    },
+    {
+     "ko": "간지럽다",
+     "en": "to be ticklish",
+     "pos": "adjective"
+    },
+    {
+     "ko": "방과후",
+     "en": "after school",
+     "pos": "other"
+    },
+    {
+     "ko": "대체로",
+     "en": "generally",
+     "pos": "adverb"
+    },
+    {
+     "ko": "당장",
+     "en": "right now",
+     "pos": "adverb"
+    },
+    {
+     "ko": "마음껏",
+     "en": "as much as one likes",
+     "pos": "adverb"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Noun + 시키다 (make someone do it)",
+     "explanation": "For many 하다 verbs, swap 하다 for 시키다 to show that the subject makes or gets someone else to do the action. 공부하다 means to study yourself, while 공부시키다 means to make someone study. It does the same job as ~하게 하다.",
+     "examples": [
+      {
+       "ko": "엄마가 동생을 매일 공부시켜요.",
+       "en": "Mom makes my younger sibling study every day."
+      },
+      {
+       "ko": "제가 두 친구를 화해시켰어요.",
+       "en": "I got my two friends to make up."
+      },
+      {
+       "ko": "그 소식이 부모님을 실망시켰어요.",
+       "en": "That news disappointed my parents."
+      },
+      {
+       "ko": "친구가 저에게 좋은 사람을 소개시켜 줬어요.",
+       "en": "My friend introduced me to a nice person."
+      }
+     ]
+    },
+    {
+     "point": "시키다 as a verb: to order",
+     "explanation": "On its own, 시키다 means to order food or drinks, or to order someone to do a task. Tasks like 일 (work) or 심부름 (an errand) are its usual objects, and the person given the task takes ~에게.",
+     "examples": [
+      {
+       "ko": "우리는 피자를 시켰어요.",
+       "en": "We ordered pizza."
+      },
+      {
+       "ko": "엄마가 저에게 심부름을 시켰어요.",
+       "en": "Mom sent me on an errand."
+      },
+      {
+       "ko": "부장님이 저에게 일을 많이 시켜요.",
+       "en": "My manager gives me a lot of work."
+      },
+      {
+       "ko": "뭐 시킬까요?",
+       "en": "What shall we order?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "title": "Lesson 58: Or: ~(이)나, ~거나",
+   "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-58/",
+   "vocab": [
+    {
+     "ko": "줄거리",
+     "en": "plot, summary",
+     "pos": "noun"
+    },
+    {
+     "ko": "체육관",
+     "en": "gymnasium",
+     "pos": "noun"
+    },
+    {
+     "ko": "조직",
+     "en": "organization",
+     "pos": "noun"
+    },
+    {
+     "ko": "양식",
+     "en": "form (to fill out)",
+     "pos": "noun"
+    },
+    {
+     "ko": "중간",
+     "en": "middle",
+     "pos": "noun"
+    },
+    {
+     "ko": "중간고사",
+     "en": "midterm exam",
+     "pos": "noun"
+    },
+    {
+     "ko": "중간지점",
+     "en": "halfway point",
+     "pos": "noun"
+    },
+    {
+     "ko": "기말고사",
+     "en": "final exam",
+     "pos": "noun"
+    },
+    {
+     "ko": "나머지",
+     "en": "the rest",
+     "pos": "noun"
+    },
+    {
+     "ko": "빈손",
+     "en": "empty hands",
+     "pos": "noun"
+    },
+    {
+     "ko": "채소",
+     "en": "vegetables",
+     "pos": "noun"
+    },
+    {
+     "ko": "기록하다",
+     "en": "to record",
+     "pos": "verb"
+    },
+    {
+     "ko": "등교하다",
+     "en": "to go to school",
+     "pos": "verb"
+    },
+    {
+     "ko": "하교하다",
+     "en": "to leave school",
+     "pos": "verb"
+    },
+    {
+     "ko": "고민하다",
+     "en": "to worry",
+     "pos": "verb"
+    },
+    {
+     "ko": "활동하다",
+     "en": "to be active, do activities",
+     "pos": "verb"
+    },
+    {
+     "ko": "수정하다",
+     "en": "to correct, modify",
+     "pos": "verb"
+    },
+    {
+     "ko": "데려다 주다",
+     "en": "to take someone somewhere",
+     "pos": "verb"
+    },
+    {
+     "ko": "덧붙이다",
+     "en": "to add on",
+     "pos": "verb"
+    },
+    {
+     "ko": "살피다",
+     "en": "to watch closely",
+     "pos": "verb"
+    },
+    {
+     "ko": "차다",
+     "en": "to kick",
+     "pos": "verb"
+    },
+    {
+     "ko": "고치다",
+     "en": "to fix, repair",
+     "pos": "verb"
+    },
+    {
+     "ko": "반하다",
+     "en": "to fall for (at first sight)",
+     "pos": "verb"
+    },
+    {
+     "ko": "부지런하다",
+     "en": "to be diligent",
+     "pos": "adjective"
+    },
+    {
+     "ko": "희미하다",
+     "en": "to be faint, dim",
+     "pos": "adjective"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "Noun or noun: ~(이)나",
+     "explanation": "Attach ~이나 to a noun ending in a consonant or ~나 to one ending in a vowel to offer it as one of the choices, like 'or'. It can join subjects or objects. When both options would take the same particle (~에서, ~(으)로), the particle usually appears only after the second one.",
+     "examples": [
+      {
+       "ko": "저는 빵이나 밥을 먹을 거예요.",
+       "en": "I will eat bread or rice."
+      },
+      {
+       "ko": "엄마나 아빠가 저를 학교에 데려다 줄 거예요.",
+       "en": "Mom or dad will take me to school."
+      },
+      {
+       "ko": "커피나 차를 드릴까요?",
+       "en": "Shall I get you coffee or tea?"
+      },
+      {
+       "ko": "버스나 택시로 갈 거예요.",
+       "en": "I'll go by bus or taxi."
+      }
+     ]
+    },
+    {
+     "point": "Settling for something: ~(이)나 with one option",
+     "explanation": "When ~(이)나 is attached to only one noun, it can mean the speaker is settling for that option, which is not their first choice. It gives a 'just... I guess' feeling and is often used in suggestions.",
+     "examples": [
+      {
+       "ko": "할 일이 없으니까 텔레비전이나 봐요.",
+       "en": "There's nothing to do, so let's just watch TV."
+      },
+      {
+       "ko": "배가 고픈데 라면이나 먹을까요?",
+       "en": "I'm hungry, so shall we just have ramen?"
+      },
+      {
+       "ko": "피곤하니까 집에서 잠이나 자야겠어요.",
+       "en": "I'm tired, so I guess I'll just sleep at home."
+      }
+     ]
+    },
+    {
+     "point": "Verb or verb: ~거나",
+     "explanation": "Attach ~거나 to a verb or adjective stem to say 'do A or do B'. The last verb carries the tense and politeness. ~(이)나 chooses between nouns, while ~거나 chooses between actions or states.",
+     "examples": [
+      {
+       "ko": "주말에는 책을 읽거나 운동을 해요.",
+       "en": "On weekends I read or exercise."
+      },
+      {
+       "ko": "친구에게 편지를 쓰거나 전화할 거예요.",
+       "en": "I'll write my friend a letter or call him."
+      },
+      {
+       "ko": "피곤하거나 아프면 집에서 쉬세요.",
+       "en": "If you're tired or sick, rest at home."
+      },
+      {
+       "ko": "저녁에는 음악을 듣거나 산책을 해요.",
+       "en": "In the evening I listen to music or take a walk."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

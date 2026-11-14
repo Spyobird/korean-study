@@ -1,0 +1,1181 @@
+{
+ "range": "59-66",
+ "lessons": [
+  {
+   "n": 59,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "어쩌면 내일 눈이 ___ 몰라요.",
+     "answer": "올지도",
+     "options": [
+      "올지도",
+      "오지도",
+      "와지도",
+      "올까도"
+     ],
+     "en": "It might snow tomorrow.",
+     "why": "어쩌면 pairs with ~ㄹ/을지도 모르다, and 오다 takes ㄹ지도 because it ends in a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 오늘은 집에 늦게 갈 것 같아요.",
+     "answer": "아무래도",
+     "options": [
+      "아무래도",
+      "즉",
+      "아무도",
+      "아무거나"
+     ],
+     "en": "After thinking it over, I'll probably go home late today.",
+     "why": "아무래도 + ~ㄹ/을 것 같다 means 'probably', after weighing things up."
+    },
+    {
+     "type": "fill",
+     "ko": "할아버지는 ___가 어떻게 되세요?",
+     "answer": "연세",
+     "options": [
+      "연세",
+      "살",
+      "년",
+      "해"
+     ],
+     "en": "How old is your grandfather?",
+     "why": "연세 is the respectful word for age used for elderly people."
+    },
+    {
+     "type": "fill",
+     "ko": "내일 선생님을 ___ 갈 거예요.",
+     "answer": "뵈러",
+     "options": [
+      "뵈러",
+      "봬러",
+      "뵈으러",
+      "뵈서"
+     ],
+     "en": "I'm going to go see my teacher tomorrow.",
+     "why": "The stem 뵈 takes 러 directly; 봬 is only the contraction of 뵈어."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님, 다음 주에 ___.",
+     "answer": "봬요",
+     "options": [
+      "봬요",
+      "뵈요",
+      "뵈다요",
+      "뵙어요"
+     ],
+     "en": "See you next week, teacher.",
+     "why": "뵈 + 어요 contracts to 봬요, just like 되 + 어요 becomes 돼요."
+    },
+    {
+     "type": "fill",
+     "ko": "어머니는 집 앞에서 작은 정원을 ___.",
+     "answer": "가꿔요",
+     "options": [
+      "가꿔요",
+      "가꾸요",
+      "가꺼요",
+      "가까요"
+     ],
+     "en": "My mother tends a small garden in front of the house.",
+     "why": "가꾸 + 어요 merges into 가꿔요."
+    },
+    {
+     "type": "fill",
+     "ko": "동생이 잠옷 ___ 편의점에 갔어요.",
+     "answer": "차림으로",
+     "options": [
+      "차림으로",
+      "차림을",
+      "차림이",
+      "차림에서"
+     ],
+     "en": "My younger sibling went to the convenience store in pajamas.",
+     "why": "Clothing + 차림으로 says what someone is dressed in while doing something."
+    },
+    {
+     "type": "fill",
+     "ko": "제 생일은 다음 주 금요일, ___ 10일이에요.",
+     "answer": "즉",
+     "options": [
+      "즉",
+      "아무래도",
+      "어쩌면",
+      "하지만"
+     ],
+     "en": "My birthday is next Friday, that is, the 10th.",
+     "why": "즉 introduces a restatement: 'that is' or 'in other words'."
+    },
+    {
+     "type": "translate",
+     "en": "Maybe my friend is at home now.",
+     "ko": "어쩌면 친구가 지금 집에 있을지도 몰라요."
+    },
+    {
+     "type": "translate",
+     "en": "It looks like the bus will probably be late.",
+     "ko": "아무래도 버스가 늦을 것 같아요."
+    },
+    {
+     "type": "translate",
+     "en": "My grandfather is eighty years old. (respectful)",
+     "ko": "할아버지는 연세가 여든이세요."
+    },
+    {
+     "type": "translate",
+     "en": "My friend came out in exercise clothes.",
+     "ko": "친구가 운동복 차림으로 나왔어요."
+    }
+   ],
+   "reading": {
+    "ko": "이번 주말에 할머니를 뵈러 대구에 가요. 할머니는 연세가 많으시지만 아직 건강하세요. 할머니는 집 앞에서 채소와 꽃을 가꾸세요. 지난번에 저는 운동복 차림으로 할머니 집에 갔어요. 그래서 이번에는 예쁜 옷을 입을 거예요. 어쩌면 오빠도 같이 갈지도 몰라요. 아무래도 이번 주말은 아주 바쁠 것 같아요.",
+    "en": "This weekend I'm going to Daegu to see my grandmother. My grandmother is elderly, but she is still healthy. She grows vegetables and flowers in front of her house. Last time I went to her house in exercise clothes. So this time I'm going to wear nice clothes. Maybe my older brother will come with me too. This weekend will probably be very busy.",
+    "questions": [
+     {
+      "q": "할머니는 집 앞에서 뭘 가꾸세요?",
+      "a": "채소와 꽃을 가꾸세요."
+     },
+     {
+      "q": "지난번에 이 사람은 어떤 옷차림으로 갔어요?",
+      "a": "운동복 차림으로 갔어요."
+     },
+     {
+      "q": "누가 같이 갈지도 몰라요?",
+      "a": "오빠가 같이 갈지도 몰라요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 60,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "지하철이 사람들___ 가득 찼어요.",
+     "answer": "로",
+     "options": [
+      "로",
+      "으로",
+      "를",
+      "에서"
+     ],
+     "en": "The subway is packed with people.",
+     "why": "What fills a space takes (으)로, and a noun ending in ㄹ takes 로."
+    },
+    {
+     "type": "fill",
+     "ko": "컵에 물이 가득 ___ 있어요.",
+     "answer": "차",
+     "options": [
+      "차",
+      "찬",
+      "찼",
+      "차는"
+     ],
+     "en": "The cup is full of water.",
+     "why": "차다 + 아 있다 becomes 차 있다, a state of being full."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘은 ___ 기분이 안 좋아요.",
+     "answer": "왠지",
+     "options": [
+      "왠지",
+      "웬지",
+      "왜",
+      "설마"
+     ],
+     "en": "For some reason I'm not in a good mood today.",
+     "why": "왠지 (from 왜 그런지) means 'for some reason'; 웬지 is a common misspelling."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 벌써 숙제를 다 했어요?",
+     "answer": "설마",
+     "options": [
+      "설마",
+      "왠지",
+      "다행히",
+      "즉"
+     ],
+     "en": "Don't tell me you already finished all your homework?",
+     "why": "설마 at the start of a question shows you can hardly believe it."
+    },
+    {
+     "type": "fill",
+     "ko": "이 종이에 도장을 ___ 주세요.",
+     "answer": "찍어",
+     "options": [
+      "찍어",
+      "찍",
+      "찍고",
+      "찍는"
+     ],
+     "en": "Please stamp your seal on this paper.",
+     "why": "찍다 takes its 아/어 form before 주세요."
+    },
+    {
+     "type": "fill",
+     "ko": "비가 오기 전에 집에 도착___ 다행이에요.",
+     "answer": "해서",
+     "options": [
+      "해서",
+      "하고",
+      "하면",
+      "하지만"
+     ],
+     "en": "Thankfully I got home before it rained.",
+     "why": "~아/어서 다행이다 expresses relief that something happened."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 지갑을 찾았어요.",
+     "answer": "다행히",
+     "options": [
+      "다행히",
+      "다행이",
+      "다행해",
+      "다행을"
+     ],
+     "en": "Fortunately I found my wallet.",
+     "why": "The adverb form is 다행히, 'fortunately'."
+    },
+    {
+     "type": "fill",
+     "ko": "친구는 12월 ___ 한국에 와요.",
+     "answer": "달에",
+     "options": [
+      "달에",
+      "달을",
+      "달이",
+      "달로"
+     ],
+     "en": "My friend is coming to Korea sometime in December.",
+     "why": "Month + 달에 means 'sometime in that month', and time takes 에."
+    },
+    {
+     "type": "translate",
+     "en": "The bag is full of books.",
+     "ko": "가방이 책으로 가득 찼어요."
+    },
+    {
+     "type": "translate",
+     "en": "For some reason I want to eat Korean food today.",
+     "ko": "오늘은 왠지 한국 음식을 먹고 싶어요."
+    },
+    {
+     "type": "translate",
+     "en": "Thankfully it didn't rain.",
+     "ko": "비가 안 와서 다행이에요."
+    },
+    {
+     "type": "translate",
+     "en": "Could you take a picture of me?",
+     "ko": "제 사진을 찍어 줄래요?"
+    }
+   ],
+   "reading": {
+    "ko": "토요일에 친구와 같이 공원에 갔어요. 공원은 사람들로 가득 찼어요. 우리는 꽃 앞에서 사진을 많이 찍었어요. 그런데 집에 왔을 때 카메라가 없었어요. 저는 친구에게 전화했어요. 다행히 친구가 제 카메라를 가지고 있었어요. 카메라를 찾아서 정말 다행이에요. 우리는 5월 달에 다시 공원에 갈 거예요.",
+    "en": "On Saturday I went to the park with a friend. The park was packed with people. We took lots of photos in front of the flowers. But when I got home, I didn't have my camera. I called my friend. Fortunately my friend had my camera. I'm really relieved I found it. We're going to the park again sometime in May.",
+    "questions": [
+     {
+      "q": "공원에 사람이 많았어요?",
+      "a": "네, 사람들로 가득 찼어요."
+     },
+     {
+      "q": "집에 왔을 때 뭐가 없었어요?",
+      "a": "카메라가 없었어요."
+     },
+     {
+      "q": "카메라는 누가 가지고 있었어요?",
+      "a": "친구가 가지고 있었어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 61,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "모두 행복하___ 바랍니다.",
+     "answer": "시기를",
+     "options": [
+      "시기를",
+      "시는",
+      "셔서",
+      "시고"
+     ],
+     "en": "I hope you are all happy.",
+     "why": "바라다 takes a clause nominalised with ~기(를); 시 adds respect."
+    },
+    {
+     "type": "fill",
+     "ko": "좋은 일만 ___ 바랍니다.",
+     "answer": "있기를",
+     "options": [
+      "있기를",
+      "있는",
+      "있어서",
+      "있으면"
+     ],
+     "en": "I hope only good things happen.",
+     "why": "Before 바라다, the verb becomes a noun with ~기를."
+    },
+    {
+     "type": "fill",
+     "ko": "수업 전에 휴대폰을 꺼 주시기 ___.",
+     "answer": "바랍니다",
+     "options": [
+      "바랍니다",
+      "바랍니까",
+      "바라기",
+      "바랬습니다"
+     ],
+     "en": "Please turn off your phones before class. (formal announcement)",
+     "why": "~아/어 주시기 바랍니다 is a formal request in announcements."
+    },
+    {
+     "type": "fill",
+     "ko": "내일 날씨가 ___ 좋겠어요.",
+     "answer": "좋았으면",
+     "options": [
+      "좋았으면",
+      "좋았고",
+      "좋았어서",
+      "좋기를"
+     ],
+     "en": "I hope the weather is nice tomorrow.",
+     "why": "~았/었으면 좋겠다 is a fixed unit for wishes, even about the future."
+    },
+    {
+     "type": "fill",
+     "ko": "방학이 빨리 ___ 좋겠어요.",
+     "answer": "왔으면",
+     "options": [
+      "왔으면",
+      "오았으면",
+      "와으면",
+      "왔면"
+     ],
+     "en": "I wish vacation would come soon.",
+     "why": "오 + 았으면 contracts to 왔으면."
+    },
+    {
+     "type": "fill",
+     "ko": "시간이 조금 더 ___ 좋겠어요.",
+     "answer": "있었으면",
+     "options": [
+      "있었으면",
+      "있으었면",
+      "있어으면",
+      "있었면"
+     ],
+     "en": "I wish I had a little more time.",
+     "why": "있다 takes 었으면 because its last vowel is not ㅏ or ㅗ."
+    },
+    {
+     "type": "fill",
+     "ko": "아빠가 역으로 저를 ___ 왔으면 좋겠어요.",
+     "answer": "데리러",
+     "options": [
+      "데리러",
+      "데리려",
+      "데리면",
+      "데리는"
+     ],
+     "en": "I wish Dad would come pick me up at the station.",
+     "why": "데리러 오다 means 'to come pick someone up'."
+    },
+    {
+     "type": "fill",
+     "ko": "모든 일이 잘되기___ 바라요.",
+     "answer": "를",
+     "options": [
+      "를",
+      "을",
+      "가",
+      "에"
+     ],
+     "en": "I hope everything goes well.",
+     "why": "~기 ends in a vowel, so the object marker is 를."
+    },
+    {
+     "type": "translate",
+     "en": "I hope it doesn't rain tomorrow.",
+     "ko": "내일 비가 안 왔으면 좋겠어요."
+    },
+    {
+     "type": "translate",
+     "en": "Grandmother, I hope you stay healthy. (formal)",
+     "ko": "할머니, 건강하시기를 바랍니다."
+    },
+    {
+     "type": "translate",
+     "en": "I wish I were a twin.",
+     "ko": "제가 쌍둥이였으면 좋겠어요."
+    },
+    {
+     "type": "translate",
+     "en": "Please do your best. (formal request)",
+     "ko": "최선을 다해 주시기 바랍니다."
+    }
+   ],
+   "reading": {
+    "ko": "제 동생들은 쌍둥이예요. 다음 주에 동생들이 큰 시험을 봐요. 동생들은 요즘 밤까지 열심히 공부해요. 저는 동생들이 최선을 다했으면 좋겠어요. 시험이 끝나면 제가 학교로 동생들을 데리러 갈 거예요. 그리고 같이 맛있는 음식을 먹었으면 좋겠어요. 동생들에게 좋은 결과가 있기를 바라요.",
+    "en": "My younger siblings are twins. Next week they have a big exam. These days they study hard until night. I hope they do their best. When the exam is over, I'll go to the school to pick them up. And I hope we can eat delicious food together. I hope they get good results.",
+    "questions": [
+     {
+      "q": "동생들은 다음 주에 뭘 해요?",
+      "a": "큰 시험을 봐요."
+     },
+     {
+      "q": "시험이 끝나면 이 사람은 뭘 할 거예요?",
+      "a": "학교로 동생들을 데리러 갈 거예요."
+     },
+     {
+      "q": "이 사람은 동생들에게 뭐가 있기를 바라요?",
+      "a": "좋은 결과가 있기를 바라요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 62,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 음악을 ___ 운동해요.",
+     "answer": "들으면서",
+     "options": [
+      "들으면서",
+      "듣으면서",
+      "들면서",
+      "듣면서"
+     ],
+     "en": "I exercise while listening to music.",
+     "why": "듣다 is ㄷ irregular, so it becomes 들으면서."
+    },
+    {
+     "type": "fill",
+     "ko": "친구와 이야기를 ___ 걸었어요.",
+     "answer": "하면서",
+     "options": [
+      "하면서",
+      "하으면서",
+      "해면서",
+      "하며서"
+     ],
+     "en": "I walked while talking with my friend.",
+     "why": "A vowel stem takes ~면서 directly."
+    },
+    {
+     "type": "fill",
+     "ko": "그는 서울에 ___ 한국어를 배웠어요.",
+     "answer": "살면서",
+     "options": [
+      "살면서",
+      "살으면서",
+      "사면서",
+      "살며서"
+     ],
+     "en": "He learned Korean while living in Seoul.",
+     "why": "An ㄹ stem takes ~면서 directly, with no 으."
+    },
+    {
+     "type": "fill",
+     "ko": "의자에 ___ 책을 읽었어요.",
+     "answer": "앉아서",
+     "options": [
+      "앉아서",
+      "앉으면서",
+      "앉면서",
+      "앉어서"
+     ],
+     "en": "I sat on a chair and read a book.",
+     "why": "Posture verbs use ~아/어서; 앉으면서 would mean 'while sitting down'."
+    },
+    {
+     "type": "fill",
+     "ko": "이 가방은 ___ 가벼워요.",
+     "answer": "싸면서",
+     "options": [
+      "싸면서",
+      "싸으면서",
+      "싼면서",
+      "싸서면서"
+     ],
+     "en": "This bag is cheap and light at the same time.",
+     "why": "With adjectives, ~(으)면서 joins two qualities at once."
+    },
+    {
+     "type": "fill",
+     "ko": "제 친구는 학생___ 회사원이에요.",
+     "answer": "이면서",
+     "options": [
+      "이면서",
+      "면서",
+      "으면서",
+      "이며서"
+     ],
+     "en": "My friend is a student and an office worker at the same time.",
+     "why": "After a consonant, 이다 becomes 이면서."
+    },
+    {
+     "type": "fill",
+     "ko": "그는 배가 ___ 또 라면을 먹었어요.",
+     "answer": "부르면서도",
+     "options": [
+      "부르면서도",
+      "불러면서도",
+      "부르으면서도",
+      "불르면서도"
+     ],
+     "en": "He was full, yet he ate ramen again.",
+     "why": "~(으)면서도 links two clashing facts: 'even though'."
+    },
+    {
+     "type": "fill",
+     "ko": "이 공원은 넓___ 조용합니다.",
+     "answer": "으며",
+     "options": [
+      "으며",
+      "며",
+      "이며",
+      "어며"
+     ],
+     "en": "This park is spacious and quiet. (formal writing)",
+     "why": "~(으)며 links clauses in formal writing, and a consonant stem takes 으며."
+    },
+    {
+     "type": "translate",
+     "en": "I read a book while drinking tea.",
+     "ko": "차를 마시면서 책을 읽었어요."
+    },
+    {
+     "type": "translate",
+     "en": "I grew up watching Korean dramas.",
+     "ko": "저는 한국 드라마를 보면서 자랐어요."
+    },
+    {
+     "type": "translate",
+     "en": "Today it's cloudy and windy.",
+     "ko": "오늘은 흐리면서 바람이 많이 불어요."
+    },
+    {
+     "type": "translate",
+     "en": "He says he has no money, yet he buys souvenirs every day.",
+     "ko": "그는 돈이 없다고 하면서 매일 기념품을 사요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 지난달에 부산을 여행했어요. 부산은 바다가 아름다우면서 음식도 맛있어요. 저는 바다를 보면서 커피를 마셨어요. 관광객들이 바다 앞에서 사진을 찍으며 웃고 있었어요. 저도 동영상을 많이 찍었어요. 그리고 친구들에게 줄 기념품을 샀어요. 일정이 바빴지만 정말 즐거웠어요.",
+    "en": "Last month I traveled to Busan. Busan has a beautiful sea and tasty food too. I drank coffee while looking at the sea. Tourists were laughing while taking pictures in front of the sea. I took lots of videos too. And I bought souvenirs to give to my friends. The schedule was busy, but it was really fun.",
+    "questions": [
+     {
+      "q": "부산은 어때요?",
+      "a": "바다가 아름다우면서 음식도 맛있어요."
+     },
+     {
+      "q": "이 사람은 바다를 보면서 뭘 했어요?",
+      "a": "커피를 마셨어요."
+     },
+     {
+      "q": "이 사람은 친구들에게 뭘 줄 거예요?",
+      "a": "기념품을 줄 거예요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 63,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "우리 어디에서 저녁을 ___?",
+     "answer": "먹을까요",
+     "options": [
+      "먹을까요",
+      "먹을게요",
+      "먹까요",
+      "먹을래까요"
+     ],
+     "en": "Where shall we eat dinner?",
+     "why": "~ㄹ/을까요? suggests doing something together; 먹다 has a consonant stem, so 을까요."
+    },
+    {
+     "type": "fill",
+     "ko": "제가 가방을 들어 ___?",
+     "answer": "드릴까요",
+     "options": [
+      "드릴까요",
+      "드릴게요",
+      "드리까요",
+      "드를까요"
+     ],
+     "en": "Shall I carry your bag for you?",
+     "why": "~아/어 드릴까요? politely offers to do something for someone."
+    },
+    {
+     "type": "fill",
+     "ko": "내일 다시 ___.",
+     "answer": "연락할게요",
+     "options": [
+      "연락할게요",
+      "연락할까요",
+      "연락하을게요",
+      "연락할께요"
+     ],
+     "en": "I'll contact you again tomorrow.",
+     "why": "~ㄹ/을게요 is a promise; it is spelled 게 even though it sounds like 께."
+    },
+    {
+     "type": "fill",
+     "ko": "이 책은 제가 ___.",
+     "answer": "읽을게요",
+     "options": [
+      "읽을게요",
+      "읽게요",
+      "읽을께요",
+      "읽을까요"
+     ],
+     "en": "I'll read this book.",
+     "why": "A consonant stem takes 을게요 for 'I'll do it'."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘 저녁에 뭘 ___?",
+     "answer": "만들까",
+     "options": [
+      "만들까",
+      "만들을까",
+      "만드을까",
+      "만들게"
+     ],
+     "en": "What should I make tonight? (thinking to myself, casual)",
+     "why": "An ㄹ stem just adds ㄹ까, so 만들다 becomes 만들까."
+    },
+    {
+     "type": "fill",
+     "ko": "그 사람이 벌써 집에 ___?",
+     "answer": "도착했을까요",
+     "options": [
+      "도착했을까요",
+      "도착할게요",
+      "도착했을게요",
+      "도착하을까요"
+     ],
+     "en": "Do you think he has already arrived home?",
+     "why": "~았/었을까요? guesses about something that may already have happened."
+    },
+    {
+     "type": "fill",
+     "ko": "내일 아침에 출발하는 게 ___?",
+     "answer": "어떨까요",
+     "options": [
+      "어떨까요",
+      "어떻을까요",
+      "어떨게요",
+      "어떠을까요"
+     ],
+     "en": "How about leaving tomorrow morning?",
+     "why": "어떻다 + ㄹ까요 becomes 어떨까요, a gentle way to suggest something."
+    },
+    {
+     "type": "fill",
+     "ko": "그 영화가 ___?",
+     "answer": "재미있을까요",
+     "options": [
+      "재미있을까요",
+      "재미있을게요",
+      "재미있까요",
+      "재미있을래요"
+     ],
+     "en": "Do you think that movie will be fun?",
+     "why": "~ㄹ/을까요? asks the listener's opinion about how likely something is."
+    },
+    {
+     "type": "translate",
+     "en": "Shall we take a taxi?",
+     "ko": "택시를 탈까요?"
+    },
+    {
+     "type": "translate",
+     "en": "Shall I turn on the light?",
+     "ko": "불을 켤까요?"
+    },
+    {
+     "type": "translate",
+     "en": "I'll wait here.",
+     "ko": "여기에서 기다릴게요."
+    },
+    {
+     "type": "translate",
+     "en": "Do you think it will be cold tomorrow?",
+     "ko": "내일 추울까요?"
+    }
+   ],
+   "reading": {
+    "ko": "민수: 토요일에 같이 영화 볼까요? 지수: 좋아요. 몇 시에 만날까요? 민수: 세 시는 어떨까요? 지수: 좋아요. 그런데 표가 있을까요? 민수: 제가 오늘 밤에 표를 살게요. 지수: 고마워요. 그러면 제가 팝콘을 살게요.",
+    "en": "Minsu: Shall we watch a movie together on Saturday? Jisu: Sounds good. What time shall we meet? Minsu: How about three o'clock? Jisu: Good. But do you think there will be tickets? Minsu: I'll buy the tickets tonight. Jisu: Thanks. Then I'll buy the popcorn.",
+    "questions": [
+     {
+      "q": "민수와 지수는 토요일에 뭘 할 거예요?",
+      "a": "같이 영화를 볼 거예요."
+     },
+     {
+      "q": "누가 표를 살 거예요?",
+      "a": "민수가 살 거예요."
+     },
+     {
+      "q": "지수는 뭘 살 거예요?",
+      "a": "팝콘을 살 거예요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 64,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "이번 방학에 제주도에 ___ 해요.",
+     "answer": "갈까",
+     "options": [
+      "갈까",
+      "가을까",
+      "갈게",
+      "갈까요"
+     ],
+     "en": "I'm thinking of going to Jeju Island this vacation.",
+     "why": "~ㄹ/을까 하다 states a tentative plan: 'I'm thinking of...'."
+    },
+    {
+     "type": "fill",
+     "ko": "오늘 저녁에는 집에서 라면을 ___ 해요.",
+     "answer": "먹을까",
+     "options": [
+      "먹을까",
+      "먹까",
+      "먹을게",
+      "먹으까"
+     ],
+     "en": "I'm thinking of eating ramen at home this evening.",
+     "why": "A consonant stem takes 을까 before 하다."
+    },
+    {
+     "type": "fill",
+     "ko": "새 옷을 살까 ___ 백화점에 갔어요.",
+     "answer": "해서",
+     "options": [
+      "해서",
+      "하서",
+      "하고",
+      "했어서"
+     ],
+     "en": "I was thinking of buying new clothes, so I went to the department store.",
+     "why": "Mid-sentence, use ~ㄹ/을까 해서 to mean 'I was thinking of..., so'."
+    },
+    {
+     "type": "fill",
+     "ko": "저녁에 공원에서 ___ 봐요.",
+     "answer": "걸을까",
+     "options": [
+      "걸을까",
+      "걷을까",
+      "걸까",
+      "걷까"
+     ],
+     "en": "I think I might take a walk in the park this evening.",
+     "why": "걷다 is ㄷ irregular, so it becomes 걸을까."
+    },
+    {
+     "type": "fill",
+     "ko": "어제 친구를 ___ 했는데 너무 피곤해서 그냥 집에 있었어요.",
+     "answer": "만날까",
+     "options": [
+      "만날까",
+      "만나을까",
+      "만나까",
+      "만날게"
+     ],
+     "en": "I was thinking of meeting a friend yesterday, but I was so tired I just stayed home.",
+     "why": "~ㄹ/을까 했다 means you considered it but didn't do it."
+    },
+    {
+     "type": "fill",
+     "ko": "버스를 탈까 ___ 날씨가 좋아서 걸어갔어요.",
+     "answer": "했는데",
+     "options": [
+      "했는데",
+      "해서",
+      "하면",
+      "할게요"
+     ],
+     "en": "I was thinking of taking the bus, but the weather was nice so I walked.",
+     "why": "Past 했는데 shows a plan you considered and then dropped."
+    },
+    {
+     "type": "fill",
+     "ko": "작년에 ___ 했지만 안 했어요.",
+     "answer": "개명할까",
+     "options": [
+      "개명할까",
+      "개명하을까",
+      "개명할게",
+      "개명해을까"
+     ],
+     "en": "Last year I was thinking of changing my name, but I didn't.",
+     "why": "A vowel stem takes ㄹ까 before 하다."
+    },
+    {
+     "type": "fill",
+     "ko": "이번 겨울에는 운동을 ___ 해요.",
+     "answer": "시작할까",
+     "options": [
+      "시작할까",
+      "시작하을까",
+      "시작할게",
+      "시작해까"
+     ],
+     "en": "I'm thinking of starting to exercise this winter.",
+     "why": "시작하 + ㄹ까 해요 states a tentative plan."
+    },
+    {
+     "type": "translate",
+     "en": "I'm thinking of going to the movie theater tonight.",
+     "ko": "오늘 밤에 영화관에 갈까 해요."
+    },
+    {
+     "type": "translate",
+     "en": "I think I might stay two nights in Busan.",
+     "ko": "부산에서 2박을 할까 봐요."
+    },
+    {
+     "type": "translate",
+     "en": "I was thinking of calling my mother, but it was too late.",
+     "ko": "어머니께 전화할까 했는데 너무 늦었어요."
+    },
+    {
+     "type": "translate",
+     "en": "I'm thinking of looking at the weather forecast first.",
+     "ko": "먼저 기상예보를 볼까 해요."
+    }
+   ],
+   "reading": {
+    "ko": "이번 가을에 단풍 구경을 갈까 해요. 처음에는 북부에 있는 큰 산에 갈까 했는데 너무 멀어요. 그래서 남부에 있는 산에 갈까 봐요. 거기에서 1박을 할까 해요. 그런데 기상예보에서 주말에 이슬비가 온다고 했어요. 그래도 저는 우산을 가지고 갈 거예요. 단풍을 보면서 사진을 많이 찍고 싶어요.",
+    "en": "This autumn I'm thinking of going to see the autumn leaves. At first I was thinking of going to a big mountain in the north, but it's too far. So I think I might go to a mountain in the south. I'm thinking of staying one night there. But the weather forecast said it will drizzle on the weekend. Even so, I'll take an umbrella and go. I want to take lots of photos while looking at the leaves.",
+    "questions": [
+     {
+      "q": "이 사람은 이번 가을에 뭘 할까 해요?",
+      "a": "단풍 구경을 갈까 해요."
+     },
+     {
+      "q": "왜 북부에 있는 산에 안 가요?",
+      "a": "너무 멀어서 안 가요."
+     },
+     {
+      "q": "기상예보에서 뭐라고 했어요?",
+      "a": "주말에 이슬비가 온다고 했어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 65,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "회의에 ___ 봐 걱정돼요.",
+     "answer": "늦을까",
+     "options": [
+      "늦을까",
+      "늦까",
+      "늦을게",
+      "늦었을게"
+     ],
+     "en": "I'm worried I'll be late for the meeting.",
+     "why": "~ㄹ/을까 봐 걱정되다 means 'I'm worried that...'."
+    },
+    {
+     "type": "fill",
+     "ko": "날씨가 ___ 봐 따뜻한 옷을 입었어요.",
+     "answer": "추울까",
+     "options": [
+      "추울까",
+      "춥을까",
+      "추을까",
+      "춥까"
+     ],
+     "en": "I was worried it would be cold, so I wore warm clothes.",
+     "why": "춥다 is ㅂ irregular, so it becomes 추울까."
+    },
+    {
+     "type": "fill",
+     "ko": "길을 ___ 봐 지도를 가져갔어요.",
+     "answer": "잃을까",
+     "options": [
+      "잃을까",
+      "잃었을까",
+      "잃을게",
+      "일을까"
+     ],
+     "en": "I was worried I'd get lost, so I took a map.",
+     "why": "The tense goes on the final verb, so the verb before ~ㄹ/을까 봐 stays non-past."
+    },
+    {
+     "type": "fill",
+     "ko": "친구가 제 문자를 못 ___ 봐 걱정돼요.",
+     "answer": "봤을까",
+     "options": [
+      "봤을까",
+      "볼게",
+      "봤을게",
+      "보을까"
+     ],
+     "en": "I'm worried my friend might not have seen my text.",
+     "why": "For something that may already have happened, use ~았/었을까 봐."
+    },
+    {
+     "type": "fill",
+     "ko": "동생이 ___ 봐 불을 끄고 조용히 나갔어요.",
+     "answer": "깰까",
+     "options": [
+      "깰까",
+      "깨을까",
+      "깰게",
+      "깨까"
+     ],
+     "en": "I was worried my younger sibling would wake up, so I turned off the light and quietly went out.",
+     "why": "A vowel stem takes ㄹ까 봐."
+    },
+    {
+     "type": "fill",
+     "ko": "내일 눈이 많이 ___ 봐요.",
+     "answer": "올까",
+     "options": [
+      "올까",
+      "오을까",
+      "올게",
+      "왔을게"
+     ],
+     "en": "I'm worried it might snow a lot tomorrow.",
+     "why": "~ㄹ/을까 봐요 alone can mean worry, with 걱정되다 dropped."
+    },
+    {
+     "type": "fill",
+     "ko": "제 말이 ___ 봐 걱정했어요.",
+     "answer": "무례했을까",
+     "options": [
+      "무례했을까",
+      "무례할게",
+      "무례하을까",
+      "무례했을게"
+     ],
+     "en": "I was worried my words might have been rude.",
+     "why": "~았/었을까 봐 worries about something that may already be true."
+    },
+    {
+     "type": "fill",
+     "ko": "집주인이 우리를 무례하다고 ___ 봐 걱정돼요.",
+     "answer": "생각할까",
+     "options": [
+      "생각할까",
+      "생각하을까",
+      "생각할게",
+      "생각했을게"
+     ],
+     "en": "I'm worried the landlord will think we're rude.",
+     "why": "생각하 + ㄹ까 봐 says what you fear might happen."
+    },
+    {
+     "type": "translate",
+     "en": "I'm worried the bus might not come.",
+     "ko": "버스가 안 올까 봐 걱정돼요."
+    },
+    {
+     "type": "translate",
+     "en": "I studied hard because I was worried I'd fail the exam.",
+     "ko": "시험에 떨어질까 봐 열심히 공부했어요."
+    },
+    {
+     "type": "translate",
+     "en": "I'm worried the roof might break.",
+     "ko": "지붕이 부서질까 봐 걱정돼요."
+    },
+    {
+     "type": "translate",
+     "en": "I closed the window because I was worried my younger sibling would catch a cold.",
+     "ko": "동생이 감기에 걸릴까 봐 창문을 닫았어요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 요즘 논문을 쓰고 있어요. 다음 달까지 논문을 끝내야 돼요. 그런데 시간이 부족할까 봐 걱정돼요. 그래서 주말에도 도서관에서 작업해요. 어제는 친구가 제 논문을 읽어 줬어요. 친구가 '글쎄요, 조금 길어요.'라고 했어요. 그래서 논문을 조금 짧게 바꿨어요.",
+    "en": "These days I'm writing my thesis. I have to finish it by next month. But I'm worried there won't be enough time. So I work in the library even on weekends. Yesterday my friend read my thesis for me. My friend said, 'Well... it's a bit long.' So I made the thesis a little shorter.",
+    "questions": [
+     {
+      "q": "이 사람은 왜 주말에도 도서관에서 작업해요?",
+      "a": "시간이 부족할까 봐 주말에도 작업해요."
+     },
+     {
+      "q": "친구는 논문이 어떻다고 했어요?",
+      "a": "조금 길다고 했어요."
+     },
+     {
+      "q": "이 사람은 논문을 어떻게 바꿨어요?",
+      "a": "조금 짧게 바꿨어요."
+     }
+    ]
+   }
+  },
+  {
+   "n": 66,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "편지를 ___ 다 썼어요.",
+     "answer": "거의",
+     "options": [
+      "거의",
+      "거이",
+      "뻔",
+      "별로"
+     ],
+     "en": "I've almost finished writing the letter.",
+     "why": "거의 다 means 'almost all', for an action nearly finished."
+    },
+    {
+     "type": "fill",
+     "ko": "아침에 버스를 ___ 뻔했어요.",
+     "answer": "놓칠",
+     "options": [
+      "놓칠",
+      "놓친",
+      "놓치는",
+      "놓쳤을"
+     ],
+     "en": "I almost missed the bus this morning.",
+     "why": "뻔했다 always follows the future modifier ~ㄹ/을."
+    },
+    {
+     "type": "fill",
+     "ko": "너무 아파서 ___ 뻔했어요.",
+     "answer": "울",
+     "options": [
+      "울",
+      "울을",
+      "운",
+      "우는"
+     ],
+     "en": "It hurt so much that I almost cried.",
+     "why": "An ㄹ stem already ends in ㄹ, so 울다 becomes 울 뻔했어요."
+    },
+    {
+     "type": "fill",
+     "ko": "늦잠을 자서 수업에 늦을 ___.",
+     "answer": "뻔했어요",
+     "options": [
+      "뻔했어요",
+      "뻔이었어요",
+      "뻔있었어요",
+      "뻔하겠어요"
+     ],
+     "en": "I overslept and was almost late for class.",
+     "why": "~ㄹ/을 뻔하다 is almost always used in the past: 뻔했어요."
+    },
+    {
+     "type": "fill",
+     "ko": "음식이 너무 매워서 ___ 뻔했어요.",
+     "answer": "죽을",
+     "options": [
+      "죽을",
+      "죽는",
+      "죽은",
+      "죽었을"
+     ],
+     "en": "The food was so spicy I almost died.",
+     "why": "A consonant stem takes 을 before 뻔했다."
+    },
+    {
+     "type": "fill",
+     "ko": "빨간불에 길을 ___ 뻔했어요.",
+     "answer": "건널",
+     "options": [
+      "건널",
+      "건넌",
+      "건너",
+      "건넜을"
+     ],
+     "en": "I almost crossed the road on a red light.",
+     "why": "건너다 has a vowel stem, so it takes ㄹ before 뻔했다."
+    },
+    {
+     "type": "fill",
+     "ko": "언니와 저는 키가 ___ 같아요.",
+     "answer": "거의",
+     "options": [
+      "거의",
+      "전혀",
+      "별로",
+      "뻔"
+     ],
+     "en": "My older sister and I are almost the same height.",
+     "why": "거의 같다 means 'almost the same'; 전혀 and 별로 need a negative."
+    },
+    {
+     "type": "fill",
+     "ko": "셔츠 단추가 ___ 뻔했어요.",
+     "answer": "떨어질",
+     "options": [
+      "떨어질",
+      "떨어진",
+      "떨어지는",
+      "떨어져"
+     ],
+     "en": "The button on my shirt almost came off.",
+     "why": "~ㄹ/을 뻔했다 says something almost happened but didn't."
+    },
+    {
+     "type": "translate",
+     "en": "I've almost finished my coffee.",
+     "ko": "커피를 거의 다 마셨어요."
+    },
+    {
+     "type": "translate",
+     "en": "I almost forgot my friend's birthday.",
+     "ko": "친구 생일을 잊을 뻔했어요."
+    },
+    {
+     "type": "translate",
+     "en": "I almost lost my wallet.",
+     "ko": "지갑을 잃어버릴 뻔했어요."
+    },
+    {
+     "type": "translate",
+     "en": "I almost fell asleep in class.",
+     "ko": "수업 중에 잠이 들 뻔했어요."
+    }
+   ],
+   "reading": {
+    "ko": "어제는 정말 힘든 날이었어요. 아침에 늦잠을 자서 지하철을 놓칠 뻔했어요. 다행히 회사에 늦지 않았어요. 점심에는 셔츠 단추가 떨어질 뻔했어요. 저녁에 집에 갈 때는 계단에서 넘어질 뻔했어요. 집에 도착했을 때 거의 열한 시였어요. 저는 씻고 바로 잤어요.",
+    "en": "Yesterday was a really hard day. I overslept in the morning and almost missed the subway. Fortunately I wasn't late for work. At lunch my shirt button almost came off. In the evening, on my way home, I almost fell on the stairs. When I got home it was almost eleven o'clock. I washed up and went straight to bed.",
+    "questions": [
+     {
+      "q": "아침에 왜 지하철을 놓칠 뻔했어요?",
+      "a": "늦잠을 자서 놓칠 뻔했어요."
+     },
+     {
+      "q": "회사에 늦었어요?",
+      "a": "아니요, 늦지 않았어요."
+     },
+     {
+      "q": "계단에서 무슨 일이 있었어요?",
+      "a": "넘어질 뻔했어요."
+     }
+    ]
+   }
+  }
+ ]
+}

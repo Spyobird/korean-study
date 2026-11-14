@@ -1,0 +1,1310 @@
+{
+ "range": "0-8",
+ "lessons": [
+  {
+   "n": 0,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "화장실___ 어디예요?",
+     "answer": "이",
+     "options": [
+      "이",
+      "가",
+      "를",
+      "의"
+     ],
+     "en": "Where is the bathroom?",
+     "why": "화장실 ends in a consonant, so the subject marker is 이."
+    },
+    {
+     "type": "fill",
+     "ko": "편의점___ 어디예요?",
+     "answer": "이",
+     "options": [
+      "이",
+      "가",
+      "를",
+      "에"
+     ],
+     "en": "Where is the convenience store?",
+     "why": "편의점 ends in a consonant, so it takes 이 before 어디예요."
+    },
+    {
+     "type": "fill",
+     "ko": "여기___ 어디예요?",
+     "answer": "가",
+     "options": [
+      "가",
+      "이",
+      "를",
+      "에"
+     ],
+     "en": "Where is this (place)?",
+     "why": "여기 ends in a vowel, so the subject marker is 가."
+    },
+    {
+     "type": "fill",
+     "ko": "역___ 어디예요?",
+     "answer": "이",
+     "options": [
+      "이",
+      "가",
+      "를",
+      "에서"
+     ],
+     "en": "Where is the station?",
+     "why": "역 ends in a consonant, so it takes 이."
+    },
+    {
+     "type": "fill",
+     "ko": "물 좀 ___.",
+     "answer": "주세요",
+     "options": [
+      "주세요",
+      "주다",
+      "주고",
+      "주는"
+     ],
+     "en": "Some water, please.",
+     "why": "Noun + 주세요 is the polite way to ask for something."
+    },
+    {
+     "type": "fill",
+     "ko": "계산___ 주세요.",
+     "answer": "해",
+     "options": [
+      "해",
+      "하",
+      "하다",
+      "한"
+     ],
+     "en": "The bill, please.",
+     "why": "A verb takes its 아/어 form before 주세요, and 하다 becomes 해."
+    },
+    {
+     "type": "fill",
+     "ko": "천천히 말___ 주세요.",
+     "answer": "해",
+     "options": [
+      "해",
+      "하",
+      "하다",
+      "한"
+     ],
+     "en": "Please speak slowly.",
+     "why": "말하다 becomes 말해 before 주세요."
+    },
+    {
+     "type": "fill",
+     "ko": "포장___ 주세요.",
+     "answer": "해",
+     "options": [
+      "해",
+      "하다",
+      "하",
+      "한"
+     ],
+     "en": "To go, please.",
+     "why": "포장하다 becomes 포장해 before 주세요."
+    },
+    {
+     "type": "translate",
+     "en": "Where is the pharmacy?",
+     "ko": "약국이 어디예요?"
+    },
+    {
+     "type": "translate",
+     "en": "Please say that again.",
+     "ko": "다시 한번 말해 주세요."
+    },
+    {
+     "type": "translate",
+     "en": "Where is the hospital?",
+     "ko": "병원이 어디예요?"
+    },
+    {
+     "type": "translate",
+     "en": "Please let me off here.",
+     "ko": "여기서 내려 주세요."
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "이 남자___ 의사예요.",
+     "answer": "는",
+     "options": [
+      "는",
+      "은",
+      "를",
+      "을"
+     ],
+     "en": "This man is a doctor.",
+     "why": "남자 ends in a vowel, so the topic marker is 는."
+    },
+    {
+     "type": "fill",
+     "ko": "그 선생님___ 일본 사람이에요.",
+     "answer": "은",
+     "options": [
+      "은",
+      "는",
+      "을",
+      "를"
+     ],
+     "en": "That teacher is Japanese.",
+     "why": "선생님 ends in a consonant, so the topic marker is 은."
+    },
+    {
+     "type": "fill",
+     "ko": "이것은 침대___.",
+     "answer": "예요",
+     "options": [
+      "예요",
+      "이에요",
+      "에요",
+      "이예요"
+     ],
+     "en": "This is a bed.",
+     "why": "침대 ends in a vowel, so 이다 becomes 예요."
+    },
+    {
+     "type": "fill",
+     "ko": "그 남자는 학생___.",
+     "answer": "이에요",
+     "options": [
+      "이에요",
+      "예요",
+      "에요",
+      "이예요"
+     ],
+     "en": "That man is a student.",
+     "why": "학생 ends in a consonant, so 이다 becomes 이에요."
+    },
+    {
+     "type": "fill",
+     "ko": "여자는 문___ 열어요.",
+     "answer": "을",
+     "options": [
+      "을",
+      "를",
+      "에",
+      "의"
+     ],
+     "en": "The woman opens the door.",
+     "why": "문 is the object and ends in a consonant, so it takes 을."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 소파___ 원해요.",
+     "answer": "를",
+     "options": [
+      "를",
+      "을",
+      "에",
+      "의"
+     ],
+     "en": "I want a sofa.",
+     "why": "소파 is the object and ends in a vowel, so it takes 를."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 사람은 의사예요.",
+     "answer": "저",
+     "options": [
+      "저",
+      "이것",
+      "그것",
+      "저것"
+     ],
+     "en": "That person over there is a doctor.",
+     "why": "Before a noun use 저 alone; 저것 already means 'that thing' and cannot take another noun."
+    },
+    {
+     "type": "fill",
+     "ko": "___은 의자예요.",
+     "answer": "저것",
+     "options": [
+      "저것",
+      "저",
+      "이",
+      "그"
+     ],
+     "en": "That (over there) is a chair.",
+     "why": "On their own, 이/그/저 need 것 to mean 'this/that thing'."
+    },
+    {
+     "type": "translate",
+     "en": "That person is Japanese.",
+     "ko": "그 사람은 일본 사람이에요."
+    },
+    {
+     "type": "translate",
+     "en": "This is a table.",
+     "ko": "이것은 탁자예요."
+    },
+    {
+     "type": "translate",
+     "en": "This is a Korean car.",
+     "ko": "이것은 한국 차예요."
+    },
+    {
+     "type": "translate",
+     "en": "The woman wants a car.",
+     "ko": "여자는 차를 원해요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 민수예요. 저는 한국 사람이에요. 저는 학생이에요. 이 여자는 유키예요. 유키는 일본 사람이에요. 유키는 선생님이에요.",
+    "en": "I am Minsu. I am Korean. I am a student. This woman is Yuki. Yuki is Japanese. Yuki is a teacher.",
+    "questions": [
+     {
+      "q": "What is Minsu?",
+      "a": "A student (학생)."
+     },
+     {
+      "q": "Where is Yuki from?",
+      "a": "Japan (일본)."
+     },
+     {
+      "q": "What does Yuki do?",
+      "a": "She is a teacher (선생님)."
+     }
+    ]
+   }
+  },
+  {
+   "n": 2,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "고양이___ 소파 위에 있어요.",
+     "answer": "가",
+     "options": [
+      "가",
+      "이",
+      "를",
+      "에"
+     ],
+     "en": "The cat is on the sofa.",
+     "why": "고양이 ends in a vowel, so the subject marker is 가."
+    },
+    {
+     "type": "fill",
+     "ko": "가방___ 의자 밑에 있어요.",
+     "answer": "이",
+     "options": [
+      "이",
+      "가",
+      "을",
+      "에"
+     ],
+     "en": "The bag is under the chair.",
+     "why": "가방 ends in a consonant, so the subject marker is 이."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 선생님이에요.",
+     "answer": "제가",
+     "options": [
+      "제가",
+      "저가",
+      "저이",
+      "저를"
+     ],
+     "en": "I am the teacher.",
+     "why": "저 + 가 always becomes 제가."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 강아지___ 있어요.",
+     "answer": "가",
+     "options": [
+      "가",
+      "를",
+      "이",
+      "에"
+     ],
+     "en": "I have a puppy.",
+     "why": "With 있다 meaning 'have', the thing you have takes 이/가, not 을/를."
+    },
+    {
+     "type": "fill",
+     "ko": "민수는 펜___ 있어요.",
+     "answer": "이",
+     "options": [
+      "이",
+      "가",
+      "을",
+      "를"
+     ],
+     "en": "Minsu has a pen.",
+     "why": "The owned thing takes 이/가, and 펜 ends in a consonant, so 이."
+    },
+    {
+     "type": "fill",
+     "ko": "커피는 냉장고___ 있어요.",
+     "answer": "에",
+     "options": [
+      "에",
+      "을",
+      "를",
+      "의"
+     ],
+     "en": "The coffee is in the fridge.",
+     "why": "에 marks the place where something is."
+    },
+    {
+     "type": "fill",
+     "ko": "식당은 은행 ___에 있어요.",
+     "answer": "뒤",
+     "options": [
+      "뒤",
+      "앞",
+      "옆",
+      "안"
+     ],
+     "en": "The restaurant is behind the bank.",
+     "why": "뒤 means 'behind'; the reference noun comes first, then the position word."
+    },
+    {
+     "type": "fill",
+     "ko": "개는 탁자 밑___ 있어요.",
+     "answer": "에",
+     "options": [
+      "에",
+      "이",
+      "를",
+      "은"
+     ],
+     "en": "The dog is under the table.",
+     "why": "Position words take 에 before 있다: 밑에 있어요."
+    },
+    {
+     "type": "translate",
+     "en": "The school is in front of the bank.",
+     "ko": "학교는 은행 앞에 있어요."
+    },
+    {
+     "type": "translate",
+     "en": "I have a cat.",
+     "ko": "저는 고양이가 있어요."
+    },
+    {
+     "type": "translate",
+     "en": "The phone is in the bag.",
+     "ko": "전화기는 가방 안에 있어요."
+    },
+    {
+     "type": "translate",
+     "en": "There is a television in the room.",
+     "ko": "방에 텔레비전이 있어요."
+    }
+   ],
+   "reading": {
+    "ko": "민수는 호텔에 있어요. 호텔 옆에 식당이 있어요. 식당 앞에 은행이 있어요. 민수는 가방이 있어요. 가방 안에 책이 있어요. 책 위에 펜이 있어요.",
+    "en": "Minsu is at the hotel. There is a restaurant next to the hotel. There is a bank in front of the restaurant. Minsu has a bag. There is a book in the bag. There is a pen on the book.",
+    "questions": [
+     {
+      "q": "Where is Minsu?",
+      "a": "At the hotel (호텔)."
+     },
+     {
+      "q": "What is next to the hotel?",
+      "a": "A restaurant (식당)."
+     },
+     {
+      "q": "What is in Minsu's bag?",
+      "a": "A book, with a pen on top of it."
+     }
+    ]
+   }
+  },
+  {
+   "n": 3,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 케이크___ 좋아해요.",
+     "answer": "를",
+     "options": [
+      "를",
+      "가",
+      "을",
+      "의"
+     ],
+     "en": "I like cake.",
+     "why": "좋아하다 is a verb that takes an object, and 케이크 ends in a vowel, so 를."
+    },
+    {
+     "type": "fill",
+     "ko": "이 케이크는 ___.",
+     "answer": "좋아요",
+     "options": [
+      "좋아요",
+      "좋아해요",
+      "좋아예요",
+      "좋이에요"
+     ],
+     "en": "This cake is good.",
+     "why": "좋다 is an adjective meaning 'to be good'; 좋아하다 means 'to like'."
+    },
+    {
+     "type": "fill",
+     "ko": "제 친구는 일본 음식을 ___.",
+     "answer": "좋아해요",
+     "options": [
+      "좋아해요",
+      "좋아요",
+      "좋아요해요",
+      "좋다예요"
+     ],
+     "en": "My friend likes Japanese food.",
+     "why": "An object with 을/를 needs the verb 좋아하다, not the adjective 좋다."
+    },
+    {
+     "type": "fill",
+     "ko": "선생님___ 가방은 비싸요.",
+     "answer": "의",
+     "options": [
+      "의",
+      "에",
+      "를",
+      "가"
+     ],
+     "en": "The teacher's bag is expensive.",
+     "why": "의 between two nouns makes the first one the owner."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 선생님은 아주 좋아요.",
+     "answer": "우리",
+     "options": [
+      "우리",
+      "우리는",
+      "우리를",
+      "저는"
+     ],
+     "en": "Our teacher is very good.",
+     "why": "Before a noun, 우리 means 'our' and needs no particle."
+    },
+    {
+     "type": "fill",
+     "ko": "이 버스는 아주 ___.",
+     "answer": "커요",
+     "options": [
+      "커요",
+      "크다예요",
+      "크이에요",
+      "크예요"
+     ],
+     "en": "This bus is very big.",
+     "why": "Adjectives already mean 'to be', so no 이에요; 크다 becomes 커요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 문___ 닫아요.",
+     "answer": "을",
+     "options": [
+      "을",
+      "를",
+      "이",
+      "에"
+     ],
+     "en": "I close the door.",
+     "why": "문 is the object of 닫다 and ends in a consonant, so 을."
+    },
+    {
+     "type": "fill",
+     "ko": "우리는 공항___ 가요.",
+     "answer": "에",
+     "options": [
+      "에",
+      "의",
+      "이",
+      "가"
+     ],
+     "en": "We go to the airport.",
+     "why": "에 marks the destination of 가다."
+    },
+    {
+     "type": "translate",
+     "en": "I like coffee.",
+     "ko": "저는 커피를 좋아해요."
+    },
+    {
+     "type": "translate",
+     "en": "That bag is expensive.",
+     "ko": "그 가방은 비싸요."
+    },
+    {
+     "type": "translate",
+     "en": "We go to the hospital.",
+     "ko": "우리는 병원에 가요."
+    },
+    {
+     "type": "translate",
+     "en": "My friend's house is small.",
+     "ko": "제 친구의 집은 작아요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 민수예요. 우리 집은 공원 옆에 있어요. 우리 집은 작아요. 저는 한국 음식을 좋아해요. 우리는 식당에 가요. 그 식당의 음식은 아주 좋아요.",
+    "en": "I am Minsu. Our house is next to the park. Our house is small. I like Korean food. We go to a restaurant. That restaurant's food is very good.",
+    "questions": [
+     {
+      "q": "Where is Minsu's house?",
+      "a": "Next to the park (공원)."
+     },
+     {
+      "q": "What food does Minsu like?",
+      "a": "Korean food (한국 음식)."
+     },
+     {
+      "q": "How is the restaurant's food?",
+      "a": "Very good."
+     }
+    ]
+   }
+  },
+  {
+   "n": 4,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 ___ 가방을 원해요.",
+     "answer": "작은",
+     "options": [
+      "작은",
+      "작는",
+      "작아요",
+      "작다"
+     ],
+     "en": "I want a small bag.",
+     "why": "작다 has a consonant stem, so it takes 은 before a noun."
+    },
+    {
+     "type": "fill",
+     "ko": "그것은 ___ 차예요.",
+     "answer": "비싼",
+     "options": [
+      "비싼",
+      "비싸은",
+      "비싸는",
+      "비싸요"
+     ],
+     "en": "That is an expensive car.",
+     "why": "비싸다 has a vowel stem, so it takes ㄴ before a noun."
+    },
+    {
+     "type": "fill",
+     "ko": "이것은 ___ 길이에요.",
+     "answer": "긴",
+     "options": [
+      "긴",
+      "길은",
+      "길는",
+      "길어요"
+     ],
+     "en": "This is a long street.",
+     "why": "길다 drops its ㄹ and takes ㄴ, giving 긴."
+    },
+    {
+     "type": "fill",
+     "ko": "이것은 ___ 사과예요.",
+     "answer": "맛있는",
+     "options": [
+      "맛있는",
+      "맛있은",
+      "맛있다",
+      "맛있어요"
+     ],
+     "en": "This is a delicious apple.",
+     "why": "Adjectives ending in 있다 take 는 before a noun."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 아이는 집에 있어요.",
+     "answer": "행복한",
+     "options": [
+      "행복한",
+      "행복하은",
+      "행복하는",
+      "행복해요"
+     ],
+     "en": "The happy child is at home.",
+     "why": "행복하다 has a vowel stem, so it becomes 행복한 before a noun."
+    },
+    {
+     "type": "fill",
+     "ko": "거리에 택시가 ___.",
+     "answer": "많아요",
+     "options": [
+      "많아요",
+      "많은",
+      "많이에요",
+      "많다요"
+     ],
+     "en": "There are a lot of taxis on the street.",
+     "why": "Noun이/가 많아요 says there are many of something."
+    },
+    {
+     "type": "fill",
+     "ko": "저___ 영어를 배워요.",
+     "answer": "도",
+     "options": [
+      "도",
+      "는도",
+      "도는",
+      "을"
+     ],
+     "en": "I learn English too.",
+     "why": "도 replaces 는 entirely; it is never stacked with it."
+    },
+    {
+     "type": "fill",
+     "ko": "아버지는 사과___ 먹어요.",
+     "answer": "도",
+     "options": [
+      "도",
+      "를도",
+      "도를",
+      "은"
+     ],
+     "en": "Father eats apples too.",
+     "why": "도 replaces the object marker 를 instead of joining it."
+    },
+    {
+     "type": "translate",
+     "en": "My wife is a happy person.",
+     "ko": "제 아내는 행복한 사람이에요."
+    },
+    {
+     "type": "translate",
+     "en": "There are many people at the station.",
+     "ko": "역에 사람이 많아요."
+    },
+    {
+     "type": "translate",
+     "en": "My son learns Korean too.",
+     "ko": "제 아들도 한국어를 배워요."
+    },
+    {
+     "type": "translate",
+     "en": "I live in a big house.",
+     "ko": "저는 큰 집에 살아요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 지수예요. 저는 서울에 살아요. 서울은 아주 큰 도시예요. 거리에 사람이 많아요. 제 남편은 영어 선생님이에요. 저도 지금 영어를 배워요.",
+    "en": "I am Jisu. I live in Seoul. Seoul is a very big city. There are a lot of people on the streets. My husband is an English teacher. I am learning English now too.",
+    "questions": [
+     {
+      "q": "Where does Jisu live?",
+      "a": "In Seoul (서울)."
+     },
+     {
+      "q": "What does her husband do?",
+      "a": "He is an English teacher."
+     },
+     {
+      "q": "What is Jisu learning now?",
+      "a": "English (영어)."
+     }
+    ]
+   }
+  },
+  {
+   "n": 5,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "동생은 사과를 ___.",
+     "answer": "먹는다",
+     "options": [
+      "먹는다",
+      "먹은다",
+      "먹다",
+      "먹어다"
+     ],
+     "en": "My younger sibling eats an apple.",
+     "why": "먹다 has a consonant stem, so the plain present is 먹는다."
+    },
+    {
+     "type": "fill",
+     "ko": "형은 공을 ___.",
+     "answer": "던진다",
+     "options": [
+      "던진다",
+      "던지는다",
+      "던지은다",
+      "던지다"
+     ],
+     "en": "My older brother throws the ball.",
+     "why": "던지다 has a vowel stem, so the plain present adds ㄴ다."
+    },
+    {
+     "type": "fill",
+     "ko": "그 가게는 ___.",
+     "answer": "멀다",
+     "options": [
+      "멀다",
+      "먼다",
+      "멀는다",
+      "멀어다"
+     ],
+     "en": "That store is far.",
+     "why": "Adjectives stay in their 다 form in the plain present."
+    },
+    {
+     "type": "fill",
+     "ko": "나는 어제 박물관에 ___.",
+     "answer": "갔다",
+     "options": [
+      "갔다",
+      "가았다",
+      "간다",
+      "가겠다"
+     ],
+     "en": "I went to the museum yesterday.",
+     "why": "가 + 았다 merges into 갔다."
+    },
+    {
+     "type": "fill",
+     "ko": "언니는 어제 한국어를 ___.",
+     "answer": "공부했다",
+     "options": [
+      "공부했다",
+      "공부하았다",
+      "공부한다",
+      "공부하겠다"
+     ],
+     "en": "My older sister studied Korean yesterday.",
+     "why": "하 becomes 했다 in the past tense."
+    },
+    {
+     "type": "fill",
+     "ko": "우리는 어제 길을 ___.",
+     "answer": "건넜다",
+     "options": [
+      "건넜다",
+      "건너았다",
+      "건넌다",
+      "건너겠다"
+     ],
+     "en": "We crossed the road yesterday.",
+     "why": "건너 + 었다 merges into 건넜다."
+    },
+    {
+     "type": "fill",
+     "ko": "나는 내일 가게에 ___.",
+     "answer": "가겠다",
+     "options": [
+      "가겠다",
+      "갔다",
+      "가았겠다",
+      "가겠았다"
+     ],
+     "en": "I will go to the store tomorrow.",
+     "why": "겠다 attaches straight to the stem to show your intention."
+    },
+    {
+     "type": "fill",
+     "ko": "___ 학생이야?",
+     "answer": "네가",
+     "options": [
+      "네가",
+      "너이",
+      "너를",
+      "너은"
+     ],
+     "en": "Are you the student?",
+     "why": "너 + 가 becomes 네가, just like 저 + 가 becomes 제가."
+    },
+    {
+     "type": "translate",
+     "en": "My older brother (said by a man) learned Korean.",
+     "ko": "형은 한국어를 배웠다."
+    },
+    {
+     "type": "translate",
+     "en": "I will meet my friend on Saturday.",
+     "ko": "나는 토요일에 친구를 만나겠다."
+    },
+    {
+     "type": "translate",
+     "en": "My younger sister dislikes rain.",
+     "ko": "여동생은 비를 싫어한다."
+    },
+    {
+     "type": "translate",
+     "en": "Today is Monday.",
+     "ko": "오늘은 월요일이다."
+    }
+   ],
+   "reading": {
+    "ko": "어제는 토요일이었다. 나는 어제 박물관에 갔다. 박물관은 멀었다. 하지만 아주 재미있었다. 내 동생도 박물관을 좋아한다. 내일 나는 공부하겠다.",
+    "en": "Yesterday was Saturday. I went to the museum yesterday. The museum was far. But it was a lot of fun. My younger sibling likes the museum too. Tomorrow I will study.",
+    "questions": [
+     {
+      "q": "Where did the writer go yesterday?",
+      "a": "To the museum (박물관)."
+     },
+     {
+      "q": "Was the museum close?",
+      "a": "No, it was far."
+     },
+     {
+      "q": "What will the writer do tomorrow?",
+      "a": "Study."
+     }
+    ]
+   }
+  },
+  {
+   "n": 6,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 의자에 ___.",
+     "answer": "앉아요",
+     "options": [
+      "앉아요",
+      "앉어요",
+      "앉요",
+      "앉으요"
+     ],
+     "en": "I sit on the chair.",
+     "why": "The last vowel of 앉 is ㅏ, so it takes 아요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 친구를 ___.",
+     "answer": "기다려요",
+     "options": [
+      "기다려요",
+      "기다리요",
+      "기다려어요",
+      "기다립요"
+     ],
+     "en": "I am waiting for my friend.",
+     "why": "기다리 + 어요 merges into 기다려요."
+    },
+    {
+     "type": "fill",
+     "ko": "동생은 지금 ___.",
+     "answer": "자",
+     "options": [
+      "자",
+      "자아",
+      "자어",
+      "잔요"
+     ],
+     "en": "My younger sibling is sleeping now. (casual)",
+     "why": "자 + 아 merges back into 자 in casual speech."
+    },
+    {
+     "type": "fill",
+     "ko": "나는 어제 영화를 ___.",
+     "answer": "봤어",
+     "options": [
+      "봤어",
+      "봐었어",
+      "봤어다",
+      "보어"
+     ],
+     "en": "I watched a movie yesterday. (casual)",
+     "why": "보 + 았어 merges into 봤어."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 항상 ___.",
+     "answer": "운동해요",
+     "options": [
+      "운동해요",
+      "운동하요",
+      "운동하아요",
+      "운동해어요"
+     ],
+     "en": "I always exercise.",
+     "why": "하 becomes 해, then 요 is added: 운동해요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 교실을 ___.",
+     "answer": "청소합니다",
+     "options": [
+      "청소합니다",
+      "청소하습니다",
+      "청소해습니다",
+      "청소햅니다"
+     ],
+     "en": "I clean the classroom. (formal)",
+     "why": "청소하 ends in a vowel, so it takes ㅂ니다."
+    },
+    {
+     "type": "fill",
+     "ko": "아이는 의자에 ___.",
+     "answer": "앉습니다",
+     "options": [
+      "앉습니다",
+      "앉ㅂ니다",
+      "앉읍니다",
+      "앉아습니다"
+     ],
+     "en": "The child sits on the chair. (formal)",
+     "why": "앉 ends in a consonant, so it takes 습니다."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 어제 친구를 ___.",
+     "answer": "만났습니다",
+     "options": [
+      "만났습니다",
+      "만나았습니다",
+      "만났니다",
+      "만납었니다"
+     ],
+     "en": "I met my friend yesterday. (formal)",
+     "why": "Past 만났 + 습니다 gives the formal past 만났습니다."
+    },
+    {
+     "type": "translate",
+     "en": "I am sitting on the sofa.",
+     "ko": "저는 소파에 앉아요."
+    },
+    {
+     "type": "translate",
+     "en": "I will exercise tomorrow. (formal)",
+     "ko": "저는 내일 운동하겠습니다."
+    },
+    {
+     "type": "translate",
+     "en": "I touched the cat. (casual)",
+     "ko": "나는 고양이를 만졌어."
+    },
+    {
+     "type": "translate",
+     "en": "I am waiting for the bus.",
+     "ko": "저는 버스를 기다려요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 지금 교실에 있어요. 저는 의자에 앉아요. 저는 친구를 기다려요. 친구는 항상 느려요. 어제 우리는 영화를 봤어요. 영화는 아주 재미있었어요.",
+    "en": "I am in the classroom now. I sit on a chair. I am waiting for my friend. My friend is always slow. Yesterday we watched a movie. The movie was very fun.",
+    "questions": [
+     {
+      "q": "Where is the writer?",
+      "a": "In the classroom (교실)."
+     },
+     {
+      "q": "Who is the writer waiting for?",
+      "a": "A friend."
+     },
+     {
+      "q": "What did they do yesterday?",
+      "a": "They watched a movie."
+     }
+    ]
+   }
+  },
+  {
+   "n": 7,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "삼촌은 큰 집을 ___.",
+     "answer": "지었어요",
+     "options": [
+      "지었어요",
+      "짓었어요",
+      "짓어요",
+      "지어었어요"
+     ],
+     "en": "My uncle built a big house.",
+     "why": "짓다 is ㅅ irregular, so the ㅅ drops before 었어요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 친구의 비밀을 ___.",
+     "answer": "들었어요",
+     "options": [
+      "들었어요",
+      "듣었어요",
+      "들어었어요",
+      "듯었어요"
+     ],
+     "en": "I heard my friend's secret.",
+     "why": "듣다 is ㄷ irregular, so ㄷ becomes ㄹ before a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 문을 ___.",
+     "answer": "닫았어요",
+     "options": [
+      "닫았어요",
+      "닫었어요",
+      "다랐어요",
+      "닫어요"
+     ],
+     "en": "I closed the door.",
+     "why": "닫다 is a regular ㄷ verb, so the ㄷ stays."
+    },
+    {
+     "type": "fill",
+     "ko": "겨울은 아주 ___.",
+     "answer": "추워요",
+     "options": [
+      "추워요",
+      "춥어요",
+      "추와요",
+      "춥아요"
+     ],
+     "en": "Winter is very cold.",
+     "why": "춥다 is ㅂ irregular: ㅂ becomes 우, which merges with 어요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 매일 친구를 ___.",
+     "answer": "도와요",
+     "options": [
+      "도와요",
+      "도워요",
+      "돕아요",
+      "돕어요"
+     ],
+     "en": "I help my friend every day.",
+     "why": "돕다 is the exception that becomes 도와요."
+    },
+    {
+     "type": "fill",
+     "ko": "제 딸은 아주 ___.",
+     "answer": "예뻐요",
+     "options": [
+      "예뻐요",
+      "예쁘어요",
+      "예빠요",
+      "예뻬요"
+     ],
+     "en": "My daughter is very pretty.",
+     "why": "The ㅡ in 예쁘 drops, and 어요 is used because the vowel before it is not ㅏ or ㅗ."
+    },
+    {
+     "type": "fill",
+     "ko": "그 자전거는 아주 ___.",
+     "answer": "빨라요",
+     "options": [
+      "빨라요",
+      "빠르어요",
+      "빨러요",
+      "빠라요"
+     ],
+     "en": "That bicycle is very fast.",
+     "why": "빠르다 is 르 irregular: an extra ㄹ is added, giving 빨라요."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 서울에 ___.",
+     "answer": "삽니다",
+     "options": [
+      "삽니다",
+      "살습니다",
+      "살읍니다",
+      "사습니다"
+     ],
+     "en": "I live in Seoul. (formal)",
+     "why": "살다 drops its ㄹ before ㅂ니다."
+    },
+    {
+     "type": "translate",
+     "en": "This problem is easy.",
+     "ko": "이 문제는 쉬워요."
+    },
+    {
+     "type": "translate",
+     "en": "The cat is soft.",
+     "ko": "고양이는 부드러워요."
+    },
+    {
+     "type": "translate",
+     "en": "I am busy in the afternoon.",
+     "ko": "저는 오후에 바빠요."
+    },
+    {
+     "type": "translate",
+     "en": "My older sister (said by a woman) teaches English.",
+     "ko": "제 언니는 영어를 가르쳐요."
+    }
+   ],
+   "reading": {
+    "ko": "지금은 겨울이에요. 오늘은 너무 추워요. 저는 오늘 아주 바빠요. 저녁에 저는 친구를 도와요. 친구의 고양이는 아주 귀여워요. 고양이의 털은 부드러워요.",
+    "en": "It is winter now. Today it is too cold. I am very busy today. In the evening I help my friend. My friend's cat is very cute. The cat's fur is soft.",
+    "questions": [
+     {
+      "q": "What season is it?",
+      "a": "Winter (겨울)."
+     },
+     {
+      "q": "What does the writer do in the evening?",
+      "a": "Helps a friend."
+     },
+     {
+      "q": "What is the cat's fur like?",
+      "a": "Soft."
+     }
+    ]
+   }
+  },
+  {
+   "n": 8,
+   "exercises": [
+    {
+     "type": "fill",
+     "ko": "저는 야채를 ___ 먹어요.",
+     "answer": "안",
+     "options": [
+      "안",
+      "않",
+      "아니",
+      "없"
+     ],
+     "en": "I don't eat vegetables.",
+     "why": "안 goes directly before the verb to make it negative."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 어제 운동 ___ 했어요.",
+     "answer": "안",
+     "options": [
+      "안",
+      "않",
+      "아니",
+      "지"
+     ],
+     "en": "I didn't exercise yesterday.",
+     "why": "With noun + 하다 verbs, 안 goes between the noun and 하다."
+    },
+    {
+     "type": "fill",
+     "ko": "그 책은 재미있지 ___.",
+     "answer": "않아요",
+     "options": [
+      "않아요",
+      "안아요",
+      "않요",
+      "아니에요"
+     ],
+     "en": "That book isn't fun.",
+     "why": "After ~지, use 않다, conjugated as 않아요."
+    },
+    {
+     "type": "fill",
+     "ko": "이 도서관은 크___ 않아요.",
+     "answer": "지",
+     "options": [
+      "지",
+      "게",
+      "고",
+      "기"
+     ],
+     "en": "This library isn't big.",
+     "why": "The negative pattern is stem + 지 않다."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 외국인___ 아니에요.",
+     "answer": "이",
+     "options": [
+      "이",
+      "가",
+      "을",
+      "를"
+     ],
+     "en": "I am not a foreigner.",
+     "why": "The noun before 아니다 takes 이/가, and 외국인 ends in a consonant."
+    },
+    {
+     "type": "fill",
+     "ko": "냉장고에 우유___ 없어요.",
+     "answer": "가",
+     "options": [
+      "가",
+      "를",
+      "이",
+      "에"
+     ],
+     "en": "There is no milk in the fridge.",
+     "why": "The missing thing takes 이/가 with 없다, and 우유 ends in a vowel."
+    },
+    {
+     "type": "fill",
+     "ko": "저는 겨울___ 싫어요.",
+     "answer": "이",
+     "options": [
+      "이",
+      "을",
+      "가",
+      "를"
+     ],
+     "en": "I don't like winter.",
+     "why": "싫다 is an adjective, so the disliked thing takes 이/가, not 을/를."
+    },
+    {
+     "type": "fill",
+     "ko": "아이는 ___ 놀아요.",
+     "answer": "행복하게",
+     "options": [
+      "행복하게",
+      "행복한",
+      "행복해",
+      "행복하지"
+     ],
+     "en": "The child plays happily.",
+     "why": "Adjective stem + 게 makes an adverb."
+    },
+    {
+     "type": "translate",
+     "en": "I don't have a car.",
+     "ko": "저는 차가 없어요."
+    },
+    {
+     "type": "translate",
+     "en": "I sometimes travel alone.",
+     "ko": "저는 가끔 혼자 여행해요."
+    },
+    {
+     "type": "translate",
+     "en": "This is not my book.",
+     "ko": "이것은 제 책이 아니에요."
+    },
+    {
+     "type": "translate",
+     "en": "My younger brother dislikes fish.",
+     "ko": "제 남동생은 생선을 싫어해요."
+    }
+   ],
+   "reading": {
+    "ko": "저는 학생이에요. 저는 자주 도서관에 가요. 하지만 어제는 도서관에 안 갔어요. 저는 많이 아팠어요. 오늘은 아프지 않아요. 지금 저는 다시 도서관에 가요.",
+    "en": "I am a student. I often go to the library. But yesterday I didn't go to the library. I was very sick. Today I'm not sick. Now I am going to the library again.",
+    "questions": [
+     {
+      "q": "How often does the writer usually go to the library?",
+      "a": "Often (자주)."
+     },
+     {
+      "q": "Why didn't the writer go yesterday?",
+      "a": "They were very sick."
+     },
+     {
+      "q": "Where is the writer going now?",
+      "a": "To the library again."
+     }
+    ]
+   }
+  }
+ ]
+}
