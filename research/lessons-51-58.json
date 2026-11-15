@@ -266,7 +266,7 @@
     },
     {
      "ko": "자동차",
-     "en": "car",
+     "en": "automobile",
      "pos": "noun"
     },
     {
@@ -356,7 +356,7 @@
     },
     {
      "ko": "점차",
-     "en": "gradually",
+     "en": "gradually (written)",
      "pos": "adverb"
     },
     {
@@ -544,13 +544,8 @@
      "pos": "noun"
     },
     {
-     "ko": "열",
-     "en": "heat",
-     "pos": "noun"
-    },
-    {
      "ko": "곳곳",
-     "en": "everywhere",
+     "en": "here and there, all over",
      "pos": "noun"
     },
     {
@@ -590,12 +585,12 @@
     },
     {
      "ko": "편안하다",
-     "en": "to be comfortable",
+     "en": "to be comfortable (at ease, peaceful)",
      "pos": "adjective"
     },
     {
      "ko": "쾌적하다",
-     "en": "to be pleasant",
+     "en": "to be pleasant (environment, air)",
      "pos": "adjective"
     },
     {
@@ -1110,7 +1105,7 @@
     },
     {
      "ko": "둘러보다",
-     "en": "to look around",
+     "en": "to look around (have a browse)",
      "pos": "verb"
     },
     {
@@ -1303,7 +1298,7 @@
     },
     {
      "ko": "응용하다",
-     "en": "to apply",
+     "en": "to apply (put knowledge to use)",
      "pos": "verb"
     },
     {
@@ -1318,7 +1313,7 @@
     },
     {
      "ko": "옮다",
-     "en": "to catch (a disease)",
+     "en": "to catch (from someone, be infected)",
      "pos": "verb"
     },
     {
@@ -1481,7 +1476,7 @@
     },
     {
      "ko": "고민하다",
-     "en": "to worry",
+     "en": "to agonise (over a decision)",
      "pos": "verb"
     },
     {

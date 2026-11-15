@@ -13,7 +13,7 @@
     },
     {
      "ko": "마감일",
-     "en": "deadline",
+     "en": "deadline (due date)",
      "pos": "noun"
     },
     {
@@ -316,7 +316,7 @@
     },
     {
      "ko": "복장",
-     "en": "clothes",
+     "en": "clothes (attire, dress code)",
      "pos": "noun"
     },
     {
@@ -446,7 +446,7 @@
     },
     {
      "ko": "청중",
-     "en": "audience",
+     "en": "audience (listeners: lecture, speech)",
      "pos": "noun"
     },
     {
@@ -658,7 +658,7 @@
     },
     {
      "ko": "매혹하다",
-     "en": "to captivate",
+     "en": "to enchant (formal)",
      "pos": "verb"
     },
     {
@@ -688,7 +688,7 @@
     },
     {
      "ko": "사로잡다",
-     "en": "to captivate",
+     "en": "to captivate (grip, capture hearts)",
      "pos": "verb"
     },
     {
@@ -1240,7 +1240,7 @@
     },
     {
      "ko": "집사람",
-     "en": "wife",
+     "en": "wife (my wife, said by husband)",
      "pos": "noun"
     },
     {
@@ -1295,12 +1295,12 @@
     },
     {
      "ko": "하절(기)",
-     "en": "summer",
+     "en": "summer season (official notices)",
      "pos": "noun"
     },
     {
      "ko": "동절(기)",
-     "en": "winter",
+     "en": "winter season (official notices)",
      "pos": "noun"
     },
     {
@@ -1340,7 +1340,7 @@
     },
     {
      "ko": "굉장히",
-     "en": "very",
+     "en": "extremely (emphatic)",
      "pos": "adverb"
     },
     {
@@ -1712,12 +1712,12 @@
     },
     {
      "ko": "우측",
-     "en": "right",
+     "en": "right side (formal, signs)",
      "pos": "noun"
     },
     {
      "ko": "좌측",
-     "en": "left",
+     "en": "left side (formal, signs)",
      "pos": "noun"
     },
     {
@@ -1727,12 +1727,12 @@
     },
     {
      "ko": "맞은편",
-     "en": "opposite side",
+     "en": "opposite side (directly facing)",
      "pos": "noun"
     },
     {
      "ko": "건너편",
-     "en": "opposite side",
+     "en": "other side (across a road/river)",
      "pos": "noun"
     },
     {

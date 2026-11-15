@@ -322,17 +322,17 @@
     },
     {
      "ko": "도심",
-     "en": "downtown",
+     "en": "city centre (formal)",
      "pos": "noun"
     },
     {
      "ko": "시내",
-     "en": "downtown",
+     "en": "downtown (going into town)",
      "pos": "noun"
     },
     {
      "ko": "추억",
-     "en": "memory",
+     "en": "memory (fond, of the past)",
      "pos": "noun"
     },
     {
@@ -432,7 +432,7 @@
     },
     {
      "ko": "편하다",
-     "en": "to be comfortable",
+     "en": "to be comfortable (comfy, convenient)",
      "pos": "adjective"
     },
     {
@@ -452,12 +452,12 @@
     },
     {
      "ko": "가장",
-     "en": "the most (superlative)",
+     "en": "the most (written)",
      "pos": "adverb"
     },
     {
      "ko": "제일",
-     "en": "the most (superlative)",
+     "en": "the most (spoken)",
      "pos": "adverb"
     },
     {
@@ -576,7 +576,7 @@
     },
     {
      "ko": "기온",
-     "en": "temperature",
+     "en": "temperature (air/weather)",
      "pos": "noun"
     },
     {
@@ -845,7 +845,7 @@
    "vocab": [
     {
      "ko": "소식",
-     "en": "news",
+     "en": "news (word from someone)",
      "pos": "noun"
     },
     {
@@ -885,7 +885,7 @@
     },
     {
      "ko": "예정",
-     "en": "schedule",
+     "en": "plan (what's expected to happen)",
      "pos": "noun"
     },
     {
@@ -935,7 +935,7 @@
     },
     {
      "ko": "지다",
-     "en": "to lose",
+     "en": "to lose (a game)",
      "pos": "verb"
     },
     {
@@ -950,7 +950,7 @@
     },
     {
      "ko": "즐겁다",
-     "en": "to be pleasant",
+     "en": "to be fun, enjoyable",
      "pos": "adjective"
     },
     {
@@ -995,12 +995,12 @@
     },
     {
      "ko": "벌써",
-     "en": "already",
+     "en": "already (sooner than expected)",
      "pos": "adverb"
     },
     {
      "ko": "이미",
-     "en": "already",
+     "en": "already (done, a fact)",
      "pos": "adverb"
     },
     {
@@ -1265,12 +1265,12 @@
     },
     {
      "ko": "예상하다",
-     "en": "to expect",
+     "en": "to expect (predict)",
      "pos": "verb"
     },
     {
      "ko": "올바르다",
-     "en": "to be correct",
+     "en": "to be correct (proper, right)",
      "pos": "adjective"
     },
     {
@@ -1289,23 +1289,18 @@
      "pos": "adverb"
     },
     {
-     "ko": "몇",
-     "en": "how many",
-     "pos": "other"
-    },
-    {
      "ko": "뭐",
-     "en": "what",
+     "en": "what (spoken)",
      "pos": "other"
     },
     {
      "ko": "무슨",
-     "en": "what",
+     "en": "what (+ noun)",
      "pos": "other"
     },
     {
      "ko": "무엇",
-     "en": "what",
+     "en": "what (formal)",
      "pos": "other"
     },
     {
@@ -1325,7 +1320,7 @@
     },
     {
      "ko": "대개",
-     "en": "usually",
+     "en": "mostly, generally",
      "pos": "adverb"
     },
     {
@@ -1589,7 +1584,7 @@
     },
     {
      "ko": "뉴스",
-     "en": "news",
+     "en": "news (broadcast)",
      "pos": "noun"
     },
     {
@@ -1639,7 +1634,7 @@
     },
     {
      "ko": "변경하다",
-     "en": "to change",
+     "en": "to change (formal: plans, settings)",
      "pos": "verb"
     },
     {
@@ -1719,7 +1714,7 @@
     },
     {
      "ko": "저렇다",
-     "en": "to be like that",
+     "en": "to be like that (over there)",
      "pos": "adjective"
     },
     {
@@ -1929,7 +1924,7 @@
     },
     {
      "ko": "양복",
-     "en": "suit",
+     "en": "suit (men's)",
      "pos": "noun"
     },
     {
@@ -2004,12 +1999,12 @@
     },
     {
      "ko": "뜨겁다",
-     "en": "to be hot",
+     "en": "to be hot (to the touch)",
      "pos": "adjective"
     },
     {
      "ko": "차갑다",
-     "en": "to be cold",
+     "en": "to be cold (to the touch)",
      "pos": "adjective"
     },
     {
@@ -2186,7 +2181,7 @@
     },
     {
      "ko": "어디나",
-     "en": "everywhere",
+     "en": "anywhere, everywhere",
      "pos": "adverb"
     },
     {
@@ -2236,7 +2231,7 @@
     },
     {
      "ko": "아무 때나",
-     "en": "anytime",
+     "en": "any time at all (any old time)",
      "pos": "adverb"
     },
     {
@@ -2266,17 +2261,17 @@
     },
     {
      "ko": "다",
-     "en": "all",
+     "en": "all (casual; also \"completely\")",
      "pos": "adverb"
     },
     {
      "ko": "데",
-     "en": "place",
+     "en": "place (after a modifier: 갈 데)",
      "pos": "noun"
     },
     {
      "ko": "언제든지",
-     "en": "anytime",
+     "en": "anytime (whenever you like)",
      "pos": "adverb"
     },
     {

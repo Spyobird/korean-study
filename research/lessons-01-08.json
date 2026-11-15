@@ -43,17 +43,17 @@
     },
     {
      "ko": "이",
-     "en": "this",
+     "en": "this (+ noun)",
      "pos": "other"
     },
     {
      "ko": "그",
-     "en": "that",
+     "en": "that (+ noun, near you / just mentioned)",
      "pos": "other"
     },
     {
      "ko": "저",
-     "en": "that (over there)",
+     "en": "that (+ noun, over there)",
      "pos": "other"
     },
     {
@@ -88,7 +88,7 @@
     },
     {
      "ko": "선생님",
-     "en": "teacher",
+     "en": "teacher (respectful, how you address them)",
      "pos": "noun"
     },
     {
@@ -103,7 +103,7 @@
     },
     {
      "ko": "차",
-     "en": "car",
+     "en": "car (everyday)",
      "pos": "noun"
     },
     {
@@ -168,7 +168,7 @@
     },
     {
      "ko": "아니",
-     "en": "no",
+     "en": "no (casual)",
      "pos": "other"
     }
    ],
@@ -393,7 +393,7 @@
     },
     {
      "ko": "안",
-     "en": "inside",
+     "en": "inside (of a space)",
      "pos": "noun"
     },
     {
@@ -434,7 +434,7 @@
     {
      "ko": "있다",
      "en": "to have something",
-     "pos": "adjective"
+     "pos": "verb"
     }
    ],
    "grammar": [
@@ -549,11 +549,6 @@
      "pos": "noun"
     },
     {
-     "ko": "병원",
-     "en": "hospital",
-     "pos": "noun"
-    },
-    {
      "ko": "공원",
      "en": "park",
      "pos": "noun"
@@ -565,7 +560,7 @@
     },
     {
      "ko": "머리",
-     "en": "head",
+     "en": "head (also hair)",
      "pos": "noun"
     },
     {
@@ -690,7 +685,7 @@
     },
     {
      "ko": "낡다",
-     "en": "to be old (not age)",
+     "en": "to be old (worn out)",
      "pos": "adjective"
     },
     {
@@ -725,12 +720,12 @@
     },
     {
      "ko": "아주",
-     "en": "very",
+     "en": "very (everyday)",
      "pos": "adverb"
     },
     {
      "ko": "매우",
-     "en": "very",
+     "en": "very (written/formal)",
      "pos": "adverb"
     },
     {
@@ -959,7 +954,7 @@
     },
     {
      "ko": "아침",
-     "en": "morning",
+     "en": "morning (also breakfast)",
      "pos": "noun"
     },
     {
@@ -1094,7 +1089,7 @@
     },
     {
      "ko": "지금",
-     "en": "now",
+     "en": "now (at this moment)",
      "pos": "adverb"
     },
     {
@@ -1304,7 +1299,7 @@
     },
     {
      "ko": "기대하다",
-     "en": "to expect",
+     "en": "to expect (look forward to)",
      "pos": "verb"
     },
     {
@@ -1369,7 +1364,7 @@
     },
     {
      "ko": "오래되다",
-     "en": "to be old (object)",
+     "en": "to be old (been around long)",
      "pos": "adjective"
     },
     {
@@ -1404,7 +1399,7 @@
     },
     {
      "ko": "일",
-     "en": "day",
+     "en": "day (with numbers: 3일)",
      "pos": "noun"
     },
     {
@@ -1551,7 +1546,7 @@
     },
     {
      "ko": "남방",
-     "en": "shirt",
+     "en": "shirt (casual button-up)",
      "pos": "noun"
     },
     {
@@ -1636,7 +1631,7 @@
     },
     {
      "ko": "생선",
-     "en": "fish",
+     "en": "fish (as food)",
      "pos": "noun"
     },
     {
@@ -1741,7 +1736,7 @@
     },
     {
      "ko": "그만하다",
-     "en": "to stop",
+     "en": "to stop (doing; quit)",
      "pos": "verb"
     },
     {
@@ -1871,7 +1866,7 @@
     },
     {
      "ko": "교사",
-     "en": "teacher",
+     "en": "teacher (job title)",
      "pos": "noun"
     },
     {
@@ -1916,7 +1911,7 @@
     },
     {
      "ko": "오전",
-     "en": "morning",
+     "en": "morning (a.m.)",
      "pos": "noun"
     },
     {
@@ -1991,7 +1986,7 @@
     },
     {
      "ko": "맞다",
-     "en": "to be correct",
+     "en": "to be correct (right answer)",
      "pos": "verb"
     },
     {
@@ -2001,12 +1996,12 @@
     },
     {
      "ko": "덥다",
-     "en": "to be hot",
+     "en": "to be hot (weather)",
      "pos": "adjective"
     },
     {
      "ko": "그립다",
-     "en": "to miss (a thing)",
+     "en": "to miss (long for)",
      "pos": "adjective"
     },
     {
@@ -2016,7 +2011,7 @@
     },
     {
      "ko": "춥다",
-     "en": "to be cold",
+     "en": "to be cold (weather)",
      "pos": "adjective"
     },
     {
@@ -2384,12 +2379,12 @@
     },
     {
      "ko": "젊다",
-     "en": "to be young",
+     "en": "to be young (youthful adult)",
      "pos": "adjective"
     },
     {
      "ko": "늙다",
-     "en": "to be old",
+     "en": "to be old (aged: people/animals)",
      "pos": "adjective"
     },
     {
@@ -2399,12 +2394,12 @@
     },
     {
      "ko": "바로",
-     "en": "immediately",
+     "en": "immediately (right away)",
      "pos": "adverb"
     },
     {
      "ko": "즉시",
-     "en": "immediately",
+     "en": "immediately (formal, instantly)",
      "pos": "adverb"
     },
     {

@@ -23,7 +23,7 @@
     },
     {
      "ko": "연세",
-     "en": "age",
+     "en": "age (honorific)",
      "pos": "noun"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
      "ko": "야간",
-     "en": "night",
+     "en": "night-time (shifts, classes)",
      "pos": "noun"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
      "ko": "해설하다",
-     "en": "to explain",
+     "en": "to explain (commentary)",
      "pos": "verb"
     },
     {
@@ -466,7 +466,7 @@
     },
     {
      "ko": "청결하다",
-     "en": "to be clean",
+     "en": "to be clean (hygienic)",
      "pos": "adjective"
     },
     {
@@ -544,7 +544,7 @@
    "vocab": [
     {
      "ko": "일정",
-     "en": "schedule",
+     "en": "schedule (itinerary)",
      "pos": "noun"
     },
     {
@@ -654,12 +654,12 @@
     },
     {
      "ko": "횡단하다",
-     "en": "to cross",
+     "en": "to cross (formal: traverse)",
      "pos": "verb"
     },
     {
      "ko": "판매하다",
-     "en": "to sell",
+     "en": "to sell (formal/commercial)",
      "pos": "verb"
     },
     {
@@ -679,7 +679,7 @@
     },
     {
      "ko": "문득",
-     "en": "suddenly",
+     "en": "suddenly (a thought strikes)",
      "pos": "adverb"
     }
    ],
@@ -780,7 +780,7 @@
     },
     {
      "ko": "무리",
-     "en": "group",
+     "en": "group (crowd, herd)",
      "pos": "noun"
     },
     {
@@ -790,7 +790,7 @@
     },
     {
      "ko": "교원",
-     "en": "teacher",
+     "en": "teacher (official: teaching staff)",
      "pos": "noun"
     },
     {
@@ -835,7 +835,7 @@
     },
     {
      "ko": "주고받다",
-     "en": "to exchange",
+     "en": "to exchange (give and receive)",
      "pos": "verb"
     },
     {
@@ -845,12 +845,12 @@
     },
     {
      "ko": "공고하다",
-     "en": "to announce",
+     "en": "to announce (post an official notice)",
      "pos": "verb"
     },
     {
      "ko": "연기하다",
-     "en": "to act",
+     "en": "to act (perform a role)",
      "pos": "verb"
     },
     {
@@ -1260,7 +1260,7 @@
     },
     {
      "ko": "세로",
-     "en": "length",
+     "en": "height, vertical length (vs 가로 width)",
      "pos": "noun"
     },
     {
@@ -1489,7 +1489,7 @@
     },
     {
      "ko": "보장하다",
-     "en": "to guarantee",
+     "en": "to guarantee (ensure: rights, safety)",
      "pos": "verb"
     },
     {

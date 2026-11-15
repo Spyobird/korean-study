@@ -88,6 +88,23 @@ for (const L of LESSONS) {
     if (!CARDS[id]) { CARDS[id] = { kind: 'sent', ex, g, n: L.n }; lc.sent.push(id); }
   }
 }
+// Words sharing a Korean form (저 = I / that) or an English gloss (to be cold = 춥다 / 차갑다): cards name the ones you already know
+const gloss = en => en.toLowerCase().replace(/\s*\(.*?\)/g, '').trim(), SIB = {};
+for (const id in CARDS) if (CARDS[id].kind === 'rec') for (const k of ['ko:' + CARDS[id].v.ko, 'en:' + gloss(CARDS[id].v.en)]) (SIB[k] ??= []).push(id);
+// Hint with the part of speech when that alone tells them apart (저: noun vs not), else name the known look-alikes
+const notHint = (rid, k, show) => {
+  const sib = SIB[k].filter(s => s !== rid && S.cards[s]).map(s => CARDS[s].v), pos = CARDS[rid].v.pos;
+  if (!sib.length) return '';
+  const label = pos !== 'other' ? pos : 'not a ' + [...new Set(sib.map(v => v.pos))].join('/');
+  return `<p class="muted">${sib.every(v => v.pos !== pos) ? label : 'Not: ' + sib.map(v => esc(show(v))).join(' · ')}</p>`;
+};
+// Gloss edits change card ids: move progress from an orphaned id to its one unstarted look-alike (same Korean, then same gloss)
+for (const id of Object.keys(S.cards)) if (id.startsWith('v:') && !CARDS[id]) {
+  const [ko, en] = id.slice(2, -2).split('|');
+  let to = (SIB['ko:' + ko] || []).map(r => r.slice(0, -1) + id.slice(-1)).filter(c => !S.cards[c]);
+  if (to.length > 1) to = to.filter(c => gloss(CARDS[c].v.en) === gloss(en));
+  if (to.length === 1) { S.cards[to[0]] = S.cards[id]; delete S.cards[id]; save(); }
+}
 const dueIds = () => Object.keys(S.cards).filter(id => CARDS[id] && S.cards[id].due <= Date.now())
   .sort((a, b) => S.cards[a].due - S.cards[b].due);
 
@@ -148,17 +165,17 @@ function study() {
   let body;
   if (C.kind === 'rec') body = `
     <p class="label">What does this mean?</p>
-    <div class="prompt ko">${esc(C.v.ko)} ${spk(C.v.ko)}</div>
+    <div class="prompt ko">${esc(C.v.ko)} ${spk(C.v.ko)}</div>${notHint(id, 'ko:' + C.v.ko, v => v.en)}
     <div class="back"><div class="answer">${esc(C.v.en)}</div><p class="muted">${esc(C.v.pos)} · Lesson ${C.n}</p>${grades}</div>
     <button class="primary reveal" data-act="reveal">Show answer</button>`;
   else if (C.kind === 'prod') body = `
     <p class="label">Say it in Korean</p>
-    <div class="prompt">${esc(C.v.en)}</div>
+    <div class="prompt">${esc(C.v.en)}</div>${notHint(id.slice(0, -1) + 'r', 'en:' + gloss(C.v.en), v => v.ko)}
     <input id="typed" lang="ko" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Type it (optional) — or just say it">
     <div class="back"><div class="answer ko">${esc(C.v.ko)} ${spk(C.v.ko)}${mic(C.v.ko)}</div><p id="verdict" class="muted"></p>${grades}</div>
     <button class="primary reveal" data-act="reveal">Show answer</button>`;
   else {
-    const words = C.ex.ko.split(/\s+/);
+    const words = C.ex.ko.replace(/[.,!?~…"'“”‘’]/g, '').split(/\s+/).filter(Boolean); // punctuation would give away word order
     let chips = shuffle(words.map((w, i) => ({ w, i })));
     if (words.length > 1 && chips.every((c, i) => c.i === i)) chips.reverse();
     sess.words = words;

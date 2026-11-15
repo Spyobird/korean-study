@@ -13,7 +13,7 @@
     },
     {
      "ko": "열",
-     "en": "fever",
+     "en": "fever, heat",
      "pos": "noun"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
      "ko": "값",
-     "en": "price",
+     "en": "price (everyday)",
      "pos": "noun"
     },
     {
@@ -133,7 +133,7 @@
     },
     {
      "ko": "행동하다",
-     "en": "to act",
+     "en": "to act (behave)",
      "pos": "verb"
     },
     {
@@ -153,12 +153,12 @@
     },
     {
      "ko": "잃다",
-     "en": "to lose",
+     "en": "to lose (something)",
      "pos": "verb"
     },
     {
      "ko": "잃어버리다",
-     "en": "to lose",
+     "en": "to lose (misplace, it's gone)",
      "pos": "verb"
     },
     {
@@ -188,7 +188,7 @@
     },
     {
      "ko": "이제",
-     "en": "now",
+     "en": "now (from now on / by now)",
      "pos": "adverb"
     },
     {
@@ -441,7 +441,7 @@
     },
     {
      "ko": "마지막",
-     "en": "last",
+     "en": "last (final)",
      "pos": "noun"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
      "ko": "초",
-     "en": "second",
+     "en": "second (unit of time)",
      "pos": "noun"
     },
     {
@@ -741,17 +741,17 @@
     },
     {
      "ko": "달",
-     "en": "month",
+     "en": "month (native: 한 달)",
      "pos": "noun"
     },
     {
      "ko": "개월",
-     "en": "month",
+     "en": "month (counter: 3개월)",
      "pos": "other"
     },
     {
      "ko": "날",
-     "en": "day",
+     "en": "day (a day, e.g. that day)",
      "pos": "noun"
     },
     {
@@ -961,12 +961,12 @@
     },
     {
      "ko": "목소리",
-     "en": "voice",
+     "en": "voice (a person's)",
      "pos": "noun"
     },
     {
      "ko": "의미",
-     "en": "meaning",
+     "en": "meaning (significance)",
      "pos": "noun"
     },
     {
@@ -1066,7 +1066,7 @@
     },
     {
      "ko": "신청하다",
-     "en": "to apply",
+     "en": "to apply (for something)",
      "pos": "verb"
     },
     {
@@ -1081,7 +1081,7 @@
     },
     {
      "ko": "얇다",
-     "en": "to be thin",
+     "en": "to be thin (paper, cloth)",
      "pos": "adjective"
     },
     {
@@ -1091,7 +1091,7 @@
     },
     {
      "ko": "어리다",
-     "en": "to be young",
+     "en": "to be young (child-age)",
      "pos": "adjective"
     },
     {
@@ -1136,7 +1136,7 @@
     },
     {
      "ko": "층",
-     "en": "floor",
+     "en": "floor (storey)",
      "pos": "noun"
     }
    ],
@@ -1410,12 +1410,12 @@
     },
     {
      "ko": "죄송하다",
-     "en": "to be sorry",
+     "en": "to be sorry (humble, formal)",
      "pos": "adjective"
     },
     {
      "ko": "미안하다",
-     "en": "to be sorry",
+     "en": "to be sorry (standard/casual)",
      "pos": "adjective"
     },
     {
@@ -1425,7 +1425,7 @@
     },
     {
      "ko": "가볍다",
-     "en": "to be light",
+     "en": "to be light (weight)",
      "pos": "adjective"
     },
     {
@@ -1606,7 +1606,7 @@
     },
     {
      "ko": "기억",
-     "en": "memory",
+     "en": "memory (remembering)",
      "pos": "noun"
     },
     {
@@ -1626,7 +1626,7 @@
     },
     {
      "ko": "켜다",
-     "en": "to turn on",
+     "en": "to turn on (light/power)",
      "pos": "verb"
     },
     {
@@ -1681,7 +1681,7 @@
     },
     {
      "ko": "내다",
-     "en": "to make (something) arise",
+     "en": "to put out, to produce (e.g. 화를 내다 = to get angry)",
      "pos": "verb"
     },
     {
@@ -1943,7 +1943,7 @@
     },
     {
      "ko": "삶",
-     "en": "life",
+     "en": "life (way of living)",
      "pos": "noun"
     },
     {
@@ -1968,7 +1968,7 @@
     },
     {
      "ko": "속",
-     "en": "inside",
+     "en": "inside (deep within: water, heart, crowd)",
      "pos": "noun"
     },
     {
@@ -2343,7 +2343,7 @@
     },
     {
      "ko": "개인적",
-     "en": "individual",
+     "en": "personal (-적)",
      "pos": "noun"
     },
     {
@@ -2428,17 +2428,17 @@
     },
     {
      "ko": "세상",
-     "en": "world",
+     "en": "world (society, life)",
      "pos": "noun"
     },
     {
      "ko": "세계",
-     "en": "world",
+     "en": "world (the globe, international)",
      "pos": "noun"
     },
     {
      "ko": "회화",
-     "en": "conversation",
+     "en": "conversation (language practice)",
      "pos": "noun"
     },
     {
@@ -2786,7 +2786,7 @@
     },
     {
      "ko": "분",
-     "en": "person (honorific); counter",
+     "en": "person (honorific); counter for people (honorific)",
      "pos": "other"
     }
    ],

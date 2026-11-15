@@ -28,7 +28,7 @@
     },
     {
      "ko": "두리번거리다",
-     "en": "to look around",
+     "en": "to look around (restlessly)",
      "pos": "verb"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
      "ko": "빠지다",
-     "en": "to lose weight",
+     "en": "to come out, fall out (살이 빠지다 = lose weight)",
      "pos": "verb"
     }
    ],
@@ -321,7 +321,7 @@
     },
     {
      "ko": "바닥",
-     "en": "floor",
+     "en": "floor (ground surface)",
      "pos": "noun"
     },
     {
@@ -824,12 +824,12 @@
     },
     {
      "ko": "한편",
-     "en": "on the other hand",
+     "en": "meanwhile",
      "pos": "noun"
     },
     {
      "ko": "반면",
-     "en": "on the other hand",
+     "en": "on the other hand (in contrast)",
      "pos": "noun"
     },
     {
@@ -1215,22 +1215,22 @@
     },
     {
      "ko": "주방",
-     "en": "kitchen",
+     "en": "kitchen (restaurant/formal)",
      "pos": "noun"
     },
     {
      "ko": "드시다",
-     "en": "to eat (formal)",
+     "en": "to eat (honorific)",
      "pos": "verb"
     },
     {
      "ko": "잡수시다",
-     "en": "to eat (formal)",
+     "en": "to eat (very honorific, for elders)",
      "pos": "verb"
     },
     {
      "ko": "주무시다",
-     "en": "to sleep (formal)",
+     "en": "to sleep (honorific)",
      "pos": "verb"
     },
     {
@@ -1240,12 +1240,12 @@
     },
     {
      "ko": "말씀하다",
-     "en": "to speak (formal)",
+     "en": "to speak (honorific)",
      "pos": "verb"
     },
     {
      "ko": "드리다",
-     "en": "to give (formal)",
+     "en": "to give (honorific, to someone)",
      "pos": "verb"
     },
     {
@@ -1409,7 +1409,7 @@
     },
     {
      "ko": "보안",
-     "en": "security",
+     "en": "security (data/systems)",
      "pos": "noun"
     },
     {
@@ -1469,12 +1469,12 @@
     },
     {
      "ko": "부끄러워하다",
-     "en": "to be shy",
+     "en": "to be shy (showing it; others)",
      "pos": "adjective"
     },
     {
      "ko": "슬퍼하다",
-     "en": "to be sad",
+     "en": "to be sad (showing it; others)",
      "pos": "adjective"
     },
     {
@@ -1698,7 +1698,7 @@
     },
     {
      "ko": "음성",
-     "en": "voice",
+     "en": "voice (audio, e.g. voice message)",
      "pos": "noun"
     },
     {
@@ -1723,7 +1723,7 @@
     },
     {
      "ko": "신체",
-     "en": "body",
+     "en": "body (formal/medical)",
      "pos": "noun"
     },
     {
@@ -1937,12 +1937,12 @@
     },
     {
      "ko": "버티다",
-     "en": "to endure, bear",
+     "en": "to hold out",
      "pos": "verb"
     },
     {
      "ko": "견디다",
-     "en": "to endure, bear",
+     "en": "to withstand",
      "pos": "verb"
     },
     {

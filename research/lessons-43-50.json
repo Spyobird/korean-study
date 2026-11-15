@@ -356,12 +356,12 @@
     },
     {
      "ko": "측정하다",
-     "en": "to measure",
+     "en": "to measure (formal/scientific)",
      "pos": "verb"
     },
     {
      "ko": "틀다",
-     "en": "to turn on",
+     "en": "to turn on (music, TV, tap, AC)",
      "pos": "verb"
     },
     {
@@ -371,7 +371,7 @@
     },
     {
      "ko": "연기하다",
-     "en": "to delay",
+     "en": "to postpone (formal)",
      "pos": "verb"
     },
     {
@@ -523,12 +523,12 @@
    "vocab": [
     {
      "ko": "정장",
-     "en": "suit",
+     "en": "formal wear (suit)",
      "pos": "noun"
     },
     {
      "ko": "기한",
-     "en": "deadline",
+     "en": "time limit, period",
      "pos": "noun"
     },
     {
@@ -568,7 +568,7 @@
     },
     {
      "ko": "세탁",
-     "en": "laundry",
+     "en": "laundry (formal; e.g. dry cleaning)",
      "pos": "noun"
     },
     {
@@ -628,7 +628,7 @@
     },
     {
      "ko": "시급하다",
-     "en": "to be urgent",
+     "en": "to be urgent (pressing, formal)",
      "pos": "adjective"
     },
     {
@@ -976,7 +976,7 @@
     },
     {
      "ko": "경비",
-     "en": "security",
+     "en": "security (guard)",
      "pos": "noun"
     },
     {
@@ -1235,7 +1235,7 @@
     },
     {
      "ko": "미루다",
-     "en": "to delay",
+     "en": "to put off",
      "pos": "verb"
     },
     {
@@ -1245,7 +1245,7 @@
     },
     {
      "ko": "달콤하다",
-     "en": "to be sweet",
+     "en": "to be sweet (pleasantly; romantic)",
      "pos": "adjective"
     },
     {
@@ -1414,7 +1414,7 @@
     },
     {
      "ko": "기억력",
-     "en": "memory",
+     "en": "memory (ability to remember)",
      "pos": "noun"
     },
     {
@@ -1424,12 +1424,12 @@
     },
     {
      "ko": "교도소",
-     "en": "prison",
+     "en": "prison (official term)",
      "pos": "noun"
     },
     {
      "ko": "죄",
-     "en": "crime",
+     "en": "sin, guilt",
      "pos": "noun"
     },
     {
@@ -1608,7 +1608,7 @@
     },
     {
      "ko": "권리",
-     "en": "right",
+     "en": "right (entitlement)",
      "pos": "noun"
     },
     {
