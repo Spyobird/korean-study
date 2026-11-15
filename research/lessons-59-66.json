@@ -60,7 +60,7 @@
    "grammar": [
     {
      "point": "어쩌면 (maybe / how on earth)",
-     "explanation": "어쩌면 marks a guess the speaker isn't sure about, so it usually pairs with an ending like ~ㄹ/을지(도) 모르다 ('might'). In a question, it can instead express amazement, roughly 'how on earth is it that...?'.",
+     "explanation": "어쩌면 is an adverb that usually goes at the start of a sentence. Its main use is 'maybe' or 'perhaps': the speaker is guessing and isn't sure. 어쩌면 can't carry the guess on its own, so it's paired with an ending that also expresses possibility, most often ~ㄹ/을지도 모르다 ('might').\n\nForming ~ㄹ/을지도 모르다: after a vowel stem add ㄹ지도 모르다 (오다 → 오 + ㄹ지도 → 올지도 몰라요). After a consonant stem add 을지도 모르다 (있다 → 있 + 을지도 → 있을지도 몰라요). ㄹ stems keep their ㄹ and add 지도 (알다 → 알지도 몰라요). ㅂ irregulars change ㅂ to 우 (쉽다 → 쉬울지도 몰라요).\n\nIts second use is in a question, often with 이렇게 or 그렇게. Here it shows amazement or admiration: 'how on earth...?' or 'how did you manage to...?'. It isn't really asking for an answer. Tell the two apart by context: a guess about something uncertain means 'maybe'; an amazed question about something someone has done or can do means 'how on earth'.",
      "examples": [
       {
        "ko": "어쩌면 내일 비가 올지도 몰라요.",
@@ -73,12 +73,25 @@
       {
        "ko": "어쩌면 정원을 이렇게 예쁘게 가꿨어요?",
        "en": "How did you manage to make the garden this pretty?"
+      },
+      {
+       "ko": "어쩌면 동생이 집에 있을지도 몰라요.",
+       "en": "My younger sibling might be at home."
+      },
+      {
+       "ko": "어쩌면 이번 시험은 생각보다 쉬울지도 몰라요.",
+       "en": "This exam might be easier than we think.",
+       "note": "쉽다 is ㅂ irregular: 쉽 → 쉬우 + ㄹ지도 → 쉬울지도."
+      },
+      {
+       "ko": "어쩌면 이렇게 한국어를 잘하세요?",
+       "en": "How on earth do you speak Korean so well?"
       }
      ]
     },
     {
      "point": "아무래도 + ~ㄹ/을 것 같다 (probably)",
-     "explanation": "아무래도 shows that the speaker, after weighing things up, thinks something is likely. It is usually paired with a guessing ending such as ~ㄹ/을 것 같다 or ~ㄴ/은 것 같다.",
+     "explanation": "아무래도 means 'probably' or 'it looks like', with a nuance: the speaker has thought it over, maybe even hoped for a different answer, and still reaches the same conclusion. It feels like 'no matter how I look at it...'. The conclusion is often a little unwelcome: being late, rain, having to cancel.\n\n아무래도 is just an adverb; the guess itself comes from the ending. For a future or general guess, use ~ㄹ/을 것 같다: 오다 → 오 + ㄹ 것 같다 → 올 것 같아요; 늦다 → 늦 + 을 것 같다 → 늦을 것 같아요. For something that already happened, use ~ㄴ/은 것 같다 on a verb: 떠나다 → 떠난 것 같아요; 먹다 → 먹은 것 같아요. For an adjective describing the present, ~ㄴ/은 것 같다 is present: 작다 → 작은 것 같아요.\n\nCompare with 어쩌면 (maybe, unsure). 아무래도 is much more confident: 어쩌면 비가 올지도 몰라요 = 'it might rain'; 아무래도 비가 올 것 같아요 = 'I'm pretty sure it's going to rain'.",
      "examples": [
       {
        "ko": "아무래도 오늘은 늦을 것 같아요.",
@@ -91,12 +104,25 @@
       {
        "ko": "아무래도 비가 올 것 같아요.",
        "en": "It will probably rain."
+      },
+      {
+       "ko": "아무래도 이 신발은 저한테 작은 것 같아요.",
+       "en": "These shoes seem to be too small for me."
+      },
+      {
+       "ko": "아무래도 내일 모임에 못 갈 것 같아요.",
+       "en": "I probably won't be able to make it to tomorrow's gathering."
+      },
+      {
+       "ko": "아무래도 길을 잘못 든 것 같아요.",
+       "en": "I think we probably took a wrong turn.",
+       "note": "들다 is an ㄹ stem, so the ㄹ drops before ㄴ: 들 + ㄴ → 든."
       }
      ]
     },
     {
      "point": "Honorific words: 연세 and 뵈다/뵙다",
-     "explanation": "연세 is the respectful word for 나이 (age), used when talking about elderly people. 뵈다 is the humble/honorific version of 보다 for seeing or meeting someone you must respect; it conjugates like 되다 (뵈어요 → 봬요). 뵙다 means the same but is a bit more formal.",
+     "explanation": "Korean has special respectful words for people you look up to: grandparents, older strangers, teachers, a boss. 연세 replaces 나이 (age). Ask with 어떻게 되다 plus honorific 시: 연세가 어떻게 되세요? Use 나이 for friends, children and yourself; never call your own age 연세.\n\n뵈다 and 뵙다 replace 보다 when you see or meet someone you must respect. They are humble words: they lower you, the person doing the seeing, so you don't add 시 to them. 뵈다 conjugates like 되다: 뵈 + 어요 → 뵈어요 → 봬요 (just like 되어요 → 돼요). Past: 뵈 + 었어요 → 뵀어요. Before consonant endings the stem stays 뵈: 뵈러, 뵐 거예요.\n\n뵙다 means the same but is more formal. It is used mostly with consonant endings: 뵙겠습니다, 뵙고. 처음 뵙겠습니다 is the standard formal greeting when you first meet someone. A common spelling mistake is 뵈요: 뵈 can't take 요 directly, so the correct form is 봬요. A quick test: wherever 되다 would become 돼, 뵈다 becomes 봬.",
      "examples": [
       {
        "ko": "할머니께서는 연세가 어떻게 되세요?",
@@ -113,12 +139,25 @@
       {
        "ko": "처음 뵙겠습니다.",
        "en": "Nice to meet you."
+      },
+      {
+       "ko": "어제 오랜만에 할아버지를 뵀어요.",
+       "en": "Yesterday I saw my grandfather for the first time in a while.",
+       "note": "뵈 + 었어요 → 뵈었어요 → 뵀어요."
+      },
+      {
+       "ko": "할아버지 연세가 올해 여든이세요.",
+       "en": "My grandfather turns eighty this year."
+      },
+      {
+       "ko": "사장님을 뵙고 싶어요.",
+       "en": "I'd like to see the company president."
       }
      ]
     },
     {
      "point": "가꾸다 (to grow / to groom)",
-     "explanation": "가꾸다 means tending something carefully so it looks good. With plants, gardens or vegetables it means 'to grow/cultivate'; with 외모, 몸 or 머리 it means taking care of one's appearance.",
+     "explanation": "가꾸다 means looking after something regularly and carefully so that it grows well or looks nice. With plants, 정원 (garden), 채소 or 꽃 it means 'to grow' or 'to tend'. With 외모 (appearance), 몸, 피부 or 머리 it means 'to take care of how you look'. It describes ongoing care, so it often appears with ~고 있다 or words like 요즘 and 열심히.\n\nConjugation: the stem 가꾸 ends in ㅜ, so it takes 어요, and ㅜ + ㅓ contracts to ㅝ: 가꾸 + 어요 → 가꾸어요 → 가꿔요. Past: 가꾸 + 었어요 → 가꿨어요. Consonant endings attach directly: 가꾸고, 가꿀 거예요, 가꾸려고.\n\nIt overlaps with 키우다 ('to raise, to grow'), which is about making something get bigger: children, pets, plants. 가꾸다 is about tending and keeping something looking good, and only 가꾸다 works for your own appearance.",
      "examples": [
       {
        "ko": "아버지는 마당에서 채소를 가꿔요.",
@@ -131,12 +170,25 @@
       {
        "ko": "데이트 전에 외모를 가꿔야 돼요.",
        "en": "I need to fix myself up before the date."
+      },
+      {
+       "ko": "할머니께서 꽃을 정말 예쁘게 가꾸셨어요.",
+       "en": "My grandmother tended her flowers really beautifully.",
+       "note": "Honorific past: 가꾸 + 시 + 었어요 → 가꾸셨어요."
+      },
+      {
+       "ko": "피부를 가꾸려고 물을 많이 마셔요.",
+       "en": "I drink a lot of water to take care of my skin."
+      },
+      {
+       "ko": "내년에는 작은 정원을 가꾸고 싶어요.",
+       "en": "Next year I want to tend a small garden."
       }
      ]
     },
     {
      "point": "Noun + 차림 (dressed in ...)",
-     "explanation": "차림 refers to how someone is dressed. Put it after a clothing word (잠옷 차림, 운동복 차림) to say someone is in that outfit; 옷차림 is the general word for an outfit.",
+     "explanation": "차림 means the way someone is dressed. Put a clothing noun in front of it to say someone is wearing that, usually when the outfit is worth mentioning for the situation: 잠옷 차림 (in pajamas), 운동복 차림 (in workout clothes).\n\nTo say someone did something dressed that way, add (으)로. 차림 ends in a consonant, so it takes 으로: 잠옷 차림 + 으로 → 잠옷 차림으로 나갔어요. You can also finish a sentence with 이다: 운동복 차림이에요 ('He's in workout clothes').\n\n옷차림 (옷 + 차림) is the general word for an outfit or style of dress and takes ordinary particles: 옷차림이 멋있어요. 차림 is about the overall look, not the act of dressing; to say 'put on' or 'wear', you still use 입다.",
      "examples": [
       {
        "ko": "동생이 잠옷 차림으로 밖에 나갔어요.",
@@ -149,12 +201,25 @@
       {
        "ko": "오늘 옷차림이 정말 멋있어요.",
        "en": "Your outfit today is really nice."
+      },
+      {
+       "ko": "아버지는 항상 편한 옷차림을 좋아하세요.",
+       "en": "My father always likes comfortable clothes."
+      },
+      {
+       "ko": "왜 아직도 잠옷 차림이에요?",
+       "en": "Why are you still in your pajamas?"
+      },
+      {
+       "ko": "가벼운 옷차림으로 오세요.",
+       "en": "Please come dressed in light clothes.",
+       "note": "가볍다 is ㅂ irregular: 가볍 → 가벼우 + ㄴ → 가벼운."
       }
      ]
     },
     {
      "point": "즉 (that is / in other words)",
-     "explanation": "즉 introduces a restatement or clarification of what was just said, like 'i.e.' or 'in other words'. It often comes after a comma, before the rephrased part.",
+     "explanation": "즉 means 'that is' or 'in other words', like 'i.e.' in English. Use it to say what you just said again in a clearer or more exact way, or to spell out what it plainly means. It sounds a little formal and precise; in casual speech people often use 그러니까 instead.\n\n즉 can sit in two places. Inside a sentence, it links two nouns that refer to the same thing: A, 즉 B (제 아버지의 아버지, 즉 제 할아버지). Between sentences, it starts a new sentence that sums up or explains the one before: 그는 연락이 없어요. 즉 오지 않을 거예요.\n\nWhatever follows 즉 should restate or spell out what came before, not add something new. To add a separate fact use 그리고; to give a result or consequence, 그래서 usually sounds more natural.",
      "examples": [
       {
        "ko": "그분은 제 아버지의 아버지, 즉 제 할아버지예요.",
@@ -167,6 +232,18 @@
       {
        "ko": "그는 연락이 없어요. 즉 오지 않을 거예요.",
        "en": "He hasn't been in touch. In other words, he won't come."
+      },
+      {
+       "ko": "모레, 즉 수요일에 만나요.",
+       "en": "Let's meet the day after tomorrow, that is, on Wednesday."
+      },
+      {
+       "ko": "그 식당은 일요일에 쉬어요. 즉 오늘은 문을 닫았어요.",
+       "en": "That restaurant is closed on Sundays. In other words, it's closed today."
+      },
+      {
+       "ko": "이 일은 두 시간, 즉 백이십 분이 걸려요.",
+       "en": "This work takes two hours, that is, 120 minutes."
       }
      ]
     }
@@ -231,7 +308,7 @@
    "grammar": [
     {
      "point": "(가득) 차다 / 차 있다 (to be full)",
-     "explanation": "차다 says a space is filled; mark what fills it with (으)로. Although 찼어요 is past tense, it describes something full right now, and 차 있다 says the same thing as a state. The adverb 가득 adds the feeling of 'completely'. 차다 also works with feelings: Noun에 찬 = 'full of ...'.",
+     "explanation": "차다 means 'to become full'. The thing that gets full is the subject, and what fills it is marked with (으)로: 버스가 사람들로 찼어요. You can also mark the place with 에 and make the filler the subject: 병에 물이 찼어요. Either way there is no object.\n\n차다 describes the moment of filling up, so to say something is full now, Koreans use the past tense: 찼어요 = 'it's full' (it filled up and still is). 차 있다 says the same thing as an ongoing state. The stem 차 ends in ㅏ, so 차 + 았어요 → 찼어요 and 차 + 아 있어요 → 차 있어요.\n\n가득 ('completely, to the brim') often comes right before it: 가득 찼어요. To describe a noun, use the past modifier 찬: 사람들로 가득 찬 버스 (a bus packed with people). With feelings, Noun에 찬 means 'full of': 자신감에 찬 표정 (an expression full of confidence). Don't confuse it with the unrelated 차다 meaning 'to kick' (공을 차다), which does take an object.",
      "examples": [
       {
        "ko": "버스가 사람들로 가득 찼어요.",
@@ -244,12 +321,25 @@
       {
        "ko": "그는 자신감에 찬 표정으로 말했어요.",
        "en": "He spoke with a confident expression."
+      },
+      {
+       "ko": "주차장이 차로 가득 찼어요.",
+       "en": "The parking lot is full of cars.",
+       "note": "차 (car) and 차다 (to be full) are unrelated words."
+      },
+      {
+       "ko": "냉장고에 음식이 가득 차 있어요.",
+       "en": "The fridge is full of food."
+      },
+      {
+       "ko": "사람들로 가득 찬 식당에 들어갔어요.",
+       "en": "We went into a restaurant packed with people."
       }
      ]
     },
     {
      "point": "왠지 (for some reason)",
-     "explanation": "왠지 comes from 왜 그런지 ('why it is so') and means 'for some reason' or 'I don't know why, but...'. Use it when something happens or is felt without a clear cause.",
+     "explanation": "왠지 means 'for some reason' or 'somehow, I don't know why'. It is a shortened form of 왜 그런지 ('why it is so'). Use it when you feel something, or something seems a certain way, but you can't point to a clear cause. It's very common with moods, hunches and first impressions.\n\n왠지 usually comes at the start of the sentence, and the rest of the sentence is normal: 왠지 + 기분이 좋아요. It often goes with feeling words and guesses, such as 좋다, 싫다, ~고 싶다 and ~ㄹ/을 것 같다.\n\nSpelling tip: 왠지 is the only common word spelled with 왠. Other words use 웬, as in 웬일이에요? ('What brings you here?'). Also, 왠지 doesn't ask a question; to ask 'why', use 왜.",
      "examples": [
       {
        "ko": "오늘은 왠지 기분이 좋아요.",
@@ -262,12 +352,25 @@
       {
        "ko": "왠지 집에 일찍 가고 싶어요.",
        "en": "For some reason I want to go home early."
+      },
+      {
+       "ko": "왠지 오늘 좋은 일이 있을 것 같아요.",
+       "en": "For some reason I feel like something good will happen today."
+      },
+      {
+       "ko": "왠지 그 노래를 들으면 슬퍼져요.",
+       "en": "For some reason that song makes me sad when I listen to it.",
+       "note": "슬프다 drops ㅡ: 슬프 + 어지다 → 슬퍼지다."
+      },
+      {
+       "ko": "왠지 이 길은 처음이 아닌 것 같아요.",
+       "en": "Somehow it feels like this isn't my first time on this road."
       }
      ]
     },
     {
      "point": "설마 (don't tell me...)",
-     "explanation": "Putting 설마 at the start of a question shows the speaker can hardly believe something is (or isn't) the case, like 'Don't tell me...!' or 'Surely not...?'.",
+     "explanation": "설마 shows disbelief. The speaker suspects something might be true but can hardly believe it, or really hopes it isn't so. In English: 'Don't tell me...', 'Surely not...?', 'You didn't..., did you?'.\n\nPut 설마 at the start of an ordinary question; nothing else changes: 혼자 갔어요? → 설마 혼자 갔어요? It's most often used with the past tense, about something that may already have happened, but the present works too: 설마 오늘이 시험이에요? Say it with surprised, rising intonation.\n\n설마 can also be a reply on its own: 설마요! ('No way!'). Compare with 왠지: 왠지 = 'I have a feeling, I don't know why'; 설마 = 'I can hardly believe this could be true'.",
      "examples": [
       {
        "ko": "설마 벌써 다 먹었어요?",
@@ -280,12 +383,24 @@
       {
        "ko": "설마 그 사람이 거짓말을 했어요?",
        "en": "Surely he didn't lie?"
+      },
+      {
+       "ko": "설마 오늘이 시험이에요?",
+       "en": "Don't tell me the exam is today?"
+      },
+      {
+       "ko": "설마 아직도 안 일어났어요?",
+       "en": "Don't tell me you're still not up?"
+      },
+      {
+       "ko": "설마요! 정말이에요?",
+       "en": "No way! Really?"
       }
      ]
     },
     {
      "point": "찍다 (to touch one thing onto another)",
-     "explanation": "찍다's core idea is pressing or touching one thing onto another, so it covers taking photos, stamping a seal (도장), dipping food into sauce, and more. The object tells you which meaning is meant.",
+     "explanation": "찍다's core meaning is pressing one thing onto another so it makes contact or leaves a mark. The English translation changes with the object, but the picture stays the same. 사진을 찍다 is 'to take a photo', and 영화나 동영상을 찍다 is 'to film'. 도장을 찍다 is 'to stamp a seal'. Food + 에 찍다 is 'to dip food in a sauce'. Casually, 답을 찍다 means 'to guess an answer' on a test, as if jabbing at a choice.\n\nConjugation: the stem 찍 ends in a consonant and its vowel is ㅣ, so it takes 어요: 찍 + 어요 → 찍어요; past 찍었어요; future 찍을 거예요.\n\nTwo very common combinations: ask someone to take a photo with ~아/어 주다 (사진 좀 찍어 주세요), and say 'dip and eat' with ~아/어서 (간장에 찍어서 먹어요).",
      "examples": [
       {
        "ko": "친구가 제 사진을 많이 찍었어요.",
@@ -298,12 +413,25 @@
       {
        "ko": "만두를 간장에 찍어서 먹어요.",
        "en": "I dip the dumplings in soy sauce and eat them."
+      },
+      {
+       "ko": "여기서 사진을 찍어도 돼요?",
+       "en": "Is it okay to take photos here?"
+      },
+      {
+       "ko": "답을 몰라서 그냥 찍었어요.",
+       "en": "I didn't know the answer, so I just guessed.",
+       "note": "Casual use: 찍다 here means picking an answer at random."
+      },
+      {
+       "ko": "이 영화는 부산에서 찍었어요.",
+       "en": "This movie was filmed in Busan."
       }
      ]
     },
     {
      "point": "~아/어서 다행이다 / 다행히 (thankfully)",
-     "explanation": "Adding 다행이다 after a clause ending in ~아/어서 expresses relief that something happened or didn't happen ('Thank goodness...'). The adverb 다행히 means 'fortunately'.",
+     "explanation": "다행 means 'good fortune' or 'relief'. 다행이다 ('it's a relief') is how you say 'Thank goodness...' or 'I'm glad that...' when something could have gone badly but didn't.\n\nTo say what you're relieved about, put that clause in ~아/어서 ('because') and finish with 다행이에요. Use the normal ~아/어서 rules: ㅏ/ㅗ stems take 아서 (찾다 → 찾아서), others take 어서 (없다 → 없어서), 하다 becomes 해서. Example: 길이 안 막히다 → 안 막혀서 → 안 막혀서 다행이에요. Even when the event is in the past, the ~아/어서 part stays in the present form (다쳤어서 is wrong; use 다쳐서). The tense goes on 다행이다: 다행이었어요 = 'it was a relief'.\n\n다행히 is the adverb: 'fortunately, luckily'. Put it at the start of an ordinary sentence: 다행히 시험에 늦지 않았어요. On its own, 정말 다행이에요! is a common reaction: 'What a relief!'",
      "examples": [
       {
        "ko": "길이 안 막혀서 다행이에요.",
@@ -316,12 +444,24 @@
       {
        "ko": "다행히 시험에 늦지 않았어요.",
        "en": "Fortunately I wasn't late for the exam."
+      },
+      {
+       "ko": "지갑을 찾아서 정말 다행이에요.",
+       "en": "Thank goodness I found my wallet."
+      },
+      {
+       "ko": "다행히 버스가 아직 안 떠났어요.",
+       "en": "Luckily the bus hadn't left yet."
+      },
+      {
+       "ko": "날씨가 좋아서 다행이었어요.",
+       "en": "It was a relief that the weather was good."
       }
      ]
     },
     {
      "point": "Month + 달 (sometime in ...)",
-     "explanation": "Adding 달 after a month name (3월 달) means 'sometime in that month' when the exact day isn't known or isn't important.",
+     "explanation": "Adding 달 after a month name, as in 3월 달, means 'in March', with the feeling of 'sometime during that month' when the exact day isn't known or doesn't matter. It's casual and spoken. In writing and careful speech, the month alone (3월에) is standard, and some people find 3월 달 redundant, since 월 and 달 both mean 'month'.\n\nUse it like any time word: add 에 for 'in': 3월 달 + 에 → 3월 달에. Read months with Sino-Korean numbers as usual, with two special cases: 6월 is 유월 and 10월 is 시월.\n\nThis 달 is the same word you use in 이번 달 (this month), 다음 달 (next month) and 지난달 (last month).",
      "examples": [
       {
        "ko": "저는 3월 달에 이사할 거예요.",
@@ -334,6 +474,20 @@
       {
        "ko": "5월 달에 한국에 가요.",
        "en": "I'm going to Korea sometime in May."
+      },
+      {
+       "ko": "6월 달에는 비가 많이 와요.",
+       "en": "It rains a lot in June.",
+       "note": "6월 is read 유월, not 육월."
+      },
+      {
+       "ko": "10월 달에 시간이 있어요?",
+       "en": "Do you have time sometime in October?",
+       "note": "10월 is read 시월, not 십월."
+      },
+      {
+       "ko": "작년 12월 달에 처음 한국에 갔어요.",
+       "en": "I went to Korea for the first time last December."
       }
      ]
     }
@@ -493,7 +647,7 @@
    "grammar": [
     {
      "point": "~기(를) 바라다 (to hope / request)",
-     "explanation": "바라다 expresses wanting something to happen. To hope for a whole clause, nominalize the verb with ~기(를) and add 바라다. ~기 바랍니다 is also a formal, rather authoritative way of asking people to do something, often softened as ~아/어 주시기 바랍니다 in announcements. In speech, 바라요 is commonly pronounced 바래요.",
+     "explanation": "바라다 means 'to hope' or 'to wish for'. You can hope for a noun directly (행복을 바라요, 'I wish for happiness'), but to hope that something happens you need a whole clause. Turn the verb into a noun with ~기, add the object particle 를, then 바라다: 건강하다 → 건강하기 → 건강하기를 바랍니다. The 를 is often dropped: 건강하기 바랍니다.\n\n~기 attaches the same way to every stem, vowel or consonant: 오다 → 오기, 있다 → 있기, 낫다 → 낫기. When the hope is about someone you respect, put 시 before 기: 건강하 + 시 + 기 → 건강하시기를 바랍니다.\n\n바랍니다 is formal, so it's common in speeches, cards, emails and announcements. In announcements, ~기 바랍니다 tells people what to do in an official way: 조용히 해 주시기 바랍니다 ('please be quiet'). It sounds stiff, so don't use it to ask a friend for something.\n\nSpelling: the polite form is 바라요 (바라 + 아요 → 바라요). Many people say and even write 바래요, but 바라요 is standard.",
      "examples": [
       {
        "ko": "모두 건강하시기를 바랍니다.",
@@ -510,12 +664,21 @@
       {
        "ko": "즐거운 시간 보내시기 바랍니다.",
        "en": "I hope you have a good time."
+      },
+      {
+       "ko": "동생이 빨리 낫기를 바라요.",
+       "en": "I hope my younger sibling gets better soon.",
+       "note": "낫다 is ㅅ irregular, but ~기 starts with a consonant, so it stays 낫기."
+      },
+      {
+       "ko": "저는 큰 것을 바라지 않아요.",
+       "en": "I'm not hoping for anything big."
       }
      ]
     },
     {
      "point": "~았/었으면 좋겠다 (I hope / I wish)",
-     "explanation": "Attach ~았/었으면 좋겠다 to a verb or adjective to say what you wish or hope for now; treat it as one fixed unit despite the past and future pieces inside it. ~(으)면 좋겠다 without the past tense is also used with almost the same meaning.",
+     "explanation": "~았/었으면 좋겠다 literally means 'if (it) happened, it would be good'. Use it to say what you hope or wish for: something in the future (날씨가 맑았으면 좋겠어요) or something that isn't true now (돈이 많았으면 좋겠어요). Even though there's a past marker inside, it isn't about the past. Treat it as one fixed unit meaning 'I hope / I wish'.\n\nTo form it, take the past-tense stem and add 으면 좋겠다. 맑다 → 맑았 + 으면 → 맑았으면 좋겠어요. 끝나다 → 끝났 + 으면 → 끝났으면 좋겠어요. 오다 → 왔으면; 하다 → 했으면. With a noun, use 이다: 주말이었으면 / 휴가였으면 좋겠어요. For a negative wish, put 안 in front: 비가 안 왔으면 좋겠어요.\n\n~(으)면 좋겠다 without the past marker means nearly the same (비가 오면 좋겠어요). The past version sounds a little more wishful and is very common in speech. Compared with ~기(를) 바라다, this is the everyday, conversational way to say 'I hope'; ~기 바랍니다 sounds formal.",
      "examples": [
       {
        "ko": "내일 날씨가 맑았으면 좋겠어요.",
@@ -532,6 +695,15 @@
       {
        "ko": "돈이 많았으면 좋겠어요.",
        "en": "I wish I had a lot of money."
+      },
+      {
+       "ko": "제가 키가 더 컸으면 좋겠어요.",
+       "en": "I wish I were taller.",
+       "note": "크다 drops ㅡ: 크 + 었 → 컸."
+      },
+      {
+       "ko": "오늘이 주말이었으면 좋겠어요.",
+       "en": "I wish today were the weekend."
       }
      ]
     }
@@ -686,7 +858,7 @@
    "grammar": [
     {
      "point": "~(으)면서 (while doing two things at once)",
-     "explanation": "~(으)면서 joins two actions done at the same time by the same person: ~면서 after a vowel or ㄹ stem, ~으면서 after a consonant. It often translates as 'while' or 'as'. With 자라다 it gives 'grew up doing'. For posture verbs like 앉다 or 서다, use ~아/어서 instead, because ~(으)면서 would mean you were in the middle of sitting down.",
+     "explanation": "~(으)면서 means 'while': the same person does two things at the same time. The action before ~(으)면서 is the background; the verb at the end is the main action. Tense goes only on the final verb: 마시면서 ... 읽었어요 is past because 읽었어요 is past.\n\nForming it: vowel stem + 면서 (마시다 → 마시면서; 보다 → 보면서). Consonant stem + 으면서 (먹다 → 먹 + 으면서 → 먹으면서). ㄹ stems add 면서 directly (놀다 → 놀면서; 살다 → 살면서). Irregulars: ㄷ verbs change ㄷ to ㄹ (듣다 → 들으면서; 걷다 → 걸으면서), and ㅂ verbs change ㅂ to 우 (돕다 → 도우면서).\n\nBoth actions must have the same subject. If two different people act at the same time, use ~는 동안 instead. With posture verbs like 앉다 or 서다, use ~아/어서 (앉아서 공부해요), because 앉으면서 would mean you studied while in the act of sitting down. With 자라다, ~(으)면서 gives 'grew up doing ...': 한국 음식을 먹으면서 자랐어요.",
      "examples": [
       {
        "ko": "음악을 들으면서 공부해요.",
@@ -699,12 +871,25 @@
       {
        "ko": "저는 한국 음식을 먹으면서 자랐어요.",
        "en": "I grew up eating Korean food."
+      },
+      {
+       "ko": "길을 걸으면서 전화했어요.",
+       "en": "I talked on the phone while walking down the street.",
+       "note": "걷다 is ㄷ irregular: 걷 → 걸 + 으면서 → 걸으면서."
+      },
+      {
+       "ko": "아이들은 놀면서 배워요.",
+       "en": "Children learn while playing."
+      },
+      {
+       "ko": "텔레비전을 보면서 밥을 먹지 마세요.",
+       "en": "Don't eat while watching TV."
       }
      ]
     },
     {
      "point": "~(으)면서 with adjectives and 이다",
-     "explanation": "With adjectives and 이다, ~(으)면서 says something has two qualities or roles at once. It is close to ~고, but feels like the two descriptions are tied together more closely.",
+     "explanation": "With adjectives, ~(으)면서 joins two qualities that something has at the same time: 싸면서 맛있어요 ('cheap and tasty at the same time'). With 이다, it says one person or thing has two roles: 선생님이면서 작가예요 ('a teacher and also a writer').\n\nThe forming rule is the same as with verbs. Vowel stem + 면서: 싸다 → 싸면서; 흐리다 → 흐리면서. Consonant stem + 으면서: 넓다 → 넓으면서. ㅂ adjectives change ㅂ to 우: 가볍다 → 가벼우면서. With a noun, attach 이다: 선생님 + 이면서 → 선생님이면서; 가수 + 이면서 → 가수이면서 (in speech often shortened to 가수면서).\n\nIt's close to ~고 (싸고 맛있어요), but ~고 simply lists. ~(으)면서 stresses that both qualities exist together, 'both ... and ...', often a pleasant or surprising combination. When the two qualities clash, it moves toward the 'even though' meaning in the next point.",
      "examples": [
       {
        "ko": "이 식당은 싸면서 맛있어요.",
@@ -717,12 +902,25 @@
       {
        "ko": "오늘은 흐리면서 추워요.",
        "en": "Today it's cloudy and cold."
+      },
+      {
+       "ko": "이 가방은 가벼우면서 튼튼해요.",
+       "en": "This bag is light and sturdy at the same time.",
+       "note": "가볍다 is ㅂ irregular: 가볍 → 가벼우 + 면서."
+      },
+      {
+       "ko": "제 친구는 가수이면서 배우예요.",
+       "en": "My friend is a singer and also an actor."
+      },
+      {
+       "ko": "그 방은 넓으면서 밝아요.",
+       "en": "That room is spacious and bright."
       }
      ]
     },
     {
      "point": "~(으)면서(도) for contradiction",
-     "explanation": "~(으)면서 can also connect two things one person does that clash, often when the speaker finds it unreasonable ('even though', 'yet'). Adding 도 (~(으)면서도) strengthens the contrast.",
+     "explanation": "Sometimes the two things joined by ~(으)면서 don't fit together, and the speaker finds that strange, unfair or annoying. Then it means 'even though' or 'yet': 다 알면서 왜 물어봐요? = 'You know it all, yet you're asking?'. It's common when complaining or pointing out that someone is being inconsistent.\n\nThe form is the same as before: vowel or ㄹ stem + 면서 (알다 → 알면서), consonant stem + 으면서 (없다 → 없으면서). Adding 도 (~(으)면서도) makes the clash stronger and clearer. Without 도, context tells you whether it means 'while' or 'even though'. As usual, the tense goes on the final verb: 알면서도 말 안 했어요 ('I knew, yet I didn't say').\n\nCompare with ~지만 ('but'). ~지만 simply contrasts two facts. ~(으)면서(도) is about one subject who has or does two conflicting things at once, often with a judging tone.",
      "examples": [
       {
        "ko": "그는 바쁘다고 하면서 하루 종일 텔레비전을 봐요.",
@@ -735,12 +933,24 @@
       {
        "ko": "돈이 없으면서도 비싼 옷을 샀어요.",
        "en": "She bought expensive clothes even though she has no money."
+      },
+      {
+       "ko": "저는 알면서도 아무 말도 안 했어요.",
+       "en": "Even though I knew, I didn't say anything."
+      },
+      {
+       "ko": "그는 배가 부르면서도 계속 먹어요.",
+       "en": "He keeps eating even though he's full."
+      },
+      {
+       "ko": "피곤하면서 왜 안 자요?",
+       "en": "You're tired, so why aren't you sleeping?"
       }
      ]
     },
     {
      "point": "~(으)며 (formal 'while' / 'and')",
-     "explanation": "~(으)며 is a shortened form of ~(으)면서 and can mean 'while', but ~(으)면서 is much more common for that. ~(으)며 is mostly used, especially in formal writing and speeches, to list or link related clauses, much like ~고.",
+     "explanation": "~(으)며 is a shorter, formal relative of ~(으)면서. It attaches the same way: vowel or ㄹ stem + 며 (깨끗하다 → 깨끗하며; 살다 → 살며), consonant stem + 으며 (찍다 → 찍으며; 많다 → 많으며). ㅂ irregulars use 우 (아름답다 → 아름다우며), and ㄷ irregulars use ㄹ (듣다 → 들으며).\n\nIts main job is like ~고: listing facts or linking related clauses ('and'). You'll see it in news, reports, signs, essays and speeches, usually with ~습니다 or written endings. When listing, each clause can carry its own past tense: 늘다 → 늘었 + 으며 → 늘었으며.\n\nIt can also mean 'while', like ~(으)면서: 사진을 찍으며 웃었습니다. That's fine in writing, but in everyday conversation ~(으)면서 is far more natural. Tip: when reading, try ~(으)며 as ~고 first; if that doesn't fit, read it as 'while'. When speaking, use ~고 and ~(으)면서 instead.",
      "examples": [
       {
        "ko": "이 도시는 깨끗하며 조용합니다.",
@@ -753,6 +963,19 @@
       {
        "ko": "상반기에는 판매가 늘었으며 하반기에도 늘 것입니다.",
        "en": "Sales rose in the first half and will also rise in the second half."
+      },
+      {
+       "ko": "이 섬은 사계절이 아름다우며 관광객이 많습니다.",
+       "en": "This island is beautiful in all four seasons, and there are many tourists.",
+       "note": "아름답다 is ㅂ irregular: 아름답 → 아름다우 + 며."
+      },
+      {
+       "ko": "제 언니는 회사원이며 두 아이의 엄마입니다.",
+       "en": "My older sister is an office worker and the mother of two children."
+      },
+      {
+       "ko": "그는 음악을 들으며 산책했습니다.",
+       "en": "He took a walk while listening to music."
       }
      ]
     }
@@ -897,7 +1120,7 @@
    "grammar": [
     {
      "point": "~ㄹ/을까? (wondering to oneself)",
-     "explanation": "Ending a sentence with ~ㄹ/을까 (without 요) can be a question the speaker asks themselves, such as 'Should I...?' or 'I wonder if...'. Context tells you whether it is self-talk or meant for someone else.",
+     "explanation": "~ㄹ/을까 at the end of a sentence (without 요) is a question you ask yourself, or think out loud. With your own action it means 'Should I...?' (이 책을 살까?). With something you can't control, like weather or other people, it means 'I wonder if...' (내일 비가 올까?).\n\nForming it: vowel stem + ㄹ까 (사다 → 사 + ㄹ까 → 살까; 오다 → 올까). Consonant stem + 을까 (먹다 → 먹을까; 입다 → 입을까). ㄹ stems just add 까 (놀다 → 놀까; 만들다 → 만들까). Irregulars: 듣다 → 들을까, 춥다 → 추울까. To wonder about the past, use ~았/었을까: 벌써 끝났을까? ('I wonder if it's already over').\n\nWithout 요 it's casual. Said to yourself it's self-talk, but said to a close friend the same sentence can be a real question or a suggestion ('Shall we...?'). Context and tone tell you which. The following points cover the polite 요 versions.",
      "examples": [
       {
        "ko": "오늘 저녁에 뭘 먹을까?",
@@ -910,12 +1133,25 @@
       {
        "ko": "내일 비가 올까?",
        "en": "I wonder if it'll rain tomorrow."
+      },
+      {
+       "ko": "오늘 무슨 옷을 입을까?",
+       "en": "What should I wear today?"
+      },
+      {
+       "ko": "주말에 뭐 하고 놀까?",
+       "en": "What should I do for fun this weekend?"
+      },
+      {
+       "ko": "밖에 많이 추울까?",
+       "en": "I wonder if it's really cold outside.",
+       "note": "춥다 is ㅂ irregular: 춥 → 추우 + ㄹ까 → 추울까."
       }
      ]
     },
     {
      "point": "~ㄹ/을까요? (shall we...?)",
-     "explanation": "When the speaker and listener will do something together, ~ㄹ/을까(요)? suggests it and asks for the listener's opinion: 'Shall we...?'. Add 요 for politeness. 그럴까요? is a common way to accept a suggestion.",
+     "explanation": "When you and the listener would do something together, ~ㄹ/을까요? means 'Shall we...?'. It's a soft suggestion that also asks for the other person's opinion, so it sounds polite and considerate. Add 우리 or 같이 to make 'we' clear, and use question words for 'where/when/what shall we...?': 어디에서 만날까요?\n\nForming it: vowel stem + ㄹ까요 (보다 → 볼까요; 쉬다 → 쉴까요). Consonant stem + 을까요 (먹다 → 먹을까요; 앉다 → 앉을까요). ㄹ stems add 까요 (만들다 → 만들까요). ㄷ irregulars: 걷다 → 걸을까요.\n\nTo agree, say 좋아요, 그래요, or 그럴까요? Compare with lesson 44: ~ㅂ/읍시다 ('let's') is more direct and can sound bossy toward elders, and ~ㄹ/을래요? asks what the listener wants to do. ~ㄹ/을까요? is the safest way to suggest something politely.",
      "examples": [
       {
        "ko": "같이 영화 볼까요?",
@@ -928,12 +1164,25 @@
       {
        "ko": "잠깐 쉴까요?",
        "en": "Shall we take a short break?"
+      },
+      {
+       "ko": "오늘 점심은 뭘 먹을까요?",
+       "en": "What shall we have for lunch today?"
+      },
+      {
+       "ko": "공원에서 조금 걸을까요?",
+       "en": "Shall we walk a bit in the park?",
+       "note": "걷다 is ㄷ irregular: 걷 → 걸 + 을까요."
+      },
+      {
+       "ko": "내일 몇 시에 출발할까요?",
+       "en": "What time shall we leave tomorrow?"
       }
      ]
     },
     {
      "point": "~ㄹ/을까요? (shall I...?)",
-     "explanation": "When only the speaker will act, ~ㄹ/을까요? offers to do something and asks for permission, often right before helping or giving something. It pairs naturally with 드리다 or ~아/어 드리다.",
+     "explanation": "When only the speaker would act, ~ㄹ/을까요? offers to do something and checks whether the listener wants it: 'Shall I...?' or 'Do you want me to...?'. You'll hear it all the time in shops and restaurants. Adding 제가 makes it clear you mean yourself.\n\nThe form is the same as 'shall we': 열다 → 열까요 (ㄹ stem); 닫다 → 닫을까요 (consonant); 주다 → 줄까요 (vowel). When offering something to someone you respect, use 드리다 instead of 주다: 드리 + ㄹ까요 → 드릴까요. To offer to do something for them, use ~아/어 드리다: 돕다 → 도와 드리다 → 도와 드릴까요?\n\nHow do you tell 'shall I' from 'shall we'? Context, plus clues like 제가 versus 우리 or 같이. To accept, say 네, 고마워요 or 네, 그렇게 해 주세요; to decline politely, say 아니요, 괜찮아요.",
      "examples": [
       {
        "ko": "창문을 열까요?",
@@ -946,12 +1195,24 @@
       {
        "ko": "커피 한 잔 드릴까요?",
        "en": "Shall I get you a cup of coffee?"
+      },
+      {
+       "ko": "창문을 닫을까요?",
+       "en": "Shall I close the window?"
+      },
+      {
+       "ko": "가방을 들어 드릴까요?",
+       "en": "Shall I carry your bag for you?"
+      },
+      {
+       "ko": "제가 사진을 찍어 드릴까요?",
+       "en": "Shall I take a picture for you?"
       }
      ]
     },
     {
      "point": "~ㄹ/을게(요) (I'll do it)",
-     "explanation": "~ㄹ/을게(요) is a statement, not a question: the speaker announces or promises what they will do, usually for or in consideration of the listener. It sounds softer and more cooperative than ~ㄹ/을 거예요.",
+     "explanation": "~ㄹ/을게(요) means 'I'll (do it)'. The speaker announces or promises their own action, usually in response to the listener or for their sake: offering, agreeing, promising. It's always about the speaker's own action, never about 'you' or 'he', and it's never a question.\n\nForming it: vowel stem + ㄹ게요 (하다 → 할게요; 가다 → 갈게요). Consonant stem + 을게요 (먹다 → 먹을게요; 읽다 → 읽을게요). ㄹ stems add 게요 (열다 → 열게요; 만들다 → 만들게요). Irregulars: 듣다 → 들을게요; 돕다 → 도울게요. It's pronounced as if it were 께, but always written 게.\n\nCompare with ~ㄹ/을 거예요, which just states a plan: 내일 갈 거예요 ('I'm going tomorrow', information). 내일 갈게요 ('I'll go tomorrow') has a feeling of 'okay, I'll do that, for you'. If someone asks 'Can you call me later?', answer 전화할게요, not 전화할 거예요.",
      "examples": [
       {
        "ko": "제가 문을 열게요.",
@@ -964,12 +1225,25 @@
       {
        "ko": "퇴근하고 바로 갈게요.",
        "en": "I'll come right after I leave work."
+      },
+      {
+       "ko": "제가 도울게요.",
+       "en": "I'll help.",
+       "note": "돕다 is ㅂ irregular: 돕 → 도우 + ㄹ게요 → 도울게요."
+      },
+      {
+       "ko": "다음부터는 늦지 않을게요.",
+       "en": "I won't be late from now on."
+      },
+      {
+       "ko": "이건 제가 만들게요.",
+       "en": "I'll make this one."
       }
      ]
     },
     {
      "point": "~ㄹ/을까요? (do you think...?)",
-     "explanation": "~ㄹ/을까(요)? can also ask the listener's opinion about how likely something is: 'Do you think...?'. Use ~았/었을까요? to guess about something that may already have happened.",
+     "explanation": "~ㄹ/을까요? can also ask for the listener's guess about something neither of you knows for sure: 'Do you think...?'. It's used for things outside the speaker's control, like the weather, other people, or how something will turn out. Unlike 'shall we' and 'shall I', the subject usually isn't the speaker.\n\nThe form is the same as before: 좋다 → 좋을까요; 오다 → 올까요; 멀다 → 멀까요 (ㄹ stem); 어렵다 → 어려울까요 (ㅂ irregular). With a noun, use 이다: 학생 + 일까요 → 학생일까요?\n\nFor something that may already have happened, put the past tense before 을까요: 퇴근하다 → 퇴근했 + 을까요 → 퇴근했을까요? ('Do you think he's already left work?'). If you're asked one of these and aren't sure, a natural reply is 글쎄요 ('Hmm, I'm not sure').",
      "examples": [
       {
        "ko": "내일 날씨가 좋을까요?",
@@ -982,12 +1256,25 @@
       {
        "ko": "그 사람이 벌써 퇴근했을까요?",
        "en": "Do you think he already left work?"
+      },
+      {
+       "ko": "역까지 멀까요?",
+       "en": "Do you think it's far to the station?"
+      },
+      {
+       "ko": "그 사람이 학생일까요?",
+       "en": "Do you think that person is a student?"
+      },
+      {
+       "ko": "내일 시험이 어려울까요?",
+       "en": "Do you think tomorrow's exam will be hard?",
+       "note": "어렵다 is ㅂ irregular: 어렵 → 어려우 + ㄹ까요."
       }
      ]
     },
     {
      "point": "어떨까요? (how about...?)",
-     "explanation": "어떻다 + ~ㄹ/을까요 becomes 어떨까요?, a gentle way to ask what someone thinks of an idea. ~는 게 어떨까요? politely suggests an action.",
+     "explanation": "어떨까요? comes from 어떻다 ('to be how') + ㄹ까요. 어떻다 is an ㅎ irregular: the ㅎ drops and ㄹ까요 attaches directly: 어떻 → 어떠 + ㄹ까요 → 어떨까요. It means 'How would it be?' or 'What do you think?'. It's softer than 어때요?, which asks more directly.\n\nTo suggest a thing, put a noun with 은/는 or 이/가 in front: 이 색깔은 어떨까요? To suggest an action, turn the verb into a noun with ~는 것, shortened to ~는 게, and add 어떨까요: 가다 → 가는 게 어떨까요? ('How about going?'). Consonant stems also just take 는: 먹다 → 먹는 게 어떨까요?\n\nBecause it asks rather than tells, it's a very polite way to suggest something to a boss or an elder. Without 요, 어떨까? is the casual version, for friends or for wondering to yourself.",
      "examples": [
       {
        "ko": "이 색깔은 어떨까요?",
@@ -1000,6 +1287,18 @@
       {
        "ko": "사람을 더 고용하는 게 어떨까요?",
        "en": "What do you think about hiring more people?"
+      },
+      {
+       "ko": "택시를 타는 게 어떨까요?",
+       "en": "How about taking a taxi?"
+      },
+      {
+       "ko": "점심으로 비빔밥은 어떨까요?",
+       "en": "How about bibimbap for lunch?"
+      },
+      {
+       "ko": "오늘은 일찍 자는 게 어떨까?",
+       "en": "Maybe I should go to bed early tonight?"
       }
      ]
     }
@@ -1144,7 +1443,7 @@
    "grammar": [
     {
      "point": "~ㄹ/을까 하다 (I'm thinking of ...)",
-     "explanation": "Adding 하다 after ~ㄹ/을까 states a tentative plan: 'I'm thinking of / I intend to...'. It can be connected with ~아/어서 (~ㄹ/을까 해서) to mean 'I was thinking of..., so...'.",
+     "explanation": "~ㄹ/을까 하다 means 'I'm thinking of ...ing' or 'I might...'. It's built from ~ㄹ/을까 ('should I...?') + 하다, so literally 'I'm going: should I...?'. It shows a plan that isn't fixed yet: you're leaning toward doing it but haven't firmly decided.\n\nForming it: vowel stem + ㄹ까 해요 (가다 → 갈까 해요; 자다 → 잘까 해요). Consonant stem + 을까 해요 (읽다 → 읽을까 해요). ㄹ stems add 까 해요 (만들다 → 만들까 해요). ㄷ irregulars: 듣다 → 들을까 해요. Only 하다 conjugates; the ~ㄹ/을까 part never changes.\n\nTo give it as a reason, connect 하다 with ~아/어서: ~ㄹ/을까 해서 = 'I was thinking of ..., so...'. Compare how sure each one sounds: ~ㄹ/을 거예요 is a firm plan, ~(으)려고 해요 is a clear intention, and ~ㄹ/을까 해요 is the most tentative.",
      "examples": [
       {
        "ko": "이번 주말에 단풍 구경을 갈까 해요.",
@@ -1157,12 +1456,25 @@
       {
        "ko": "영화관에 갈까 해서 친구에게 전화했어요.",
        "en": "I was thinking of going to the movies, so I called a friend."
+      },
+      {
+       "ko": "이번 방학에는 한국 소설을 읽을까 해요.",
+       "en": "I'm thinking of reading Korean novels this vacation."
+      },
+      {
+       "ko": "주말에 김밥을 만들까 해요.",
+       "en": "I'm thinking of making gimbap this weekend."
+      },
+      {
+       "ko": "물리 수업을 들을까 해서 물어봤어요.",
+       "en": "I was thinking of taking the physics class, so I asked about it.",
+       "note": "듣다 is ㄷ irregular: 듣 → 들 + 을까."
       }
      ]
     },
     {
      "point": "~ㄹ/을까 봐(요) (I think I might ...)",
-     "explanation": "At the end of a sentence, 보다 can replace 하다 with the same meaning of intent, almost always in the forms 봐 or 봐요. Don't use it mid-sentence with ~아/어서; use ~ㄹ/을까 해서 there instead.",
+     "explanation": "At the end of a sentence you can swap 하다 for 보다: ~ㄹ/을까 봐요 means the same as ~ㄹ/을까 해요, 'I think I might...' or 'I'm thinking of...'. It sounds a little more casual, like a decision forming as you speak. It's used almost only in the present forms 봐 and 봐요 (보 + 아요 → 봐요).\n\nForming it: vowel stem + ㄹ까 봐요 (쉬다 → 쉴까 봐요). Consonant stem + 을까 봐요 (먹다 → 먹을까 봐요). ㄹ stems add 까 봐요 (팔다 → 팔까 봐요). 르 verbs work normally here: 자르다 → 자를까 봐요.\n\nDon't use this meaning in the middle of a sentence. To say 'I was thinking of ..., so ...', use ~ㄹ/을까 해서. In the next lesson, ~ㄹ/을까 봐 gets a second meaning, 'I'm worried that...'. The two look identical: with an action you choose to do (쉬다, 먹다), it's usually intent; with something you don't want to happen (rain, failing), it's worry.",
      "examples": [
       {
        "ko": "오늘은 집에서 쉴까 봐요.",
@@ -1175,12 +1487,20 @@
       {
        "ko": "점심에 비빔밥을 먹을까 봐요.",
        "en": "I think I might have bibimbap for lunch."
+      },
+      {
+       "ko": "안 입는 옷은 팔까 봐요.",
+       "en": "I think I might sell the clothes I don't wear."
+      },
+      {
+       "ko": "주말에 단풍 구경이나 갈까 봐요.",
+       "en": "I think I might go see the autumn leaves or something this weekend."
       }
      ]
     },
     {
      "point": "~ㄹ/을까 했다 (I was thinking of ..., but)",
-     "explanation": "Putting 하다 in the past (~ㄹ/을까 했다) shows that you had considered doing something but didn't actually do it. It is often followed by ~는데 or ~지만 and the reason.",
+     "explanation": "Put 하다 in the past, ~ㄹ/을까 했다, and you get 'I was thinking of ...ing'. It suggests you considered doing something but in the end didn't, or changed your mind. So the sentence usually continues with ~지만 or ~는데 ('but') and what actually happened.\n\nForming it: vowel stem + ㄹ까 했어요 (만나다 → 만날까 했어요). Consonant stem + 을까 했어요 (먹다 → 먹을까 했어요). ㄹ stems add 까 했어요 (열다 → 열까 했어요). To continue the sentence: 했 + 지만 → 했지만; 했 + 는데 → 했는데.\n\nCompare: 갈까 해요 = 'I'm thinking of going' (still possible). 갈까 했어요 = 'I was thinking of going' (and probably didn't). The past form carries that 'but I didn't' feeling even if you stop the sentence there.",
      "examples": [
       {
        "ko": "어제 친구를 만날까 했는데 비가 와서 못 만났어요.",
@@ -1193,6 +1513,19 @@
       {
        "ko": "이름을 바꿀까 했는데 그만뒀어요.",
        "en": "I was thinking of changing my name, but I gave up on it."
+      },
+      {
+       "ko": "점심을 먹을까 했지만 시간이 없었어요.",
+       "en": "I was thinking of having lunch, but I didn't have time."
+      },
+      {
+       "ko": "집에서 쉴까 했는데 친구가 불러서 나갔어요.",
+       "en": "I was thinking of resting at home, but a friend called me out, so I went.",
+       "note": "부르다 is 르 irregular: 부르 + 어서 → 불러서."
+      },
+      {
+       "ko": "머리를 자를까 했어요.",
+       "en": "I was thinking of getting a haircut (but didn't)."
       }
      ]
     }
@@ -1332,7 +1665,7 @@
    "grammar": [
     {
      "point": "~ㄹ/을까 봐 (걱정되다) (I'm worried that ...)",
-     "explanation": "~ㄹ/을까 봐 followed by 걱정되다 says you are worried something might happen. For something that may already have happened, use ~았/었을까 봐. 걱정되다 is often dropped, leaving just ~ㄹ/을까 봐(요), and context tells you it means worry rather than intent.",
+     "explanation": "~ㄹ/을까 봐 걱정되다 means 'I'm worried that ... might happen'. It combines ~ㄹ/을까 ('I wonder if...') with 보다, so the idea is 'thinking it might..., I'm worried'. Use it for something bad or unwanted that could happen.\n\nForming it: vowel stem + ㄹ까 봐 (떨어지다 → 떨어질까 봐). Consonant stem + 을까 봐 (늦다 → 늦을까 봐). ㄹ stems add 까 봐 (멀다 → 멀까 봐). ㅂ irregulars: 춥다 → 추울까 봐. For something that may already have happened, use the past: 잃다 → 잃었 + 을까 봐 → 잃었을까 봐.\n\n걱정되다 or 걱정이다 are the usual endings for your own worry; 걱정하다 is common when describing someone else's worry (엄마는 제가 아플까 봐 걱정하세요). In conversation, the 걱정 part is often dropped: 비가 올까 봐요. In lesson 64, ~ㄹ/을까 봐요 meant 'I think I might...'. If the thing is unwanted and outside your control, it's worry; if it's an action you choose, it's intent.",
      "examples": [
       {
        "ko": "시험에 떨어질까 봐 걱정돼요.",
@@ -1349,12 +1682,21 @@
       {
        "ko": "비가 올까 봐요.",
        "en": "I'm worried it might rain."
+      },
+      {
+       "ko": "내일 날씨가 추울까 봐 걱정돼요.",
+       "en": "I'm worried it'll be cold tomorrow.",
+       "note": "춥다 is ㅂ irregular: 춥 → 추우 + ㄹ까 봐."
+      },
+      {
+       "ko": "엄마는 제가 아플까 봐 걱정하세요.",
+       "en": "My mom worries that I might get sick."
       }
      ]
     },
     {
      "point": "~ㄹ/을까 봐 + clause (worried that ..., so ...)",
-     "explanation": "Follow ~ㄹ/을까 봐 with another clause to say what you did because of the worry. The tense goes on the final verb, not on the verb before ~ㄹ/을까 봐.",
+     "explanation": "Instead of ending with 걱정되다, you can follow ~ㄹ/을까 봐 with another clause that says what you did, or didn't do, because of the worry: 'worried that..., I ...' or 'in case...'. 늦을까 봐 택시를 탔어요 = 'I was worried I'd be late, so I took a taxi'.\n\nThe tense goes on the last verb only. The ~ㄹ/을까 봐 part stays the same whether the sentence is past or present: 늦을까 봐 택시를 탔어요 (past) and 늦을까 봐 택시를 타요 (habit). Don't change it to 늦었을까 봐 for a past story; ~았/었을까 봐 is only for worrying that something has already happened.\n\n봐 can also be 봐서 here, with the same meaning: 늦을까 봐서. The second clause explains what you did. Don't follow it with a command or suggestion, such as 'take an umbrella'; it's for explaining your own reasons.",
      "examples": [
       {
        "ko": "늦을까 봐 택시를 탔어요.",
@@ -1367,6 +1709,18 @@
       {
        "ko": "아기가 깰까 봐 조용히 말했어요.",
        "en": "I spoke quietly so the baby wouldn't wake up."
+      },
+      {
+       "ko": "잊어버릴까 봐 메모를 했어요.",
+       "en": "I wrote a note in case I forgot."
+      },
+      {
+       "ko": "살이 찔까 봐 밤에는 안 먹어요.",
+       "en": "I don't eat at night because I'm worried about gaining weight."
+      },
+      {
+       "ko": "길이 막힐까 봐서 일찍 출발했어요.",
+       "en": "I left early in case the roads were jammed."
       }
      ]
     }
@@ -1501,7 +1855,7 @@
    "grammar": [
     {
      "point": "거의 (almost)",
-     "explanation": "거의 is an adverb meaning 'almost'. It shows an action has nearly reached its end point (often with 다), or that something is very close to a description without quite matching it.",
+     "explanation": "거의 means 'almost' or 'nearly'. It goes right before the word or phrase it describes.\n\nWith actions, it shows something has nearly reached its end point, often together with 다 ('all'): 거의 다 했어요 ('I've almost finished'), 거의 다 왔어요 ('we're almost there'). Here most of the action has already happened.\n\nWith descriptions and amounts it means 'nearly' or 'just about': 거의 같아요 ('almost the same'), 거의 매일 ('almost every day'). With a negative, it means 'hardly' or 'almost never': 거의 안 먹어요 ('I hardly eat it'), 거의 없어요 ('there's hardly any').\n\nDon't use 거의 alone for something that almost happened but never started, like 'I almost fell'. That's the job of ~ㄹ/을 뻔했다, the next point.",
      "examples": [
       {
        "ko": "숙제를 거의 다 했어요.",
@@ -1514,12 +1868,24 @@
       {
        "ko": "이 두 가방은 거의 같아요.",
        "en": "These two bags are almost the same."
+      },
+      {
+       "ko": "요즘은 거의 매일 운동해요.",
+       "en": "These days I exercise almost every day."
+      },
+      {
+       "ko": "저는 고기를 거의 안 먹어요.",
+       "en": "I hardly eat meat."
+      },
+      {
+       "ko": "냉장고에 음식이 거의 없어요.",
+       "en": "There's hardly any food in the fridge."
       }
      ]
     },
     {
      "point": "~ㄹ/을 뻔했다 (nearly happened)",
-     "explanation": "Attach ~ㄹ/을 뻔했다 to a verb for something that almost happened but never actually started, like nearly falling or nearly missing a bus. 뻔 is a bound noun with no meaning of its own, and since 'almost' is built in, 거의 is optional. It is almost always used in the past tense.",
+     "explanation": "~ㄹ/을 뻔했다 means 'almost did' or 'nearly happened': something came very close to happening but didn't. Usually it's something bad you just avoided: nearly falling, nearly missing a flight, nearly forgetting. Because it describes a near miss, it's almost always past tense: 뻔했어요.\n\nForming it: vowel stem + ㄹ 뻔했어요 (넘어지다 → 넘어질 뻔했어요). Consonant stem + 을 뻔했어요 (잊다 → 잊을 뻔했어요). ㄹ stems drop nothing and add 뻔했어요 (울다 → 울 뻔했어요). Note the space before 뻔.\n\nCompare with 거의: 거의 다 했어요 means most of the action happened. ~ㄹ/을 뻔했다 means it didn't happen at all, but nearly did. 거의 can be added for emphasis (거의 넘어질 뻔했어요) but isn't needed. In casual speech, 죽을 뻔했어요 is a common exaggeration: 'I nearly died' (of laughter, fear or tiredness).",
      "examples": [
       {
        "ko": "계단에서 넘어질 뻔했어요.",
@@ -1536,6 +1902,15 @@
       {
        "ko": "차에 거의 부딪칠 뻔했어요.",
        "en": "I very nearly hit the car."
+      },
+      {
+       "ko": "친구와의 약속을 잊을 뻔했어요.",
+       "en": "I almost forgot my plans with my friend."
+      },
+      {
+       "ko": "영화가 너무 슬퍼서 울 뻔했어요.",
+       "en": "The movie was so sad I almost cried.",
+       "note": "울다 is an ㄹ stem, so it just adds 뻔: 울 뻔했어요."
       }
      ]
     }

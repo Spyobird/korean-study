@@ -200,7 +200,7 @@
    "grammar": [
     {
      "point": "이다 present tense (\"to be\")",
-     "explanation": "이다 links a noun to the subject (\"A is B\") and attaches directly to the noun. In casual speech use ~이야 after a consonant and ~야 after a vowel; in polite speech ~이에요 after a consonant and ~예요 after a vowel; formally ~입니다 for both. The negative 아니다 becomes 아니야, 아니에요 and 아닙니다, with the noun usually marked by 이/가.",
+     "explanation": "이다 means \"to be\" in the sense \"A is B\", where B is a noun: \"I am an office worker\", \"this is beef\". It isn't a separate word. It attaches straight onto the noun with no space: 회사원 + 이다 → 회사원이다.\n\nThe ending depends on whether the noun ends in a consonant (has a 받침) or a vowel. Polite: 회사원 ends in ㄴ → 회사원이에요; 소고기 ends in a vowel → 소고기예요. Casual: 학생이야 / 친구야. Formal: 극장입니다 / 친구입니다 (the same after both).\n\nTo say \"A is not B\", use 아니다 as a separate word and mark the noun with 이/가: 여권이 아니에요, 의사가 아니에요. Casual is 아니야 and formal is 아닙니다.\n\nFor a question, keep the same form and raise your voice at the end: 학생이에요? Don't use 있다 here: 있다 says something exists or is somewhere, while 이다 says what something is.",
      "examples": [
       {
        "ko": "저는 회사원이에요.",
@@ -217,12 +217,26 @@
       {
        "ko": "그것은 제 여권이 아니에요.",
        "en": "That is not my passport."
+      },
+      {
+       "ko": "이것은 땅콩이에요?",
+       "en": "Is this a peanut?"
+      },
+      {
+       "ko": "그것은 돼지고기야.",
+       "en": "That's pork. (casual)",
+       "note": "돼지고기 ends in a vowel, so the casual form is 야, not 이야."
+      },
+      {
+       "ko": "저는 의사가 아닙니다.",
+       "en": "I am not a doctor. (formal)",
+       "note": "의사 ends in a vowel, so it takes 가 before 아니다."
       }
      ]
     },
     {
      "point": "이다 past tense (이었다/였다)",
-     "explanation": "To say something \"was\" a noun, add 었 to the stem 이, giving ~이었어(요), ~이었다 or ~이었습니다. After a noun ending in a vowel, 이었 usually shrinks to 였. 아니다 follows the normal rule and becomes 아니었어요.",
+     "explanation": "Use this to say something was a noun in the past: \"that place was a factory\", \"my friend was a doctor\".\n\nStart from the stem 이, add the past marker 었, then the ending. After a consonant: 공장 + 이었어요 → 공장이었어요. After a vowel, 이 + 었 squeezes into 였: 의사 + 이었어요 → 의사였어요. Casual drops 요 (학생이었어 / 친구였어), and formal is 이었습니다 / 였습니다.\n\nThe negative puts 아니다 into the past in the normal way: 아니 + 었어요 → 아니었어요. The noun still takes 이/가: 학생이 아니었어요, 친구가 아니었어요.\n\nThe choice between 이었 and 였 depends only on the noun's last letter, just like 이에요 vs 예요.",
      "examples": [
       {
        "ko": "그 장소는 공장이었어요.",
@@ -239,12 +253,24 @@
       {
        "ko": "그 사람은 학생이 아니었어요.",
        "en": "That person was not a student."
+      },
+      {
+       "ko": "그 사람은 배우였어요?",
+       "en": "Was that person an actor?"
+      },
+      {
+       "ko": "그곳은 극장이었습니다.",
+       "en": "That place was a theater. (formal)"
+      },
+      {
+       "ko": "그것은 내 수건이 아니었어.",
+       "en": "That wasn't my towel. (casual)"
       }
      ]
     },
     {
      "point": "Future tense ~ㄹ/을 것이다 (거예요)",
-     "explanation": "The everyday way to talk about the future is to add ~ㄹ (after a vowel) or ~을 (after a consonant) to a verb or adjective stem, follow it with 것 (\"thing\"), and finish with 이다. In speech 것이에요 is shortened to 거예요 (casual 거야). This form is more common than ~겠~ for plain future statements.",
+     "explanation": "Use ~ㄹ/을 거예요 to say what you will do or what will happen: plans, intentions and predictions. It is the most common future form in everyday speech. ~겠다 (lesson 5) also exists, but it sounds more formal or like a firm intention, so use ~ㄹ/을 거예요 for plain plans.\n\nTo form it, look at the last letter of the stem. If it ends in a vowel, add ㄹ: 가다 → 가 + ㄹ → 갈 거예요; 방문하다 → 방문할 거예요. If it ends in a consonant, add 을: 먹다 → 먹 + 을 → 먹을 거예요. If it ends in ㄹ, add nothing: 살다 → 살 거예요 (not 살을).\n\nWhy 거예요? The full form is 할 것이다, roughly \"it is a thing that will be done\". In speech 것 becomes 거, and 거 + 예요 gives 거예요. Casual is 할 거야, and formal is 할 겁니다.\n\nFor a negative, put 안 before the verb: 안 갈 거예요. Irregular stems change as usual before 을: 듣다 → 들을 거예요, 돕다 → 도울 거예요.",
      "examples": [
       {
        "ko": "저는 내일 친구를 방문할 거예요.",
@@ -261,12 +287,26 @@
       {
        "ko": "저는 미래에 선생님이 될 거예요.",
        "en": "I will become a teacher in the future."
+      },
+      {
+       "ko": "저는 내일 축구를 안 할 거예요.",
+       "en": "I won't play soccer tomorrow."
+      },
+      {
+       "ko": "저는 미래에 서울에서 살 거예요.",
+       "en": "I will live in Seoul in the future.",
+       "note": "살다 ends in ㄹ, so it just becomes 살 (not 살을)."
+      },
+      {
+       "ko": "오늘 밤에 음악을 들을 거예요.",
+       "en": "I will listen to music tonight.",
+       "note": "듣다 is ㄷ-irregular: 듣 + 을 → 들을."
       }
      ]
     },
     {
      "point": "~ㄹ/을 as a future noun modifier",
-     "explanation": "Adding ~ㄹ/을 to a verb or adjective stem turns it into a describing word for something that will happen, so it must be followed by a noun. This is exactly how 할 것 works: 할 describes the noun 것. It parallels ~ㄴ/은 on adjectives (좋은 사람).",
+     "explanation": "A modifier is a verb that describes a noun, like \"food to eat\" or \"work to do\". ~ㄹ/을 makes a modifier for something that will happen or hasn't happened yet. The modifier always comes right before the noun it describes.\n\nIt's formed exactly like the future tense. Vowel stem + ㄹ: 하다 → 할 일 (work to do), 보다 → 볼 영화 (a movie to watch). Consonant stem + 을: 먹다 → 먹을 음식 (food to eat), 읽다 → 읽을 책 (a book to read). ㄹ stems stay as they are: 만들다 → 만들 음식.\n\nIn fact 할 거예요 is just this modifier plus 것: 할 describes 것, \"a thing that will be done\". You saw the same idea with adjectives in lesson 4 (좋다 → 좋은 사람). ~ㄴ/은 describes a state now, while ~ㄹ/을 describes something still to come.\n\nCommon pairs: 할 일 (things to do), 먹을 것 (something to eat), 마실 것 (something to drink), 입을 옷 (clothes to wear).",
      "examples": [
       {
        "ko": "내일 먹을 음식이 없어요.",
@@ -279,6 +319,18 @@
       {
        "ko": "오늘 볼 영화는 재미있어요.",
        "en": "The movie we will watch today is fun."
+      },
+      {
+       "ko": "마실 것이 있어요?",
+       "en": "Is there anything to drink?"
+      },
+      {
+       "ko": "내일 만날 사람은 제 친구예요.",
+       "en": "The person I'm meeting tomorrow is my friend."
+      },
+      {
+       "ko": "주말에 읽을 책을 샀어요.",
+       "en": "I bought a book to read on the weekend."
       }
      ]
     }
@@ -508,7 +560,7 @@
    "grammar": [
     {
      "point": "Two number systems (Sino-Korean and pure Korean)",
-     "explanation": "Korean has Chinese-derived numbers (일, 이, 삼...) and native numbers (하나, 둘, 셋...). Sino-Korean numbers are used for money, phone numbers, math, measurements, minutes and most dates; pure Korean numbers are used for counting things, people and actions and for the hour. Big numbers are built by stacking units, and 만 (10,000) is its own unit. Zero is 영 for scores and temperature, and 공 for phone numbers.",
+     "explanation": "Korean has two sets of numbers, and which one you use depends on what you're counting.\n\nSino-Korean numbers (일, 이, 삼, 사, 오, 육, 칠, 팔, 구, 십) come from Chinese. Use them for money, phone numbers, maths, measurements, minutes, dates and months. Pure Korean numbers (하나, 둘, 셋, 넷, 다섯...) are used for counting things and people, for how many times, for age, and for the hour on a clock. Pure Korean only goes up to 99, so from 100 everyone uses Sino-Korean.\n\nBig Sino-Korean numbers are built by saying the multiplier, then the unit: 이십 = 2 × 10 = 20; 삼백 = 300; 오천 = 5,000. For one ten, hundred, thousand or ten thousand, drop the 일: 십, 백, 천, 만 (not 일십 or 일만). Korean groups big numbers by 만 (10,000), not by thousand, so 50,000 is 오만 and 100,000 is 십만.\n\nZero is 영 for scores, temperature and maths, and 공 when reading out phone numbers digit by digit.",
      "examples": [
       {
        "ko": "이 책은 만 원이에요.",
@@ -525,12 +577,27 @@
       {
        "ko": "저는 동생이 둘 있어요.",
        "en": "I have two younger siblings."
+      },
+      {
+       "ko": "이 가방은 오만 원이에요.",
+       "en": "This bag is 50,000 won.",
+       "note": "Korean counts in units of 만, so 50,000 is 오만 (five 만)."
+      },
+      {
+       "ko": "그 책은 천오백 원이에요.",
+       "en": "That book is 1,500 won.",
+       "note": "천오백 = 천 (1,000) + 오백 (500). There's no 일 before 천."
+      },
+      {
+       "ko": "그 공장에는 사람이 백 명 있어요.",
+       "en": "There are a hundred people in that factory.",
+       "note": "Pure Korean numbers stop at 99, so 100 people is 백 명."
       }
      ]
     },
     {
      "point": "Counters (개, 명, 대, 잔, 권)",
-     "explanation": "When counting, put the noun first and then a pure Korean number plus a counter word: noun + number + counter. 개 is the general counter for things, 명 for people, 대 for vehicles and 잔 for cups or glasses. Before a counter, 하나/둘/셋/넷/스물 change to 한/두/세/네/스무, and the written number is separated from the counter by a space.",
+     "explanation": "In English you say \"three books\". In Korean you say the noun, then the number, then a counter word: 책 세 권 (book, three, volume). The counter shows what kind of thing is being counted.\n\nCommon counters: 개 for things in general, 명 for people, 대 for cars and machines, 잔 for cups or glasses of a drink, and 권 for books. Counters take pure Korean numbers, and a few of them shorten before a counter: 하나 → 한 개, 둘 → 두 명, 셋 → 세 잔, 넷 → 네 대, 스물 → 스무 명. Other numbers stay whole: 다섯 개, 열 명.\n\nStep by step: 커피 + 둘 + 잔 → 커피 두 잔. When the sentence needs a particle, it can go on the noun (빵을 세 개 샀어요) or after the counter (빵 세 개를 샀어요). Both are fine.\n\nCommon mistake: putting the number before the noun as in English (세 빵). Keep the order noun, number, counter.",
      "examples": [
       {
        "ko": "저는 빵 세 개를 샀어요.",
@@ -547,12 +614,26 @@
       {
        "ko": "우리 회사에 차가 네 대 있어요.",
        "en": "Our company has four cars."
+      },
+      {
+       "ko": "저는 책을 두 권 샀어요.",
+       "en": "I bought two books.",
+       "note": "The particle can go on the noun instead of after the counter: 책을 두 권."
+      },
+      {
+       "ko": "우리 반에 학생이 스무 명 있어요.",
+       "en": "There are twenty students in our class.",
+       "note": "스물 shortens to 스무 before a counter."
+      },
+      {
+       "ko": "저는 아침에 우유를 한 잔 마셨어요.",
+       "en": "I drank a glass of milk in the morning."
       }
      ]
     },
     {
      "point": "번 for number of times",
-     "explanation": "A pure Korean number + 번 tells how many times an action happens. The combination works like an adverb, so it normally takes no particle and sits before the verb.",
+     "explanation": "번 counts how many times something happens: 한 번 (once), 두 번 (twice), 세 번 (three times). It takes pure Korean numbers, which shorten the same way as before other counters: 하나 → 한 번, 둘 → 두 번, 셋 → 세 번, 넷 → 네 번.\n\nThe number + 번 works like an adverb, so it takes no particle and usually sits right before the verb: 그 영화를 한 번 봤어요.\n\nWith 도 and a negative verb, 한 번도 means \"not even once\", i.e. never: 한 번도 안 갔어요.\n\nBe careful: with Sino-Korean numbers, 번 means \"number\" as a label. 일 번 is \"number one\" and 삼 번 버스 is \"bus number 3\". So 한 번 is \"once\" but 일 번 is \"No. 1\".",
      "examples": [
       {
        "ko": "저는 한국에 세 번 갔어요.",
@@ -565,12 +646,26 @@
       {
        "ko": "그 영화를 한 번 봤어요.",
        "en": "I watched that movie once."
+      },
+      {
+       "ko": "저는 그 책을 다섯 번 읽었어요.",
+       "en": "I read that book five times."
+      },
+      {
+       "ko": "저는 그 사람을 한 번도 안 만났어요.",
+       "en": "I have never met that person.",
+       "note": "한 번도 + a negative verb means \"not even once\"."
+      },
+      {
+       "ko": "저는 삼 번 버스를 탔어요.",
+       "en": "I took bus number 3.",
+       "note": "With a Sino-Korean number, 번 is a label: 삼 번 = number 3."
       }
      ]
     },
     {
      "point": "Telling time (시 and 분) and age (살)",
-     "explanation": "For clock time, the hour uses pure Korean numbers + 시 and the minutes use Sino-Korean numbers + 분. Age is usually given with pure Korean numbers + 살. With numerals, the space before the counter is often dropped (3시 20분).",
+     "explanation": "Telling the time mixes both number systems. Hours use pure Korean + 시: 한 시, 두 시, 세 시... 열두 시. Minutes use Sino-Korean + 분: 십 분, 삼십 분, 사십오 분. So 3:20 is 세 시 이십 분, and \"half past\" can be 반: 두 시 반 (2:30).\n\nThe hour numbers shorten like other counters: 하나 → 한 시, 둘 → 두 시, 셋 → 세 시, 넷 → 네 시, 열하나 → 열한 시, 열둘 → 열두 시. To say \"at\" a time, add 에: 아홉 시에 시작해요.\n\nAge uses pure Korean + 살: 열 살, 스무 살 (from 스물), 스물두 살, 서른 살, 쉰 살.\n\nWhen written with digits, the space is often dropped: 3시 20분, 22살.",
      "examples": [
       {
        "ko": "지금 세 시 이십 분이에요.",
@@ -587,12 +682,25 @@
       {
        "ko": "제 동생은 열 살이에요.",
        "en": "My younger sibling is ten years old."
+      },
+      {
+       "ko": "영화는 두 시 반에 시작해요.",
+       "en": "The movie starts at 2:30."
+      },
+      {
+       "ko": "지금 열두 시 십오 분이에요.",
+       "en": "It is 12:15 now.",
+       "note": "열둘 shortens to 열두 before 시."
+      },
+      {
+       "ko": "제 아버지는 쉰 살이에요.",
+       "en": "My father is fifty years old."
       }
      ]
     },
     {
      "point": "Ordinals with 번째, plus 처음 and 마지막",
-     "explanation": "Adding 번째 after a pure Korean number makes an ordinal (second, third...), but \"first\" is 첫 번째. 처음 means the first time or the beginning, and 마지막 means last in a sequence (not \"last\" meaning previous).",
+     "explanation": "To say second, third, fourth and so on, add 번째 to a pure Korean number: 두 번째 (second), 세 번째 (third), 네 번째 (fourth), 다섯 번째 (fifth). The number shortens as usual (둘 → 두, 셋 → 세).\n\n\"First\" is the exception: it's 첫 번째, not 한 번째. 첫 can also go directly before a noun: 첫 수업 (the first class).\n\n처음 means \"the first time\" or \"the beginning\", so it's used for experiences: 처음 지하철을 탔어요. 마지막 means the last one in a series (the final day, the last class). It doesn't mean \"previous\": \"last week\" is 지난 주, which comes in the next lesson.\n\nDon't confuse 두 번째 (the second one) with 두 번 (twice).",
      "examples": [
       {
        "ko": "이것은 저의 두 번째 수업이에요.",
@@ -609,6 +717,19 @@
       {
        "ko": "오늘은 마지막 날이에요.",
        "en": "Today is the last day."
+      },
+      {
+       "ko": "오늘은 제 첫 수업이에요.",
+       "en": "Today is my first class.",
+       "note": "첫 can go straight before a noun without 번째."
+      },
+      {
+       "ko": "저는 세 번째 줄에 앉았어요.",
+       "en": "I sat in the third row."
+      },
+      {
+       "ko": "마지막 수업은 언제예요?",
+       "en": "When is the last class?"
       }
      ]
     }
@@ -828,7 +949,7 @@
    "grammar": [
     {
      "point": "동안 \"for (a period of time)\"",
-     "explanation": "Place 동안 right after a length of time to say how long something lasts, like English \"for\". No extra particle is needed after 동안. Use whichever number system the time word requires.",
+     "explanation": "동안 means \"for\" or \"during\" a length of time. Put it straight after the amount of time: 두 시간 동안 (for two hours), 일 년 동안 (for one year). The whole phrase usually goes before the verb, and no particle is needed after 동안.\n\nStep by step: number + time unit + 동안 → 세 + 시간 + 동안 → 세 시간 동안. Use the number system the unit needs: 시간 takes pure Korean (두 시간), while 분, 일, 년 and 개월 take Sino-Korean (십 분, 삼 일, 일 년).\n\n동안 can also follow a noun for a period or event: 주말 동안 (over the weekend), 평생 동안 (all one's life). To ask \"for how long?\", say 얼마 동안.\n\nDon't confuse 동안 (how long) with ~에 (when): 세 시에 is \"at three o'clock\", while 세 시간 동안 is \"for three hours\".",
      "examples": [
       {
        "ko": "저는 두 시간 동안 운전했어요.",
@@ -845,12 +966,25 @@
       {
        "ko": "저는 일 년 동안 한국어를 공부했어요.",
        "en": "I studied Korean for one year."
+      },
+      {
+       "ko": "저는 주말 동안 책을 읽었어요.",
+       "en": "I read books over the weekend."
+      },
+      {
+       "ko": "그 사람은 평생 동안 서울에서 살았어요.",
+       "en": "That person lived in Seoul all their life."
+      },
+      {
+       "ko": "얼마 동안 기다렸어요?",
+       "en": "How long did you wait?",
+       "note": "얼마 동안 asks \"for how long\"."
       }
      ]
     },
     {
      "point": "Counting units of time (초, 분, 시간, 일, 주, 달/개월, 년)",
-     "explanation": "Seconds (초), minutes (분), days (일), weeks (주), months with 개월, and years (년) take Sino-Korean numbers. Hours counted as a duration use 시간 with pure Korean numbers (시 is only for clock time), and months counted with 달 also use pure Korean numbers.",
+     "explanation": "Each unit of time goes with one of the two number systems, so it's worth learning them as pairs.\n\nSino-Korean: 초 (seconds), 분 (minutes), 일 (days), 주 (weeks), 개월 (months) and 년 (years). So 삼십 초, 십 분, 오 일, 이 주, 육 개월, 일 년.\n\nPure Korean: 시간 (hours as a length of time) and 달 (months). So 한 시간, 세 시간, 한 달, 여섯 달. The usual shortening applies: 한, 두, 세, 네.\n\nWatch two traps. 세 시 is \"three o'clock\" but 세 시간 is \"three hours\". And months have two counters that mean the same thing, 육 개월 = 여섯 달, but the month names (일월, 이월, 삼월...) only name a month: 삼월 is \"March\", while 삼 개월 is \"three months\".",
      "examples": [
       {
        "ko": "저는 세 시간 동안 요리했어요.",
@@ -867,12 +1001,24 @@
       {
        "ko": "그 수업은 이 주 동안 해요.",
        "en": "That class runs for two weeks."
+      },
+      {
+       "ko": "저는 한 달 동안 매일 달렸어요.",
+       "en": "I ran every day for a month."
+      },
+      {
+       "ko": "저는 이 년 동안 회사원이었어요.",
+       "en": "I was an office worker for two years."
+      },
+      {
+       "ko": "저는 매일 여덟 시간 동안 일해요.",
+       "en": "I work for eight hours every day."
       }
      ]
     },
     {
      "point": "지난 / 이번 / 다음 and 작년 / 올해 / 내년",
-     "explanation": "지난 (previous), 이번 (this) and 다음 (next) go before 주 and 달 to mean last/this/next week or month, and before 번 for last/this/next time. They cannot be used with 년; instead use 작년 (last year), 올해 (this year) and 내년 (next year). 마지막 means final, not previous.",
+     "explanation": "Put 지난 (last, previous), 이번 (this) or 다음 (next) before a time word to say which one you mean: 지난 주 (last week), 이번 주 (this week), 다음 주 (next week); 지난 달, 이번 달, 다음 달. They also go with 번 (occasion): 지난 번 (last time), 이번 (this time), 다음 번 (next time).\n\nYears are different. Instead of putting these words before 년, use three special words: 작년 (last year), 올해 (this year) and 내년 (next year).\n\nTo say \"in\" or \"at\" that time, add 에: 다음 주에, 작년에, 지난 번에. With 올해, the 에 is often left off.\n\nCommon mistake: 마지막 means \"final\", the last one in a series, not \"previous\". 지난 주 is last week; 마지막 주 is the final week of something.",
      "examples": [
       {
        "ko": "저는 지난 주에 극장에 갔어요.",
@@ -889,12 +1035,24 @@
       {
        "ko": "저는 내년에 한국에 갈 거예요.",
        "en": "I will go to Korea next year."
+      },
+      {
+       "ko": "작년에 저는 학생이었어요.",
+       "en": "Last year I was a student."
+      },
+      {
+       "ko": "올해 계획이 뭐예요?",
+       "en": "What are your plans for this year?"
+      },
+      {
+       "ko": "지난 번에 그 식당에 갔어요.",
+       "en": "I went to that restaurant last time."
       }
      ]
     },
     {
      "point": "Days and dates (일, 날, 하루/이틀/사흘)",
-     "explanation": "일 counts days with Sino-Korean numbers and also gives dates, written month then day (5월 5일). 날 means \"day\" as a noun but is not used for counting. For short spans there are special words: 하루 (one day), 이틀 (two days), 사흘 (three days).",
+     "explanation": "일 does two jobs. With a Sino-Korean number it counts days (삼 일 동안 = for three days), and it also names the date (삼 일 = the 3rd). Dates go from big to small: year, month, day. 2027년 5월 5일 is May 5th, 2027.\n\nThe months are just Sino-Korean number + 월 (일월, 이월, 삼월...) with two changes: 육월 becomes 유월 (June) and 십월 becomes 시월 (October).\n\n날 means \"day\" as a noun (\"that day\", \"a cold day\"), but it isn't used for counting: say 삼 일, not 세 날.\n\nFor short spans, Korean has special pure Korean words: 하루 (one day), 이틀 (two days) and 사흘 (three days). 하루 and 이틀 are very common. For longer spans, use Sino-Korean + 일 (사 일, 오 일).",
      "examples": [
       {
        "ko": "제 생일은 5월 5일이에요.",
@@ -911,12 +1069,27 @@
       {
        "ko": "하루 동안 집에서 쉬었어요.",
        "en": "I rested at home for a day."
+      },
+      {
+       "ko": "저는 유월에 한국에 갈 거예요.",
+       "en": "I will go to Korea in June.",
+       "note": "육월 is pronounced and written 유월."
+      },
+      {
+       "ko": "한글날은 시월 구 일이에요.",
+       "en": "Hangul Day is October 9th.",
+       "note": "십월 becomes 시월."
+      },
+      {
+       "ko": "저는 사흘 동안 서울에 있었어요.",
+       "en": "I was in Seoul for three days.",
+       "note": "사흘 means the same as 삼 일."
       }
      ]
     },
     {
      "point": "\"Per\" with ~에",
-     "explanation": "Attaching ~에 to a unit of time expresses frequency within that unit, like English \"per\" or \"a\". Put the time + 에 first, then the amount (often with 번 or another counter).",
+     "explanation": "To say how often something happens in a period, like \"twice a week\" or \"three cups a day\", attach 에 to the period and then give the amount.\n\nThe pattern is period + 에 + (object) + amount + verb. 일주일 + 에 + 두 번 → 일주일에 두 번 (twice a week). 하루 + 에 + 세 잔 → 하루에 세 잔 (three cups a day). Also 한 달에 한 번 (once a month) and 일 년에 두 번 (twice a year).\n\nThe amount uses whatever counter fits: 번 for times, 잔 for cups, 권 for books, 시간 for hours. In this pattern, \"a week\" is usually 일주일 rather than 일 주.\n\nThe same 에 also gives prices \"per\" item: 한 개에 천 원 (1,000 won each).",
      "examples": [
       {
        "ko": "저는 일주일에 두 번 달려요.",
@@ -929,6 +1102,19 @@
       {
        "ko": "저는 한 달에 책을 한 권 읽어요.",
        "en": "I read one book a month."
+      },
+      {
+       "ko": "저는 일 년에 한 번 한국에 가요.",
+       "en": "I go to Korea once a year."
+      },
+      {
+       "ko": "이 사과는 한 개에 천 원이에요.",
+       "en": "These apples are 1,000 won each.",
+       "note": "With prices, 에 means \"each\" or \"per\"."
+      },
+      {
+       "ko": "우리는 한 달에 두 번 영화를 봐요.",
+       "en": "We watch a movie twice a month."
       }
      ]
     }
@@ -1143,7 +1329,7 @@
    "grammar": [
     {
      "point": "Dropping obvious subjects and topics",
-     "explanation": "Korean speakers usually leave out the subject or topic, especially 저/나, when it is clear from context. Sentences without 저는 are complete and sound more natural in conversation.",
+     "explanation": "In English every sentence needs a subject (\"I went\", \"you are\"). Korean doesn't. If the listener already knows who or what you mean, you just leave it out. Dropping 저는 or 나는 is the most common case, but any clear subject, topic or object can go.\n\nThe verb doesn't change to show who is acting, so context decides. In a statement it's usually \"I\", and in a question it's usually \"you\": 어제 뭐 했어요? → 극장에 갔어요.\n\nSaying 저는 in every sentence sounds stiff and textbook-like. Use a topic when you bring in something new or want to contrast it (저는 커피를 좋아해요. 동생은 녹차를 좋아해요.), then drop it once it's clear.",
      "examples": [
       {
        "ko": "어제 극장에 갔어요.",
@@ -1156,12 +1342,25 @@
       {
        "ko": "내일 친구를 만날 거예요.",
        "en": "(I) will meet a friend tomorrow."
+      },
+      {
+       "ko": "어제 뭐 했어요?",
+       "en": "What did (you) do yesterday?"
+      },
+      {
+       "ko": "네, 어제 샀어요.",
+       "en": "Yes, (I) bought (it) yesterday.",
+       "note": "Both the subject and the object are dropped because they're clear from the question."
+      },
+      {
+       "ko": "내일 회사에 가요?",
+       "en": "Are (you) going to work tomorrow?"
       }
      ]
     },
     {
      "point": "Plural ~들 and 몇 with counters",
-     "explanation": "~들 attached to a noun (usually people or animals) marks it as plural, but Korean often leaves plurals unmarked when the meaning is clear. 몇 + counter asks \"how many\", and in a statement it means \"a few\".",
+     "explanation": "~들 makes a noun plural: 학생 → 학생들 (students), 친구 → 친구들 (friends). It is mostly used with people and animals. Korean often leaves plurals unmarked, so 사과를 샀어요 can mean one apple or several. Adding 들 to things like 사과 usually sounds odd.\n\nOnce a number and counter are given, 들 isn't needed: 학생 다섯 명, not 학생들 다섯 명. 그들 (they) is 그 + 들, and it is mostly used in writing.\n\n몇 + counter asks \"how many\": 몇 개 (how many things), 몇 명 (how many people), 몇 살 (how old), 몇 시 (what time). The noun usually comes first, as with any counter: 사과 몇 개.\n\nIn a statement, 몇 means \"a few\" or \"several\": 몇 명이 늦었어요 (a few people were late).",
      "examples": [
       {
        "ko": "학생들이 공원에서 축구를 해요.",
@@ -1176,14 +1375,26 @@
        "en": "How many apples did you buy?"
       },
       {
-       "ko": "사람 몇 명이 늦었어요.",
-       "en": "A few people were late."
+       "ko": "학생 몇 명이 늦었어요.",
+       "en": "A few students were late."
+      },
+      {
+       "ko": "동생이 몇 살이에요?",
+       "en": "How old is your younger sibling?"
+      },
+      {
+       "ko": "교실에 학생이 몇 명 있어요?",
+       "en": "How many students are in the classroom?"
+      },
+      {
+       "ko": "아이들이 밖에서 놀아요.",
+       "en": "The children are playing outside."
       }
      ]
     },
     {
      "point": "~만 \"only\"",
-     "explanation": "~만 attaches to a noun to mean \"only\" or \"just\". It can replace 이/가 or 을/를, or stack on top of other particles such as 에서만.",
+     "explanation": "~만 means \"only\" or \"just\". Attach it directly to the word you are limiting: 물만 (only water), 그 학생만 (only that student).\n\nWith 이/가 and 을/를, 만 replaces the particle: 물을 마셨어요 → 물만 마셨어요; 학생이 왔어요 → 학생만 왔어요. With other particles, 만 comes after them: 집에서 → 집에서만 (only at home), 주말에 → 주말에만 (only on weekends).\n\nIt can also follow a number or amount: 한 번만 (just once), 십 분만 (only ten minutes).\n\nDon't mix it up with ~도 (also): 물도 마셨어요 means \"I also drank water\", while 물만 마셨어요 means \"I drank only water\".",
      "examples": [
       {
        "ko": "저는 물만 마셨어요.",
@@ -1196,12 +1407,25 @@
       {
        "ko": "저는 집에서만 공부해요.",
        "en": "I only study at home."
+      },
+      {
+       "ko": "그 사람은 주말에만 일해요.",
+       "en": "That person only works on weekends.",
+       "note": "만 comes after 에 rather than replacing it."
+      },
+      {
+       "ko": "십 분만 기다렸어요.",
+       "en": "I waited only ten minutes."
+      },
+      {
+       "ko": "커피만 마셔요?",
+       "en": "Do you only drink coffee?"
       }
      ]
     },
     {
      "point": "~에서 \"from\" (a place)",
-     "explanation": "Besides marking where an action happens, ~에서 marks the starting point or origin of movement, meaning \"from\". It is often used with verbs like 오다 and 출발하다.",
+     "explanation": "You already know ~에서 as \"at\" or \"in\", the place where an action happens (집에서 공부해요). The same particle also marks where a movement starts, meaning \"from\": 캐나다에서 왔어요 (I came from Canada).\n\nThis meaning shows up with verbs of moving away or coming from: 오다, 나오다, 나가다, 출발하다, 내리다. The verb tells you which meaning you have. With 공부하다 it means \"at\", and with 오다 or 출발하다 it means \"from\".\n\nCompare ~에: 서울에 가요 (I go to Seoul) vs 서울에서 와요 (I come from Seoul). 에 marks the destination and 에서 marks the starting point.\n\nTo ask where someone is from, say 어디에서 왔어요?",
      "examples": [
       {
        "ko": "저는 캐나다에서 왔어요.",
@@ -1214,12 +1438,25 @@
       {
        "ko": "그 사람은 방에서 나왔어요.",
        "en": "That person came out of the room."
+      },
+      {
+       "ko": "어디에서 왔어요?",
+       "en": "Where are you from?"
+      },
+      {
+       "ko": "저는 버스에서 내렸어요.",
+       "en": "I got off the bus.",
+       "note": "내리다 (to get off) takes 에서 for the thing you get off."
+      },
+      {
+       "ko": "우리는 일곱 시에 집에서 출발했어요.",
+       "en": "We left home at seven."
       }
      ]
     },
     {
      "point": "~부터 / ~까지 \"from / until\"",
-     "explanation": "~부터 marks a starting time or point and ~까지 marks the end point, like \"from ... to/until\". For places, ~에서 is usually paired with ~까지 instead of ~부터.",
+     "explanation": "~부터 marks where something starts and ~까지 marks where it ends, like \"from ... to\" or \"from ... until\". They are mostly used for time: 아홉 시부터 다섯 시까지 (from nine to five), 월요일부터 금요일까지 (from Monday to Friday).\n\nFor places, the starting point is normally marked with 에서 instead of 부터: 서울에서 부산까지 (from Seoul to Busan).\n\nEach one can be used alone. ~부터 alone means \"starting from\": 내일부터 (from tomorrow on). ~까지 alone means \"until\", \"by\" or \"as far as\": 다섯 시까지 (until five, or by five), 회사까지 (as far as the office).\n\nTo ask \"until when?\", say 언제까지? or 몇 시까지?",
      "examples": [
       {
        "ko": "저는 아홉 시부터 다섯 시까지 일해요.",
@@ -1236,12 +1473,24 @@
       {
        "ko": "내일부터 열심히 공부할 거예요.",
        "en": "I will study hard starting tomorrow."
+      },
+      {
+       "ko": "몇 시까지 일해요?",
+       "en": "Until what time do you work?"
+      },
+      {
+       "ko": "집에서 회사까지 지하철로 가요.",
+       "en": "I go from home to the office by subway."
+      },
+      {
+       "ko": "저는 열 살부터 축구를 했어요.",
+       "en": "I've played soccer since I was ten."
       }
      ]
     },
     {
      "point": "~(으)로 \"toward / by means of / with\"",
-     "explanation": "~(으)로 (~로 after a vowel or ㄹ, ~으로 after other consonants) shows direction toward a place, the tool or method used, or what something changes into. It often translates as \"to/toward\", \"by\" or \"with\".",
+     "explanation": "~(으)로 has three main jobs: direction (\"toward\"), means (\"by\" or \"with\"), and change (\"into\").\n\nTo form it, add 로 after a vowel: 버스 → 버스로, 차 → 차로. Also add just 로 after ㄹ: 지하철 → 지하철로, 연필 → 연필로. After any other consonant, add 으로: 왼쪽 → 왼쪽으로, 손 → 손으로. The ㄹ rule is the one people forget: 연필으로 is wrong.\n\nDirection: 왼쪽으로 가세요 (go to the left). ~에 names the exact destination, while (으)로 stresses the direction you head in.\n\nMeans or tool: 지하철로 (by subway), 연필로 (with a pencil), 한국어로 (in Korean). Change: with 바꾸다 or 되다, (으)로 marks what something becomes: 새 차로 바꿨어요 (I changed it for a new car).",
      "examples": [
       {
        "ko": "저는 지하철로 회사에 가요.",
@@ -1258,6 +1507,19 @@
       {
        "ko": "저는 차를 새 차로 바꿨어요.",
        "en": "I changed my car for a new one."
+      },
+      {
+       "ko": "저는 손으로 김밥을 먹었어요.",
+       "en": "I ate the gimbap with my hands.",
+       "note": "손 ends in ㄴ (not ㄹ), so it takes 으로."
+      },
+      {
+       "ko": "그 사람은 부산으로 출발했어요.",
+       "en": "That person set off for Busan."
+      },
+      {
+       "ko": "이 단어는 한국어로 뭐예요?",
+       "en": "What is this word in Korean?"
       }
      ]
     }
@@ -1452,7 +1714,7 @@
    "grammar": [
     {
      "point": "\"And\" between nouns: 와/과, 하고, (이)랑",
-     "explanation": "To join two nouns with \"and\", attach 와 (after a vowel) or 과 (after a consonant), 하고, or 랑/이랑 to the first noun. 와/과 sounds more formal or written, 하고 is neutral, and (이)랑 is casual.",
+     "explanation": "To say \"A and B\" with nouns, attach a particle to the first noun only. There are three choices that mean the same thing. They differ only in tone.\n\n와/과 is formal and common in writing. Use 와 after a vowel and 과 after a consonant: 우유와 빵, 빵과 우유. 하고 is neutral everyday speech and never changes: 빵하고 우유. (이)랑 is casual and friendly. Use 랑 after a vowel and 이랑 after a consonant: 녹차랑 커피, 빵이랑 우유.\n\nThe last noun takes whatever particle the sentence needs (을/를, 이/가, 은/는): 빵과 우유를 샀어요.\n\nThese only join nouns. To join verbs or whole clauses (\"I ate and left\"), you need ~고, which comes in lesson 17.",
      "examples": [
       {
        "ko": "저는 빵과 우유를 샀어요.",
@@ -1465,12 +1727,26 @@
       {
        "ko": "녹차랑 커피를 마셨어요.",
        "en": "I drank green tea and coffee."
+      },
+      {
+       "ko": "우유와 빵을 샀어요.",
+       "en": "I bought milk and bread.",
+       "note": "우유 ends in a vowel, so it takes 와 (빵 takes 과)."
+      },
+      {
+       "ko": "저는 개하고 고양이를 좋아해요.",
+       "en": "I like dogs and cats."
+      },
+      {
+       "ko": "책상 위에 책이랑 연필이 있어요.",
+       "en": "There is a book and a pencil on the desk.",
+       "note": "책 ends in a consonant, so it takes 이랑."
       }
      ]
     },
     {
      "point": "\"With\" someone: 와/과, 하고, (이)랑 (+ 같이)",
-     "explanation": "The same particles also mean \"with\" when attached to a person you do something with. 같이 (\"together\") is often added after the particle to make the meaning clear.",
+     "explanation": "The same particles that mean \"and\" also mean \"with\" when they're attached to a person you do something with: 친구하고 (with a friend), 동생이랑 (with my younger sibling), 선생님과 (with the teacher). The vowel/consonant rules are the same: 친구와 / 선생님과, 친구랑 / 동생이랑.\n\n같이 (\"together\") is often added after the particle: 친구하고 같이 영화를 봤어요. It isn't required, but it makes it clear you mean \"with\".\n\nHow do you tell \"and\" from \"with\"? If another noun follows, it means \"and\" (빵하고 우유). If a verb phrase follows, it means \"with\" (친구하고 영화를 봤어요).\n\nSome verbs naturally take a partner, so 같이 isn't needed: 결혼하다 (to marry), 싸우다 (to fight), 이야기하다 (to talk).",
      "examples": [
       {
        "ko": "저는 친구하고 같이 음악을 들었어요.",
@@ -1487,12 +1763,26 @@
       {
        "ko": "저는 그 사람이랑 결혼할 거예요.",
        "en": "I will marry that person."
+      },
+      {
+       "ko": "저는 동생하고 자주 싸워요.",
+       "en": "I often fight with my younger sibling.",
+       "note": "싸우다 already implies a partner, so 같이 isn't needed."
+      },
+      {
+       "ko": "누구랑 같이 갔어요?",
+       "en": "Who did you go with?",
+       "note": "누구 ends in a vowel, so it takes 랑."
+      },
+      {
+       "ko": "내일 친구와 같이 축구를 할 거예요.",
+       "en": "I will play soccer with my friend tomorrow."
       }
      ]
     },
     {
      "point": "\"To\" a person: 에게, 한테, 께",
-     "explanation": "When giving, saying or sending something to a person or animal, attach 에게 (neutral/written) or 한테 (spoken). 께 is the honorific version for respected people. Use 에, not these, for places.",
+     "explanation": "When you give, send, say or show something to a person or animal, mark the receiver with 에게 or 한테. 에게 is a little more formal and common in writing, and 한테 is the everyday spoken form. Neither changes for vowels or consonants: 친구에게, 선생님한테.\n\nFor someone you should respect, such as a grandparent or teacher, use 께. It usually goes with honorific verbs, so 주다 becomes 드리다 (to give to someone senior): 할머니께 꽃을 드렸어요.\n\nFor places and organisations, use 에 instead: 회사에 이메일을 보냈어요 (I sent an email to the company), but 친구에게 이메일을 보냈어요 (to a friend). 학교에게 is a common mistake.\n\nCommon verbs with this particle: 주다 (give), 보내다 (send), 말하다 (say), 전화하다 (call), 가르치다 (teach).",
      "examples": [
       {
        "ko": "저는 친구에게 문자를 보냈어요.",
@@ -1505,12 +1795,25 @@
       {
        "ko": "할머니께 꽃을 드렸어요.",
        "en": "I gave flowers to my grandmother."
+      },
+      {
+       "ko": "저는 어제 엄마한테 전화했어요.",
+       "en": "I called my mom yesterday."
+      },
+      {
+       "ko": "누구에게 이 선물을 줬어요?",
+       "en": "Who did you give this present to?"
+      },
+      {
+       "ko": "회사에 이메일을 보냈어요.",
+       "en": "I sent an email to the company.",
+       "note": "회사 is a place, so it takes 에, not 에게."
       }
      ]
     },
     {
      "point": "\"From\" a person: 에게서, 한테서, (으)로부터",
-     "explanation": "To show that something came from a person, add 에게서 or the more spoken 한테서. (으)로부터 also means \"from\" and sounds formal, often used for organizations or in writing.",
+     "explanation": "To say you got something from a person, mark that person with 에게서 or 한테서. These are just 에게/한테 + 서. 한테서 is the most common in speech, and 에게서 is a little more formal. They go with verbs like 받다 (receive), 듣다 (hear) and 배우다 (learn): 친구한테서 선물을 받았어요.\n\nIn speech the 서 is often dropped, so 친구한테 받았어요 also means \"received from a friend\". The verb shows the direction: with 주다 it means \"to\", and with 받다 it means \"from\".\n\n(으)로부터 also means \"from\" but sounds formal or written. It's often used for organisations: 정부로부터 (from the government). Use 로부터 after a vowel or ㄹ, and 으로부터 after other consonants.\n\nFor places, use 에서, not 에게서: 학교에서 편지가 왔어요.",
      "examples": [
       {
        "ko": "저는 친구한테서 선물을 받았어요.",
@@ -1523,12 +1826,26 @@
       {
        "ko": "정부로부터 편지를 받았어요.",
        "en": "I received a letter from the government."
+      },
+      {
+       "ko": "저는 할머니한테 한국어를 배웠어요.",
+       "en": "I learned Korean from my grandmother.",
+       "note": "The 서 of 한테서 is often dropped. 배우다 makes it clear it means \"from\"."
+      },
+      {
+       "ko": "그 이야기를 누구한테서 들었어요?",
+       "en": "Who did you hear that story from?",
+       "note": "듣다 is ㄷ-irregular: 듣 + 었어요 → 들었어요."
+      },
+      {
+       "ko": "친구에게서 문자가 왔어요.",
+       "en": "I got a text from a friend."
       }
      ]
     },
     {
      "point": "~을/를 위해(서) \"for (the sake of)\"",
-     "explanation": "Attach 을/를 위해 or 을/를 위해서 to a noun to say you do something for the benefit of that person or thing. It comes before the action it explains.",
+     "explanation": "~을/를 위해(서) means \"for the sake of\" or \"for the benefit of\". Use it when you do something to help a person or achieve something: for your family, your health, the future.\n\nTo form it, add 을 (after a consonant) or 를 (after a vowel), then 위해 or 위해서: 가족 → 가족을 위해서; 엄마 → 엄마를 위해. 위해 and 위해서 mean the same thing. The whole phrase comes before the action: 가족을 위해서 일해요.\n\nBefore a noun, it becomes 위한: 엄마를 위한 선물 (a present for Mom).\n\nDon't use it for time: \"for two hours\" is 두 시간 동안, not 위해서.",
      "examples": [
       {
        "ko": "저는 가족을 위해서 일해요.",
@@ -1541,12 +1858,25 @@
       {
        "ko": "저는 건강을 위해서 매일 달려요.",
        "en": "I run every day for my health."
+      },
+      {
+       "ko": "저는 미래를 위해서 한국어를 공부해요.",
+       "en": "I study Korean for my future."
+      },
+      {
+       "ko": "이것은 엄마를 위한 선물이에요.",
+       "en": "This is a present for Mom.",
+       "note": "Before a noun, 위해 becomes 위한."
+      },
+      {
+       "ko": "아이들을 위해 무엇을 할 거예요?",
+       "en": "What will you do for the children?"
       }
      ]
     },
     {
      "point": "~에 대해(서) \"about\"",
-     "explanation": "Attach 에 대해 or 에 대해서 to a noun to mean \"about\" or \"regarding\" that topic. It is common with verbs of speaking, knowing and thinking.",
+     "explanation": "~에 대해(서) means \"about\" or \"regarding\". It attaches directly to a noun with no 을/를, and 대해 and 대해서 mean the same thing: 음악에 대해 / 음악에 대해서.\n\nIt goes with verbs of talking, knowing, thinking, writing and learning: 이야기하다, 말하다, 알다, 모르다, 생각하다, 쓰다, 배우다.\n\nBefore a noun, it becomes 에 대한: 한국 문화에 대한 책 (a book about Korean culture).\n\nSome verbs can simply take an object instead. 한국 역사를 공부해요 means \"I study Korean history\". 한국 역사에 대해 공부해요 means \"I study about Korean history\", learning things around the topic.",
      "examples": [
       {
        "ko": "우리는 한국 음악에 대해 이야기했어요.",
@@ -1559,6 +1889,19 @@
       {
        "ko": "선생님은 한국 역사에 대해서 가르쳤어요.",
        "en": "The teacher taught about Korean history."
+      },
+      {
+       "ko": "저는 한국 문화에 대한 책을 읽었어요.",
+       "en": "I read a book about Korean culture.",
+       "note": "Before a noun, 에 대해 becomes 에 대한."
+      },
+      {
+       "ko": "그 사람에 대해 뭐 알아요?",
+       "en": "What do you know about that person?"
+      },
+      {
+       "ko": "내일 그 문제에 대해 이야기할 거예요.",
+       "en": "We will talk about that problem tomorrow."
       }
      ]
     }
@@ -1768,7 +2111,7 @@
    "grammar": [
     {
      "point": "Passive with 하다 → 되다",
-     "explanation": "Many 하다 verbs become passive by swapping 하다 for 되다, so the subject receives the action instead of doing it. Because the result is passive, the noun takes 이/가 rather than 을/를.",
+     "explanation": "Many 하다 verbs describe doing something to an object: 시작하다 (to start something), 포함하다 (to include). Swap 하다 for 되다 and you get the passive: 시작되다 (to be started, to begin), 포함되다 (to be included). The thing affected becomes the subject.\n\nStep by step: 수업을 시작했어요 (I started the class) → 수업이 시작됐어요 (the class started). The object marker 을/를 becomes 이/가, and the person doing it usually disappears.\n\n되다 conjugates like this: 되 + 어요 → 되어요, usually shortened to 돼요. Past: 되었어요 → 됐어요. So you get 시작돼요, 시작됐어요, 시작될 거예요. Write 됐어요, not 됬어요.\n\nThis works mainly with Sino-Korean noun + 하다 verbs (시작, 포함, 대체...), and not every one has a 되다 form, so learn them as you meet them.",
      "examples": [
       {
        "ko": "수업이 시작됐어요.",
@@ -1781,12 +2124,26 @@
       {
        "ko": "그 기계는 새 기계로 대체됐어요.",
        "en": "That machine was replaced with a new one."
+      },
+      {
+       "ko": "영화가 일곱 시에 시작될 거예요.",
+       "en": "The movie will start at seven."
+      },
+      {
+       "ko": "물이 가격에 포함돼요?",
+       "en": "Is water included in the price?",
+       "note": "되 + 어요 → 돼요."
+      },
+      {
+       "ko": "선생님이 수업을 시작했어요.",
+       "en": "The teacher started the class.",
+       "note": "This is the active version: 시작하다 takes 을/를."
       }
      ]
     },
     {
      "point": "Passive with 하다 → 받다",
-     "explanation": "Some 하다 verbs, especially ones describing how people treat someone, become passive with 받다 (\"to receive\"). 존경받다 means \"to be respected\" and 사랑받다 \"to be loved\". The person doing the action is marked with 에게/한테.",
+     "explanation": "Some 하다 verbs about how people treat someone (respecting, loving, praising) become passive by swapping 하다 for 받다, \"to receive\". You receive the respect or love: 존경하다 → 존경받다 (to be respected), 사랑하다 → 사랑받다 (to be loved), 칭찬하다 → 칭찬받다 (to be praised).\n\nThe person doing the action is marked with 에게 or 한테, which here means \"by\": 학생들에게 존경받아요.\n\n받다 is a regular verb: 받 + 아요 → 받아요; past 받았어요; future 받을 거예요. You can also split it into two words with an object: 칭찬을 받았어요.\n\nCompare with 되다. 되다 is for things or events that something happens to (수업이 시작됐어요). 받다 is for treatment that a person receives.",
      "examples": [
       {
        "ko": "그 선생님은 학생들에게 존경받아요.",
@@ -1799,12 +2156,21 @@
       {
        "ko": "저는 선생님한테 칭찬받았어요.",
        "en": "I was praised by the teacher."
+      },
+      {
+       "ko": "저는 회사에서 칭찬을 받았어요.",
+       "en": "I was praised at work.",
+       "note": "칭찬받다 can be split into 칭찬을 받다."
+      },
+      {
+       "ko": "그 사람은 모두에게 존경받을 거예요.",
+       "en": "That person will be respected by everyone."
       }
      ]
     },
     {
      "point": "Passive suffixes 이/히/리/기",
-     "explanation": "Many non-하다 verbs have a passive form made by inserting 이, 히, 리 or 기 into the stem, such as 열다 → 열리다, 닫다 → 닫히다, 잠그다 → 잠기다 and 놓다 → 놓이다. There is no rule for which suffix a verb takes, so learn each one as vocabulary.",
+     "explanation": "Many ordinary verbs (not 하다 verbs) have their own passive form, made by adding 이, 히, 리 or 기 to the stem: 열다 (to open something) → 열리다 (to be opened, to open); 닫다 → 닫히다; 잠그다 → 잠기다; 놓다 → 놓이다.\n\nThe new verbs are regular, and they take ~어요: 열리 + 어요 → 열려요; 닫히 + 었어요 → 닫혔어요; 놓이 + 었어요 → 놓였어요; 잠기 + 었어요 → 잠겼어요.\n\nCompare active and passive. In 제가 문을 열었어요 (I opened the door), 문 is the object with 을. In 문이 열렸어요 (the door opened), 문 is the subject with 이. The passive is common when the doer is unknown or doesn't matter.\n\nThere's no rule for which suffix a verb takes, so learn each pair as vocabulary. Other common ones: 보다 → 보이다 (to be seen, visible), 듣다 → 들리다 (to be heard), 팔다 → 팔리다 (to be sold).",
      "examples": [
       {
        "ko": "문이 열렸어요.",
@@ -1821,12 +2187,25 @@
       {
        "ko": "상자가 책상 위에 놓였어요.",
        "en": "The box was placed on the desk."
+      },
+      {
+       "ko": "창문이 안 열려요.",
+       "en": "The window won't open."
+      },
+      {
+       "ko": "밖에서 음악 소리가 들려요.",
+       "en": "I can hear music outside.",
+       "note": "듣다 → 들리다, \"to be heard\": the sound is the subject."
+      },
+      {
+       "ko": "그 책은 많이 팔렸어요.",
+       "en": "That book sold a lot."
       }
      ]
     },
     {
      "point": "내다 (active) vs 나다 (passive)",
-     "explanation": "Words ending in 내다 describe causing something to happen, while the matching 나다 form describes it happening by itself: 고장내다 means \"to break\", 고장나다 \"to be broken\". 나다 also appears in fixed phrases like 화나다, 짜증나다 and 냄새가 나다.",
+     "explanation": "Many verbs come in pairs ending in 내다 and 나다. The 내다 verb is active: someone makes it happen, and the thing affected is an object with 을/를. The 나다 verb is passive: it just happens, and the thing is the subject with 이/가.\n\nFor example: 컴퓨터를 고장냈어요 (I broke the computer) vs 컴퓨터가 고장났어요 (the computer broke, is broken). The same pair appears with anger: 화를 내다 (to get angry at someone, to show it) vs 화가 나다 (to feel angry).\n\nConjugation: 나 + 아요 → 나요, past 났어요. 내 + 어요 → 내요, past 냈어요.\n\n나다 also appears in many fixed phrases: 냄새가 나다 (to give off a smell), 소리가 나다 (to make a sound), 짜증이 나다 (to be annoyed), 열이 나다 (to have a fever).",
      "examples": [
       {
        "ko": "제가 컴퓨터를 고장냈어요.",
@@ -1843,12 +2222,25 @@
       {
        "ko": "부엌에서 좋은 냄새가 나요.",
        "en": "A nice smell is coming from the kitchen."
+      },
+      {
+       "ko": "동생이 저한테 화를 냈어요.",
+       "en": "My younger sibling got angry at me.",
+       "note": "화를 내다 is the active form: anger shown toward someone."
+      },
+      {
+       "ko": "이 소리가 어디에서 나요?",
+       "en": "Where is this sound coming from?"
+      },
+      {
+       "ko": "저는 요즘 자꾸 짜증이 나요.",
+       "en": "I keep getting annoyed lately."
       }
      ]
     },
     {
      "point": "Passive with ~아/어지다",
-     "explanation": "Verbs without a special passive form can usually become passive by adding ~아/어지다 to the stem, so 켜다 → 켜지다 and 끄다 → 꺼지다. The thing affected becomes the subject with 이/가.",
+     "explanation": "When a verb has no special passive form, you can often add ~아/어지다 to the stem. It describes something happening by itself or ending up that way: 켜다 (to turn on) → 켜지다 (to come on); 끄다 (to turn off) → 꺼지다 (to go off); 만들다 (to make) → 만들어지다 (to be made).\n\nTo form it, make the same ~아/어 form you use before 요, then add 지다. 켜 + 어 → 켜 → 켜지다. 끄 + 어 → 꺼 (ㅡ drops) → 꺼지다. Then conjugate 지다 normally: 지 + 어요 → 져요, past 졌어요. So 불이 켜져요, 불이 켜졌어요.\n\nThe thing affected becomes the subject with 이/가: 제가 불을 껐어요 (I turned off the light) → 불이 꺼졌어요 (the light went off).\n\nVerbs that already have an 이/히/리/기 form normally use that one instead: 열다 → 열리다.",
      "examples": [
       {
        "ko": "불이 켜졌어요.",
@@ -1861,6 +2253,19 @@
       {
        "ko": "컵이 깨졌어요.",
        "en": "The cup broke."
+      },
+      {
+       "ko": "이 가방은 한국에서 만들어졌어요.",
+       "en": "This bag was made in Korea."
+      },
+      {
+       "ko": "불이 안 켜져요.",
+       "en": "The light won't turn on."
+      },
+      {
+       "ko": "제가 불을 껐어요.",
+       "en": "I turned off the light.",
+       "note": "This is the active version. 끄 + 었어요 → 껐어요 (ㅡ drops)."
       }
      ]
     }
@@ -2125,7 +2530,7 @@
    "grammar": [
     {
      "point": "좋다/싫다 vs 좋아하다/싫어하다",
-     "explanation": "Feeling adjectives like 좋다 and 싫다 describe something as good or disliked, while adding ~아/어하다 to the stem turns them into action verbs: 좋아하다 \"to like\", 싫어하다 \"to dislike\". The verb version takes an object with 을/를 and is the natural way to describe what another person feels.",
+     "explanation": "Some adjectives describe feelings: 좋다 (good, liked), 싫다 (disliked), 무섭다 (scary), 슬프다 (sad). Adding ~아/어하다 to the stem turns them into verbs that describe someone showing that feeling: 좋아하다 (to like), 싫어하다 (to dislike), 무서워하다 (to be afraid of), 슬퍼하다 (to be sad, to grieve).\n\nStep by step: make the ~아/어 form of the adjective, then add 하다. 좋 + 아 → 좋아 → 좋아하다. 싫 + 어 → 싫어 → 싫어하다. Irregulars follow their usual rules: 무섭다 → 무서워 → 무서워하다 (ㅂ irregular); 슬프다 → 슬퍼 → 슬퍼하다 (ㅡ drops).\n\nThe verb takes an object with 을/를: 고기를 좋아해요. The adjective takes 이/가 instead: 고기가 좋아요 (see the next point).\n\nUse the ~아/어하다 verb when talking about someone else's feelings, because you can only see their behaviour: 동생은 비를 싫어해요. For your own feelings, both forms work.",
      "examples": [
       {
        "ko": "저는 고기를 좋아해요.",
@@ -2138,12 +2543,25 @@
       {
        "ko": "그 아이는 개를 무서워해요.",
        "en": "That child is afraid of dogs."
+      },
+      {
+       "ko": "제 친구는 매운 음식을 좋아하지 않아요.",
+       "en": "My friend doesn't like spicy food."
+      },
+      {
+       "ko": "아이가 슬퍼해요.",
+       "en": "The child is sad.",
+       "note": "슬프다 → 슬퍼 → 슬퍼하다 (ㅡ drops)."
+      },
+      {
+       "ko": "어떤 음식을 좋아해요?",
+       "en": "What kind of food do you like?"
       }
      ]
     },
     {
      "point": "Subject + subject + adjective (나는 네가 좋아)",
-     "explanation": "An adjective can never act on an object, so a sentence like \"I like X\" built with an adjective marks X with 이/가, not 을/를. The pattern is topic (저는) + thing with 이/가 + adjective. It also works with adjectives such as 그립다 and 자랑스럽다.",
+     "explanation": "Adjectives describe a state, so they can never take an object. So when you use 좋다, 싫다 and similar adjectives to say how you feel about something, the thing is marked with 이/가, not 을/를.\n\nThe pattern is person + 은/는 + thing + 이/가 + adjective. 저는 + 그 노래 + 가 + 좋아요 → 저는 그 노래가 좋아요 (I like that song; literally \"as for me, that song is good\"). The verb version means the same: 저는 그 노래를 좋아해요.\n\nOther feeling adjectives work the same way: 무섭다 (to be scared of), 그립다 (to miss), 자랑스럽다 (to be proud of), 부럽다 (to envy). Many are ㅂ-irregular: 그립 + 어요 → 그리워요; 자랑스럽 + 어요 → 자랑스러워요.\n\nCommon mistake: 저는 고양이를 싫어요. 싫다 is an adjective, so say 고양이가 싫어요, or use the verb: 고양이를 싫어해요.",
      "examples": [
       {
        "ko": "저는 그 노래가 좋아요.",
@@ -2160,12 +2578,25 @@
       {
        "ko": "저는 한국 음식이 그리워요.",
        "en": "I miss Korean food."
+      },
+      {
+       "ko": "저는 개가 무서워요.",
+       "en": "I'm scared of dogs.",
+       "note": "무섭다 is ㅂ-irregular: 무섭 + 어요 → 무서워요."
+      },
+      {
+       "ko": "저는 가족이 그리웠어요.",
+       "en": "I missed my family."
+      },
+      {
+       "ko": "저는 친구가 부러워요.",
+       "en": "I envy my friend."
       }
      ]
     },
     {
      "point": "The verb 들다",
-     "explanation": "들다 has several unrelated meanings: to lift or hold something, to enter or go into, to cost (money or effort), and in 마음에 들다, to be to one's liking. Work out which meaning applies from the surrounding words.",
+     "explanation": "들다 is one verb with several unrelated meanings, and the words around it tell you which one you have. To lift, hold or carry in your hand: 가방을 들다. To enter or go in, mostly inside compounds like 들어가다 and 들어오다. To cost money, time or effort: 돈이 들다, 시간이 들다. And in 마음에 들다, to be to your liking (literally \"to enter your heart\").\n\n들다 conjugates regularly with ~어요: 들 + 어요 → 들어요, past 들었어요. As an ㄹ verb, its ㄹ drops before ㄴ, ㅂ and ㅅ: 듭니다, 드는.\n\nWith 마음에 들다 and 돈이 들다, the thing is the subject (이/가), not an object: 이 모자가 마음에 들어요 (I like this hat). Don't say 이 모자를 마음에 들어요.",
      "examples": [
       {
        "ko": "저는 무거운 상자를 들었어요.",
@@ -2178,12 +2609,25 @@
       {
        "ko": "유학은 돈이 많이 들어요.",
        "en": "Studying abroad costs a lot of money."
+      },
+      {
+       "ko": "그 옷은 마음에 안 들어요.",
+       "en": "I don't like those clothes.",
+       "note": "안 goes right before 들어요, after 마음에."
+      },
+      {
+       "ko": "이 일은 시간이 많이 들어요.",
+       "en": "This work takes a lot of time."
+      },
+      {
+       "ko": "형이 제 가방을 들었어요.",
+       "en": "My older brother carried my bag."
       }
      ]
     },
     {
      "point": "Compound verbs (돌아가다, 가져오다 ...)",
-     "explanation": "Korean often joins two verbs with ~아/어 to make one compound verb, like 돌다 + 가다 → 돌아가다 (to go back) or 가지다 + 오다 → 가져오다 (to bring). The first verb shows how the action is done and the second, often 가다 or 오다, shows the direction.",
+     "explanation": "Korean can join two verbs into one: put the first verb in its ~아/어 form and add the second straight after. The first verb says how the action is done. The second, often 가다 or 오다, gives the direction: away from the speaker or toward the speaker.\n\nStep by step: 돌다 (to turn) → 돌 + 아 → 돌아 + 가다 → 돌아가다 (to go back). 가지다 (to have) → 가지 + 어 → 가져 + 오다 → 가져오다 (to bring). 들다 → 들어 + 가다 → 들어가다 (to go in). 걷다 → 걸어 + 가다 → 걸어가다 (to walk there; ㄷ irregular).\n\nThe 가다/오다 choice matters. 돌아가다 is going back (away from here) and 돌아오다 is coming back (to here). 가져가다 is \"to take\" and 가져오다 is \"to bring\".\n\nThe compound is written as one word and conjugates like its last verb: 돌아가 + 았어요 → 돌아갔어요; 가져오 + 았어요 → 가져왔어요.",
      "examples": [
       {
        "ko": "저는 일찍 집에 돌아갔어요.",
@@ -2200,12 +2644,25 @@
       {
        "ko": "그 책을 돌려주세요.",
        "en": "Please give that book back."
+      },
+      {
+       "ko": "언제 한국에서 돌아와요?",
+       "en": "When are you coming back from Korea?"
+      },
+      {
+       "ko": "내일 우산을 가져갈 거예요.",
+       "en": "I will take an umbrella tomorrow."
+      },
+      {
+       "ko": "저는 학교까지 걸어갔어요.",
+       "en": "I walked to school.",
+       "note": "걷다 is ㄷ-irregular: 걷 + 어 → 걸어 → 걸어가다."
       }
      ]
     },
     {
      "point": "다르다 / 비슷하다 / 같다",
-     "explanation": "To compare two things, use the noun + 와/과 (or 하고, 랑) + 다르다 (different), 비슷하다 (similar) or 같다 (same). 똑같다 stresses \"exactly the same\", and 다른 + noun means \"another, a different\" one.",
+     "explanation": "To compare two things, make the first one the topic or subject, mark the second with 와/과 (or 하고, (이)랑), and finish with 다르다 (to be different), 비슷하다 (to be similar) or 같다 (to be the same). You can also put both together as the subject: 이 두 가방은 같아요.\n\nConjugation: 다르다 is 르-irregular: 다르 + 아요 → 달라요, past 달랐어요. 같다 is regular: 같 + 아요 → 같아요. 비슷하다 → 비슷해요. 똑같다 (exactly the same) works like 같다.\n\nBefore a noun they become 다른 (different, other), 같은 (same) and 비슷한 (similar): 같은 반 (the same class).\n\n다른 + noun usually means \"another\" or \"other\", not just \"different\": 다른 책 있어요? (Do you have another book?)",
      "examples": [
       {
        "ko": "한국 음식은 일본 음식과 달라요.",
@@ -2222,12 +2679,25 @@
       {
        "ko": "제 취미는 친구의 취미와 같아요.",
        "en": "My hobby is the same as my friend's hobby."
+      },
+      {
+       "ko": "저는 친구와 같은 회사에서 일해요.",
+       "en": "I work at the same company as my friend."
+      },
+      {
+       "ko": "다른 색깔은 없어요?",
+       "en": "Don't you have another colour?"
+      },
+      {
+       "ko": "제 생각은 형하고 달랐어요.",
+       "en": "My opinion was different from my older brother's.",
+       "note": "다르다 is 르-irregular: 다르 + 았어요 → 달랐어요."
       }
      ]
     },
     {
      "point": "Homonyms such as 걸리다 and 배",
-     "explanation": "Some Korean words have several unrelated meanings that you tell apart by context. 걸리다 can mean to hang, to be caught, to catch an illness, or to take an amount of time, and 배 can mean pear, stomach or boat.",
+     "explanation": "Korean has many homonyms: words spelled the same with unrelated meanings. You tell them apart from the words around them, especially the particles.\n\n걸리다 has four common uses. With an amount of time it means \"to take\": 십 분 걸려요. With an illness + 에 it means \"to catch\": 감기에 걸렸어요. With a place + 에 it can mean \"to be hanging\" (the passive of 걸다, \"to hang\"): 벽에 그림이 걸렸어요. It can also mean \"to get caught\" doing something. It conjugates as 걸리 + 어요 → 걸려요, past 걸렸어요.\n\n배 can mean stomach (배가 아파요), pear (배를 먹었어요) or boat (배를 탔어요). The verb usually gives it away.\n\nOther common ones: 눈 (eye, snow), 말 (word, horse), 차 (car, tea).",
      "examples": [
       {
        "ko": "학교까지 십 분 걸려요.",
@@ -2244,12 +2714,25 @@
       {
        "ko": "저는 배를 먹었어요.",
        "en": "I ate a pear."
+      },
+      {
+       "ko": "배가 아파요.",
+       "en": "My stomach hurts.",
+       "note": "Here 배 means stomach: 아프다 tells you."
+      },
+      {
+       "ko": "저는 어제 배를 탔어요.",
+       "en": "I took a boat yesterday."
+      },
+      {
+       "ko": "집에서 회사까지 한 시간 걸렸어요.",
+       "en": "It took an hour from home to the office."
       }
      ]
     },
     {
      "point": "Talking about being sick",
-     "explanation": "Common phrases are body part + 이/가 아프다 for pain, illness + 에 걸리다 for catching a cold or the flu, 열이 나다 for running a fever, and 기침을 하다 for coughing.",
+     "explanation": "Korean talks about illness with a few fixed patterns rather than one word for \"sick\".\n\nPain: body part + 이/가 + 아프다. 머리가 아파요 (I have a headache), 목이 아파요 (my throat hurts). 아프다 drops ㅡ: 아프 + 아요 → 아파요, past 아팠어요. On its own, 아파요 just means \"I'm sick\" or \"it hurts\".\n\nCatching an illness: illness + 에 + 걸리다: 감기에 걸렸어요 (I caught a cold), 독감에 걸렸어요 (I caught the flu). It's usually in the past, because you've already caught it.\n\nSymptoms often use 나다 or 하다: 열이 나다 (to have a fever), 기침을 하다 (to cough), 재채기를 하다 (to sneeze), 설사를 하다 (to have diarrhoea).",
      "examples": [
       {
        "ko": "저는 목이 아파요.",
@@ -2266,6 +2749,18 @@
       {
        "ko": "저는 밤에 기침을 많이 했어요.",
        "en": "I coughed a lot at night."
+      },
+      {
+       "ko": "어제부터 머리가 아팠어요.",
+       "en": "I've had a headache since yesterday."
+      },
+      {
+       "ko": "저는 재채기를 자주 해요.",
+       "en": "I sneeze often."
+      },
+      {
+       "ko": "감기에 걸렸어요?",
+       "en": "Did you catch a cold?"
       }
      ]
     }
@@ -2525,7 +3020,7 @@
    "grammar": [
     {
      "point": "Noun + ~적 / ~적인 / ~적으로 / ~적이다",
-     "explanation": "Adding ~적 to many Sino-Korean nouns makes an \"-ic/-al\" form: 역사 → 역사적 (historical). Use ~적인 before a noun to describe it, ~적으로 as an adverb (\"-ically\"), and ~적이다 to end a sentence like an adjective.",
+     "explanation": "~적 is a suffix added to Sino-Korean nouns, much like English \"-ic\" or \"-al\": 역사 (history) → 역사적 (historic), 경제 (economy) → 경제적 (economical), 과학 → 과학적 (scientific), 개인 → 개인적 (personal). It only works with certain nouns, so learn each word as you meet it.\n\n~적 needs one more piece depending on its job. Before a noun, add 인: 역사적 + 인 → 역사적인 장소 (a historic place). As an adverb, add 으로: 과학적 + 으로 → 과학적으로 (scientifically). To end a sentence, add 이다: 경제적 + 이에요 → 경제적이에요 (it's economical).\n\nBecause 적 ends in a consonant, it always takes the after-consonant forms: 적이에요, 적이었어요, 적인, 적으로. For a negative, use ~지 않다: 과학적이지 않아요.\n\nA useful phrase: 개인적으로 (\"personally\") at the start of a sentence to give your own opinion.",
      "examples": [
       {
        "ko": "그곳은 역사적인 장소예요.",
@@ -2542,12 +3037,24 @@
       {
        "ko": "개인적으로 저는 그 영화가 좋아요.",
        "en": "Personally, I like that movie."
+      },
+      {
+       "ko": "그 사람은 아주 충동적이에요.",
+       "en": "That person is very impulsive."
+      },
+      {
+       "ko": "그 영화는 문화적으로 중요해요.",
+       "en": "That movie is culturally important."
+      },
+      {
+       "ko": "그 설명은 과학적이지 않았어요.",
+       "en": "That explanation wasn't scientific."
       }
      ]
     },
     {
      "point": "Noun + ~스럽다",
-     "explanation": "~스럽다 attaches to certain nouns to make an adjective meaning \"having that quality\" or \"giving that feeling\", such as 사랑 → 사랑스럽다 (lovely) and 자연 → 자연스럽다 (natural). It conjugates like other ㅂ-irregular adjectives: 스러워요, 스러운.",
+     "explanation": "~스럽다 turns certain nouns into adjectives meaning \"having the quality of\" or \"giving the feeling of\" that noun: 사랑 (love) → 사랑스럽다 (lovely), 자연 (nature) → 자연스럽다 (natural), 실망 (disappointment) → 실망스럽다 (disappointing), 만족 (satisfaction) → 만족스럽다 (satisfying). Like ~적, it only works with certain nouns.\n\n~스럽다 is ㅂ-irregular: before a vowel the ㅂ turns into 우, and 우 + 어 becomes 워. 스럽 + 어요 → 스러워요; past 스러웠어요. Before a noun, 스럽 + 은 → 스러운: 사랑스러운 아이 (a lovely child). As an adverb, add 게: 자연스럽게 (naturally).\n\nCompare it with the 하다 verb. 실망했어요 means \"I was disappointed\" (my feeling). 실망스러웠어요 means \"it was disappointing\" (the thing gave that feeling). With 만족스럽다 and 자랑스럽다, the person feeling it is the topic and the thing takes 이/가: 저는 이 결과가 만족스러워요.",
      "examples": [
       {
        "ko": "그 아이는 정말 사랑스러워요.",
@@ -2564,6 +3071,19 @@
       {
        "ko": "저는 이 결과가 만족스러워요.",
        "en": "I am satisfied with this result."
+      },
+      {
+       "ko": "사랑스러운 고양이를 봤어요.",
+       "en": "I saw a lovely cat.",
+       "note": "스럽 + 은 → 스러운 (ㅂ irregular)."
+      },
+      {
+       "ko": "그 배우는 자연스럽게 웃었어요.",
+       "en": "That actor smiled naturally."
+      },
+      {
+       "ko": "그 영화는 실망스럽지 않았어요.",
+       "en": "That movie wasn't disappointing."
       }
      ]
     }
@@ -2793,7 +3313,7 @@
    "grammar": [
     {
      "point": "Connecting with ~고 \"and\"",
-     "explanation": "Attach ~고 to a verb or adjective stem (or ~이고 after a noun) to link two clauses, meaning \"and\" or \"and then\". Tense and politeness go only on the final verb. With 은/는 on both subjects, ~고 can set two contrasting facts side by side.",
+     "explanation": "~고 links two verbs, adjectives or whole clauses, like \"and\" or \"and then\". Attach it to the stem of the first one: 먹다 → 먹 + 고 → 먹고. Usually only the last verb carries tense and politeness: 밥을 먹고 학교에 갔어요 (I ate and went to school).\n\nThe form is the same for every stem: 가고, 먹고, 높고, 따뜻하고. After a noun, use 이고: 학생 → 학생이고, 부자 → 부자이고 (after a vowel, speech often shortens this to 부자고).\n\n~고 is used to list two facts (날씨가 따뜻하고 바람이 시원해요), to do one action and then another, and with 은/는 on both subjects to set two facts side by side (이 산은 높고 저 산은 낮아요).\n\nDon't confuse it with 하고 (lesson 13), which joins nouns: 빵하고 우유. ~고 joins verbs and adjectives.",
      "examples": [
       {
        "ko": "저는 밥을 먹고 학교에 갔어요.",
@@ -2810,12 +3330,25 @@
       {
        "ko": "그 사람은 부자이고 친절해요.",
        "en": "That person is rich and kind."
+      },
+      {
+       "ko": "저는 학생이고 제 동생은 회사원이에요.",
+       "en": "I'm a student and my younger sibling is an office worker."
+      },
+      {
+       "ko": "이 가방은 싸고 가벼워요.",
+       "en": "This bag is cheap and light.",
+       "note": "Only the last adjective is conjugated: 가볍다 → 가벼워요 (ㅂ irregular)."
+      },
+      {
+       "ko": "내일 숙제를 하고 친구를 만날 거예요.",
+       "en": "Tomorrow I'll do my homework and then meet a friend."
       }
      ]
     },
     {
      "point": "Sequential ~아/어서 (with 가다/오다)",
-     "explanation": "~아/어서 also connects one action to the next, but it implies the first action leads into the second. With 가다 and 오다 you must use 가서/와서 when you go somewhere and then do something there. The verb before ~아/어서 never takes past tense.",
+     "explanation": "~아/어서 also links two actions in order, but it shows that the first action leads into the second. The second action happens at the place you went to, or with the thing from the first action. 시장에 가서 과일을 샀어요: I went to the market and bought fruit there.\n\nTo form it, make the ~아요/어요 form and swap 요 for 서: 가 + 아서 → 가서; 오 + 아서 → 와서; 열 + 어서 → 열어서; 만들 + 어서 → 만들어서; 하다 → 해서.\n\nWith 가다 and 오다, use 가서/와서 for \"go or come somewhere and do something there\". 시장에 가고 과일을 샀어요 sounds like two unrelated events.\n\nThe verb before ~아/어서 never takes a tense: say 가서 샀어요, never 갔어서. The last verb carries the tense for both actions, and both actions are normally done by the same person.",
      "examples": [
       {
        "ko": "저는 시장에 가서 과일을 샀어요.",
@@ -2828,12 +3361,25 @@
       {
        "ko": "문을 열어서 밖으로 나갔어요.",
        "en": "I opened the door and went outside."
+      },
+      {
+       "ko": "친구를 만나서 같이 점심을 먹었어요.",
+       "en": "I met a friend and we had lunch together."
+      },
+      {
+       "ko": "주말에 바다에 가서 수영할 거예요.",
+       "en": "On the weekend I'll go to the sea and swim.",
+       "note": "Only the last verb shows the future: 가서 stays the same."
+      },
+      {
+       "ko": "빵을 만들어서 친구에게 줬어요.",
+       "en": "I made bread and gave it to my friend."
       }
      ]
     },
     {
      "point": "Position verbs with ~아/어서 (앉아서, 서서, 누워서)",
-     "explanation": "Position verbs like 앉다, 서다 and 눕다 take ~아/어서 rather than ~고 when the second action happens while in that position. Using ~고 would suggest you sat, got up, and then did something else.",
+     "explanation": "With verbs of position, like 앉다 (to sit), 서다 (to stand) and 눕다 (to lie down), use ~아/어서 when you do something while staying in that position. 소파에 앉아서 텔레비전을 봤어요: I sat on the sofa and watched TV (while sitting).\n\nForms: 앉 + 아서 → 앉아서; 서 + 어서 → 서서 (the vowels merge); 눕다 is ㅂ-irregular: 눕 + 어서 → 누워서.\n\nIf you use ~고 instead, it sounds like two separate events: 앉고 텔레비전을 봤어요 suggests you sat down, and then, separately, watched TV. That's why ~아/어서 is the natural choice here.\n\nThe same idea works with 일어나다 (to get up): 일어나서 물을 마셨어요 (I got up and drank some water).",
      "examples": [
       {
        "ko": "저는 소파에 앉아서 텔레비전을 봤어요.",
@@ -2846,12 +3392,25 @@
       {
        "ko": "저는 침대에 누워서 음악을 들었어요.",
        "en": "I lay on the bed and listened to music."
+      },
+      {
+       "ko": "버스에서 서서 책을 읽었어요.",
+       "en": "I stood on the bus and read a book."
+      },
+      {
+       "ko": "소파에 누워서 쉬고 싶어요.",
+       "en": "I want to lie on the sofa and rest.",
+       "note": "눕다 is ㅂ-irregular: 눕 + 어서 → 누워서."
+      },
+      {
+       "ko": "아침에 일어나서 커피를 마셔요.",
+       "en": "I get up in the morning and drink coffee."
       }
      ]
     },
     {
      "point": "~고 싶다 \"want to\"",
-     "explanation": "Add ~고 싶다 to a verb stem to say you want to do something; conjugate 싶다 for tense and politeness (싶어요, 싶었어요). With 되다 it means \"want to become\". 보고 싶다 is also how you say you miss a person.",
+     "explanation": "Add ~고 싶다 to a verb stem to say you want to do something: 가다 → 가 + 고 싶다 → 가고 싶다; 먹다 → 먹 + 고 싶다 → 먹고 싶다. It's the same after a vowel or a consonant.\n\nOnly 싶다 changes for tense and politeness: 가고 싶어요 (I want to go), 가고 싶었어요 (I wanted to go), casual 가고 싶어. For a negative, use ~지 않다 on 싶다: 가고 싶지 않아요.\n\nUse it for your own wishes in statements and for the listener's in questions: 뭐 먹고 싶어요? For a third person, Korean usually uses 싶어하다 (just like 좋다 → 좋아하다): 동생이 가고 싶어해요.\n\nWith a noun, use 이/가 되고 싶다 for \"want to become\": 요리사가 되고 싶어요. 보고 싶다 literally means \"want to see\", and it's also how you say you miss someone.",
      "examples": [
       {
        "ko": "저는 바다에 가고 싶어요.",
@@ -2868,12 +3427,25 @@
       {
        "ko": "엄마가 너무 보고 싶어요.",
        "en": "I miss my mom so much."
+      },
+      {
+       "ko": "뭐 먹고 싶어요?",
+       "en": "What do you want to eat?"
+      },
+      {
+       "ko": "저는 오늘 밖에 나가고 싶지 않아요.",
+       "en": "I don't want to go out today."
+      },
+      {
+       "ko": "제 동생은 한국에 가고 싶어해요.",
+       "en": "My younger sibling wants to go to Korea.",
+       "note": "For someone else, 싶다 becomes 싶어하다."
       }
      ]
     },
     {
      "point": "~은/는 vs ~이/가 revisited",
-     "explanation": "~은/는 marks the topic and often carries a comparing or contrasting feel (\"as for X...\"), while ~이/가 simply identifies the subject and puts the focus on it. When two things are contrasted, both usually take 은/는.",
+     "explanation": "Neither particle has a direct English translation, but they do different jobs.\n\n~은/는 marks the topic, what the sentence is about (\"as for X...\"). Use it for things already known in the conversation, for general statements, and for contrast. 오늘은 날씨가 좋아요 means \"as for today, the weather is nice\" (maybe unlike other days).\n\n~이/가 marks the subject and puts the focus on it. Use it for new information, to answer \"who\" or \"what\" questions, and on question words themselves: 누가 왔어요? → 친구가 왔어요. (누구 + 가 shortens to 누가, and 저 + 가 becomes 제가.)\n\nFor contrast, put 은/는 on both things being compared: 문법은 어렵고 단어는 쉬워요. 은/는 can even replace 을/를 to contrast an object: 고기는 안 먹어요 (meat, at least, I don't eat). Rule of thumb: if a word answers a question, use 이/가; if it's background, use 은/는.",
      "examples": [
       {
        "ko": "날씨가 좋아요.",
@@ -2890,6 +3462,20 @@
       {
        "ko": "누가 왔어요?",
        "en": "Who came?"
+      },
+      {
+       "ko": "제가 했어요.",
+       "en": "I did it.",
+       "note": "This answers \"who?\", so it takes 이/가: 저 + 가 → 제가."
+      },
+      {
+       "ko": "저는 고기는 안 먹어요.",
+       "en": "I don't eat meat (but I eat other things).",
+       "note": "는 replaces 를 here to contrast meat with other foods."
+      },
+      {
+       "ko": "어제는 비가 왔어요.",
+       "en": "Yesterday it rained."
       }
      ]
     }

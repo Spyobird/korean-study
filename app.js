@@ -73,7 +73,7 @@ async function record(el) {
 }
 
 // ---------- card catalog ----------
-const LESSONS = CURRICULUM.lessons;
+const LESSONS = CURRICULUM.lessons.sort((a, b) => a.n - b.n);
 const CARDS = {}, BY_LESSON = {};
 for (const L of LESSONS) {
   const lc = BY_LESSON[L.n] = { rec: [], prod: [], sent: [] };
@@ -239,8 +239,8 @@ function lesson(n) {
     ${url ? `<a class="ext" href="${esc(url)}" target="_blank" rel="noopener">Read the full lesson on HowToStudyKorean ↗</a>` : ''}
     ${L.workbook?.exercises.length ? `<a class="panel" href="#workbook/${L.n}"><b>Workbook · ${L.workbook.exercises.length} exercises${L.workbook.reading ? ' + reading' : ''}</b>
       <span>Practise this lesson's grammar.${S.workbook[L.n] != null ? ` Best: ${S.workbook[L.n]}%` : ''}</span></a>` : ''}</header>
-    ${L.grammar.map(g => `<section class="grammar"><h2>${esc(g.point)}</h2><p>${esc(g.explanation)}</p>
-      <ul class="examples">${g.examples.map(e => `<li><span class="ko">${esc(e.ko)}</span> ${spk(e.ko)}${mic(e.ko)}<br><span class="muted">${esc(e.en)}</span></li>`).join('')}</ul></section>`).join('')}
+    ${L.grammar.map(g => `<section class="grammar"><h2>${esc(g.point)}</h2>${g.explanation.split(/\n\n+/).map(p => `<p>${esc(p)}</p>`).join('')}
+      <ul class="examples">${g.examples.map(e => `<li><span class="ko">${esc(e.ko)}</span> ${spk(e.ko)}${mic(e.ko)}<br><span class="muted">${esc(e.en)}</span>${e.note ? `<br><small class="muted">${esc(e.note)}</small>` : ''}</li>`).join('')}</ul></section>`).join('')}
     <h2>Vocabulary · ${L.vocab.length} words</h2>
     <div class="vocab">${L.vocab.map(v => `<div><span class="ko">${esc(v.ko)}</span>${spk(v.ko)}<span>${esc(v.en)}</span><small>${esc(v.pos)}</small></div>`).join('')}</div>
     <button class="primary big sticky" data-act="unlock" data-n="${L.n}" ${on ? 'disabled' : ''}>${on ? '✓ In your reviews' : `Add ${BY_LESSON[L.n].rec.length} words to my reviews`}</button>`);

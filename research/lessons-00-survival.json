@@ -1,65 +1,289 @@
-{"range": "0", "lessons": [{
-  "n": 0, "title": "Survival kit: phrases for daily life in Korea", "url": "",
-  "vocab": [
-    {"ko": "안녕하세요", "en": "hello (polite)", "pos": "other"},
-    {"ko": "감사합니다", "en": "thank you (Sino, most common)", "pos": "other"},
-    {"ko": "고맙습니다", "en": "thank you (native Korean)", "pos": "other"},
-    {"ko": "죄송합니다", "en": "I'm sorry (formal)", "pos": "other"},
-    {"ko": "저기요", "en": "excuse me (to get attention)", "pos": "other"},
-    {"ko": "안녕히 가세요", "en": "goodbye (to someone leaving)", "pos": "other"},
-    {"ko": "안녕히 계세요", "en": "goodbye (when you leave)", "pos": "other"},
-    {"ko": "네", "en": "yes", "pos": "other"},
-    {"ko": "아니요", "en": "no (polite)", "pos": "other"},
-    {"ko": "괜찮아요", "en": "it's okay / no thanks", "pos": "other"},
-    {"ko": "잠깐만요", "en": "just a moment", "pos": "other"},
-    {"ko": "잘 모르겠어요", "en": "I'm not sure / I don't know", "pos": "other"},
-    {"ko": "한국어를 잘 못해요", "en": "I don't speak Korean well", "pos": "other"},
-    {"ko": "천천히 말해 주세요", "en": "please speak slowly", "pos": "other"},
-    {"ko": "다시 한번 말해 주세요", "en": "please say that again", "pos": "other"},
-    {"ko": "영어 할 수 있어요?", "en": "can you speak English?", "pos": "other"},
-    {"ko": "이거 주세요", "en": "this one, please", "pos": "other"},
-    {"ko": "얼마예요?", "en": "how much is it?", "pos": "other"},
-    {"ko": "카드 돼요?", "en": "can I pay by card?", "pos": "other"},
-    {"ko": "포장해 주세요", "en": "to go, please (takeaway)", "pos": "other"},
-    {"ko": "여기서 먹을게요", "en": "I'll eat here", "pos": "other"},
-    {"ko": "물 좀 주세요", "en": "some water, please", "pos": "other"},
-    {"ko": "계산해 주세요", "en": "the bill, please", "pos": "other"},
-    {"ko": "화장실이 어디예요?", "en": "where is the bathroom?", "pos": "other"},
-    {"ko": "역이 어디예요?", "en": "where is the station?", "pos": "other"},
-    {"ko": "여기로 가 주세요", "en": "please go here (taxi)", "pos": "other"},
-    {"ko": "여기서 내려 주세요", "en": "please let me off here", "pos": "other"},
-    {"ko": "교통카드", "en": "transit card (e.g. T-money)", "pos": "noun"},
-    {"ko": "약국", "en": "pharmacy", "pos": "noun"},
-    {"ko": "병원", "en": "hospital / clinic", "pos": "noun"},
-    {"ko": "도와주세요!", "en": "help me!", "pos": "other"},
-    {"ko": "아파요", "en": "it hurts / I'm sick", "pos": "other"},
-    {"ko": "편의점", "en": "convenience store", "pos": "noun"},
-    {"ko": "맛있어요", "en": "it's delicious", "pos": "other"},
-    {"ko": "잘 먹겠습니다", "en": "thanks for the meal (before eating)", "pos": "other"},
-    {"ko": "잘 먹었습니다", "en": "thanks for the meal (after eating)", "pos": "other"}
-  ],
-  "grammar": [
-    {"point": "~주세요 (please give / please do)",
-     "explanation": "Put a noun before 주세요 to ask for something (커피 주세요 = coffee, please). Attach it to a verb's ~아/어 form to ask someone to do something (말해 주세요 = please say it). It is the single most useful polite request pattern for daily life.",
+{
+ "range": "0",
+ "lessons": [
+  {
+   "n": 0,
+   "title": "Survival kit: phrases for daily life in Korea",
+   "url": "",
+   "vocab": [
+    {
+     "ko": "안녕하세요",
+     "en": "hello (polite)",
+     "pos": "other"
+    },
+    {
+     "ko": "감사합니다",
+     "en": "thank you (Sino, most common)",
+     "pos": "other"
+    },
+    {
+     "ko": "고맙습니다",
+     "en": "thank you (native Korean)",
+     "pos": "other"
+    },
+    {
+     "ko": "죄송합니다",
+     "en": "I'm sorry (formal)",
+     "pos": "other"
+    },
+    {
+     "ko": "저기요",
+     "en": "excuse me (to get attention)",
+     "pos": "other"
+    },
+    {
+     "ko": "안녕히 가세요",
+     "en": "goodbye (to someone leaving)",
+     "pos": "other"
+    },
+    {
+     "ko": "안녕히 계세요",
+     "en": "goodbye (when you leave)",
+     "pos": "other"
+    },
+    {
+     "ko": "네",
+     "en": "yes",
+     "pos": "other"
+    },
+    {
+     "ko": "아니요",
+     "en": "no (polite)",
+     "pos": "other"
+    },
+    {
+     "ko": "괜찮아요",
+     "en": "it's okay / no thanks",
+     "pos": "other"
+    },
+    {
+     "ko": "잠깐만요",
+     "en": "just a moment",
+     "pos": "other"
+    },
+    {
+     "ko": "잘 모르겠어요",
+     "en": "I'm not sure / I don't know",
+     "pos": "other"
+    },
+    {
+     "ko": "한국어를 잘 못해요",
+     "en": "I don't speak Korean well",
+     "pos": "other"
+    },
+    {
+     "ko": "천천히 말해 주세요",
+     "en": "please speak slowly",
+     "pos": "other"
+    },
+    {
+     "ko": "다시 한번 말해 주세요",
+     "en": "please say that again",
+     "pos": "other"
+    },
+    {
+     "ko": "영어 할 수 있어요?",
+     "en": "can you speak English?",
+     "pos": "other"
+    },
+    {
+     "ko": "이거 주세요",
+     "en": "this one, please",
+     "pos": "other"
+    },
+    {
+     "ko": "얼마예요?",
+     "en": "how much is it?",
+     "pos": "other"
+    },
+    {
+     "ko": "카드 돼요?",
+     "en": "can I pay by card?",
+     "pos": "other"
+    },
+    {
+     "ko": "포장해 주세요",
+     "en": "to go, please (takeaway)",
+     "pos": "other"
+    },
+    {
+     "ko": "여기서 먹을게요",
+     "en": "I'll eat here",
+     "pos": "other"
+    },
+    {
+     "ko": "물 좀 주세요",
+     "en": "some water, please",
+     "pos": "other"
+    },
+    {
+     "ko": "계산해 주세요",
+     "en": "the bill, please",
+     "pos": "other"
+    },
+    {
+     "ko": "화장실이 어디예요?",
+     "en": "where is the bathroom?",
+     "pos": "other"
+    },
+    {
+     "ko": "역이 어디예요?",
+     "en": "where is the station?",
+     "pos": "other"
+    },
+    {
+     "ko": "여기로 가 주세요",
+     "en": "please go here (taxi)",
+     "pos": "other"
+    },
+    {
+     "ko": "여기서 내려 주세요",
+     "en": "please let me off here",
+     "pos": "other"
+    },
+    {
+     "ko": "교통카드",
+     "en": "transit card (e.g. T-money)",
+     "pos": "noun"
+    },
+    {
+     "ko": "약국",
+     "en": "pharmacy",
+     "pos": "noun"
+    },
+    {
+     "ko": "병원",
+     "en": "hospital / clinic",
+     "pos": "noun"
+    },
+    {
+     "ko": "도와주세요!",
+     "en": "help me!",
+     "pos": "other"
+    },
+    {
+     "ko": "아파요",
+     "en": "it hurts / I'm sick",
+     "pos": "other"
+    },
+    {
+     "ko": "편의점",
+     "en": "convenience store",
+     "pos": "noun"
+    },
+    {
+     "ko": "맛있어요",
+     "en": "it's delicious",
+     "pos": "other"
+    },
+    {
+     "ko": "잘 먹겠습니다",
+     "en": "thanks for the meal (before eating)",
+     "pos": "other"
+    },
+    {
+     "ko": "잘 먹었습니다",
+     "en": "thanks for the meal (after eating)",
+     "pos": "other"
+    }
+   ],
+   "grammar": [
+    {
+     "point": "~주세요 (please give / please do)",
+     "explanation": "주세요 is the polite way to say \"please give me\" or \"please do it for me\". It comes from 주다 (to give). It is the most useful request pattern for daily life in Korea: ordering food, shopping, taking taxis and asking for help.\n\nTo ask for a thing, put the noun first and then 주세요: 커피 주세요 (coffee, please). To say how many, put the number after the noun: 봉투 하나 주세요 (one bag, please). Adding 좀 (a little) before 주세요 makes it softer: 물 좀 주세요. The object marker 를/을 is usually dropped in these short requests.\n\nTo ask someone to do something, use the verb's ~아/어 form (taught properly in Lesson 6) and then 주세요: 말하다 → 말해 → 말해 주세요 (please say it); 가다 → 가 → 가 주세요 (please go); 내리다 → 내려 → 내려 주세요 (please let me off). For now you can learn these as fixed phrases.",
      "examples": [
-       {"ko": "아이스 아메리카노 하나 주세요.", "en": "One iced americano, please."},
-       {"ko": "영수증 주세요.", "en": "The receipt, please."},
-       {"ko": "천천히 말해 주세요.", "en": "Please speak slowly."},
-       {"ko": "봉투 하나 주세요.", "en": "One bag, please."}
-     ]},
-    {"point": "~이/가 어디예요? (where is ~?)",
-     "explanation": "Name the place, add the subject marker (이 after a consonant, 가 after a vowel), then 어디예요? to ask where it is. In casual speech the marker is often dropped: 화장실 어디예요?",
+      {
+       "ko": "아이스 아메리카노 하나 주세요.",
+       "en": "One iced americano, please."
+      },
+      {
+       "ko": "영수증 주세요.",
+       "en": "The receipt, please."
+      },
+      {
+       "ko": "천천히 말해 주세요.",
+       "en": "Please speak slowly."
+      },
+      {
+       "ko": "봉투 하나 주세요.",
+       "en": "One bag, please."
+      },
+      {
+       "ko": "저기서 내려 주세요.",
+       "en": "Please let me off over there.",
+       "note": "내리다 → 내려 + 주세요."
+      },
+      {
+       "ko": "아메리카노 두 잔 주세요.",
+       "en": "Two americanos, please.",
+       "note": "잔 counts cups and glasses."
+      }
+     ]
+    },
+    {
+     "point": "~이/가 어디예요? (where is ~?)",
+     "explanation": "Use this to ask where something is. Say the place, add the subject marker 이/가, then 어디예요? 어디 means \"where\" and 예요 is the polite \"is\" (Lesson 1).\n\nPick the marker by the last sound of the place word. If it ends in a consonant, use 이: 화장실 → 화장실이 어디예요? If it ends in a vowel, use 가: 출구 (exit) → 출구가 어디예요?\n\nIn everyday speech the marker is often dropped: 화장실 어디예요? Both are fine. If you are lost, 여기가 어디예요? asks \"where am I?\" (literally \"where is here?\").",
      "examples": [
-       {"ko": "지하철역이 어디예요?", "en": "Where is the subway station?"},
-       {"ko": "화장실이 어디예요?", "en": "Where is the bathroom?"},
-       {"ko": "편의점이 어디예요?", "en": "Where is the convenience store?"}
-     ]},
-    {"point": "Polite speech: ~요 and ~습니다",
-     "explanation": "Everyday polite speech ends in ~요 (해요체); use it with strangers, staff and colleagues. Shops, announcements and formal greetings use ~습니다/ㅂ니다 (합니다체). Learn to produce ~요 first and recognise ~습니다 when you hear it.",
+      {
+       "ko": "지하철역이 어디예요?",
+       "en": "Where is the subway station?"
+      },
+      {
+       "ko": "화장실이 어디예요?",
+       "en": "Where is the bathroom?"
+      },
+      {
+       "ko": "편의점이 어디예요?",
+       "en": "Where is the convenience store?"
+      },
+      {
+       "ko": "출구가 어디예요?",
+       "en": "Where is the exit?",
+       "note": "출구 ends in a vowel, so it takes 가."
+      },
+      {
+       "ko": "약국 어디예요?",
+       "en": "Where is the pharmacy?",
+       "note": "The marker is dropped, as is common in speech."
+      },
+      {
+       "ko": "여기가 어디예요?",
+       "en": "Where am I? (Where is this place?)"
+      }
+     ]
+    },
+    {
+     "point": "Polite speech: ~요 and ~습니다",
+     "explanation": "Korean changes the end of a sentence to show how polite you are being. As a visitor you need two polite styles.\n\nThe ~요 style is everyday polite speech. Use it with shop staff, strangers, taxi drivers and colleagues: 얼마예요?, 괜찮아요, 맛있어요. If you only learn to speak one style, make it this one.\n\nThe ~습니다/ㅂ니다 style is formal. You hear it in announcements, from staff greeting customers, and in set phrases like 감사합니다, 죄송합니다 and 잘 먹겠습니다. Questions in this style end in ~습니까/ㅂ니까.\n\nYou don't need to produce the formal style yet, but learn to recognise it. The same idea can come in both styles: 감사합니다 and 감사해요 both mean \"thank you\".",
      "examples": [
-       {"ko": "이거 얼마예요?", "en": "How much is this?"},
-       {"ko": "어서 오세요.", "en": "Welcome (in a shop)."},
-       {"ko": "이번 역은 서울역입니다.", "en": "This stop is Seoul Station."}
-     ]}
-  ]
-}]}
+      {
+       "ko": "이거 얼마예요?",
+       "en": "How much is this?"
+      },
+      {
+       "ko": "어서 오세요.",
+       "en": "Welcome (in a shop)."
+      },
+      {
+       "ko": "이번 역은 서울역입니다.",
+       "en": "This stop is Seoul Station."
+      },
+      {
+       "ko": "네, 괜찮아요.",
+       "en": "Yes, it's fine."
+      },
+      {
+       "ko": "정말 감사합니다.",
+       "en": "Thank you very much."
+      },
+      {
+       "ko": "문이 닫힙니다.",
+       "en": "The doors are closing.",
+       "note": "A subway announcement, in the formal style."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

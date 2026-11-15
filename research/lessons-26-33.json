@@ -245,7 +245,7 @@
    "grammar": [
     {
      "point": "~는 (present verb modifier)",
-     "explanation": "Add ~는 to a verb stem so the verb, together with everything before it, describes the noun that follows: \"the N that (someone) does\". It is used for actions happening now or in general. Final consonants make no difference, but a stem ending in ㄹ loses the ㄹ (살다 → 사는).",
+     "explanation": "~는 lets a verb describe a noun, the way ~ㄴ/은 does for adjectives. The verb and everything in front of it form one describing clause, and the noun comes last: 뛰는 학생 is \"a student who runs / is running\". Use it for actions happening now or in general.\n\nTo form it, add ~는 to the stem. A final consonant makes no difference: 가다 → 가 + 는 → 가는, 먹다 → 먹 + 는 → 먹는. The one change is with ㄹ-stems, which lose the ㄹ: 살다 → 사 + 는 → 사는, 팔다 → 파는.\n\nBuild the clause in normal Korean order and move the noun to the end. 학생이 복도에서 뛰어요 (the student runs in the hallway) becomes 복도에서 뛰는 학생 (the student running in the hallway). The noun's old particle disappears; the new particle goes after the noun.\n\nDon't mix this up with adjectives: adjectives use ~ㄴ/은 for the present (예쁜, 작은), but verbs use ~는. On a verb, ~ㄴ/은 means past: 먹은 사람 is \"the person who ate\", not \"who eats\".",
      "examples": [
       {
        "ko": "저는 복도에서 뛰는 학생을 봤어요.",
@@ -258,12 +258,26 @@
       {
        "ko": "우리 동네에 사는 아줌마는 친절해요.",
        "en": "The older woman who lives in our neighborhood is kind."
+      },
+      {
+       "ko": "저기 노래하는 사람이 제 형이에요.",
+       "en": "The person singing over there is my older brother."
+      },
+      {
+       "ko": "그 아줌마가 파는 김치가 맛있어요.",
+       "en": "The kimchi that woman sells is delicious.",
+       "note": "팔다 is an ㄹ-stem, so the ㄹ drops: 팔 + 는 → 파는."
+      },
+      {
+       "ko": "지금 듣는 노래가 뭐예요?",
+       "en": "What is the song you're listening to now?",
+       "note": "~는 starts with a consonant, so the ㄷ irregular doesn't apply: 듣다 → 듣는."
       }
      ]
     },
     {
      "point": "~ㄴ/은 (past verb modifier)",
-     "explanation": "For a completed action, add ~ㄴ to a stem ending in a vowel or ~은 to a stem ending in a consonant, then put the noun after it: \"the N that (someone) did\". The result works like any other noun in the sentence.",
+     "explanation": "For an action that is already finished, a verb takes ~ㄴ/은 to describe a noun: 산 물건 is \"the item (someone) bought\". The whole phrase works as one noun, so it can take any particle.\n\nAfter a vowel, put ㄴ under the last syllable: 사다 → 사 + ㄴ → 산, 만나다 → 만난, 하다 → 한. After a consonant, add ~은: 먹다 → 먹 + 은 → 먹은, 읽다 → 읽은. ㄹ-stems drop the ㄹ and take ㄴ: 만들다 → 만든.\n\nThis looks just like the adjective modifier (예쁜, 작은), but on a verb it means past. 먹은 음식 is \"food I ate\"; \"food I am eating\" is 먹는 음식. Don't add ~았/었 as well: it is 산 물건, never 샀은 물건.",
      "examples": [
       {
        "ko": "제가 어제 산 물건이 너무 비싸요.",
@@ -276,12 +290,25 @@
       {
        "ko": "시험에 합격한 학생은 제 친구예요.",
        "en": "The student who passed the exam is my friend."
+      },
+      {
+       "ko": "아침에 먹은 빵이 맛있었어요.",
+       "en": "The bread I ate this morning was tasty."
+      },
+      {
+       "ko": "이 편지를 쓴 사람이 누구예요?",
+       "en": "Who is the person who wrote this letter?"
+      },
+      {
+       "ko": "동생이 만든 케이크가 너무 달아요.",
+       "en": "The cake my younger sibling made is too sweet.",
+       "note": "만들다 drops its ㄹ: 만들 + ㄴ → 만든."
       }
      ]
     },
     {
      "point": "~ㄹ/을 (future verb modifier)",
-     "explanation": "For an action that hasn't happened yet, add ~ㄹ after a vowel or ~을 after a consonant: \"the N that (someone) will do\". This is the same modifier that sits inside the ~ㄹ/을 것이다 future ending.",
+     "explanation": "~ㄹ/을 describes a noun with an action that hasn't happened yet: 먹을 음식 is \"food (I) will eat\" or \"food to eat\". It often matches English \"to do\" phrases, like 할 일 (things to do) or 입을 옷 (clothes to wear).\n\nAfter a vowel, put ㄹ under the last syllable: 가다 → 가 + ㄹ → 갈, 보다 → 볼, 하다 → 할. After a consonant, add ~을: 먹다 → 먹 + 을 → 먹을, 읽다 → 읽을. A stem that already ends in ㄹ stays as it is: 살다 → 살, 만들다 → 만들.\n\nThis is the same piece inside ~ㄹ/을 거예요 (것이다): 먹을 거예요 is literally \"it is a thing (I) will eat\". So the three verb modifiers line up by time: 먹은 (ate), 먹는 (eat / am eating), 먹을 (will eat).",
      "examples": [
       {
        "ko": "내일 먹을 음식을 샀어요.",
@@ -294,12 +321,25 @@
       {
        "ko": "이번 주말에 볼 경기가 있어요.",
        "en": "There is a game I will watch this weekend."
+      },
+      {
+       "ko": "주말에 할 일이 많아요.",
+       "en": "I have a lot of things to do this weekend."
+      },
+      {
+       "ko": "파티에 입을 옷이 없어요.",
+       "en": "I don't have any clothes to wear to the party."
+      },
+      {
+       "ko": "우리가 살 집은 학교 근처에 있어요.",
+       "en": "The house we will live in is near the school.",
+       "note": "살다 already ends in ㄹ, so the future form is just 살."
       }
      ]
     },
     {
      "point": "~는 것 (turning an action into a noun)",
-     "explanation": "When the noun being described is 것 (\"thing\"), the whole clause becomes a noun meaning \"doing X\" or \"what (someone) did\". You can then use it as a subject or object, with particles like 은/는, 이/가 and 을/를.",
+     "explanation": "When the noun after a describing clause is 것 (\"thing\"), the clause becomes a noun: 걷는 것 is \"walking\" or \"the act of walking\". This lets you use a whole action as the subject or object: \"Walking is dangerous\", \"I hate smoking\".\n\nBuild it like any other described noun: stem + ~는 + 것. 공부하다 → 공부하는 것, 먹다 → 먹는 것, 만들다 → 만드는 것. Then add the particle you need: 것은 / 것이 for the subject, 것을 for the object. In speech these shrink: 것은 → 건, 것이 → 게, 것을 → 걸.\n\nThe tense of the modifier changes the meaning. ~는 것 is the action in general (\"eating\"). With the past ~ㄴ/은 것, it is the specific thing someone did: 말한 것 is \"what (he) said\". With the future ~ㄹ/을 것 it is something to do: 먹을 것 is \"something to eat\".",
      "examples": [
       {
        "ko": "밤에 혼자 걷는 것은 위험해요.",
@@ -316,6 +356,19 @@
       {
        "ko": "그 사람이 말한 것을 믿어요?",
        "en": "Do you believe what that person said?"
+      },
+      {
+       "ko": "제 취미는 사진을 찍는 것이에요.",
+       "en": "My hobby is taking photos."
+      },
+      {
+       "ko": "집에서 쉬는 게 제일 좋아요.",
+       "en": "Resting at home is the best.",
+       "note": "게 is the spoken short form of 것이."
+      },
+      {
+       "ko": "냉장고에 먹을 것이 없어요.",
+       "en": "There's nothing to eat in the fridge."
       }
      ]
     }
@@ -565,7 +618,7 @@
    "grammar": [
     {
      "point": "~던 (recalled, repeated past)",
-     "explanation": "Add ~던 to a verb stem to describe a noun with an action the speaker remembers happening repeatedly or over time in the past. It often suggests the action was ongoing, unfinished, or may still continue, so it suits verbs like wearing, using or going somewhere regularly, and sounds wrong with one-time actions such as being born.",
+     "explanation": "~던 describes a noun with an action the speaker remembers from the past: 자주 가던 약국 is \"the pharmacy I used to go to often\". It looks back at a past habit, or at an action that was in progress and wasn't finished (it may even still be going on).\n\nForming it is easy: add ~던 straight to any stem. Vowels, consonants and ㄹ-stems make no difference: 가다 → 가 + 던 → 가던, 먹다 → 먹 + 던 → 먹던, 살다 → 살던.\n\nCompare it with the past modifier ~ㄴ/은. 먹은 햄버거 is a hamburger that was eaten, finished. 먹던 햄버거 is one someone was eating and didn't finish, so some of it is probably still there. With repeated actions, ~던 adds the feel of \"used to\": 제가 다니던 학교 is \"the school I used to go to\".\n\nBecause it suits ongoing or repeated actions, ~던 sounds odd with one-time events such as being born.",
      "examples": [
       {
        "ko": "제가 자주 가던 약국이 문을 닫았어요.",
@@ -582,12 +635,25 @@
       {
        "ko": "손님이 먹던 햄버거가 아직 테이블에 있어요.",
        "en": "The hamburger the guest was eating is still on the table."
+      },
+      {
+       "ko": "제가 살던 집은 바다 근처에 있었어요.",
+       "en": "The house I used to live in was near the sea.",
+       "note": "~던 never changes the stem: 살다 → 살던."
+      },
+      {
+       "ko": "아까 읽던 책이 어디에 있어요?",
+       "en": "Where is the book I was reading earlier?"
+      },
+      {
+       "ko": "할머니가 쓰던 숟가락을 아직 가지고 있어요.",
+       "en": "I still have the spoon my grandmother used to use."
       }
      ]
     },
     {
      "point": "~았/었던 (completed past)",
-     "explanation": "Adding ~았/었 before ~던 makes it clear that the action is completely over and no longer happening. Its meaning is close to the plain ~ㄴ/은 past modifier but carries a stronger sense of something finished and remembered.",
+     "explanation": "~았/었던 also describes a noun with a past action, but it stresses that the action is completely over. 갔던 곳 is \"the place I went to (back then)\", a finished experience you are recalling.\n\nTo form it, take the past polite form, drop 어요 and add 던: 가다 → 갔어요 → 갔던, 먹다 → 먹었어요 → 먹었던, 하다 → 했어요 → 했던, 보다 → 봤어요 → 봤던. Irregulars follow the past tense as usual: 듣다 → 들었던, 돕다 → 도왔던.\n\nHow it differs: 먹던 음식 is food someone was eating (maybe unfinished, maybe a habit). 먹었던 음식 is food that was eaten and is done, remembered from the past. Often the plain past modifier works too (먹은 음식); ~았/었던 just adds a stronger \"back then, and it's over\" feeling.",
      "examples": [
       {
        "ko": "작년에 갔던 대사관은 아주 컸어요.",
@@ -604,12 +670,25 @@
       {
        "ko": "한국에서 근무했던 간호사를 만났어요.",
        "en": "I met a nurse who had worked in Korea."
+      },
+      {
+       "ko": "전에 다녔던 회사는 집에서 멀었어요.",
+       "en": "The company I used to work at was far from home."
+      },
+      {
+       "ko": "그때 들었던 노래를 다시 듣고 싶어요.",
+       "en": "I want to listen again to the song I heard back then.",
+       "note": "듣다 → 들었어요, so the form is 들었던."
+      },
+      {
+       "ko": "우리가 처음 만났던 카페를 기억해요?",
+       "en": "Do you remember the café where we first met?"
       }
      ]
     },
     {
      "point": "~았/었던 with adjectives (past state)",
-     "explanation": "Adjectives can take ~았/었던 to describe a noun by a state it used to be in but is no longer. It contrasts with the present ~ㄴ/은 form, which describes how the noun is now.",
+     "explanation": "Adjectives can take ~았/었던 to describe a noun by a state that was true before but isn't anymore: 작았던 동생 is \"my sibling who used to be small\".\n\nForm it the same way as with verbs: past polite form, drop 어요, add 던. 작다 → 작았어요 → 작았던, 외롭다 → 외로웠어요 → 외로웠던, 바쁘다 → 바빴어요 → 바빴던, 조용하다 → 조용했어요 → 조용했던.\n\nCompare it with the present adjective modifier ~ㄴ/은. 작은 동생 says how the sibling is now. 작았던 동생 points back to how they were, and suggests it has changed.",
      "examples": [
       {
        "ko": "외로웠던 시간이 다 지났어요.",
@@ -622,6 +701,19 @@
       {
        "ko": "소중했던 기억을 영원히 잊지 않을 거예요.",
        "en": "I will never forget those precious memories."
+      },
+      {
+       "ko": "조용했던 동네가 지금은 아주 시끄러워요.",
+       "en": "The neighborhood that used to be quiet is very noisy now."
+      },
+      {
+       "ko": "바빴던 한 주가 드디어 끝났어요.",
+       "en": "The busy week is finally over.",
+       "note": "바쁘다 drops ㅡ: 바쁘 + 았 → 바빴."
+      },
+      {
+       "ko": "추웠던 날씨가 많이 따뜻해졌어요.",
+       "en": "The weather, which was cold, has gotten a lot warmer."
       }
      ]
     }
@@ -881,7 +973,7 @@
    "grammar": [
     {
      "point": "Irregular stems with ~는 / ~ㄴ/은 / ~ㄹ/을",
-     "explanation": "With present ~는, only ㄹ-stems change: the ㄹ drops (만들다 → 만드는). With past ~ㄴ/은 and future ~ㄹ/을, the vowel-triggered irregulars apply: ㅅ drops (짓다 → 지은), ㄷ becomes ㄹ (걷다 → 걸은), ㅂ becomes 우 (돕다 → 도운), and ㄹ-stems drop ㄹ before taking ㄴ or ㄹ (만들다 → 만든, 만들).",
+     "explanation": "Verb modifiers meet the irregular rules from Lesson 7. What matters is how the ending starts. ~는 starts with a consonant, so only ㄹ-stems change: the ㄹ drops (만들다 → 만드는, 살다 → 사는). ㄷ, ㅂ and ㅅ stems stay as they are: 듣는, 돕는, 짓는.\n\n~은 and ~을 start with a vowel sound, so they trigger the vowel irregulars. ㄷ becomes ㄹ: 걷다 → 걸 + 은 → 걸은, 듣다 → 들을. ㅂ becomes 우: 돕다 → 도우 + ㄴ → 도운, 춥다 → 추운. ㅅ drops: 짓다 → 지 + 은 → 지은.\n\nㄹ-stems drop the ㄹ before ㄴ (만들다 → 만든, 팔다 → 판) and keep it for the future, adding nothing (만들다 → 만들, 살다 → 살). A common mistake is 만들은 or 만들을: there is never an extra 으 after an ㄹ-stem.",
      "examples": [
       {
        "ko": "엄마가 만드는 음식이 제일 맛있어요.",
@@ -898,12 +990,26 @@
       {
        "ko": "제가 들은 이야기는 사실이에요.",
        "en": "The story I heard is true."
+      },
+      {
+       "ko": "이 집은 제 할아버지가 지은 집이에요.",
+       "en": "This house is one my grandfather built.",
+       "note": "짓다 drops ㅅ before 은: 지 + 은 → 지은."
+      },
+      {
+       "ko": "내일 들을 수업은 아침 아홉 시에 있어요.",
+       "en": "The class I'll take tomorrow is at nine in the morning.",
+       "note": "듣다: ㄷ becomes ㄹ before 을, so 들을."
+      },
+      {
+       "ko": "추운 날에는 따뜻한 차를 마시고 싶어요.",
+       "en": "On cold days I want to drink hot tea."
       }
      ]
     },
     {
      "point": "\"My favorite\": 가장/제일 좋아하는 N",
-     "explanation": "Korean has no single word for \"favorite\". Instead you say \"the N that I like most\": 내가/제가 + 가장 or 제일 + 좋아하는 + noun. Use 내가/제가 rather than 나의/저의, because the speaker is the subject of 좋아하다. To say your favorite thing is an activity, make the second half a noun as well with ~는 것이다.",
+     "explanation": "Korean has no word for \"favorite\". Instead you describe the noun as \"the one I like most\": 제가 + 제일/가장 + 좋아하는 + noun. 제가 제일 좋아하는 음식 is literally \"the food that I like most\", which means \"my favorite food\".\n\nStep by step: start with the sentence 제가 음식을 제일 좋아해요. Turn 좋아해요 into the modifier 좋아하는 and move the noun to the end: 제가 제일 좋아하는 음식. Then use it as the topic: 제가 제일 좋아하는 음식은 김치예요.\n\nUse 제가/내가 (subject), not 저의/나의, because \"I\" is the one doing the liking. For someone else, swap in their name or 네가: 네가 가장 좋아하는 계절. If your favorite is an activity, turn that into a noun with ~는 것 too: 제가 제일 좋아하는 것은 노래하는 것이에요. 가장 and 제일 mean the same; 제일 is a little more casual.",
      "examples": [
       {
        "ko": "내가 가장 좋아하는 운동은 농구야.",
@@ -916,12 +1022,25 @@
       {
        "ko": "네가 가장 좋아하는 계절이 뭐야?",
        "en": "What is your favorite season?"
+      },
+      {
+       "ko": "제가 제일 좋아하는 음식은 김치찌개예요.",
+       "en": "My favorite food is kimchi stew."
+      },
+      {
+       "ko": "민수 씨가 가장 좋아하는 가수는 누구예요?",
+       "en": "Who is Minsu's favorite singer?"
+      },
+      {
+       "ko": "제가 제일 좋아했던 선생님은 수학 선생님이었어요.",
+       "en": "My favorite teacher was my math teacher.",
+       "note": "좋아했던 talks about a favorite from the past."
       }
      ]
     },
     {
      "point": "Describing nouns with 싶다, 있다 and 없다",
-     "explanation": "싶다 is an adjective, so it takes ~ㄴ/은 to describe a noun (가고 싶은 곳). 있다 and 없다, and words built on them like 재미있다 and 맛없다, take ~는 instead (재미있는, 돈이 없는).",
+     "explanation": "Three common words take a modifier you might not expect. 싶다 is an adjective, so it uses the adjective form ~ㄴ/은: 가고 싶다 → 가고 싶 + 은 → 가고 싶은. 가고 싶은 곳 is \"a place I want to go\".\n\n있다 and 없다 work the other way. Even though 재미있다 and 맛없다 feel like adjectives, they take ~는, like verbs: 재미있다 → 재미있 + 는 → 재미있는, 맛있다 → 맛있는, 돈이 없다 → 돈이 없는. So it is 재미있는 영화, never 재미있은 영화.\n\nFor the past, both use ~았/었던: 재미있었던 영화 (a movie that was fun), 가고 싶었던 곳 (a place I had wanted to go).",
      "examples": [
       {
        "ko": "제가 가고 싶은 나라는 캐나다예요.",
@@ -934,12 +1053,24 @@
       {
        "ko": "돈이 없는 사람도 이 농장에서 일할 수 있어요.",
        "en": "Even people with no money can work on this farm."
+      },
+      {
+       "ko": "시간이 없는 날에는 집에서 밥을 먹어요.",
+       "en": "On days I have no time, I eat at home."
+      },
+      {
+       "ko": "제가 먹고 싶은 것은 떡볶이예요.",
+       "en": "What I want to eat is tteokbokki."
+      },
+      {
+       "ko": "정말 가고 싶었던 공연을 드디어 봤어요.",
+       "en": "I finally saw the performance I really wanted to go to."
       }
      ]
     },
     {
      "point": "Where 그/이/저/나의 go in modified nouns",
-     "explanation": "Small words like 이, 그, 저, 나의 and 저의 always sit directly in front of the noun, so they come after the describing clause, not before it. \"That person I met\" is 내가 만난 그 사람, not 그 내가 만난 사람.",
+     "explanation": "Words like 이, 그, 저 (this, that) and 나의 / 저의 / 제 (my) belong to the noun itself, so they sit right in front of it. When a noun also has a describing clause, the clause comes first and the small word comes last, just before the noun.\n\nBuild it in two steps. Start with the noun and its small word: 그 사람. Then put the describing clause in front of the whole thing: 내가 만난 + 그 사람 → 내가 만난 그 사람 (that person I met). Possessives work the same way: 어제 산 + 제 가방 → 어제 산 제 가방 (my bag that I bought yesterday).\n\nEnglish puts \"that\" or \"my\" at the very start (\"that person I met\"), so learners often write 그 내가 만난 사람. That sounds wrong in Korean; keep 그 next to 사람.",
      "examples": [
       {
        "ko": "내가 어제 만난 그 사람은 정말 솔직했어.",
@@ -952,6 +1083,18 @@
       {
        "ko": "선생님이 읽은 저의 글은 환경에 대한 글이에요.",
        "en": "My writing that the teacher read is about the environment."
+      },
+      {
+       "ko": "어제 산 제 가방이 너무 작아요.",
+       "en": "My bag that I bought yesterday is too small."
+      },
+      {
+       "ko": "제가 자주 가는 그 식당은 오늘 문을 안 열었어요.",
+       "en": "That restaurant I often go to didn't open today."
+      },
+      {
+       "ko": "아까 본 저 사람은 누구예요?",
+       "en": "Who is that person over there that we saw earlier?"
       }
      ]
     }
@@ -1206,7 +1349,7 @@
    "grammar": [
     {
      "point": "~기 (verb to noun)",
-     "explanation": "Attach ~기 to a verb or adjective stem to turn it into a noun meaning \"doing X\" or \"being X\". It often goes with words describing how easy, hard or pleasant something is (쉽다, 어렵다, 좋다, 편하다).",
+     "explanation": "~기 turns a verb or adjective into a noun meaning \"doing X\" or \"being X\": 말하다 → 말하기 (speaking). The new noun takes particles like any other, so 말하기가 어려워요 is \"speaking is difficult\".\n\nJust add ~기 to the stem, whatever its last letter: 쓰다 → 쓰 + 기 → 쓰기, 먹다 → 먹기, 살다 → 살기. Irregulars don't change, because ~기 starts with a consonant: 듣다 → 듣기, 돕다 → 돕기.\n\n~기 is most common before words that judge how easy or pleasant something is: 쉽다, 어렵다, 좋다, 편하다, 불편하다. The particle 가 is often dropped there: 살기 좋아요 (good to live in).\n\nHow is it different from ~는 것? Both mean \"doing X\", and often either works. ~기 fits best in these set patterns and in lists; with 좋아하다 and 싫어하다, ~는 것 is more common (요리하는 것을 좋아해요).",
      "examples": [
       {
        "ko": "한국어로 말하기가 어려워요.",
@@ -1219,12 +1362,25 @@
       {
        "ko": "이 마을은 살기 좋아요.",
        "en": "This village is a nice place to live."
+      },
+      {
+       "ko": "한국 노래는 듣기 좋아요.",
+       "en": "Korean songs are nice to listen to.",
+       "note": "Irregular stems don't change before ~기: 듣다 → 듣기."
+      },
+      {
+       "ko": "이 의자는 앉기 불편해요.",
+       "en": "This chair is uncomfortable to sit on."
+      },
+      {
+       "ko": "한국어 쓰기가 말하기보다 쉬워요.",
+       "en": "Writing Korean is easier than speaking it."
       }
      ]
     },
     {
      "point": "~기 시작하다 (start doing)",
-     "explanation": "Put ~기 on a verb stem and follow it with 시작하다 to say an action began. The tense goes on 시작하다.",
+     "explanation": "~기 시작하다 means \"to start doing X\". ~기 names the action as a noun, and 시작하다 says it began: 비가 오기 시작했어요 is \"it started to rain\".\n\nForm it as stem + 기 + 시작하다: 오다 → 오기 시작하다, 먹다 → 먹기 시작하다, 만들다 → 만들기 시작하다. The first verb never changes for tense. All the tense goes on 시작하다: 시작해요 (start), 시작했어요 (started), 시작할 거예요 (will start).\n\nA common mistake is putting the past on the first verb (왔기 시작했어요). Keep it as a plain stem + 기. You can also start the action from an adjective that has become a verb with ~아/어지다: 추워지다 → 추워지기 시작했어요 (it started getting cold).",
      "examples": [
       {
        "ko": "갑자기 비가 오기 시작했어요.",
@@ -1237,12 +1393,25 @@
       {
        "ko": "사람들이 마을에 모이기 시작했어요.",
        "en": "People started to gather in the village."
+      },
+      {
+       "ko": "다음 달부터 운동하기 시작할 거예요.",
+       "en": "I'm going to start exercising next month."
+      },
+      {
+       "ko": "아기가 걷기 시작했어요.",
+       "en": "The baby started walking.",
+       "note": "걷다 doesn't change before ~기: 걷 + 기 → 걷기."
+      },
+      {
+       "ko": "요즘 날씨가 추워지기 시작했어요.",
+       "en": "The weather has started getting cold these days."
       }
      ]
     },
     {
      "point": "~기 싫다 (not want to do)",
-     "explanation": "Verb stem + ~기 싫다 means you don't want to do something. For someone other than the speaker, the verb 싫어하다 is used instead (~기 싫어하다).",
+     "explanation": "~기 싫다 means \"I don't want to do X\". It is the opposite of ~고 싶다: 일하고 싶어요 (I want to work) vs 일하기 싫어요 (I don't want to work). It is stronger than 일하고 싶지 않아요, closer to \"I hate to\".\n\nForm it as stem + 기 + 싫다: 일하다 → 일하기 싫어요, 먹다 → 먹기 싫어요, 일어나다 → 일어나기 싫어요. For the past, change only 싫다: 가기 싫었어요 (I didn't want to go).\n\n싫다 is an adjective that describes your own feelings, so use it for \"I\" in statements and for \"you\" in questions. For anyone else, use the verb 싫어하다: 동생은 청소하기 싫어해요. This is the same 싫다 / 싫어하다 split you saw in Lesson 8.",
      "examples": [
       {
        "ko": "오늘은 일하기 싫어요.",
@@ -1255,12 +1424,24 @@
       {
        "ko": "동생은 방을 청소하기 싫어해요.",
        "en": "My younger sibling hates cleaning the room."
+      },
+      {
+       "ko": "오늘은 아무것도 하기 싫어요.",
+       "en": "I don't want to do anything today."
+      },
+      {
+       "ko": "어제는 학교에 가기 싫었어요.",
+       "en": "Yesterday I didn't want to go to school."
+      },
+      {
+       "ko": "왜 병원에 가기 싫어요?",
+       "en": "Why don't you want to go to the hospital?"
       }
      ]
     },
     {
      "point": "~기 in lists and buttons",
-     "explanation": "Because ~기 turns a verb into a short noun, it shows up in to-do lists, instructions and on-screen buttons where English would use a bare verb, for example 보기 (view), 열기 (open), 닫기 (close) and 찾기 (find).",
+     "explanation": "Because ~기 makes a short noun out of a verb, Korean uses it where English uses a bare command or label: buttons, menus, signs, instructions and to-do lists. 보다 → 보기 (View), 열다 → 열기 (Open), 닫다 → 닫기 (Close), 찾다 → 찾기 (Find), 검색하다 → 검색하기 (Search).\n\nThe stem never changes, so this is an easy place to practise ~기. Phone screens are full of these: 사진 보기, 다시 하기. In a to-do list, write one item per line or join them with 와/과: 숙제하기와 운동하기.\n\nRead these as labels, not full sentences. To actually tell someone to do it, you still need a sentence ending: 열기를 누르세요 (press Open), or 문을 열어 주세요 (please open the door).",
      "examples": [
       {
        "ko": "오늘 할 일은 쌀 사기와 방 청소하기예요.",
@@ -1273,12 +1454,24 @@
       {
        "ko": "파일을 열고 싶으면 열기를 누르세요.",
        "en": "If you want to open the file, press Open."
+      },
+      {
+       "ko": "이번 주 목표는 매일 한국어 듣기예요.",
+       "en": "This week's goal is listening to Korean every day."
+      },
+      {
+       "ko": "검색하기 버튼은 화면 위에 있어요.",
+       "en": "The Search button is at the top of the screen."
+      },
+      {
+       "ko": "다 읽은 후에 닫기를 누르세요.",
+       "en": "After you finish reading, press Close."
       }
      ]
     },
     {
      "point": "~ㅁ/음 (verb/adjective to noun)",
-     "explanation": "Add ~ㅁ after a stem ending in a vowel (or ㄹ) and ~음 after a consonant to make a noun. Many common nouns come from this form, such as 싸움, 기쁨, 도움, 걸음, 죽음 and 느낌, and it also appears in short written statements and notices.",
+     "explanation": "~ㅁ/음 is another way to turn a verb or adjective into a noun. Today you mostly meet it in everyday nouns that came from verbs, and in short written statements such as notices and memos.\n\nAfter a vowel, put ㅁ under the last syllable: 기쁘다 → 기쁘 + ㅁ → 기쁨 (joy), 싸우다 → 싸움 (fight), 꾸다 → 꿈 (dream). After a consonant, add 음: 웃다 → 웃 + 음 → 웃음 (laughter), 죽다 → 죽음 (death). ㄹ-stems keep the ㄹ and add ㅁ under it: 살다 → 삶 (life). Irregulars change as they do before a vowel: 돕다 → 도움 (help), 걷다 → 걸음 (step).\n\nAs a beginner, learn the common ones as vocabulary (도움, 기쁨, 싸움, 느낌, 웃음, 꿈) rather than making new ones. To turn an action into a noun in your own sentences, ~는 것 and ~기 are much more common.",
      "examples": [
       {
        "ko": "친구의 도움이 필요해요.",
@@ -1295,6 +1488,19 @@
       {
        "ko": "이상한 느낌이 들어요.",
        "en": "I have a strange feeling."
+      },
+      {
+       "ko": "그 사람은 웃음이 많아요.",
+       "en": "That person laughs a lot."
+      },
+      {
+       "ko": "어젯밤에 이상한 꿈을 꿨어요.",
+       "en": "I had a strange dream last night."
+      },
+      {
+       "ko": "한국에서의 삶은 어때요?",
+       "en": "What is life in Korea like?",
+       "note": "살다 keeps its ㄹ: 살 + ㅁ → 삶."
       }
      ]
     }
@@ -1544,7 +1750,7 @@
    "grammar": [
     {
      "point": "~는지 (uncertain/embedded question)",
-     "explanation": "Attach ~는지 to a verb stem to turn a question-like clause (\"whether/when/where/why...\") into part of a larger sentence, usually followed by 알다, 모르다, 궁금하다 or 물어보다. For the past use ~았/었는지, and for the future ~ㄹ/을지.",
+     "explanation": "~는지 turns a question into one part of a bigger sentence. \"When is the delivery coming?\" becomes \"I don't know when the delivery is coming\". It usually comes before verbs of knowing and asking: 알다, 모르다, 궁금하다, 물어보다. The clause often has a question word (언제, 어디, 왜, 뭐, 누가); without one it means \"whether\".\n\nFor verbs in the present, add ~는지 to the stem: 오다 → 오는지, 먹다 → 먹는지. ㄹ-stems drop the ㄹ: 살다 → 사는지, 열다 → 여는지. 있다 and 없다 also take ~는지: 있는지, 없는지. For the past, add ~는지 after ~았/었: 갔는지, 먹었는지. For the future or a guess, use ~ㄹ/을지: 올지, 먹을지.\n\nThe question word stays in its normal place inside the clause: 어디에 사는지 (where (he) lives). The end of the whole sentence decides whether it is a statement (몰라요) or a question (알아요?).",
      "examples": [
       {
        "ko": "택배가 언제 오는지 몰라요.",
@@ -1561,12 +1767,25 @@
       {
        "ko": "내일 비가 올지 모르겠어요.",
        "en": "I'm not sure if it will rain tomorrow."
+      },
+      {
+       "ko": "이 식당이 몇 시에 문을 여는지 알아요?",
+       "en": "Do you know what time this restaurant opens?",
+       "note": "열다 is an ㄹ-stem: 열 + 는지 → 여는지."
+      },
+      {
+       "ko": "어제 누가 왔는지 궁금해요.",
+       "en": "I'm curious who came yesterday."
+      },
+      {
+       "ko": "무엇을 먹을지 아직 못 정했어요.",
+       "en": "I still haven't been able to decide what to eat."
       }
      ]
     },
     {
      "point": "~ㄴ/은지 with adjectives and 이다",
-     "explanation": "Adjectives in the present take ~ㄴ/은지 rather than ~는지 (추운지, 가까운지), and 이다 becomes ~인지. The rest of the sentence works the same way.",
+     "explanation": "In the present, adjectives take ~ㄴ/은지 instead of ~는지, just as they use ~ㄴ/은 to describe nouns. After a vowel add ~ㄴ지: 비싸다 → 비싼지, 크다 → 큰지. After a consonant add ~은지: 많다 → 많은지, 좋다 → 좋은지. Irregulars apply as usual: 춥다 → 추운지, 가깝다 → 가까운지, 멀다 → 먼지 (ㄹ drops).\n\n이다 always becomes ~인지: 얼마이다 → 얼마인지, 학생이다 → 학생인지.\n\nOnly the present is different. In the past, adjectives use ~았/었는지 like verbs (추웠는지, 비쌌는지), and the guess or future form is ~ㄹ/을지 (추울지). A common mistake is 비싸는지: adjectives never take ~는 in the present. The exception is 있다/없다 words, which take ~는지 (재미있는지, 맛없는지).",
      "examples": [
       {
        "ko": "밖이 얼마나 추운지 알아요?",
@@ -1579,12 +1798,26 @@
       {
        "ko": "지하철 요금이 얼마인지 몰라요.",
        "en": "I don't know how much the subway fare is."
+      },
+      {
+       "ko": "집에서 학교까지 얼마나 먼지 알아요?",
+       "en": "Do you know how far it is from home to school?",
+       "note": "멀다 drops ㄹ: 멀 + ㄴ지 → 먼지."
+      },
+      {
+       "ko": "그 식당 음식이 맛있는지 물어봤어요.",
+       "en": "I asked whether that restaurant's food is good.",
+       "note": "있다 words take ~는지, not ~은지."
+      },
+      {
+       "ko": "어제 시험이 어려웠는지 친구에게 물어봤어요.",
+       "en": "I asked my friend whether yesterday's exam was hard."
       }
      ]
     },
     {
      "point": "~는지 안 ~는지 (whether or not)",
-     "explanation": "Repeat the clause with 안 in front of the second copy to say \"whether X or not\". It works with verbs (~는지), adjectives (~ㄴ/은지) and past forms (~았/었는지).",
+     "explanation": "To say \"whether or not\", write the clause twice: first the positive, then 안 + the same verb with the same ending. 오다 → 오는지 안 오는지 (whether (he) comes or not). Then finish with 알다, 모르다, 물어보다 or 궁금하다.\n\nUse the right ending for each kind of word. Verbs: 먹는지 안 먹는지. Adjectives: 싼지 안 싼지, 좋은지 안 좋은지. Past: 왔는지 안 왔는지. For 하다-verbs, 안 goes right before 하다 and the noun part isn't repeated: 공부하는지 안 하는지.\n\nSome words have their own opposite, so you use that instead of 안. For 이다, use 아닌지: 학생인지 아닌지. For 있다, use 없는지: 있는지 없는지.",
      "examples": [
       {
        "ko": "그가 오는지 안 오는지 몰라요.",
@@ -1597,12 +1830,24 @@
       {
        "ko": "수술이 잘 됐는지 안 됐는지 아직 몰라요.",
        "en": "We don't know yet whether the surgery went well or not."
+      },
+      {
+       "ko": "동생이 숙제를 했는지 안 했는지 몰라요.",
+       "en": "I don't know whether my younger sibling did the homework or not."
+      },
+      {
+       "ko": "그 사람이 학생인지 아닌지 몰라요.",
+       "en": "I don't know whether that person is a student or not."
+      },
+      {
+       "ko": "냉장고에 우유가 있는지 없는지 알아요?",
+       "en": "Do you know whether there's milk in the fridge or not?"
       }
      ]
     },
     {
      "point": "~ㄹ/을지도 모르다 (might)",
-     "explanation": "Adding ~도 to ~지 adds little meaning, but the set phrase ~ㄹ/을지도 모르다 is very common for saying something \"might\" happen or \"might\" be true.",
+     "explanation": "~ㄹ/을지도 모르다 says something \"might\" happen or \"might\" be true. It comes from ~ㄹ/을지 + 도 + 모르다; the 도 adds little meaning, so learn it as one set phrase. It is almost always used as 몰라요.\n\nAdd ~ㄹ지도 after a vowel and ~을지도 after a consonant: 오다 → 올지도 몰라요, 작다 → 작을지도 몰라요, 위험하다 → 위험할지도 몰라요. ㄹ-stems just add 지도: 멀다 → 멀지도 몰라요. Irregulars change before 을: 춥다 → 추울지도, 듣다 → 들을지도. For something that might already have happened, use the past: 갔을지도 몰라요 (may have gone).\n\nDon't confuse it with ~ㄹ/을지 모르겠어요 (\"I'm not sure whether...\"). That one focuses on not knowing; ~ㄹ/을지도 몰라요 focuses on the possibility.",
      "examples": [
       {
        "ko": "내일 비가 올지도 몰라요.",
@@ -1615,12 +1860,25 @@
       {
        "ko": "이 계단은 위험할지도 몰라요.",
        "en": "These stairs might be dangerous."
+      },
+      {
+       "ko": "오늘 길이 막힐지도 몰라요.",
+       "en": "The roads might be jammed today."
+      },
+      {
+       "ko": "이 옷은 저한테 작을지도 몰라요.",
+       "en": "These clothes might be small for me."
+      },
+      {
+       "ko": "내일은 오늘보다 추울지도 몰라요.",
+       "en": "Tomorrow might be colder than today.",
+       "note": "춥다: ㅂ becomes 우 before 을, so 추울지도."
       }
      ]
     },
     {
      "point": "~ㄴ/은 지 (time) 되다 (it has been X since)",
-     "explanation": "Verb stem + ~ㄴ/은 지, then a length of time and 되다 (usually 됐다), expresses how long it has been since an action happened, which English often translates as \"I have been doing X for Y\". In this pattern 지 is written with a space before it, unlike ~는지.",
+     "explanation": "This pattern says how much time has passed since something happened. 한국에 온 지 일 년 됐어요 is literally \"since coming to Korea, it has become a year\". English says \"It's been a year since I came to Korea\", or often \"I've been in Korea for a year\".\n\nBuild it in three parts: past modifier + 지, then the length of time, then 되다 (almost always 됐어요). After a vowel use ~ㄴ 지: 오다 → 온 지, 시작하다 → 시작한 지. After a consonant use ~은 지: 먹다 → 먹은 지. ㄹ-stems drop the ㄹ: 살다 → 산 지. Irregulars as usual: 듣다 → 들은 지.\n\nWatch the spacing: here 지 means \"time since\", so there is a space before it (온 지), unlike the ~는지 question ending (오는지). Ask \"how long has it been?\" with 얼마나 됐어요?. You can also use 지나다 instead of 되다: 일 년이 지났어요 (a year has passed).",
      "examples": [
       {
        "ko": "한국에 온 지 일 년 됐어요.",
@@ -1637,6 +1895,19 @@
       {
        "ko": "밥을 먹은 지 세 시간 됐어요.",
        "en": "It has been three hours since I ate."
+      },
+      {
+       "ko": "서울에 산 지 오 년 됐어요.",
+       "en": "I've been living in Seoul for five years.",
+       "note": "살다 drops ㄹ: 산 지."
+      },
+      {
+       "ko": "이 회사에서 일한 지 벌써 십 년이 지났어요.",
+       "en": "Ten years have already passed since I started working at this company."
+      },
+      {
+       "ko": "친구를 만난 지 오래됐어요.",
+       "en": "It's been a long time since I met my friend."
       }
      ]
     }
@@ -1866,7 +2137,7 @@
    "grammar": [
     {
      "point": "Describing nouns with 이다: N1인 N2",
-     "explanation": "이다 conjugates like an adjective, so it takes ~ㄴ to describe a following noun: N1인 N2 means \"N2, who/which is N1\". It is useful with nouns that have an adjective-like meaning (부자, 불법, 동갑) and for attaching a job title to a person.",
+     "explanation": "이다 (\"to be\") behaves like an adjective, so to describe a noun it takes the adjective modifier ~ㄴ. Noun + 이다 becomes noun + 인: 부자이다 → 부자인. Then put the second noun after it: 부자인 친구 is \"a friend who is rich\".\n\nIt is always 인, whether the first noun ends in a vowel or a consonant: 의사 → 의사인, 학생 → 학생인. This is different from the polite ending, where 이에요 and 예요 change with the noun.\n\nUse it when the first noun tells you something about the second: a job (간호사인 언니, my older sister who is a nurse), a status (동갑인 친구) or a quality (불법인 일). For the past, use 이었던 after a consonant and 였던 after a vowel: 선생님이었던 아버지, 가수였던 친구.",
      "examples": [
       {
        "ko": "부자인 친구가 밥을 샀어요.",
@@ -1883,12 +2154,25 @@
       {
        "ko": "불법인 일을 하면 안 돼요.",
        "en": "You must not do things that are illegal."
+      },
+      {
+       "ko": "대학생인 동생은 서울에 살아요.",
+       "en": "My younger sibling, who is a university student, lives in Seoul."
+      },
+      {
+       "ko": "가수인 친구가 다음 달에 공연을 해요.",
+       "en": "My friend who is a singer is giving a performance next month."
+      },
+      {
+       "ko": "선생님이었던 우리 아버지는 지금 농장에서 일해요.",
+       "en": "My father, who used to be a teacher, now works on a farm.",
+       "note": "Past of 인: 이었던 after a consonant, 였던 after a vowel."
       }
      ]
     },
     {
      "point": "~인지 (이다 + ~ㄴ지)",
-     "explanation": "Because 이다 acts like an adjective, it takes ~ㄴ지 and always becomes ~인지. It often follows question words like 누구, 어디, 얼마 and 무엇 to form embedded questions.",
+     "explanation": "~인지 is the ~는지 pattern from Lesson 30 applied to 이다. Since 이다 is adjective-like, it takes ~ㄴ지, giving 인지: 누구이다 → 누구인지, 얼마이다 → 얼마인지, 학생이다 → 학생인지. Use it to fold a \"who / what / where / how much is it?\" question into a bigger sentence with 알다, 모르다, 물어보다 or 궁금하다.\n\nTo build one, start from the direct question and swap the ending: 이 반지가 얼마예요? → 이 반지가 얼마인지 + 알아요? After a vowel, speech often shortens 인지 to ㄴ지: 누구인지 → 누군지, 어디인지 → 어딘지, 뭐인지 → 뭔지.\n\nFor the past, use 이었는지 / 였는지: 누구였는지 (who it was). For \"whether or not\", add 아닌지: 진짜인지 아닌지 (whether it's real or not).",
      "examples": [
       {
        "ko": "이 반지가 얼마인지 알아요?",
@@ -1901,12 +2185,25 @@
       {
        "ko": "시청이 어디인지 물어봤어요.",
        "en": "I asked where city hall is."
+      },
+      {
+       "ko": "이게 무슨 뜻인지 알아요?",
+       "en": "Do you know what this means?"
+      },
+      {
+       "ko": "오늘이 무슨 요일인지 잊어버렸어요.",
+       "en": "I forgot what day of the week it is today."
+      },
+      {
+       "ko": "어제 전화한 사람이 누구였는지 기억이 안 나요.",
+       "en": "I can't remember who the person who called yesterday was.",
+       "note": "Past of 인지: 였는지 after a vowel, 이었는지 after a consonant."
       }
      ]
     },
     {
      "point": "~인 것 (the fact that X is Y)",
-     "explanation": "Add 것 after N인 to turn a whole \"X is Y\" statement into a noun, then use it as the object or subject of another verb, just like ~는 것 with verbs.",
+     "explanation": "Add 것 after N인 and a whole \"X is Y\" statement becomes a noun: 그 사람이 의사이다 (that person is a doctor) → 그 사람이 의사인 것 (the fact that that person is a doctor). This is the 이다 version of ~는 것, and you use it the same way, as a subject or object.\n\nStep by step: 오늘이 생일이에요 → 오늘이 생일인 것 → 오늘이 생일인 것을 몰랐어요 (I didn't know that today is (your) birthday). It is common with 알다, 모르다, 잊어버리다, 깨닫다 and with feeling words like 신기하다 or 놀랍다. In speech, 것을 shrinks to 걸 and 것이 to 게.\n\nFor something that used to be true, use 이었던 것 / 였던 것: 그 사람이 가수였던 것 (the fact that that person used to be a singer).",
      "examples": [
       {
        "ko": "그 사람이 의사인 것을 몰랐어요.",
@@ -1919,6 +2216,19 @@
       {
        "ko": "우리가 동갑인 것이 신기해요.",
        "en": "It's amazing that we are the same age."
+      },
+      {
+       "ko": "오늘이 일요일인 걸 잊어버렸어요.",
+       "en": "I forgot that today is Sunday.",
+       "note": "걸 is the spoken short form of 것을."
+      },
+      {
+       "ko": "이 식당 음식이 무료인 것이 놀라웠어요.",
+       "en": "It was surprising that the food at this restaurant is free."
+      },
+      {
+       "ko": "그 사람이 가수였던 것을 알았어요?",
+       "en": "Did you know that person used to be a singer?"
       }
      ]
     }
@@ -2163,7 +2473,7 @@
    "grammar": [
     {
      "point": "~(으)려고 (with the intention of)",
-     "explanation": "Attach ~려고 to a stem ending in a vowel or ㄹ, or ~으려고 to one ending in a consonant, to say why you are doing the next action: \"in order to / intending to\". The first clause states the goal and the second states what you do to reach it.",
+     "explanation": "~(으)려고 links two actions: the first is your goal, the second is what you do to reach it. 한국어를 배우려고 한국에 왔어요 is \"I came to Korea (in order) to learn Korean\".\n\nAfter a vowel or ㄹ, add ~려고: 가다 → 가려고, 배우다 → 배우려고, 만들다 → 만들려고 (the ㄹ stays). After any other consonant, add ~으려고: 먹다 → 먹으려고, 찍다 → 찍으려고. Irregulars change before 으: 듣다 → 들으려고, 돕다 → 도우려고.\n\nThe tense goes only on the final verb, never on the ~(으)려고 verb: 사려고 갔어요, not 샀으려고. Both halves normally have the same subject. Also, you can't end the sentence with a request like ~세요 after ~(으)려고; ~(으)러 (later this lesson) can do that.",
      "examples": [
       {
        "ko": "여행을 가려고 돈을 모으고 있어요.",
@@ -2180,12 +2490,26 @@
       {
        "ko": "일자리를 구하려고 이력서를 썼어요.",
        "en": "I wrote a resume to find a job."
+      },
+      {
+       "ko": "케이크를 만들려고 계란을 샀어요.",
+       "en": "I bought eggs to make a cake.",
+       "note": "만들다 keeps its ㄹ and adds 려고, with no 으."
+      },
+      {
+       "ko": "음악을 들으려고 이어폰을 꺼냈어요.",
+       "en": "I took out my earphones to listen to music.",
+       "note": "듣다: ㄷ becomes ㄹ before 으, so 들으려고."
+      },
+      {
+       "ko": "사진을 찍으려고 카메라를 가지고 왔어요.",
+       "en": "I brought a camera to take photos."
       }
      ]
     },
     {
      "point": "~(으)려고 하다 / 노력하다",
-     "explanation": "Ending a sentence with ~(으)려고 하다 means you plan or intend to do something. With 노력하다 it means you are making an effort, trying hard, to do it.",
+     "explanation": "Put 하다 after ~(으)려고 and it becomes a sentence ending meaning \"plan to\" or \"intend to\": 연락하려고 해요 is \"I'm planning to contact (them)\". It is less certain than ~ㄹ/을 거예요, more like \"I'm thinking of doing it\".\n\nForm it the same way as ~(으)려고: 가다 → 가려고 해요, 먹다 → 먹으려고 해요, 만들다 → 만들려고 해요. In the past, 가려고 했어요 means \"I was going to go\", and it often hints that it didn't happen.\n\nSwap 하다 for 노력하다 (to make an effort) and it means \"try hard to\": 끊으려고 노력하고 있어요 (I'm trying hard to quit). Don't confuse this with ~아/어 보다 (later this lesson), which means \"try it and see\", not \"make an effort\".",
      "examples": [
       {
        "ko": "저는 담배를 끊으려고 노력하고 있어요.",
@@ -2198,12 +2522,25 @@
       {
        "ko": "우리는 그 문제를 해결하려고 노력했어요.",
        "en": "We tried hard to solve that problem."
+      },
+      {
+       "ko": "이번 주말에 집에서 쉬려고 해요.",
+       "en": "I'm planning to rest at home this weekend."
+      },
+      {
+       "ko": "어제 일찍 자려고 했어요.",
+       "en": "I was going to go to bed early yesterday.",
+       "note": "The past 했어요 often hints the plan didn't work out."
+      },
+      {
+       "ko": "매일 한국어로 말하려고 노력해요.",
+       "en": "I try hard to speak in Korean every day."
       }
      ]
     },
     {
      "point": "~(으)러 가다/오다 (go/come to do)",
-     "explanation": "Verb stem + ~러 (after a vowel or ㄹ) or ~으러 (after a consonant), followed by a movement verb like 가다, 오다 or 나가다, means going or coming somewhere for the purpose of doing something. Unlike ~(으)려고, it is only used with these movement verbs.",
+     "explanation": "~(으)러 says why you are going or coming somewhere: 놀러 왔어요 is \"(I) came to hang out\". It must be followed by a movement verb such as 가다, 오다, 나가다 or 다니다.\n\nAfter a vowel or ㄹ, add ~러: 보다 → 보러, 놀다 → 놀러 (the ㄹ stays). After another consonant, add ~으러: 먹다 → 먹으러, 찾다 → 찾으러. Irregulars change before 으: 듣다 → 들으러, 걷다 → 걸으러. The tense goes on the movement verb: 먹으러 갔어요.\n\nHow it differs from ~(으)려고: ~(으)러 only works with movement verbs, while ~(으)려고 works with any verb (돈을 모으려고 일해요, but not 모으러 일해요). On the other hand, ~(으)러 can be used in requests and suggestions (같이 먹으러 가요!), which ~(으)려고 can't.",
      "examples": [
       {
        "ko": "이를 빼러 치과에 갔어요.",
@@ -2220,12 +2557,25 @@
       {
        "ko": "점심을 먹으러 나갈래요?",
        "en": "Do you want to go out to eat lunch?"
+      },
+      {
+       "ko": "주말에 친구와 영화를 보러 갈 거예요.",
+       "en": "This weekend I'm going to go see a movie with a friend."
+      },
+      {
+       "ko": "책을 찾으러 도서관에 왔어요.",
+       "en": "I came to the library to find a book."
+      },
+      {
+       "ko": "같이 커피를 마시러 가요.",
+       "en": "Let's go get coffee together.",
+       "note": "~(으)러 works in suggestions; ~(으)려고 doesn't."
       }
      ]
     },
     {
      "point": "~아/어 보다 (try doing)",
-     "explanation": "Conjugate a verb with ~아/어 and add 보다 to mean \"try doing\" or \"do and see\". In the past tense it often means you have had the experience of doing something.",
+     "explanation": "~아/어 보다 means \"try doing\" in the sense of \"do it and see what it's like\", not \"make an effort\". 먹어 보세요 is \"try eating it\", and 신어 봐도 돼요? is \"can I try them on?\".\n\nFirst make the ~아/어 form of the verb (the 요 form without 요), then add 보다. Stems with ㅏ or ㅗ take 아: 가다 → 가 보다, 오다 → 와 보다. Others take 어: 먹다 → 먹어 보다, 마시다 → 마셔 보다. 하다 → 해 보다. Irregulars change as usual: 듣다 → 들어 보다. Then conjugate 보다: 봐요, 봤어요, 보세요, 볼 거예요.\n\nIn the past, ~아/어 봤어요 means you have tried or experienced something: 한국 음식을 먹어 봤어요 (I've tried Korean food), 가 봤어요 (I've been there). To negate it, put 안 before the whole thing: 안 먹어 봤어요. For \"try hard to\", use ~(으)려고 노력하다 instead.",
      "examples": [
       {
        "ko": "이 김치를 한번 먹어 보세요.",
@@ -2238,12 +2588,25 @@
       {
        "ko": "어제 처음으로 한국 음식을 만들어 봤어요.",
        "en": "Yesterday I tried making Korean food for the first time."
+      },
+      {
+       "ko": "이 노래를 한번 들어 보세요.",
+       "en": "Give this song a listen.",
+       "note": "듣다 → 들어, then add 보세요."
+      },
+      {
+       "ko": "부산에 가 봤어요?",
+       "en": "Have you been to Busan?"
+      },
+      {
+       "ko": "아직 김치를 안 만들어 봤어요.",
+       "en": "I haven't tried making kimchi yet."
       }
      ]
     },
     {
      "point": "~ㄴ/은 적이 있다/없다 (have/have never done)",
-     "explanation": "적 is a noun meaning a past experience. Describe it with the past modifier ~ㄴ/은 and add 있다 or 없다 to say you have or have never done something. It is very often combined with ~아/어 보다 (가 본 적이 있다).",
+     "explanation": "적 is a noun meaning \"a time (in your past)\". Describe it with the past modifier and add 있다 or 없다: ~ㄴ/은 적이 있다 means \"have done before\", ~ㄴ/은 적이 없다 means \"have never done\".\n\nAfter a vowel, use ~ㄴ 적: 만나다 → 만난 적, 하다 → 한 적. After a consonant, use ~은 적: 먹다 → 먹은 적, 읽다 → 읽은 적. ㄹ-stems drop the ㄹ: 살다 → 산 적. Irregulars as usual: 듣다 → 들은 적, 돕다 → 도운 적.\n\nIt is very often combined with ~아/어 보다, which adds the sense of trying or experiencing: 가 본 적이 있어요 (I've been there), 먹어 본 적이 없어요 (I've never tried it). It talks about experience at some point in life, so don't use it for something you did just now or do regularly. For \"I ate this morning\", just say 아침을 먹었어요.",
      "examples": [
       {
        "ko": "저는 연예인을 만난 적이 있어요.",
@@ -2260,6 +2623,20 @@
       {
        "ko": "그런 기적은 본 적이 없어요.",
        "en": "I have never seen a miracle like that."
+      },
+      {
+       "ko": "한국에서 산 적이 있어요?",
+       "en": "Have you ever lived in Korea?",
+       "note": "살다 drops ㄹ: 산 적."
+      },
+      {
+       "ko": "그 노래는 들은 적이 없어요.",
+       "en": "I've never heard that song.",
+       "note": "듣다: ㄷ becomes ㄹ before 은, so 들은."
+      },
+      {
+       "ko": "혼자 여행해 본 적이 없어요.",
+       "en": "I've never tried traveling alone."
       }
      ]
     }
@@ -2504,7 +2881,7 @@
    "grammar": [
     {
      "point": "~는 중이다 (in the middle of doing)",
-     "explanation": "중 means \"middle\" and is a noun, so it can take the place of 것: verb stem + ~는 중 + 이다 means someone is in the middle of an action. The meaning is very close to ~고 있다.",
+     "explanation": "중 means \"middle\", so verb stem + ~는 중이다 means \"to be in the middle of doing\". 밥을 먹는 중이에요 is \"I'm (in the middle of) eating\". It is often used to explain why you can't do something right now: \"I'm on my way\", \"I'm working on it\".\n\nForm it like ~는 것, with 중 in place of 것: 먹다 → 먹는 중, 가다 → 가는 중, 만들다 → 만드는 중 (ㄹ drops). Then add 이다: 중이에요 (am doing), 중이었어요 (was doing). Use it only with verbs, not adjectives.\n\nThe meaning is close to ~고 있다 (먹고 있어요), and often both work. ~는 중이다 stresses that the action has started and isn't finished yet. ~고 있다 is more flexible: it also covers long-term situations (서울에 살고 있어요), where ~는 중이다 can sound odd.",
      "examples": [
       {
        "ko": "지금 밥을 먹는 중이에요.",
@@ -2517,12 +2894,25 @@
       {
        "ko": "친구에게 편지를 쓰는 중이었어요.",
        "en": "I was in the middle of writing a letter to my friend."
+      },
+      {
+       "ko": "지금 집에 가는 중이에요.",
+       "en": "I'm on my way home now."
+      },
+      {
+       "ko": "동생이 케이크를 만드는 중이에요.",
+       "en": "My younger sibling is in the middle of making a cake.",
+       "note": "만들다 drops ㄹ before 는: 만드는 중."
+      },
+      {
+       "ko": "지금 뭐 하는 중이에요?",
+       "en": "What are you doing right now?"
       }
      ]
     },
     {
      "point": "Noun + 중 (하다-nouns, signs)",
-     "explanation": "With nouns that come from 하다 verbs, 중 can attach straight to the noun without ~는 것, as in 공사 중, 수업 중, 회의 중 or 상담 중. This short form is common on signs showing what is going on in a place.",
+     "explanation": "With nouns that make 하다-verbs (공사하다, 수업하다, 회의하다, 통화하다, 운전하다), you can put 중 right after the noun and skip ~하는: 회의하는 중 → 회의 중. It means the same thing, \"in the middle of a meeting\", only shorter.\n\nThis short form is everywhere on signs and screens: 공사 중 (under construction), 회의 중 (in a meeting), 영업 중 (open for business), 통화 중 (on the phone). In a sentence, add 이다 or 에: 지금 회의 중이에요 (I'm in a meeting now), 수업 중에 (during class). Add 는 for contrast or emphasis: 강의 중에는 (during the lecture, at least).\n\nIt only works with 하다-nouns. 먹다 has no noun part, so it must be 먹는 중.",
      "examples": [
       {
        "ko": "이 건물은 지금 공사 중이에요.",
@@ -2535,12 +2925,24 @@
       {
        "ko": "강의 중에는 휴대폰을 끄세요.",
        "en": "Please turn off your cell phone during the lecture."
+      },
+      {
+       "ko": "지금 통화 중이에요.",
+       "en": "I'm on the phone right now."
+      },
+      {
+       "ko": "운전 중에 전화가 왔어요.",
+       "en": "I got a phone call while driving."
+      },
+      {
+       "ko": "그 식당은 지금 영업 중이에요?",
+       "en": "Is that restaurant open right now?"
       }
      ]
     },
     {
      "point": "~는 동안 (while)",
-     "explanation": "동안 is also a noun, so verb stem + ~는 동안 means \"during the time that X happens\", or \"while\". It is used with actions that last for a while, not with instant actions.",
+     "explanation": "동안 is a noun meaning \"period of time\". You've used it after time words (세 시간 동안, for three hours). After a verb + ~는, it means \"during the time that\", or \"while\": 요리하는 동안 is \"while (I) cook\".\n\nForm it as stem + ~는 + 동안: 자다 → 자는 동안, 기다리다 → 기다리는 동안, 먹다 → 먹는 동안, 살다 → 사는 동안 (ㄹ drops). 있다 works too: 있는 동안. The verb before 동안 stays in the ~는 form even when the story is in the past; the tense goes on the last verb. Write 자는 동안 비가 왔어요 (it rained while I slept), not 잤는 동안.\n\nThe two halves can have different subjects (제가 요리하는 동안 동생은...). Use it with actions that last a while, like sleeping, waiting or living somewhere, not with instant ones like arriving.",
      "examples": [
       {
        "ko": "제가 요리하는 동안 동생은 텔레비전을 봤어요.",
@@ -2553,12 +2955,24 @@
       {
        "ko": "친구를 기다리는 동안 책을 읽었어요.",
        "en": "I read a book while waiting for my friend."
+      },
+      {
+       "ko": "제가 자는 동안 누가 전화했어요?",
+       "en": "Did someone call while I was sleeping?"
+      },
+      {
+       "ko": "밥을 먹는 동안 휴대폰을 보지 않아요.",
+       "en": "I don't look at my phone while I eat."
+      },
+      {
+       "ko": "부산에 있는 동안 바다를 매일 봤어요.",
+       "en": "I saw the sea every day while I was in Busan."
       }
      ]
     },
     {
      "point": "N 중에 (among / of / between)",
-     "explanation": "Put 중에 after two or more nouns, or after a noun that stands for a group, to mean \"among\" or \"between\" them. The rest of the sentence usually picks out or compares one of them, and the noun can itself be described with ~는 것 (내가 본 영화 중에).",
+     "explanation": "중에 after a group of nouns means \"among\" or \"(out of) between\". You can list the choices with 와/과, 하고 or (이)랑 (사과와 딸기 중에), or use a plural or group word (친구들 중에, 우리 가족 중에). It is usually followed by a superlative with 제일 / 가장, or a question like 뭐가 더 ...?\n\nStep by step: list the options, add 중에, then say which one: 커피하고 차 중에 + 뭐가 더 좋아요? 중에서 means the same as 중에, and 이 중에 / 이 중에서 means \"out of these\". The vocab word 그중 (\"among them\") is the same idea.\n\nThe group can be a whole described noun: 제가 본 영화 + 중에 → 제가 본 영화 중에 (of the movies I've seen).",
      "examples": [
       {
        "ko": "사과와 딸기 중에 뭐가 더 좋아요?",
@@ -2571,12 +2985,25 @@
       {
        "ko": "제가 본 영화 중에 이 영화가 제일 재미있었어요.",
        "en": "Of all the movies I have seen, this one was the most fun."
+      },
+      {
+       "ko": "이 중에서 어느 게 제일 싸요?",
+       "en": "Which of these is the cheapest?",
+       "note": "중에서 means the same as 중에."
+      },
+      {
+       "ko": "우리 가족 중에 제가 제일 키가 작아요.",
+       "en": "I'm the shortest in my family."
+      },
+      {
+       "ko": "제가 가 본 나라 중에 일본이 제일 가까워요.",
+       "en": "Of the countries I've been to, Japan is the closest."
       }
      ]
     },
     {
      "point": "Time + 중으로 (by sometime within)",
-     "explanation": "Put 중으로 after a time word like 오늘, 내일, 이번 주 or 다음 달 to say something will be done within that time, without naming an exact moment. English usually translates it as \"by sometime ...\".",
+     "explanation": "Time word + 중으로 means \"at some point within that time\". You plan or promise to get something done before that period ends, without naming the exact moment: 이번 주 중으로 끝낼게요 is \"I'll finish it sometime this week\". It sounds a little formal and is common at work.\n\nJust put 중으로 after the time noun: 오늘 → 오늘 중으로, 내일 → 내일 중으로, 이번 달 → 이번 달 중으로, 올해 → 올해 중으로. The sentence usually ends in the future (~ㄹ/을 거예요, ~ㄹ게요) or a request (~주세요), because it is about a deadline.\n\nCompare it with 까지 (by / until a point): 금요일까지 is \"by Friday\", a fixed deadline, while 이번 주 중으로 is a looser \"sometime this week\". It also differs from 안에 / 이내에 (Lesson 24), which count a length of time (삼 일 안에, within three days) rather than naming a period on the calendar.",
      "examples": [
       {
        "ko": "이번 주 중으로 일을 끝낼게요.",
@@ -2589,6 +3016,18 @@
       {
        "ko": "오늘 중으로 연락해 주세요.",
        "en": "Please contact me sometime today."
+      },
+      {
+       "ko": "내일 중으로 택배가 도착할 거예요.",
+       "en": "The package will arrive sometime tomorrow."
+      },
+      {
+       "ko": "올해 중으로 운전을 배울 거예요.",
+       "en": "I'm going to learn to drive sometime this year."
+      },
+      {
+       "ko": "이번 달 중으로 돈을 보내 주세요.",
+       "en": "Please send the money sometime this month."
       }
      ]
     }

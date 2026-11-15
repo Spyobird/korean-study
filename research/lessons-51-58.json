@@ -190,7 +190,7 @@
    "grammar": [
     {
      "point": "~기도 하다 (also / sometimes)",
-     "explanation": "Turn a verb or adjective into a noun with ~기, attach the particle ~도, then finish with 하다. This adds a sense of 'also' to a whole action or description, and often implies the thing happens only some of the time ('sometimes does').",
+     "explanation": "~기도 하다 adds 'also' or 'sometimes' to a whole action or description. Use it when something is true on top of what you would expect, or when it happens now and then rather than always. 영화를 봐요 just says 'I watch movies'. 영화를 보기도 해요 says 'I also watch movies' or 'I sometimes watch movies'.\n\nTo form it, turn the stem into a noun with ~기 (Lesson 29), add the particle ~도 ('also'), then add 하다. 보다 → 보 + 기 → 보기 + 도 → 보기도 해요. 읽다 → 읽기도 해요. Vowel or consonant ending makes no difference. Adjectives work the same way: 밉다 → 밉기도 해요 'is sometimes annoying, too'.\n\nTense and politeness go only on the final 하다: 보기도 했어요 'also watched', 보기도 할 거예요 'will also watch'. A common mistake is putting the tense inside: 봤기도 해요 is wrong.\n\nCompare ~도 on a noun: 영화도 봐요 means 'I watch movies too' (movies as well as other things). 영화를 보기도 해요 puts the 'also' on the whole action.",
      "examples": [
       {
        "ko": "저는 가끔 혼자 영화를 보기도 해요.",
@@ -207,12 +207,26 @@
       {
        "ko": "저는 아침에 우유를 끓이기도 해요.",
        "en": "I sometimes boil milk in the morning."
+      },
+      {
+       "ko": "그 사람은 가끔 밉기도 해요.",
+       "en": "That person is sometimes annoying, too.",
+       "note": "Adjectives take ~기도 하다 the same way: 밉 + 기도 해요."
+      },
+      {
+       "ko": "어제는 친구에게 사과하기도 했어요.",
+       "en": "Yesterday I also apologized to my friend.",
+       "note": "Only the final 하다 shows the past: 사과하기도 했어요."
+      },
+      {
+       "ko": "주말에 운동하기도 해요?",
+       "en": "Do you also exercise on weekends?"
       }
      ]
     },
     {
      "point": "~기도 하고 ~기도 하다 (both A and B)",
-     "explanation": "Link two ~기도 clauses: the first ends in ~기도 하고 and the second in ~기도 하다, conjugated for tense and politeness at the end. It stresses that both actions or both descriptions are true, like 'not only A but also B'. The two parts can be verbs or adjectives, even ones with opposite meanings.",
+     "explanation": "Use this pattern when two things are both true about the same situation: 'A, and also B' or 'both A and B'. It is common for mixed feelings (a movie that was both sad and fun) and for a range of activities you do at different times. The two parts can even be opposites.\n\nForm: stem A + 기도 하고, then stem B + 기도 하다. Only the last 하다 changes for tense and politeness. 읽다, 만나다 → 읽기도 하고 만나기도 해요. Past: 슬프다, 재미있다 → 슬프기도 하고 재미있기도 했어요 (not 슬펐기도 하고).\n\nCompare plain ~고 (Lesson 17): 책을 읽고 친구를 만나요 just lists two actions and can suggest an order, first one and then the other. With ~기도 하고 ~기도 하다 there is no time order. The two things each happen sometimes, or they are two sides of the same thing.",
      "examples": [
       {
        "ko": "저는 주말에 책을 읽기도 하고 친구를 만나기도 해요.",
@@ -229,6 +243,15 @@
       {
        "ko": "이 일은 쉽기도 하고 어렵기도 해요.",
        "en": "This work is easy in some ways and hard in others."
+      },
+      {
+       "ko": "혼자 사는 것은 편하기도 하고 외롭기도 해요.",
+       "en": "Living alone is both comfortable and lonely."
+      },
+      {
+       "ko": "어제는 비가 오기도 하고 눈이 오기도 했어요.",
+       "en": "Yesterday it rained and also snowed.",
+       "note": "The tense sits only on the last 하다: 오기도 하고 … 오기도 했어요."
       }
      ]
     }
@@ -368,7 +391,7 @@
    "grammar": [
     {
      "point": "Quoting verbs: ~ㄴ/는다고 하다",
-     "explanation": "To report what someone said, put the quoted verb in the plain (written) form and add ~고, then a verb like 하다 or 말하다. Present tense uses ~는다고 after a final consonant and ~ㄴ다고 after a vowel; past tense is ~았/었다고, and future is ~(으)ㄹ 거라고 or ~겠다고.",
+     "explanation": "Use this to report what someone said in your own words: 'he said that...'. The quote drops the speaker's 요 or 습니다. Instead, the quoted verb goes into the plain form used in writing, then ~고 links it to a reporting verb such as 하다 or 말하다. The reporting verb carries the real tense and politeness: 했어요 'said'.\n\nPresent tense, step by step. Stem ends in a vowel → add ㄴ다: 가다 → 간다 → 간다고 했어요. Stem ends in a consonant → add 는다: 먹다 → 먹는다 → 먹는다고 했어요. ㄹ stems drop the ㄹ and take ㄴ다: 살다 → 산다고. Negative 않다 acts like a verb: 먹지 않는다고.\n\nPast tense: past stem + 다고. 하다 → 했 + 다고 → 했다고. 먹다 → 먹었다고. Future: ~(으)ㄹ 거라고 (갈 거라고, 먹을 거라고) or ~겠다고 (가겠다고).\n\nThe tense inside the quote is the tense of the original words. 친구가 간다고 했어요 means my friend said 'I'm going'.",
      "examples": [
       {
        "ko": "친구가 내일 한국에 간다고 했어요.",
@@ -385,12 +408,22 @@
       {
        "ko": "아이들이 나무를 심는다고 했어요.",
        "en": "The kids said they are planting trees."
+      },
+      {
+       "ko": "그 소설가는 서울에 산다고 했어요.",
+       "en": "The novelist said she lives in Seoul.",
+       "note": "살다 drops ㄹ: 살 + ㄴ다고 → 산다고."
+      },
+      {
+       "ko": "동생이 고기를 먹지 않는다고 했어요.",
+       "en": "My younger sibling said they don't eat meat.",
+       "note": "않다 follows the verb pattern here: 않 + 는다고."
       }
      ]
     },
     {
      "point": "Quoting adjectives: ~다고 하다",
-     "explanation": "Adjectives in the present tense take no extra syllable in the plain form, so you add ~다고 straight to the stem. Past tense still uses ~았/었다고. The reporting verb (하다, 말하다) carries the final tense and politeness.",
+     "explanation": "Adjectives are simpler than verbs. In the plain form, an adjective's present tense is just its dictionary form: 바쁘다, 피곤하다. So you add ~고 straight to it: 바쁘다 → 바쁘다고 했어요. Never add ㄴ/는 to an adjective: 바쁜다고 is wrong.\n\n있다 and 없다, and words built on them like 재미있다 and 맛없다, also take just ~다고: 시간이 없다고 했어요.\n\nPast tense uses 았/었 + 다고, as with verbs: 바쁘다 → 바빴다고. Irregulars change as usual: 춥다 → 추웠다고. For a negative, put 안 in front: 안 비싸다고.\n\nAs always, the reporting verb (하다, 말하다) at the end carries the final tense and politeness.",
      "examples": [
       {
        "ko": "민수가 오늘 너무 피곤하다고 했어요.",
@@ -403,12 +436,25 @@
       {
        "ko": "친구가 그 방이 조그맣다고 했어요.",
        "en": "My friend said that room is tiny."
+      },
+      {
+       "ko": "친구가 오늘 시간이 없다고 했어요.",
+       "en": "My friend said she doesn't have time today."
+      },
+      {
+       "ko": "친구가 어제 날씨가 너무 추웠다고 했어요.",
+       "en": "My friend said the weather was really cold yesterday.",
+       "note": "춥다 is ㅂ irregular: 춥 → 추웠다고."
+      },
+      {
+       "ko": "언니가 그 식당이 안 비싸다고 했어요.",
+       "en": "My older sister said that restaurant isn't expensive."
       }
      ]
     },
     {
      "point": "Quoting 이다: ~(이)라고 하다",
-     "explanation": "When the quoted sentence ends in 이다, attach ~이라고 after a noun ending in a consonant and ~라고 after a vowel. The negative 아니다 becomes 아니라고. The same form is used to say what someone or something is called, as in introducing your name.",
+     "explanation": "When the original sentence was 'X is Y' with 이다, the quote ends in ~(이)라고 instead of ~다고. Noun ends in a consonant → 이라고: 학생 → 학생이라고. Noun ends in a vowel → 라고: 의사 → 의사라고. A common mistake is 학생이다고, which is wrong.\n\nThe negative 아니다 becomes 아니라고. The noun before it keeps 이/가 as usual: 학생이 아니라고 했어요.\n\nPast tense: consonant → 이었다고 (선생님이었다고), vowel → 였다고 (친구였다고).\n\nThis form is also how you give a name: 저는 김민수라고 합니다 'I'm called Kim Minsu'. Statements with nouns use ~(이)라고; later you will see questions use ~(이)냐고.",
      "examples": [
       {
        "ko": "그 남자가 자기가 의사라고 했어요.",
@@ -425,12 +471,22 @@
       {
        "ko": "저는 김민수라고 합니다.",
        "en": "My name is Kim Minsu."
+      },
+      {
+       "ko": "할머니가 젊었을 때 선생님이었다고 했어요.",
+       "en": "Grandma said she was a teacher when she was young.",
+       "note": "Past after a consonant: 선생님 + 이었다고."
+      },
+      {
+       "ko": "민수가 그 사람이 자기 친구였다고 했어요.",
+       "en": "Minsu said that person was his friend.",
+       "note": "Past after a vowel: 친구 + 였다고."
       }
      ]
     },
     {
      "point": "Other verbs used with quotes (생각하다, 믿다, 약속하다, 부르다)",
-     "explanation": "A quoted clause can come before verbs other than 말하다 when the content is a thought or statement. Common ones are 생각하다 (think), 믿다 (believe), 약속하다 (promise) and 부르다 (call something a name). Promises usually use a future quote such as ~겠다고 or ~ㄹ 거라고.",
+     "explanation": "A ~다고 or ~(이)라고 clause works like a 'that...' clause in English. So it can come before verbs of thinking and believing, not just saying. 생각하다: 재미있다고 생각해요 'I think (that) it's fun'. 믿다: 이길 거라고 믿어요 'I believe we'll win'. The quoted part follows the same rules as before: ㄴ/는다 for verbs, 다 for adjectives, (이)라고 for nouns.\n\n약속하다 (promise) usually takes a future quote: 갚겠다고 약속했어요 'promised to pay back'. Here ~겠다 shows the speaker's firm will: 'I will do it'.\n\n부르다 (call) pairs with a noun quote: A를 B(이)라고 부르다 'call A B'. 부르다 is irregular: 부르 + 어요 → 불러요.\n\nTo say you don't think something, negate 생각하다 or the quote: 어렵다고 생각하지 않아요 or 어렵지 않다고 생각해요.",
      "examples": [
       {
        "ko": "저는 이 영화가 재미있다고 생각해요.",
@@ -447,12 +503,21 @@
       {
        "ko": "한국 사람들은 이것을 김밥이라고 불러요.",
        "en": "Koreans call this gimbap."
+      },
+      {
+       "ko": "친구들이 저를 식신이라고 불러요.",
+       "en": "My friends call me a big eater.",
+       "note": "부르다 is irregular: 부르 + 어요 → 불러요."
+      },
+      {
+       "ko": "저는 그 문제가 어렵지 않다고 생각해요.",
+       "en": "I think that problem isn't difficult."
       }
      ]
     },
     {
      "point": "Asking with quotes: 뭐라고? / ~다고요?",
-     "explanation": "Adding ~(이)라고 to 뭐 asks what someone said, with or without 했어요 after it. You can also repeat part of what someone said in quoted form with a rising tone (often with ~요) to check that you heard it correctly.",
+     "explanation": "Two quick conversation uses of quotes. First, 뭐 'what' + 라고 asks what someone said: 뭐라고 했어요? 'What did he say?'. 뭐 ends in a vowel, so it takes 라고. On its own, 뭐라고요? is a polite 'Sorry, what did you say?'. Said sharply, it can sound like 'What did you just say?!', so mind your tone.\n\nThe same 뭐라고 asks what something is called: 이것을 한국어로 뭐라고 해요?\n\nSecond, you can repeat what you heard as a quote, add 요 and raise your tone to check it or show surprise: 시험이 있다고요? 'You said there's a test?'. The usual quote rules apply: verbs → ㄴ/는다고요 (그만둔다고요?), adjectives and 있다/없다 → 다고요 (있다고요?), nouns → (이)라고요 (의사라고요?).",
      "examples": [
       {
        "ko": "선생님이 뭐라고 했어요?",
@@ -465,12 +530,24 @@
       {
        "ko": "내일 시험이 있다고요?",
        "en": "You said there's a test tomorrow?"
+      },
+      {
+       "ko": "이것을 한국어로 뭐라고 해요?",
+       "en": "What is this called in Korean?"
+      },
+      {
+       "ko": "민수가 회사를 그만둔다고요?",
+       "en": "Minsu is quitting his job? Did I hear that right?"
+      },
+      {
+       "ko": "그 사람이 의사라고요?",
+       "en": "That person is a doctor? Really?"
       }
      ]
     },
     {
      "point": "Quoted clause before a noun: ~ㄴ/는다는 것/사실/소문",
-     "explanation": "A plain-form clause plus ~는 can describe a noun, as a shortened form of ~다고 하는. It shows the content is something that was said or reported. It is especially common with nouns like 것, 사실 (fact) and 소문 (rumor).",
+     "explanation": "Sometimes you want to talk about a piece of news itself: 'the rumor that...', 'the fact that...'. Korean takes the quote ~다고 하는 ('that is said to...') and shortens it to ~다는 in front of the noun. Common nouns are 것, 사실 (fact), 소문 (rumor), 말 (words) and 이야기 (story).\n\nBuild the quote first, then change 다고 to 다는:\n그만두다 → 그만둔다고 → 그만둔다는 소문\n많다 → 많다고 → 많다는 사실\n결혼했다 → 결혼했다고 → 결혼했다는 것\nFor nouns, (이)라고 becomes (이)라는: 의사라고 → 의사라는 사실.\n\nCompare plain ~는 것 (Lesson 26): 회사를 그만두는 것 just describes the action. 회사를 그만둔다는 소문 marks it as information someone said or heard.",
      "examples": [
       {
        "ko": "그 사람이 회사를 그만둔다는 소문을 들었어요.",
@@ -483,6 +560,15 @@
       {
        "ko": "언니가 결혼했다는 것을 어제 알았어요.",
        "en": "I found out yesterday that my sister got married."
+      },
+      {
+       "ko": "그 사람이 의사라는 사실을 아무도 몰랐어요.",
+       "en": "Nobody knew that he was a doctor.",
+       "note": "With 이다 the form is ~(이)라는: 의사 + 라는."
+      },
+      {
+       "ko": "내일 비가 온다는 말을 들었어요.",
+       "en": "I heard that it's going to rain tomorrow."
       }
      ]
     }
@@ -607,7 +693,7 @@
    "grammar": [
     {
      "point": "Quoting suggestions: ~자고 하다",
-     "explanation": "To report a 'let's...' suggestion, attach ~자 to the verb stem, then add ~고 and a reporting verb. It works the same no matter whether the stem ends in a vowel or a consonant.",
+     "explanation": "Use this to report a suggestion: someone said 'let's...'. The original might have been 가자, 갑시다 or 가요 used as 'let's go'. In a quote, all of these become the plain ~자 (Lesson 44) + 고.\n\nForm: stem + 자고. There is no vowel/consonant split: 가다 → 가자고, 먹다 → 먹자고, 만들다 → 만들자고. The reporting verb, usually 하다, carries tense and politeness.\n\nFor 'let's not', use stem + 지 말자고: 나가지 말자고 했어요.\n\nCompare with statement quotes: 간다고 했어요 means 'he said he is going'. 가자고 했어요 means 'he suggested we go'.",
      "examples": [
       {
        "ko": "친구가 같이 영화를 보자고 했어요.",
@@ -620,12 +706,25 @@
       {
        "ko": "동생이 저녁에 피자를 먹자고 했어요.",
        "en": "My younger sibling suggested we eat pizza for dinner."
+      },
+      {
+       "ko": "친구가 오늘은 밖에 나가지 말자고 했어요.",
+       "en": "My friend suggested we not go out today.",
+       "note": "'Let's not' is ~지 말자고."
+      },
+      {
+       "ko": "언니가 같이 사진을 찍자고 했어요.",
+       "en": "My older sister suggested we take a photo together."
+      },
+      {
+       "ko": "누가 먼저 가자고 했어요?",
+       "en": "Who suggested going first?"
       }
      ]
     },
     {
      "point": "Quoting questions with verbs: ~(느)냐고",
-     "explanation": "When reporting a question, attach ~느냐고 or the more common, casual ~냐고 to a verb stem, usually followed by 묻다 or 물어보다. Past tense is ~았/었냐고. 있다 and 없다 follow the verb pattern.",
+     "explanation": "Use this to report a question someone asked: 'he asked if...' or 'she asked where...'. The reporting verb is usually 묻다 or 물어보다. 묻다 is ㄷ irregular: 묻 + 었어요 → 물었어요.\n\nForm: verb stem + 냐고 (casual, most common in speech) or + 느냐고 (more formal, often written). There is no vowel/consonant split: 가다 → 가냐고, 먹다 → 먹냐고 (or 먹느냐고). ㄹ stems drop the ㄹ: 살다 → 사냐고. 있다 and 없다 work like verbs here: 있냐고, 없냐고.\n\nPast: past stem + 냐고: 먹었냐고. Future: ~(으)ㄹ 거냐고: 할 거냐고.\n\nQuestion words stay inside the quote: 어디에 가냐고, 뭘 먹냐고. Without a question word, translate it as 'asked if' or 'asked whether'.",
      "examples": [
       {
        "ko": "엄마가 저에게 밥을 먹었냐고 물어봤어요.",
@@ -638,12 +737,26 @@
       {
        "ko": "의사가 저에게 담배를 피우냐고 물어봤어요.",
        "en": "The doctor asked me if I smoke."
+      },
+      {
+       "ko": "친구가 저에게 어디에 사냐고 물어봤어요.",
+       "en": "My friend asked me where I live.",
+       "note": "살다 drops ㄹ: 살 + 냐고 → 사냐고."
+      },
+      {
+       "ko": "동생이 저에게 시간이 있냐고 물었어요.",
+       "en": "My younger sibling asked me if I had time.",
+       "note": "묻다 is ㄷ irregular: 묻 → 물었어요."
+      },
+      {
+       "ko": "친구가 저에게 내일 뭘 할 거냐고 물어봤어요.",
+       "en": "My friend asked me what I'm going to do tomorrow."
       }
      ]
     },
     {
      "point": "Quoting questions with adjectives: ~(으)냐고",
-     "explanation": "For adjectives, the formal pattern adds ~으냐고 after a consonant and ~냐고 after a vowel. In everyday speech many people just use ~냐고 for all adjectives.",
+     "explanation": "Adjectives follow the textbook pattern ~(으)냐고. Stem ends in a consonant → 으냐고: 넓다 → 넓으냐고, 좋다 → 좋으냐고. Stem ends in a vowel → 냐고: 바쁘다 → 바쁘냐고, 아프다 → 아프냐고.\n\nIn everyday speech most people drop the 으 and use 냐고 for every adjective: 넓냐고, 좋냐고. Both are understood. Words ending in 있다/없다 (맛있다, 재미없다) take 냐고: 맛있냐고.\n\nIrregulars: ㄹ stems drop the ㄹ: 멀다 → 머냐고. ㅂ irregulars change before 으: 춥다 → 추우냐고 (casual 춥냐고).\n\nPast tense is the same for every adjective: 았/었 + 냐고 → 바빴냐고, 어려웠냐고.",
      "examples": [
       {
        "ko": "친구가 저에게 요즘 바쁘냐고 물어봤어요.",
@@ -656,12 +769,25 @@
       {
        "ko": "엄마가 음식이 맛있냐고 물어봤어요.",
        "en": "Mom asked if the food was tasty."
+      },
+      {
+       "ko": "친구가 저에게 시험이 어려웠냐고 물어봤어요.",
+       "en": "My friend asked me if the exam was hard."
+      },
+      {
+       "ko": "친구가 학교가 집에서 머냐고 물어봤어요.",
+       "en": "My friend asked if school is far from home.",
+       "note": "멀다 drops ㄹ: 멀 + 냐고 → 머냐고."
+      },
+      {
+       "ko": "의사가 어디가 아프냐고 물어봤어요.",
+       "en": "The doctor asked where it hurts."
       }
      ]
     },
     {
      "point": "Quoting questions with 이다: ~(이)냐고",
-     "explanation": "When the quoted question ends in 이다, attach ~이냐고 after a consonant and ~냐고 after a vowel. Question words like 뭐 and 누구 often come right before it.",
+     "explanation": "For questions like 'Are you a student?' or 'What is this?', the 이다 at the end becomes ~(이)냐고 in the quote. Noun ends in a consonant → 이냐고: 학생 → 학생이냐고. Noun ends in a vowel → 냐고: 의사 → 의사냐고, 뭐 → 뭐냐고, 누구 → 누구냐고.\n\nThe negative 아니다 becomes 아니냐고: 학생이 아니냐고.\n\nPast: consonant → 이었냐고, vowel → 였냐고: 누구였냐고.\n\nRemember the noun family: statements use ~(이)라고, questions use ~(이)냐고.",
      "examples": [
       {
        "ko": "그 사람이 저에게 학생이냐고 물어봤어요.",
@@ -674,12 +800,25 @@
       {
        "ko": "선생님이 그 남자가 누구냐고 물어봤어요.",
        "en": "The teacher asked who that man was."
+      },
+      {
+       "ko": "친구가 저에게 그 사람이 남자 친구냐고 물어봤어요.",
+       "en": "My friend asked me if that guy was my boyfriend."
+      },
+      {
+       "ko": "엄마가 어제 만난 사람이 누구였냐고 물어봤어요.",
+       "en": "Mom asked who the person I met yesterday was.",
+       "note": "Past after a vowel: 누구 + 였냐고."
+      },
+      {
+       "ko": "그 사람이 저에게 한국 사람이 아니냐고 물어봤어요.",
+       "en": "That person asked me if I wasn't Korean."
       }
      ]
     },
     {
      "point": "Direct quotes: \"...\"라고 하다",
-     "explanation": "To quote someone's exact words, put them in quotation marks and add ~라고 (or 하고), followed by 하다 or 말하다. The original words stay as they were said, with no change to plain form.",
+     "explanation": "A direct quote repeats someone's exact words, like using quotation marks in English. Put the words in quotation marks, add 라고 (or 하고), then 하다 or 말하다: \"안녕하세요\"라고 했어요.\n\nNothing inside the quotation marks changes. The speech level, 요 and tense stay exactly as they were said. Compare the same words both ways: direct \"배고파요\"라고 했어요, indirect 배고프다고 했어요.\n\nIn a direct quote it is always 라고, even after a consonant: \"감사합니다\"라고. 하고 also works, and is common in speech.",
      "examples": [
       {
        "ko": "아이가 \"배고파요\"라고 말했어요.",
@@ -692,6 +831,19 @@
       {
        "ko": "엄마가 \"빨리 와\"라고 했어요.",
        "en": "Mom said, \"Come quickly.\""
+      },
+      {
+       "ko": "그 신사가 \"감사합니다\"라고 했어요.",
+       "en": "The gentleman said, \"Thank you.\"",
+       "note": "Direct quotes always use 라고, even after a consonant."
+      },
+      {
+       "ko": "친구가 \"어디 가?\"라고 물어봤어요.",
+       "en": "My friend asked, \"Where are you going?\""
+      },
+      {
+       "ko": "선생님이 \"숙제를 내일까지 하세요\"라고 말했어요.",
+       "en": "The teacher said, \"Do your homework by tomorrow.\""
       }
      ]
     }
@@ -801,7 +953,7 @@
    "grammar": [
     {
      "point": "Quoting commands: ~(으)라고 하다",
-     "explanation": "To report an order or instruction, attach ~으라고 to a stem ending in a consonant or ~라고 to a stem ending in a vowel. Then add a reporting verb such as 하다 or 말하다. The person who received the order is usually marked with ~에게 or ~한테.",
+     "explanation": "Use this to report an order or instruction: 'she told me to...'. The original might have been polite (드세요, 읽으세요) or casual (먹어, 읽어라). In a quote they all become ~(으)라고.\n\nForm: stem ends in a vowel → 라고: 자다 → 자라고, 마시다 → 마시라고. Stem ends in a consonant → 으라고: 읽다 → 읽으라고. ㄹ stems take 라고 directly: 만들다 → 만들라고. ㄷ irregulars change: 듣다 → 들으라고.\n\nThe person told to do it takes ~에게 or ~한테. The command itself has no tense; the tense goes on the reporting verb: 했어요.\n\nDon't mix up three similar quotes. 간다고 했어요 = said he is going (statement). 가자고 했어요 = suggested we go (suggestion). 가라고 했어요 = told me to go (command).",
      "examples": [
       {
        "ko": "선생님이 학생들에게 책을 읽으라고 했어요.",
@@ -818,12 +970,22 @@
       {
        "ko": "부장님이 회의에 참석하라고 했어요.",
        "en": "The manager told me to attend the meeting."
+      },
+      {
+       "ko": "엄마가 저에게 저녁을 만들라고 했어요.",
+       "en": "Mom told me to make dinner.",
+       "note": "ㄹ stems keep the ㄹ and add 라고: 만들 + 라고."
+      },
+      {
+       "ko": "선생님이 원어민의 발음을 잘 들으라고 했어요.",
+       "en": "The teacher told us to listen carefully to native speakers' pronunciation.",
+       "note": "듣다 is ㄷ irregular: 듣 → 들 + 으라고."
       }
      ]
     },
     {
      "point": "Quoting negative commands: ~지 말라고 하다",
-     "explanation": "To report 'don't do...', attach ~지 to the verb stem, then 말라고 (from 말다) and a reporting verb. It is the quoted version of ~지 마(세요).",
+     "explanation": "Use this to report a negative command: 'he told me not to...'. The originals 가지 마세요, 가지 마 and 가지 마라 all become 가지 말라고 in a quote.\n\nForm: stem + 지 (no vowel/consonant split), then 말라고. 말다 is an ㄹ stem, so it adds 라고 directly: 말 + 라고 → 말라고. 먹다 → 먹지 말라고, 가다 → 가지 말라고.\n\nA common mistake is 안 가라고. Commands can't use 안, so 'told me not to go' is 가지 말라고 했어요.\n\nCompare: 가지 말자고 했어요 = suggested we not go. 가지 말라고 했어요 = told me not to go.",
      "examples": [
       {
        "ko": "엄마가 저에게 늦게 오지 말라고 했어요.",
@@ -836,6 +998,18 @@
       {
        "ko": "의사가 저에게 술을 마시지 말라고 했어요.",
        "en": "The doctor told me not to drink alcohol."
+      },
+      {
+       "ko": "아빠가 남에게 함부로 말하지 말라고 했어요.",
+       "en": "Dad told me not to speak rudely to others."
+      },
+      {
+       "ko": "선생님이 저에게 걱정하지 말라고 했어요.",
+       "en": "The teacher told me not to worry."
+      },
+      {
+       "ko": "의사가 저에게 매운 음식을 먹지 말라고 했어요.",
+       "en": "The doctor told me not to eat spicy food."
       }
      ]
     }
@@ -980,7 +1154,7 @@
    "grammar": [
     {
      "point": "Quoted requests for oneself: ~(아/어) 달라고 하다",
-     "explanation": "When the original speaker asked for something to be given to them, 주다 is replaced by 달다, giving 달라고. The same happens with ~아/어 주다 when they asked for something to be done for them (~아/어 달라고). This is true no matter who later reports the request.",
+     "explanation": "When someone asks for something to be given to them, Korean reports it with 달다, not 주다. Original 물 주세요 → quote 물을 달라고 했어요. 달다 only appears in quotes like this, never on its own.\n\nThe same happens with ~아/어 주다 'do something for me': 빌려 주세요 → 빌려 달라고. Step by step: verb + 아/어, then 달라고. 닫다 → 닫아 달라고. 읽다 → 읽어 달라고. 하다 → 해 달라고. 묶다 → 묶어 달라고.\n\nWhat matters is who benefits in the original sentence. If the original speaker asked for something for themselves, use 달라고, no matter who reports it later.\n\nTo report 'please don't...', use ~지 말아 달라고: 늦지 말아 달라고 했어요.",
      "examples": [
       {
        "ko": "동생이 저에게 물을 달라고 했어요.",
@@ -997,12 +1171,21 @@
       {
        "ko": "손님이 창문을 닫아 달라고 했어요.",
        "en": "The customer asked us to close the window."
+      },
+      {
+       "ko": "동생이 저에게 신발 끈을 묶어 달라고 했어요.",
+       "en": "My younger sibling asked me to tie their shoelaces."
+      },
+      {
+       "ko": "할머니가 저에게 전화해 달라고 했어요.",
+       "en": "Grandma asked me to call her.",
+       "note": "하다 contracts: 하 + 여 → 해 달라고."
       }
      ]
     },
     {
      "point": "Giving to someone else: 주라고 하다",
-     "explanation": "If the original speaker told someone to give something to a third person rather than to themselves, use the regular command quote 주라고. Choosing between 달라고 and 주라고 depends on who receives the item or the benefit.",
+     "explanation": "달라고 is only for 'give it to me', the original speaker. If the speaker told you to give something to someone else, use the normal command quote of 주다: 주 + 라고 → 주라고.\n\nCompare. Mom says '동생한테 과자 줘' → 엄마가 동생한테 과자를 주라고 했어요. Mom says '나한테 과자 줘' → 엄마가 과자를 달라고 했어요.\n\nThe same choice applies to ~아/어 주다. 도와 달라고 = asked me to help them. 도와주라고 = told me to help someone else.\n\nTip: look at who gets the item or the help. The original speaker → 달라고. Anyone else → 주라고.",
      "examples": [
       {
        "ko": "엄마가 저에게 동생한테 과자를 주라고 했어요.",
@@ -1015,12 +1198,25 @@
       {
        "ko": "친구가 저에게 그 편지를 여자 친구에게 주라고 했어요.",
        "en": "My friend told me to give that letter to his girlfriend."
+      },
+      {
+       "ko": "선생님이 저에게 민수를 도와주라고 했어요.",
+       "en": "The teacher told me to help Minsu.",
+       "note": "Minsu, not the teacher, gets the help, so it's 주라고."
+      },
+      {
+       "ko": "엄마가 저에게 강아지한테 물을 주라고 했어요.",
+       "en": "Mom told me to give the dog some water."
+      },
+      {
+       "ko": "누구에게 이 돈을 주라고 했어요?",
+       "en": "Who did they tell you to give this money to?"
       }
      ]
     },
     {
      "point": "Favor: 부탁 / 부탁하다",
-     "explanation": "부탁 means a favor or request and can be used as a noun. 부탁하다 means to ask a favor. It often follows a quoted request like ~아/어 달라고.",
+     "explanation": "부탁 is a noun meaning a favor or a request. 부탁이 있어요 = I have a favor to ask. 부탁을 들어 주다 = to do someone a favor (literally, to listen to their request).\n\n부탁하다 is the verb 'to ask a favor'. The person you ask takes ~에게 or ~한테. What you ask for is often a quoted request: 도와 달라고 부탁했어요 = asked them to help me. It can also be a simple noun: 친구에게 강아지를 부탁했어요 = asked a friend to look after the dog.\n\nSet phrases you will hear a lot: 부탁해요 'I'm counting on you / please', and 잘 부탁드립니다 when you meet someone you'll work with.\n\nCompare: 물어보다 asks for information. 부탁하다 asks for help or an action.",
      "examples": [
       {
        "ko": "부탁이 하나 있어요.",
@@ -1033,6 +1229,19 @@
       {
        "ko": "제 부탁을 들어 줄 수 있어요?",
        "en": "Can you do me a favor?"
+      },
+      {
+       "ko": "여행 동안 친구에게 강아지를 부탁했어요.",
+       "en": "I asked my friend to look after my dog during my trip."
+      },
+      {
+       "ko": "동생에게 제 방에 들어오지 말아 달라고 부탁했어요.",
+       "en": "I asked my younger sibling not to come into my room.",
+       "note": "'Please don't' in a quote is ~지 말아 달라고."
+      },
+      {
+       "ko": "부탁 하나만 들어 주세요.",
+       "en": "Please do me just one favor."
       }
      ]
     }
@@ -1167,7 +1376,7 @@
    "grammar": [
     {
      "point": "To make / let someone do: ~게 하다",
-     "explanation": "Attach ~게 하다 to a verb or adjective stem to show that the subject causes someone to do an action or be in a state. Korean does not separate 'make' (force) from 'let' (allow), so context decides the English. The person affected is usually marked with ~을/를 or ~에게, or with ~이/가 when the clause has its own object.",
+     "explanation": "~게 하다 means 'make someone do', 'let someone do', or 'make something a certain way'. Korean uses the same form for forcing and allowing, so context decides the English.\n\nForm: stem + 게 하다, with no vowel/consonant split. Only 하다 changes for tense. 자다 → 자게 했어요. 먹다 → 먹게 해요. Adjectives describe the state you cause: 기쁘다 → 기쁘게 했어요 'made happy'.\n\nThe person made to act is usually marked with ~을/를 (저를 자게 했어요) or ~에게 (아이에게 채소를 먹게 해요). If the inside clause already has an object, the person often takes ~이/가: 동생이 게임을 못 하게 했어요.\n\n'Not let / stop someone' is 못 ~게 하다 or ~지 못하게 하다: 못 가게 했어요. ~지 않게 하다 means 'make sure something doesn't happen'.",
      "examples": [
       {
        "ko": "엄마가 저를 일찍 자게 했어요.",
@@ -1184,12 +1393,21 @@
       {
        "ko": "아빠가 동생이 게임을 못 하게 했어요.",
        "en": "Dad didn't let my younger sibling play games."
+      },
+      {
+       "ko": "친구의 편지가 저를 기쁘게 했어요.",
+       "en": "My friend's letter made me happy.",
+       "note": "With an adjective, ~게 하다 means 'make (someone) feel that way'."
+      },
+      {
+       "ko": "부모님이 아이에게 매일 채소를 먹게 해요.",
+       "en": "The parents make their child eat vegetables every day."
       }
      ]
     },
     {
      "point": "So that / in a way that: ~게 + verb",
-     "explanation": "~게 can be followed by a verb other than 하다 to say what was done so that something happens. The clause with ~게 gives the purpose or result, and the main verb gives the action that brings it about. It is often used with ~ㄹ 수 있게 or ~지 않게.",
+     "explanation": "Here ~게 is followed by an ordinary verb, not 하다, and means 'so that...' or 'in a way that...'. The ~게 clause comes first and gives the goal. The main verb says what you do to reach it.\n\nForm: stem + 게, with no vowel/consonant split: 보다 → 보게, 먹다 → 먹게. Two very common combinations:\n~(으)ㄹ 수 있게 'so that someone can': 볼 수 있게, 들을 수 있게.\n~지 않게 'so that something doesn't happen': 늦지 않게, 걸리지 않게.\n\nTense goes only on the final verb: 늦지 않게 일찍 출발했어요 (not 늦지 않았게).\n\nThis is the same ~게 that turns adjectives into adverbs: 크다 → 크게, 따뜻하다 → 따뜻하게. Compare ~(으)려고 (Lesson 32), which is about the subject's own intention. ~게 often aims at a result for someone else or for the situation.",
      "examples": [
       {
        "ko": "아이들이 잘 볼 수 있게 글씨를 크게 써 주세요.",
@@ -1206,6 +1424,15 @@
       {
        "ko": "비가 들어오지 않게 창문을 닫았어요.",
        "en": "I closed the window so the rain wouldn't come in."
+      },
+      {
+       "ko": "감기에 걸리지 않게 옷을 따뜻하게 입으세요.",
+       "en": "Dress warmly so you don't catch a cold."
+      },
+      {
+       "ko": "동생이 잘 수 있게 텔레비전을 껐어요.",
+       "en": "I turned off the TV so my younger sibling could sleep.",
+       "note": "끄다 drops ㅡ: 끄 + 었어요 → 껐어요."
       }
      ]
     }
@@ -1355,7 +1582,7 @@
    "grammar": [
     {
      "point": "Noun + 시키다 (make someone do it)",
-     "explanation": "For many 하다 verbs, swap 하다 for 시키다 to show that the subject makes or gets someone else to do the action. 공부하다 means to study yourself, while 공부시키다 means to make someone study. It does the same job as ~하게 하다.",
+     "explanation": "Many 하다 verbs are a noun + 하다: 공부하다, 화해하다, 소개하다. Replace 하다 with 시키다 and the meaning becomes 'make or get someone to do it': 공부하다 'to study' → 공부시키다 'to make someone study'.\n\nThe person made to act takes ~을/를: 동생을 공부시켜요. Conjugate 시키다 like any verb: 시키 + 어요 → 시켜요, past 시켰어요.\n\nWith feeling verbs it means 'cause the feeling': 실망하다 'be disappointed' → 실망시키다 'disappoint someone'. 흥분하다 → 흥분시키다 'get someone excited'.\n\nIt means roughly the same as ~하게 하다 (Lesson 56): 공부시켜요 = 공부하게 해요. Not every 하다 verb can take 시키다, so learn the common ones. 소개시키다 is very common in speech, but 소개하다 is considered more standard.",
      "examples": [
       {
        "ko": "엄마가 동생을 매일 공부시켜요.",
@@ -1370,14 +1597,24 @@
        "en": "That news disappointed my parents."
       },
       {
-       "ko": "친구가 저에게 좋은 사람을 소개시켜 줬어요.",
-       "en": "My friend introduced me to a nice person."
+       "ko": "부모님이 저를 그 학교에 입학시켰어요.",
+       "en": "My parents enrolled me in that school.",
+       "note": "입학하다 (to start at a school) → 입학시키다 (to enrol someone)."
+      },
+      {
+       "ko": "누가 아이들을 흥분시켰어요?",
+       "en": "Who got the kids all excited?"
+      },
+      {
+       "ko": "친구가 저에게 약속을 상기시켜 줬어요.",
+       "en": "My friend reminded me of the appointment.",
+       "note": "상기시키다 is only used in its 시키다 form: A에게 B를 상기시키다."
       }
      ]
     },
     {
      "point": "시키다 as a verb: to order",
-     "explanation": "On its own, 시키다 means to order food or drinks, or to order someone to do a task. Tasks like 일 (work) or 심부름 (an errand) are its usual objects, and the person given the task takes ~에게.",
+     "explanation": "On its own, 시키다 has two everyday meanings. At restaurants or for delivery it means 'to order' food or drinks: 피자를 시켰어요. This is the usual word in conversation; 주문하다 is more formal.\n\nIt also means 'to order someone to do a task': person + 에게, task + 을/를, then 시키다. Typical tasks are 일 (work), 심부름 (an errand) and 청소 (cleaning). 엄마가 저에게 청소를 시켰어요 = Mom had me clean.\n\nConjugation: 시키 + 어요 → 시켜요. Past 시켰어요. 'Shall we order?' 시킬까요?",
      "examples": [
       {
        "ko": "우리는 피자를 시켰어요.",
@@ -1394,6 +1631,14 @@
       {
        "ko": "뭐 시킬까요?",
        "en": "What shall we order?"
+      },
+      {
+       "ko": "커피 두 잔을 시켰어요.",
+       "en": "I ordered two cups of coffee."
+      },
+      {
+       "ko": "선생님이 학생들에게 청소를 시켰어요.",
+       "en": "The teacher had the students clean up."
       }
      ]
     }
@@ -1533,7 +1778,7 @@
    "grammar": [
     {
      "point": "Noun or noun: ~(이)나",
-     "explanation": "Attach ~이나 to a noun ending in a consonant or ~나 to one ending in a vowel to offer it as one of the choices, like 'or'. It can join subjects or objects. When both options would take the same particle (~에서, ~(으)로), the particle usually appears only after the second one.",
+     "explanation": "~(이)나 joins two nouns as choices: 'A or B'. Use it when either option is fine. Noun ends in a consonant → 이나: 빵 → 빵이나. Noun ends in a vowel → 나: 커피 → 커피나.\n\nOnly the first noun takes ~(이)나. The second takes whatever particle the sentence needs: 빵이나 밥을 먹어요 (object), 엄마나 아빠가 와요 (subject). Shared particles like ~에서, ~에 and ~(으)로 usually appear only after the last noun: 버스나 택시로, 체육관이나 공원에서.\n\nDon't confuse it with 'and'. ~하고 and ~와/과 mean both. ~(이)나 means one or the other.",
      "examples": [
       {
        "ko": "저는 빵이나 밥을 먹을 거예요.",
@@ -1550,30 +1795,52 @@
       {
        "ko": "버스나 택시로 갈 거예요.",
        "en": "I'll go by bus or taxi."
+      },
+      {
+       "ko": "체육관이나 공원에서 운동해요.",
+       "en": "I exercise at the gym or in the park.",
+       "note": "~에서 comes only once, after the last noun."
+      },
+      {
+       "ko": "주말이나 방과후에 시간이 있어요?",
+       "en": "Do you have time on the weekend or after school?"
       }
      ]
     },
     {
      "point": "Settling for something: ~(이)나 with one option",
-     "explanation": "When ~(이)나 is attached to only one noun, it can mean the speaker is settling for that option, which is not their first choice. It gives a 'just... I guess' feeling and is often used in suggestions.",
+     "explanation": "With only one noun, ~(이)나 changes meaning. It shows you are settling for something: it's not ideal, but it will do. English often uses 'just' or '... or something': 텔레비전이나 봐요 = Let's just watch TV.\n\nThe form is the same: consonant → 이나 (잠 → 잠이나), vowel → 나 (영화 → 영화나). It replaces 을/를 or 이/가.\n\nIt's common in suggestions and plans: ~(이)나 + ~(으)ㄹ까요?, ~아/어야겠어요, or ~(으)ㄹ 거예요.\n\nBecause it implies 'nothing better', be careful when offering something to a guest. 커피 드릴까요? is better than 커피나 드릴까요?, which can sound like 'want coffee or whatever?'.",
      "examples": [
       {
-       "ko": "할 일이 없으니까 텔레비전이나 봐요.",
-       "en": "There's nothing to do, so let's just watch TV."
+       "ko": "주말에는 집에서 텔레비전이나 봐요.",
+       "en": "On weekends I just watch TV at home."
       },
       {
-       "ko": "배가 고픈데 라면이나 먹을까요?",
-       "en": "I'm hungry, so shall we just have ramen?"
+       "ko": "점심은 라면이나 먹을까요?",
+       "en": "Shall we just have ramen for lunch?"
       },
       {
-       "ko": "피곤하니까 집에서 잠이나 자야겠어요.",
+       "ko": "피곤해서 집에서 잠이나 자야겠어요.",
        "en": "I'm tired, so I guess I'll just sleep at home."
+      },
+      {
+       "ko": "주말에 영화나 볼까요?",
+       "en": "Shall we just watch a movie this weekend?",
+       "note": "영화 ends in a vowel, so it takes 나."
+      },
+      {
+       "ko": "비가 오면 집에서 책이나 읽을 거예요.",
+       "en": "If it rains, I'll just read a book at home."
+      },
+      {
+       "ko": "피곤하면 커피나 마셔요.",
+       "en": "If you're tired, just have a coffee."
       }
      ]
     },
     {
      "point": "Verb or verb: ~거나",
-     "explanation": "Attach ~거나 to a verb or adjective stem to say 'do A or do B'. The last verb carries the tense and politeness. ~(이)나 chooses between nouns, while ~거나 chooses between actions or states.",
+     "explanation": "~거나 joins two actions or descriptions as choices: 'do A or do B', 'is A or B'. It is the verb and adjective version of ~(이)나.\n\nForm: stem + 거나, with no vowel/consonant split: 읽다 → 읽거나, 쓰다 → 쓰거나, 피곤하다 → 피곤하거나. Only the last verb shows tense and politeness: 운동하거나 친구들과 놀았어요 = exercised or hung out with friends.\n\nYou can also say A거나 B거나 하다: 책을 읽거나 운동을 하거나 해요.\n\nDon't mix them up. Nouns use ~(이)나: 책이나 신문. Verbs and adjectives use ~거나: 책을 읽거나 신문을 봐요.",
      "examples": [
       {
        "ko": "주말에는 책을 읽거나 운동을 해요.",
@@ -1590,6 +1857,15 @@
       {
        "ko": "저녁에는 음악을 듣거나 산책을 해요.",
        "en": "In the evening I listen to music or take a walk."
+      },
+      {
+       "ko": "학생 때는 방과후에 체육관에서 운동하거나 친구들과 놀았어요.",
+       "en": "When I was a student, I worked out at the gym or hung out with friends after school.",
+       "note": "The past tense goes only on the last verb: 놀았어요."
+      },
+      {
+       "ko": "모르는 단어가 있으면 사전을 찾거나 선생님께 물어보세요.",
+       "en": "If there's a word you don't know, look it up in a dictionary or ask the teacher."
       }
      ]
     }

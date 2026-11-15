@@ -175,7 +175,7 @@
    "grammar": [
     {
      "point": "Sentence word order (S-O-V)",
-     "explanation": "A Korean sentence ends with its predicate: a verb, an adjective, or 이다. The subject usually comes first and any object sits between the subject and the verb, so \"I eat an apple\" becomes \"I apple eat\". Particles attached to each noun show what role it plays.",
+     "explanation": "In English the verb comes in the middle: \"I eat an apple\". In Korean the predicate always comes last. The predicate is the verb, the adjective, or 이다 (to be). Everything else comes before it.\n\nThe usual order is subject → object → verb. Build it step by step: 저 (I) + 사과 (apple) + 먹어요 (eat) → 저는 사과를 먹어요. Literally \"I apple eat\".\n\nThe particles attached to each noun (는/은, 를/을) show who does what, so the nouns can sometimes move around. The verb still stays at the end. A subject that is obvious from context is often left out: 사과를 먹어요 can mean \"I eat an apple\".\n\nA common beginner mistake is to copy English order: 저는 먹어요 사과를 is wrong.",
      "examples": [
       {
        "ko": "저는 사과를 먹어요.",
@@ -188,12 +188,21 @@
       {
        "ko": "그 남자는 의사예요.",
        "en": "That man is a doctor."
+      },
+      {
+       "ko": "사과를 먹어요.",
+       "en": "(I) eat an apple.",
+       "note": "No subject: Korean drops it when it is obvious."
+      },
+      {
+       "ko": "그 여자는 문을 닫아요.",
+       "en": "That woman closes the door."
       }
      ]
     },
     {
      "point": "~는/은 topic marker",
-     "explanation": "Attach 는 to a noun ending in a vowel and 은 to one ending in a consonant. It marks the topic of the sentence, which at this stage is usually the subject. 저 (formal) and 나 (informal) both mean \"I\", giving 저는 and 나는.",
+     "explanation": "는/은 marks the topic, which is what the sentence is about. Think of it as \"as for…\": 저는 학생이에요 is literally \"as for me, (I) am a student\". At this stage the topic is usually the subject.\n\nChoose by the last letter of the noun. If it ends in a vowel, add 는: 저 → 저는, 의자 → 의자는. If it ends in a consonant (it has a bottom letter), add 은: 집 → 집은, 선생님 → 선생님은. Both mean the same; the choice just makes it easier to say.\n\n저 (polite) and 나 (casual) both mean \"I\" and both end in a vowel: 저는, 나는. Use 저는 with anyone you don't know well.\n\n는/은 can also add a sense of contrast (\"I, unlike others…\"). You will see this more in later lessons.",
      "examples": [
       {
        "ko": "저는 학생이에요.",
@@ -210,12 +219,20 @@
       {
        "ko": "나는 남자야.",
        "en": "I am a man."
+      },
+      {
+       "ko": "그 여자는 의사예요.",
+       "en": "That woman is a doctor."
+      },
+      {
+       "ko": "이 침대는 작아요.",
+       "en": "This bed is small."
       }
      ]
     },
     {
      "point": "~를/을 object marker",
-     "explanation": "Attach 를 after a vowel and 을 after a consonant to mark the object, the thing the verb acts on. The object goes before the verb at the end of the sentence.",
+     "explanation": "를/을 marks the object: the thing an action is done to. In 저는 책을 읽어요 (I read a book), the book is what gets read, so it takes 을.\n\nChoose by the last letter of the noun. If it ends in a vowel, add 를: 컴퓨터 → 컴퓨터를, 의자 → 의자를. If it ends in a consonant, add 을: 책 → 책을, 문 → 문을.\n\nThe object sits just before the verb: subject + 는/은, then object + 를/을, then the verb. Only action verbs take an object. 이다 and adjectives never do, so there is no 를/을 in 저는 학생이에요.\n\nIn casual speech the object marker is often dropped (책 읽어요), but keep it while you are learning.",
      "examples": [
       {
        "ko": "저는 책을 읽어요.",
@@ -232,16 +249,24 @@
       {
        "ko": "남자는 문을 열어요.",
        "en": "The man opens the door."
+      },
+      {
+       "ko": "저는 소파를 원해요.",
+       "en": "I want a sofa."
+      },
+      {
+       "ko": "선생님은 문을 닫아요.",
+       "en": "The teacher closes the door."
       }
      ]
     },
     {
      "point": "이다 (to be) with nouns",
-     "explanation": "이다 links two nouns to say that A is B, and it attaches directly to the second noun. In polite speech it becomes 이에요 after a consonant and 예요 after a vowel. It is not used with adjectives, because Korean adjectives already include the meaning \"to be\".",
+     "explanation": "이다 means \"to be\" in the sense \"A is B\", where B is a noun: I am a student, this is a chair. It attaches directly to the noun with no space.\n\nIn polite speech 이다 becomes 이에요 or 예요, depending on the noun's last letter. After a consonant use 이에요: 학생 → 학생이에요, 책 → 책이에요. After a vowel use 예요: 의자 → 의자예요, 의사 → 의사예요. Never say 의자이에요. In casual speech it is 이야 after a consonant and 야 after a vowel: 학생이야, 남자야.\n\nDon't use 이다 with adjectives. \"The house is big\" is 집은 커요, not 집은 커이에요, because adjectives already contain \"to be\".\n\nTo ask a question, keep the same form and raise your voice at the end: 학생이에요? (Are you a student?)",
      "examples": [
       {
-       "ko": "저는 학생이에요.",
-       "en": "I am a student."
+       "ko": "그 여자는 학생이에요.",
+       "en": "That woman is a student."
       },
       {
        "ko": "이것은 의자예요.",
@@ -254,12 +279,22 @@
       {
        "ko": "그것은 제 차예요.",
        "en": "That is my car."
+      },
+      {
+       "ko": "선생님은 중국 사람이에요?",
+       "en": "Is the teacher Chinese?",
+       "note": "Same form as a statement; only the intonation rises."
+      },
+      {
+       "ko": "그 남자는 의사야.",
+       "en": "That man is a doctor.",
+       "note": "Casual: 의사 ends in a vowel, so 야."
       }
      ]
     },
     {
      "point": "이/그/저 + 것 (this/that/that over there)",
-     "explanation": "이 points to something near the speaker, 그 to something near the listener or already mentioned, and 저 to something far from both. They go in front of a noun (이 사람, 저 나무). Combined with 것 (thing) they become the pronouns 이것, 그것 and 저것.",
+     "explanation": "Korean has three pointing words. 이 means \"this\" (near me). 그 means \"that\" (near you, or something we just mentioned). 저 means \"that over there\" (far from both of us).\n\nThey go straight before a noun, with a space: 이 책 (this book), 그 사람 (that person), 저 나무 (that tree over there).\n\nAdd 것 (thing) to get \"this one\" and \"that one\": 이 + 것 → 이것, 그 + 것 → 그것, 저 + 것 → 저것. These are written as one word and act like nouns, so they take particles. 것 ends in a consonant, so it is 이것은 and 그것을.\n\nCareful: 저 also means \"I\" (polite). 저는 학생이에요 means \"I am a student\", but 저 사람은 학생이에요 means \"That person over there is a student\". If a noun follows 저, it means \"that\".",
      "examples": [
       {
        "ko": "이것은 책이에요.",
@@ -276,6 +311,14 @@
       {
        "ko": "저 사람은 의사예요.",
        "en": "That person over there is a doctor."
+      },
+      {
+       "ko": "이 차는 일본 차예요.",
+       "en": "This car is a Japanese car."
+      },
+      {
+       "ko": "저것은 의자예요?",
+       "en": "Is that over there a chair?"
       }
      ]
     }
@@ -440,7 +483,7 @@
    "grammar": [
     {
      "point": "~이/가 subject marker",
-     "explanation": "Attach 이 after a consonant and 가 after a vowel to mark the grammatical subject. When 이/가 attaches to 저 or 나, they change to 제가 and 내가. Unlike 는/은, which sets up a topic, 이/가 simply points to who or what does or is something.",
+     "explanation": "이/가 marks the subject: the person or thing that does the action or that is being described. If the noun ends in a consonant, add 이: 책 → 책이. If it ends in a vowel, add 가: 고양이 → 고양이가, 개 → 개가.\n\nWith \"I\", the word changes shape: 저 + 가 → 제가, 나 + 가 → 내가. Never say 저가 or 나가.\n\nHow is it different from 는/은? 는/은 sets up what you are talking about (\"as for me…\"). 이/가 puts the focus on who or what. 제가 학생이에요 sounds like \"I'm the student (not someone else)\". Use 이/가 when something is mentioned for the first time: 고양이가 방에 있어요 (there's a cat in the room).\n\n이/가 is also used with 있다 and with adjectives describing a thing: 개가 커요.",
      "examples": [
       {
        "ko": "고양이가 방에 있어요.",
@@ -457,12 +500,21 @@
       {
        "ko": "개가 커요.",
        "en": "The dog is big."
+      },
+      {
+       "ko": "내가 의사야.",
+       "en": "I'm the doctor.",
+       "note": "나 + 가 → 내가."
+      },
+      {
+       "ko": "방이 작아요.",
+       "en": "The room is small."
       }
      ]
     },
     {
      "point": "있다 (to have)",
-     "explanation": "To say someone has something, use \"Person는/은 Thing이/가 있다\". The thing owned takes 이/가, not 을/를, because 있다 here works like \"Thing exists for the person\".",
+     "explanation": "있다 has two meanings: \"to be somewhere\" and \"to have\". For \"to have\", Korean says that the thing exists for the person: Person는/은 + Thing이/가 + 있다.\n\nStep by step: 저 + 는 → 저는; 가방 + 이 → 가방이; 있다 → 있어요. Result: 저는 가방이 있어요 (I have a bag).\n\nThe common mistake is to use 를/을 because \"have\" takes an object in English. 저는 가방을 있어요 is wrong. The thing you have takes 이/가.\n\nTo ask \"Do you have…?\", just ask a question: 펜이 있어요? The casual form is 있어: 나는 강아지가 있어.",
      "examples": [
       {
        "ko": "저는 가방이 있어요.",
@@ -479,12 +531,20 @@
       {
        "ko": "제 친구는 고양이가 있어요.",
        "en": "My friend has a cat."
+      },
+      {
+       "ko": "펜이 있어요?",
+       "en": "Do you have a pen?"
+      },
+      {
+       "ko": "그 호텔은 식당이 있어요.",
+       "en": "That hotel has a restaurant."
       }
      ]
     },
     {
      "point": "~에 (place or time)",
-     "explanation": "~에 attaches to a place or a time. With 있다 it shows where something is. With movement verbs like 가다 it shows where someone is going, and with time words it means \"at\" or \"on\".",
+     "explanation": "~에 is a small particle that points to a place or a time. It attaches directly to the noun and is the same after a vowel or a consonant: 학교에, 집에, 방에.\n\nWith 있다 it says where something is: 저는 학교에 있어요 (I'm at school). With movement verbs like 가다 and 오다 it says where someone is going: 은행에 가요 (I go to the bank). With time words it means \"at\" or \"on\": 월요일에 (on Monday).\n\nSome time words never take 에. 오늘, 어제, 내일 and 지금 are used on their own: say 내일 가요, not 내일에 가요.\n\n~에 marks where something is or where it goes, not where an action takes place. \"I eat at a restaurant\" uses a different particle (에서), which comes later.",
      "examples": [
       {
        "ko": "저는 학교에 있어요.",
@@ -501,12 +561,21 @@
       {
        "ko": "고양이는 방에 있어요.",
        "en": "The cat is in the room."
+      },
+      {
+       "ko": "우리는 식당에 가요.",
+       "en": "We go to the restaurant."
+      },
+      {
+       "ko": "저는 월요일에 은행에 가요.",
+       "en": "I go to the bank on Monday.",
+       "note": "Two 에s: one for the time, one for the place."
       }
      ]
     },
     {
      "point": "Position words + ~에 있다 (in/on/under/beside/behind/in front)",
-     "explanation": "To describe position, put the reference noun first and then a position noun such as 안, 위, 밑, 옆, 뒤 or 앞, followed by ~에 있다. \"On the table\" becomes \"table top-at\" (탁자 위에).",
+     "explanation": "Where English says \"on the table\", Korean says \"at the table's top\". The pattern is: reference noun + position word + 에 있다.\n\nThe position words are nouns: 안 (inside), 위 (top), 밑 (under), 옆 (beside), 뒤 (behind), 앞 (in front). Build it in order: 탁자 (table) → 탁자 위 (table top) → 탁자 위에 (at the table top) → 탁자 위에 있어요 (is on the table).\n\nThe order is the reverse of English: \"under the chair\" is 의자 밑에, \"in the bag\" is 가방 안에. The thing you are locating comes first with 는/은 or 이/가: 펜은 탁자 위에 있어요.\n\n여기 (here) works on its own without a position word: 여기에 있어요 (it's here).",
      "examples": [
       {
        "ko": "펜은 탁자 위에 있어요.",
@@ -523,6 +592,14 @@
       {
        "ko": "식당은 학교 앞에 있어요.",
        "en": "The restaurant is in front of the school."
+      },
+      {
+       "ko": "전화기는 가방 안에 있어요.",
+       "en": "The phone is in the bag."
+      },
+      {
+       "ko": "고양이가 소파 뒤에 있어요.",
+       "en": "There is a cat behind the sofa."
       }
      ]
     }
@@ -737,7 +814,7 @@
    "grammar": [
     {
      "point": "Verbs: dictionary form ~다 and the stem",
-     "explanation": "Every Korean verb ends in 다 in its dictionary form. Removing 다 leaves the stem, and endings for tense and politeness attach to it. The verb goes at the end of the sentence and can take an object marked with 을/를.",
+     "explanation": "Every Korean verb has a dictionary form ending in 다: 먹다 (to eat), 가다 (to go), 하다 (to do). This is what you find in a dictionary, but you rarely say it like that.\n\nTake off 다 and you get the stem: 먹다 → 먹, 가다 → 가, 공부하다 → 공부하. All endings for tense and politeness attach to the stem. For example, the polite present ending gives 먹 + 어요 → 먹어요, 가 + 아요 → 가요, 하 → 해요. Lessons 5 and 6 explain how to pick the ending; for now, learn to spot the stem.\n\nMany verbs are a noun + 하다: 이해 + 하다 → 이해하다 (to understand), 말 + 하다 → 말하다 (to speak). They all conjugate the same way, ending in 해요.\n\nThe verb goes last. If it acts on something, that object takes 을/를: 저는 음식을 먹어요.",
      "examples": [
       {
        "ko": "저는 음식을 먹어요.",
@@ -748,18 +825,28 @@
        "en": "I close the door."
       },
       {
-       "ko": "선생님은 한국어를 말해요.",
-       "en": "The teacher speaks Korean."
+       "ko": "선생님은 한국어를 해요.",
+       "en": "The teacher speaks Korean.",
+       "note": "With a language, 하다 is more natural than 말하다: 한국어를 해요."
       },
       {
        "ko": "우리는 공원에 가요.",
        "en": "We go to the park."
+      },
+      {
+       "ko": "저는 한국어를 이해해요.",
+       "en": "I understand Korean.",
+       "note": "이해하다 → 이해하 → 이해해요."
+      },
+      {
+       "ko": "저는 케이크를 만들어요.",
+       "en": "I make a cake."
       }
      ]
     },
     {
      "point": "Adjectives (descriptive verbs)",
-     "explanation": "Korean adjectives also end in 다 and are conjugated like verbs. They already contain the idea of \"to be\", so 크다 means \"to be big\" and no 이다 is needed. They describe the subject and never take an object.",
+     "explanation": "In Korean, adjectives are a kind of verb. 크다 doesn't mean \"big\" but \"to be big\". So 이 버스는 커요 is a full sentence: \"This bus is big\". No 이다 is needed.\n\nThey conjugate just like verbs: drop 다 to get the stem, then add the ending. 작다 → 작 + 아요 → 작아요; 싸다 → 싸 + 아요 → 싸요; 뚱뚱하다 → 뚱뚱해요. Some change in special ways (크다 → 커요, 아름답다 → 아름다워요); Lesson 7 explains these.\n\nBecause they describe rather than act, adjectives never take an object with 을/를. The thing being described is the subject, marked with 는/은 or 이/가.\n\nA common mistake is to add 이에요: 버스는 크이에요 is wrong. Just say 버스는 커요.",
      "examples": [
       {
        "ko": "이 버스는 커요.",
@@ -776,12 +863,21 @@
       {
        "ko": "그 여자는 아름다워요.",
        "en": "That woman is beautiful."
+      },
+      {
+       "ko": "이 컴퓨터는 싸요.",
+       "en": "This computer is cheap.",
+       "note": "싸 + 아요 → 싸요 (the two ㅏ sounds merge)."
+      },
+      {
+       "ko": "그 강아지는 뚱뚱해요.",
+       "en": "That puppy is chubby."
       }
      ]
     },
     {
      "point": "~의 possessive particle",
-     "explanation": "Put 의 between two nouns to make the first one the owner: \"A의 B\" means \"A's B\". 저의 and 나의 are often shortened to 제 and 내. In speech 의 is frequently dropped when the meaning is clear.",
+     "explanation": "의 shows ownership, like English \"'s\". \"A의 B\" means \"A's B\": 선생님의 차 (the teacher's car). It is the same after a vowel or a consonant. When it means \"'s\", 의 is usually pronounced like 에.\n\nWith \"I\", the words usually shorten: 저 + 의 → 제 (my, polite), 나 + 의 → 내 (my, casual). So 제 친구 means \"my friend\". 제 and 내 are far more common than 저의 and 나의.\n\nIn speech, 의 is often left out when the meaning is clear: 선생님 차, 친구 집. You will still see it in writing.\n\nThe owner always comes first, which is the opposite of English \"of\": \"the eyes of that woman\" is 그 여자의 눈.",
      "examples": [
       {
        "ko": "선생님의 차는 커요.",
@@ -798,34 +894,51 @@
       {
        "ko": "내 손가락은 길어.",
        "en": "My fingers are long."
+      },
+      {
+       "ko": "이것은 제 가방이에요.",
+       "en": "This is my bag."
+      },
+      {
+       "ko": "그 남자의 집은 작아요.",
+       "en": "That man's house is small."
       }
      ]
     },
     {
      "point": "좋다 vs 좋아하다",
-     "explanation": "좋다 is an adjective meaning \"to be good\", so it describes the subject and takes no object. 좋아하다 is a verb meaning \"to like\" and takes an object marked with 을/를.",
+     "explanation": "These two look alike but work differently. 좋다 is an adjective meaning \"to be good\". 좋아하다 is a verb meaning \"to like\".\n\n좋다 describes the subject, so there is no object: 이 책은 좋아요 (This book is good). Conjugation: 좋 + 아요 → 좋아요.\n\n좋아하다 is something a person does to a thing, so the thing liked takes 을/를: 저는 케이크를 좋아해요 (I like cake). Conjugation: 좋아하 → 좋아해요.\n\nThe common mistake is mixing them: 저는 케이크를 좋아요 is wrong. If the sentence has 을/를, you need 좋아해요. Later you will also see 케이크가 좋아요 for \"I like cake\"; with 좋다 the thing keeps 이/가.",
      "examples": [
       {
-       "ko": "이 음식은 좋아요.",
-       "en": "This food is good."
+       "ko": "이 책은 좋아요.",
+       "en": "This book is good.",
+       "note": "For food, 맛있어요 (it tastes good) is more natural than 좋아요."
       },
       {
        "ko": "저는 케이크를 좋아해요.",
        "en": "I like cake."
       },
       {
-       "ko": "그 선생님은 좋아요.",
-       "en": "That teacher is good."
+       "ko": "이 의자는 좋아요.",
+       "en": "This chair is good."
       },
       {
        "ko": "우리는 한국 음식을 좋아해요.",
        "en": "We like Korean food."
+      },
+      {
+       "ko": "이 컴퓨터는 아주 좋아요.",
+       "en": "This computer is very good."
+      },
+      {
+       "ko": "한국 음식을 좋아해요?",
+       "en": "Do you like Korean food?"
       }
      ]
     },
     {
      "point": "우리 (we, us, our)",
-     "explanation": "우리 means \"we\" or \"us\", and before a noun it means \"our\". Koreans often say 우리 where English uses \"my\" for shared things like a home, a family member or a country.",
+     "explanation": "우리 means \"we\" or \"us\". With particles: 우리는 (we, topic), 우리가 (we, subject), 우리를 (us, object).\n\nPut 우리 directly before a noun and it means \"our\": 우리 집 (our house), 우리 선생님 (our teacher). You don't need 의 here; 우리의 is mostly written.\n\nKoreans say 우리 where English says \"my\" for things shared with a group: family, home, school, country. 우리 어머니 means \"my mother\", even for an only child. For personal things like a bag or phone, use 제/내: 제 가방.\n\n저희 is a humble version of 우리, used when you need to be very polite to the listener. You will hear it in shops and offices.",
      "examples": [
       {
        "ko": "우리는 학생이에요.",
@@ -840,8 +953,18 @@
        "en": "Our teacher is Korean."
       },
       {
-       "ko": "우리는 공원에 가요.",
-       "en": "We go to the park."
+       "ko": "우리 집은 커요.",
+       "en": "Our house is big.",
+       "note": "우리 also means \"our\": 우리 집."
+      },
+      {
+       "ko": "우리 어머니는 선생님이에요.",
+       "en": "My mother is a teacher.",
+       "note": "Koreans say \"our mother\" even when English says \"my\"."
+      },
+      {
+       "ko": "선생님은 우리를 이해해요.",
+       "en": "The teacher understands us."
       }
      ]
     }
@@ -1101,7 +1224,7 @@
    "grammar": [
     {
      "point": "Adjective + ~ㄴ/은 to describe a noun",
-     "explanation": "To place an adjective before a noun, add ㄴ to a stem ending in a vowel (크다 → 큰) and 은 to a stem ending in a consonant (작다 → 작은). A stem ending in ㄹ drops the ㄹ and takes ㄴ (길다 → 긴). Adjectives ending in 있다 take 는 instead (맛있는, 재미있는).",
+     "explanation": "In Lesson 3 adjectives sat at the end of the sentence (차가 커요). To put an adjective in front of a noun, as in \"a big car\", change its ending.\n\nIf the stem ends in a vowel, add ㄴ under it: 크다 → 크 + ㄴ → 큰 (큰 차); 비싸다 → 비싼; 피곤하다 → 피곤한. If it ends in a consonant, add 은: 작다 → 작은 (작은 집); 많다 → 많은. If it ends in ㄹ, drop the ㄹ and add ㄴ: 길다 → 긴. Adjectives ending in 있다 take 는: 맛있다 → 맛있는, 재미있다 → 재미있는.\n\nThe describing word goes right before its noun, and the whole group takes the particle: 큰 차를 원해요.\n\nCompare: 큰 차 is \"a big car\" (a phrase), while 차가 커요 is \"the car is big\" (a sentence).",
      "examples": [
       {
        "ko": "저는 큰 차를 원해요.",
@@ -1118,12 +1241,22 @@
       {
        "ko": "그 남자는 재미있는 사람이에요.",
        "en": "That man is a fun person."
+      },
+      {
+       "ko": "저는 다른 책을 원해요.",
+       "en": "I want a different book.",
+       "note": "다르다 → 다르 + ㄴ → 다른."
+      },
+      {
+       "ko": "긴 열차가 와요.",
+       "en": "A long train is coming.",
+       "note": "길다 drops its ㄹ: 길 → 기 + ㄴ → 긴."
       }
      ]
     },
     {
      "point": "많다 (to be many): 많은 + noun vs noun이/가 많다",
-     "explanation": "많다 can describe a noun as 많은 (\"a lot of\") or act as the predicate in \"Noun이/가 많다\" (\"there are many of the noun\"). The predicate pattern is the more natural way to say that a place has a lot of something.",
+     "explanation": "많다 means \"to be many\" or \"to be a lot\". It is used in two ways.\n\nAs the predicate at the end: Noun이/가 많아요 means \"there are a lot of (noun)\". 길에 사람이 많아요 (there are many people on the street). Add a topic to say who has a lot: 저는 돈이 많아요 (I have a lot of money). This is the most natural pattern.\n\nBefore a noun: 많다 → 많 + 은 → 많은 (\"a lot of\"): 많은 사람 (many people). This sounds a little more written. In speech, to say you do something a lot, Koreans usually use the adverb 많이 (Lesson 8): 많이 먹어요.\n\nThe ㅎ in 많 is silent before a vowel: 많아요 sounds like 마나요.",
      "examples": [
       {
        "ko": "길에 사람이 많아요.",
@@ -1134,18 +1267,26 @@
        "en": "I have a lot of money."
       },
       {
-       "ko": "저는 많은 음식을 먹어요.",
-       "en": "I eat a lot of food."
+       "ko": "많은 사람이 공원에 가요.",
+       "en": "Many people go to the park."
       },
       {
        "ko": "이 도시는 택시가 많아요.",
        "en": "This city has many taxis."
+      },
+      {
+       "ko": "공원에 나무가 많아요.",
+       "en": "There are many trees in the park."
+      },
+      {
+       "ko": "많은 학생이 영어를 배워요.",
+       "en": "Many students learn English."
       }
      ]
     },
     {
      "point": "~도 (also, too)",
-     "explanation": "~도 means \"also\" and replaces 는/은, 이/가 or 을/를 on the noun. Its meaning depends on which noun it attaches to: 저도 means \"I also (do it)\", while 사과도 means \"(I eat) apples too\".",
+     "explanation": "~도 means \"also\" or \"too\". It attaches straight to a noun and replaces 는/은, 이/가 or 을/를. Never stack them: 저는도 and 사과를도 are wrong. With 에 it is different: 에 stays and 도 goes after it (집에도, \"at home too\").\n\nStep by step: 저 + 는 → 저 + 도 → 저도 (I also). 사과 + 를 → 사과 + 도 → 사과도 (apples too). It is the same after a vowel or a consonant: 물도, 책도.\n\nThe meaning depends on which noun takes 도. 저도 사과를 먹어요 means \"I also eat apples\" (like someone else does). 저는 사과도 먹어요 means \"I eat apples too\" (as well as other things).\n\nOn its own, 저도요 is a handy reply: \"Me too.\"",
      "examples": [
       {
        "ko": "저도 학생이에요.",
@@ -1162,6 +1303,15 @@
       {
        "ko": "아버지도 영어를 배워요.",
        "en": "Father also learns English."
+      },
+      {
+       "ko": "저도 사과를 먹어요.",
+       "en": "I also eat apples.",
+       "note": "Compare 저는 사과도 먹어요: here 도 is on \"I\", not on the apples."
+      },
+      {
+       "ko": "이 책도 재미있어요.",
+       "en": "This book is fun too."
       }
      ]
     }
@@ -1446,7 +1596,7 @@
    "grammar": [
     {
      "point": "Present tense (plain form) ~ㄴ/는다",
-     "explanation": "In the plain written style, a verb stem ending in a vowel takes ~ㄴ다 (가다 → 간다) and a stem ending in a consonant takes ~는다 (먹다 → 먹는다). Adjectives stay in their basic 다 form in the present tense.",
+     "explanation": "Korean has a plain style used in writing: diaries, books, newspapers and essays. It isn't used when talking to people (it sounds blunt), but you will read it everywhere.\n\nFor verbs, look at the stem. If it ends in a vowel, add ㄴ다: 가다 → 가 + ㄴ다 → 간다; 공부하다 → 공부한다. If it ends in a consonant, add 는다: 먹다 → 먹 + 는다 → 먹는다; 읽다 → 읽는다. If it ends in ㄹ, drop the ㄹ and add ㄴ다: 살다 → 산다, 만들다 → 만든다.\n\nAdjectives don't change in the present; they stay in the dictionary form: 박물관은 멀다 (the museum is far). So 멀다 alone is a full sentence, but a verb needs its ending: 먹는다, not 먹다. 이다 also stays as it is: 나는 학생이다.",
      "examples": [
       {
        "ko": "나는 한국어를 공부한다.",
@@ -1463,12 +1613,21 @@
       {
        "ko": "그 박물관은 멀다.",
        "en": "That museum is far."
+      },
+      {
+       "ko": "삼촌은 한국에 산다.",
+       "en": "My uncle lives in Korea.",
+       "note": "살다 drops its ㄹ: 살 → 사 + ㄴ다 → 산다."
+      },
+      {
+       "ko": "오늘은 비가 온다.",
+       "en": "It's raining today."
       }
      ]
     },
     {
      "point": "Past tense ~았/었/였다",
-     "explanation": "If the last vowel of the stem is ㅏ or ㅗ, add 았다. Otherwise add 었다, and 하 becomes 했다. When the stem ends in a vowel the two usually merge (가았다 → 갔다, 배우었다 → 배웠다, 던지었다 → 던졌다).",
+     "explanation": "To make the past tense, look at the last vowel of the stem. If it is ㅏ or ㅗ, add 았다: 만나다 → 만났다, 닫다 → 닫았다. For any other vowel, add 었다: 먹다 → 먹었다, 던지다 → 던졌다. 하다 becomes 했다: 공부하다 → 공부했다.\n\nWhen the stem ends in a vowel, the two vowels squeeze together. ㅏ + 았 → 았 (가다 → 갔다). ㅗ + 았 → 왔 (오다 → 왔다). ㅜ + 었 → 웠 (배우다 → 배웠다). ㅣ + 었 → 였 (던지다 → 던졌다). ㅓ + 었 → 었 (건너다 → 건넜다). ㅐ just gains ㅆ (끝내다 → 끝냈다).\n\nAdjectives work the same way: 비싸다 → 비쌌다 (was expensive). 이다 becomes 이었다 after a consonant and 였다 after a vowel: 학생이었다, 친구였다.\n\nThe same 았/었 is used in polite speech too (갔어요, 먹었어요), as Lesson 6 shows.",
      "examples": [
       {
        "ko": "나는 어제 가게에 갔다.",
@@ -1485,12 +1644,22 @@
       {
        "ko": "나는 친구를 만났다.",
        "en": "I met a friend."
+      },
+      {
+       "ko": "어제는 비가 왔다.",
+       "en": "It rained yesterday.",
+       "note": "오 + 았다 → 왔다."
+      },
+      {
+       "ko": "할아버지는 선생님이었다.",
+       "en": "My grandfather was a teacher.",
+       "note": "이다 after a consonant: 이었다."
       }
      ]
     },
     {
      "point": "Future tense ~겠다",
-     "explanation": "Add ~겠다 to any stem, whether it ends in a vowel or a consonant, to express what you will do. It works most naturally for the speaker's own intentions.",
+     "explanation": "~겠다 adds the idea of \"will\". It is the easiest ending to form: add 겠다 to the stem, whether it ends in a vowel or a consonant. 가다 → 가 + 겠다 → 가겠다; 읽다 → 읽 + 겠다 → 읽겠다; 공부하다 → 공부하겠다. There is no vowel matching and nothing merges.\n\nIt works best for your own intentions: 나는 내일 공부하겠다 (I will study tomorrow). It sounds firm, like a decision or a promise.\n\nIn polite speech it becomes 겠어요 or 겠습니다 (Lesson 6). You already know a fixed phrase with it: 잘 먹겠습니다, said before a meal (\"I will eat well\").\n\nKorean has another, more common future form that you will learn later. For now, use ~겠다 for \"I will\".",
      "examples": [
       {
        "ko": "나는 내일 공부하겠다.",
@@ -1507,28 +1676,45 @@
       {
        "ko": "나는 오늘 책을 읽겠다.",
        "en": "I will read a book today."
+      },
+      {
+       "ko": "나는 모레 친구를 만나겠다.",
+       "en": "I will meet a friend the day after tomorrow."
+      },
+      {
+       "ko": "나는 그 비밀을 말하겠다.",
+       "en": "I will tell the secret."
       }
      ]
     },
     {
      "point": "Saying \"I\" and \"you\" (저/나, 너/당신)",
-     "explanation": "저 is the formal \"I\" and 나 the informal one, becoming 제가 and 내가 with 이/가. Koreans usually avoid a direct word for \"you\". They use the person's title or a family term instead, use 너 only with close friends or younger people (너 + 가 becomes 네가), and rarely use 당신.",
+     "explanation": "Korean has two words for \"I\". 저 is polite: use it with anyone you speak politely to. 나 is casual: use it with close friends and younger people. With 이/가 they become 제가 and 내가.\n\n\"You\" is trickier, because Koreans usually avoid saying it. Instead they use the person's name + 씨, a title, or a family word: 민수 씨, 선생님 (teacher), 아저씨 (mister), 언니 (older sister). 민수 씨는 오늘 학교에 가요? means \"Are you going to school today, Minsu?\". Often \"you\" is simply left out: 학교에 가요?\n\n너 is the casual \"you\", only for close friends or people younger than you. With 이/가 it becomes 네가. In speech many people say 니가 so it doesn't sound like 내가.\n\n당신 appears in songs and between married couples, but said to a stranger it can sound rude. Avoid it.",
      "examples": [
       {
-       "ko": "제가 학생이에요.",
-       "en": "I am the student."
+       "ko": "제가 의사예요.",
+       "en": "I am the doctor."
       },
       {
        "ko": "너는 내 친구야.",
        "en": "You are my friend."
       },
       {
-       "ko": "선생님은 오늘 학교에 가요?",
-       "en": "Are you (teacher) going to school today?"
+       "ko": "민수 씨는 오늘 학교에 가요?",
+       "en": "Are you going to school today, Minsu?"
       },
       {
        "ko": "네가 내 동생이야?",
        "en": "Are you my younger sibling?"
+      },
+      {
+       "ko": "오빠는 내일 떠나요?",
+       "en": "Are you leaving tomorrow? (a woman to her older brother)",
+       "note": "The family word 오빠 is used instead of \"you\"."
+      },
+      {
+       "ko": "너도 학생이야?",
+       "en": "Are you a student too?"
       }
      ]
     }
@@ -1788,7 +1974,7 @@
    "grammar": [
     {
      "point": "Informal low respect (반말) ~아/어",
-     "explanation": "Add 아 to a stem whose last vowel is ㅏ or ㅗ and 어 otherwise, and 하 becomes 해. This casual form is used with close friends, younger people or children. The past tense is ~았어/었어 and the future is ~겠어.",
+     "explanation": "반말 is casual speech. Use it with close friends, people younger than you, and children. Using it with strangers or older people is rude.\n\nLook at the last vowel of the stem. If it is ㅏ or ㅗ, add 아: 앉다 → 앉 + 아 → 앉아. Otherwise add 어: 먹다 → 먹어. 하다 becomes 해: 청소하다 → 청소해.\n\nIf the stem ends in a vowel, things merge. ㅏ or ㅓ + 아/어 → nothing added (자다 → 자, 건너다 → 건너). ㅗ + 아 → ㅘ (보다 → 봐). ㅜ + 어 → ㅝ (배우다 → 배워). ㅣ + 어 → ㅕ (기다리다 → 기다려).\n\nPast is 았어/었어/했어 (봤어, 먹었어, 했어) and future is 겠어 (가겠어). 이다 becomes 야 after a vowel and 이야 after a consonant: 친구야, 학생이야. A question uses the same form with rising intonation: 자?",
      "examples": [
       {
        "ko": "나는 의자에 앉아.",
@@ -1805,12 +1991,21 @@
       {
        "ko": "나는 교실을 청소했어.",
        "en": "I cleaned the classroom."
+      },
+      {
+       "ko": "나는 텔레비전을 봐.",
+       "en": "I'm watching TV.",
+       "note": "보 + 아 → 봐."
+      },
+      {
+       "ko": "너는 오늘 운동해?",
+       "en": "Are you exercising today?"
       }
      ]
     },
     {
      "point": "Informal high respect ~아/어요",
-     "explanation": "Add 요 to the informal low form to make it polite. This is the most common everyday polite speech, used with strangers, coworkers and older people. Past is ~았어요/었어요 and future is ~겠어요.",
+     "explanation": "This is the polite style you will use most in Korea: with shop staff, coworkers, strangers and older people. It is polite without being stiff.\n\nIf you know 반말, just add 요: 앉아 → 앉아요; 봐 → 봐요; 기다려 → 기다려요; 해 → 해요. The vowel rule is the same: ㅏ/ㅗ → 아요, anything else → 어요, 하다 → 해요.\n\nPast is 았어요/었어요/했어요 (봤어요, 먹었어요, 청소했어요). Future is 겠어요 (청소하겠어요). 이다 becomes 이에요 after a consonant and 예요 after a vowel (never 야요).\n\nOne form can be a statement or a question, depending on your voice: 가요. (I'm going.) 가요? (Are you going?)",
      "examples": [
       {
        "ko": "저는 친구를 기다려요.",
@@ -1827,12 +2022,21 @@
       {
        "ko": "저는 곧 청소하겠어요.",
        "en": "I will clean soon."
+      },
+      {
+       "ko": "그 선생님은 착해요.",
+       "en": "That teacher is nice."
+      },
+      {
+       "ko": "버스를 기다렸어요?",
+       "en": "Did you wait for the bus?",
+       "note": "기다리 + 었어요 → 기다렸어요."
       }
      ]
     },
     {
      "point": "Formal high respect ~ㅂ니다/습니다",
-     "explanation": "Add ㅂ니다 to a stem ending in a vowel and 습니다 to one ending in a consonant. For past and future, add 습니다 after 았/었 or 겠. This form is used in formal settings such as news, speeches, the military or talking to a boss.",
+     "explanation": "This is the most formal style. You hear it in the news, announcements, speeches, the army, from shop staff, and when speaking to a boss in a meeting. In daily conversation it can sound stiff, so ~요 is more common.\n\nIf the stem ends in a vowel, add ㅂ under the last syllable and then 니다: 기다리다 → 기다리 + ㅂ니다 → 기다립니다; 가다 → 갑니다; 하다 → 합니다. If it ends in a consonant, add 습니다: 앉다 → 앉습니다; 먹다 → 먹습니다.\n\nPast and future: 았/었 and 겠 end in a consonant, so they always take 습니다: 청소했습니다, 노력하겠습니다. 이다 becomes 입니다: 학생입니다.\n\nFor a question, change 다 to 까: 갑니까? (Are you going?), 먹습니까? (Do you eat?)",
      "examples": [
       {
        "ko": "저는 부장님을 기다립니다.",
@@ -1849,6 +2053,15 @@
       {
        "ko": "저는 열심히 노력하겠습니다.",
        "en": "I will try hard."
+      },
+      {
+       "ko": "우유를 좋아합니까?",
+       "en": "Do you like milk?"
+      },
+      {
+       "ko": "이 기타는 제 선물입니다.",
+       "en": "This guitar is my present.",
+       "note": "이다 → 입니다."
       }
      ]
     }
@@ -2078,7 +2291,7 @@
    "grammar": [
     {
      "point": "ㅅ irregular",
-     "explanation": "Some stems ending in ㅅ, such as 짓다, lose the ㅅ when the next ending starts with a vowel: 짓 + 어요 → 지어요. Not every ㅅ stem does this (웃다 → 웃어요 is regular), so these verbs have to be memorized.",
+     "explanation": "A few verbs whose stem ends in ㅅ lose the ㅅ when the next ending starts with a vowel (such as 아/어). The most common one is 짓다 (to build, to make, to give a name).\n\nStep by step: 짓다 → stem 짓 → before 어요 the ㅅ drops → 지 + 어요 → 지어요. Past: 지 + 었어요 → 지었어요. The vowels don't merge, so it stays 지어요, not 져요.\n\nBefore an ending that starts with a consonant, the ㅅ stays: 짓 + 습니다 → 짓습니다; 짓 + 겠어요 → 짓겠어요.\n\nNot every ㅅ verb is irregular. 웃다 (to laugh) and 씻다 (to wash) are regular: 웃어요, 씻어요. Learn the irregular ones as you meet them.",
      "examples": [
       {
        "ko": "아버지는 집을 지어요.",
@@ -2091,12 +2304,27 @@
       {
        "ko": "저는 강아지 이름을 지었어요.",
        "en": "I named the puppy."
+      },
+      {
+       "ko": "그 회사는 매년 건물을 짓습니다.",
+       "en": "That company builds buildings every year.",
+       "note": "Before 습니다 the ㅅ stays."
+      },
+      {
+       "ko": "할머니는 밥을 지어요.",
+       "en": "Grandmother cooks rice.",
+       "note": "짓다 is also used for cooking rice: 밥을 짓다."
+      },
+      {
+       "ko": "저는 매일 웃어요.",
+       "en": "I laugh every day.",
+       "note": "웃다 is regular: 웃 + 어요 → 웃어요."
       }
      ]
     },
     {
      "point": "ㄷ irregular",
-     "explanation": "In some stems ending in ㄷ, such as 듣다 and 걷다, the ㄷ changes to ㄹ before an ending that starts with a vowel: 듣다 → 들어요, 걷다 → 걸었어요. Others, like 닫다 and 받다, stay regular.",
+     "explanation": "Some verbs whose stem ends in ㄷ change the ㄷ to ㄹ when the next ending starts with a vowel. The common ones are 듣다 (to hear, to listen) and 걷다 (to walk).\n\nStep by step: 듣다 → stem 듣 → ㄷ becomes ㄹ → 들 + 어요 → 들어요. 걷다 → 걸 + 었어요 → 걸었어요.\n\nBefore an ending that starts with a consonant, the ㄷ stays: 듣 + 습니다 → 듣습니다; 걷 + 겠어요 → 걷겠어요.\n\nMany ㄷ verbs are regular, so you have to learn which is which: 닫다 → 닫아요, 받다 → 받아요.",
      "examples": [
       {
        "ko": "저는 음악을 들어요.",
@@ -2113,12 +2341,22 @@
       {
        "ko": "저는 문을 닫았어요.",
        "en": "I closed the door."
+      },
+      {
+       "ko": "할아버지는 매일 걷습니다.",
+       "en": "Grandfather walks every day.",
+       "note": "Before 습니다 the ㄷ stays."
+      },
+      {
+       "ko": "저는 선물을 받았어요.",
+       "en": "I received a present.",
+       "note": "받다 is regular: 받 + 았어요 → 받았어요."
       }
      ]
     },
     {
      "point": "ㅂ irregular",
-     "explanation": "Most adjectives whose stem ends in ㅂ change the ㅂ to 우 before a vowel ending, and the 우 then merges with 어: 춥다 → 추워요, 쉽다 → 쉬워요. 돕다 is an exception that becomes 도와요.",
+     "explanation": "Most adjectives whose stem ends in ㅂ, and a few verbs, change the ㅂ to 우 before an ending that starts with a vowel. The 우 then merges with 어 to make 워.\n\nStep by step: 춥다 → stem 춥 → ㅂ becomes 우 → 추우 + 어요 → 추워요. Likewise 쉽다 → 쉬워요, 덥다 → 더워요, 어렵다 → 어려워요. Past: 추웠어요. Before a noun (Lesson 4), 우 + ㄴ gives 운: 쉬운 책, 아름다운 여자.\n\n돕다 (to help) is special: the ㅂ becomes 오 instead, and 오 + 아 → 와, giving 도와요 and 도왔어요.\n\nBefore an ending that starts with a consonant, the ㅂ stays: 춥습니다, 덥겠어요. Some ㅂ verbs are regular, such as 잡다 (to grab): 잡아요.",
      "examples": [
       {
        "ko": "오늘은 너무 추워요.",
@@ -2135,12 +2373,21 @@
       {
        "ko": "저는 어머니를 도와요.",
        "en": "I help my mother."
+      },
+      {
+       "ko": "어제는 정말 더웠어요.",
+       "en": "It was really hot yesterday."
+      },
+      {
+       "ko": "저는 쉬운 책을 원해요.",
+       "en": "I want an easy book.",
+       "note": "쉽 → 쉬우 + ㄴ → 쉬운."
       }
      ]
     },
     {
      "point": "ㅡ irregular",
-     "explanation": "When a stem ends in the vowel ㅡ, the ㅡ disappears before 아/어. Use 아 if the vowel before it is ㅏ or ㅗ and 어 otherwise: 바쁘다 → 바빠요, 예쁘다 → 예뻐요, 쓰다 → 써요.",
+     "explanation": "When a stem ends in the vowel ㅡ (바쁘다, 예쁘다, 쓰다), the ㅡ disappears before 아/어. Then you add 아 or 어 to what is left.\n\nWhich one? Look at the vowel of the syllable before ㅡ. If it is ㅏ or ㅗ, use 아: 바쁘다 → 바빠요; 아프다 → 아파요; 고프다 → 고파요. Otherwise use 어: 예쁘다 → 예뻐요; 슬프다 → 슬퍼요.\n\nIf the stem has only one syllable, there is no earlier vowel, so use 어: 쓰다 → 써요; 크다 → 커요.\n\nPast works the same way: 바빴어요, 썼어요. Before an ending that starts with a consonant, nothing changes: 바쁩니다, 예쁜.",
      "examples": [
       {
        "ko": "저는 오늘 바빠요.",
@@ -2157,12 +2404,22 @@
       {
        "ko": "저는 배고파요.",
        "en": "I am hungry."
+      },
+      {
+       "ko": "저는 머리가 아파요.",
+       "en": "I have a headache.",
+       "note": "아프 + 아요 → 아파요."
+      },
+      {
+       "ko": "그 영화는 너무 슬펐어요.",
+       "en": "That movie was so sad.",
+       "note": "슬프 + 었어요 → 슬펐어요."
       }
      ]
     },
     {
      "point": "르 irregular",
-     "explanation": "When a stem ends in 르 and is followed by 아/어, the ㅡ drops and an extra ㄹ is added, giving ㄹ라 or ㄹ러: 다르다 → 달라요, 빠르다 → 빨라요, 모르다 → 몰라요.",
+     "explanation": "Stems ending in 르 (다르다, 빠르다, 모르다) change in a special way before 아/어. The ㅡ drops, an extra ㄹ is added to the syllable before, and the ending becomes 라 or 러.\n\nStep by step: 다르다 → stem 다르 → 다 gets an extra ㄹ → 달 + 라요 → 달라요. Likewise 빠르다 → 빨라요, 모르다 → 몰라요. Use 라 when the vowel before 르 is ㅏ or ㅗ, and 러 otherwise: 부르다 (to call) → 불러요.\n\nPast: 달랐어요, 빨랐어요, 몰랐어요.\n\nBefore an ending that starts with a consonant, nothing changes: 빠릅니다, 다른 (Lesson 4), and the very common phrase 모르겠어요 (I don't know).",
      "examples": [
       {
        "ko": "그 열차는 정말 빨라요.",
@@ -2175,12 +2432,26 @@
       {
        "ko": "저는 그 사람의 이름을 몰라요.",
        "en": "I don't know that person's name."
+      },
+      {
+       "ko": "그 남자는 아주 말랐어요.",
+       "en": "That man is very thin.",
+       "note": "마르다 → 말라; for being thin, Korean uses the past form."
+      },
+      {
+       "ko": "그 버스는 빠릅니다.",
+       "en": "That bus is fast.",
+       "note": "Before ㅂ니다 the stem doesn't change."
+      },
+      {
+       "ko": "저는 그 사람의 이름을 몰랐어요.",
+       "en": "I didn't know that person's name."
       }
      ]
     },
     {
      "point": "ㄹ irregular",
-     "explanation": "A stem ending in ㄹ drops the ㄹ when the next part starts with ㄴ, ㅂ or ㅅ: 살다 → 삽니다, 알다 → 압니다, 길다 → 긴. Before an ending that starts with a vowel the ㄹ stays (살아요).",
+     "explanation": "Stems ending in ㄹ (살다, 알다, 만들다, 길다, 열다) are mostly regular, but the ㄹ drops when the next part starts with ㄴ, ㅂ or ㅅ.\n\nIn the formal style, ㄹ stems take ㅂ니다 (not 습니다), and the ㄹ drops: 살다 → 사 + ㅂ니다 → 삽니다; 알다 → 압니다; 만들다 → 만듭니다. Before ㄴ it drops too: 길다 → 긴 (a long…), 살다 → 산다 (plain present).\n\nBefore an ending that starts with a vowel, the ㄹ stays and nothing unusual happens: 살아요, 알아요, 만들어요, 길어요. It also stays before 겠: 살겠어요.\n\nA quick check: if the next letter is ㄴ, ㅂ or ㅅ, drop the ㄹ; otherwise keep it.",
      "examples": [
       {
        "ko": "저는 한국에 삽니다.",
@@ -2197,6 +2468,16 @@
       {
        "ko": "저는 긴 편지를 썼어요.",
        "en": "I wrote a long letter."
+      },
+      {
+       "ko": "저는 그 선생님을 알아요.",
+       "en": "I know that teacher.",
+       "note": "Before a vowel the ㄹ stays: 알 + 아요 → 알아요."
+      },
+      {
+       "ko": "제 머리카락은 깁니다.",
+       "en": "My hair is long.",
+       "note": "길 → 기 + ㅂ니다 → 깁니다."
       }
      ]
     }
@@ -2456,7 +2737,7 @@
    "grammar": [
     {
      "point": "Adverbs of time, place and degree",
-     "explanation": "Adverbs describe when, where or how much something happens. Time and place words usually come near the start of the sentence. Degree and frequency adverbs like 자주, 빨리 and 많이 go right before the verb they modify.",
+     "explanation": "Adverbs say when, where, how often or how something happens. Unlike nouns, they take no particle.\n\nTime words usually come early, often right after the subject: 저는 어제…, 저는 내일…. Some time nouns take 에 (어젯밤에, 아침에, 밤에), but 오늘, 어제, 내일 and 지금 never do.\n\nFrequency and manner adverbs (자주, 가끔, 매일, 빨리, 많이, 혼자, 다시) can come before the object or right before the verb: 저는 자주 도서관에 가요, 밥을 빨리 먹었어요. Both are natural.\n\nDegree words like 아주, 너무 and 정말 go right before the adjective or verb they strengthen: 아주 커요.",
      "examples": [
       {
        "ko": "저는 자주 도서관에 가요.",
@@ -2473,12 +2754,20 @@
       {
        "ko": "저는 가끔 친구를 만나요.",
        "en": "I sometimes meet my friend."
+      },
+      {
+       "ko": "갑자기 비가 왔어요.",
+       "en": "Suddenly it rained."
+      },
+      {
+       "ko": "저는 방금 도착했어요.",
+       "en": "I just arrived."
       }
      ]
     },
     {
      "point": "Adjective → adverb with ~게 / ~히",
-     "explanation": "Many adverbs are made by adding ~게 to an adjective stem (쉽다 → 쉽게). Adjectives ending in 하다 can often swap 하다 for 히 as well (안전하게 or 안전히). A few have special forms, such as 많다 → 많이 and 빠르다 → 빨리.",
+     "explanation": "To say how something is done (\"easily\", \"safely\"), turn an adjective into an adverb.\n\nThe main way is to add 게 to the stem: 쉽다 → 쉽 + 게 → 쉽게 (easily); 행복하다 → 행복하게 (happily); 예쁘다 → 예쁘게 (prettily). It works for almost any adjective, and irregular stems don't change because 게 starts with a consonant.\n\nSome 하다 adjectives also have a 히 form: 안전하다 → 안전히, 조용하다 → 조용히 (quietly). Not all do (행복히 sounds odd), so 하게 is the safe choice.\n\nA few adverbs have their own form that you just learn: 많다 → 많이 (a lot), 빠르다 → 빨리 (quickly). The adverb usually goes right before the verb.",
      "examples": [
       {
        "ko": "저는 거리를 안전하게 건넜어요.",
@@ -2495,12 +2784,21 @@
       {
        "ko": "저는 그 문제를 쉽게 끝냈어요.",
        "en": "I finished that problem easily."
+      },
+      {
+       "ko": "저는 문을 조용히 닫았어요.",
+       "en": "I closed the door quietly."
+      },
+      {
+       "ko": "저는 밥을 많이 먹었어요.",
+       "en": "I ate a lot.",
+       "note": "많다 → 많이 (not 많게)."
       }
      ]
     },
     {
      "point": "Negation with 안",
-     "explanation": "Put 안 directly before the final verb or adjective to make it negative. For noun + 하다 verbs such as 공부하다, 안 goes between the noun and 하다 (공부 안 하다).",
+     "explanation": "안 is the quickest way to make a sentence negative. Put it directly before the verb or adjective at the end: 먹어요 → 안 먹어요 (don't eat); 추워요 → 안 추워요 (isn't cold). Tense and politeness stay on the verb: 안 먹었어요, 안 가겠어요.\n\nFor noun + 하다 verbs, 안 goes between the noun and 하다: 공부하다 → 공부 안 해요; 운동하다 → 운동 안 해요. Saying 안 공부해요 is a common mistake. Adjectives with 하다 and verbs like 좋아하다 are one word, so 안 goes in front: 안 피곤해요, 안 좋아해요.\n\nDon't use 안 with 이다 or for \"not have\". Use 아니다 and 없다 instead (see below).\n\n안 is very natural in speech. ~지 않다 (next point) means the same thing.",
      "examples": [
       {
        "ko": "저는 생선을 안 먹어요.",
@@ -2517,12 +2815,21 @@
       {
        "ko": "동생은 학교에 안 가요.",
        "en": "My younger sibling doesn't go to school."
+      },
+      {
+       "ko": "저는 커피를 안 좋아해요.",
+       "en": "I don't like coffee.",
+       "note": "좋아하다 isn't noun + 하다, so 안 goes in front."
+      },
+      {
+       "ko": "어제는 안 바빴어요.",
+       "en": "I wasn't busy yesterday."
       }
      ]
     },
     {
      "point": "Negation with ~지 않다",
-     "explanation": "Add ~지 않다 to the stem of the final verb or adjective, then conjugate 않다 for tense and politeness. It means the same as 안 but sounds a little more formal or written.",
+     "explanation": "~지 않다 means the same as 안 but is built differently. Take the stem of the final verb or adjective, add 지, then add 않다 and conjugate 않다 for tense and politeness.\n\nStep by step: 먹다 → 먹 + 지 않다 → 먹지 않아요. 가다 → 가지 않아요. 어렵다 → 어렵지 않아요 (no irregular change, because 지 starts with a consonant). Past: 먹지 않았어요. Future: 가지 않겠어요. Formal: 먹지 않습니다.\n\nOnly 않다 changes; the main verb stays as a bare stem. Don't put the tense on both: 갔지 않았어요 is wrong.\n\nFor 하다 verbs, add 지 않다 to the whole stem: 공부하다 → 공부하지 않아요. ~지 않다 sounds a little more formal or written than 안.",
      "examples": [
       {
        "ko": "저는 생선을 먹지 않아요.",
@@ -2539,12 +2846,21 @@
       {
        "ko": "저는 내일 학교에 가지 않겠어요.",
        "en": "I won't go to school tomorrow."
+      },
+      {
+       "ko": "저는 어제 운동하지 않았어요.",
+       "en": "I didn't exercise yesterday.",
+       "note": "Past goes on 않다 only: 않 + 았어요."
+      },
+      {
+       "ko": "이 음료수는 비싸지 않습니다.",
+       "en": "This drink isn't expensive."
       }
      ]
     },
     {
      "point": "아니다 (to not be)",
-     "explanation": "아니다 is the negative of 이다. The noun before it takes 이/가: \"A는 B이/가 아니다\" means \"A is not B\". The polite form is 아니에요.",
+     "explanation": "아니다 is the negative of 이다: \"to not be\". Use it to say that A is not B, where B is a noun.\n\nThe pattern is A는/은 B이/가 아니에요. The noun before 아니다 takes 이/가: after a consonant 이 (선생님이 아니에요), after a vowel 가 (의사가 아니에요). Unlike 이다, 아니다 is a separate word, so leave a space.\n\nForms: polite 아니에요, casual 아니야, formal 아닙니다, past 아니었어요.\n\nDon't use 안 with 이다: 안 학생이에요 is wrong; say 학생이 아니에요. 아니요 (no) comes from the same word.",
      "examples": [
       {
        "ko": "저는 선생님이 아니에요.",
@@ -2561,12 +2877,20 @@
       {
        "ko": "나는 의사가 아니야.",
        "en": "I'm not a doctor."
+      },
+      {
+       "ko": "그 사람은 제 친구가 아니었어요.",
+       "en": "That person was not my friend."
+      },
+      {
+       "ko": "여기는 도서관이 아닙니다.",
+       "en": "This is not the library."
       }
      ]
     },
     {
      "point": "없다 (to not have / not be there)",
-     "explanation": "없다 is the opposite of 있다. \"Person는 Thing이/가 없다\" means the person does not have it, and \"Thing이/가 Place에 없다\" means it is not at that place.",
+     "explanation": "없다 is the opposite of 있다 and covers both of its meanings. \"Not have\": Person는 Thing이/가 없어요 (저는 돈이 없어요). \"Not be there\": Thing이/가 Place에 없어요 (친구가 도서관에 없어요).\n\nIt conjugates regularly: 없 + 어요 → 없어요. Past: 없었어요. Formal: 없습니다. Casual: 없어.\n\nDon't say 안 있어요 for \"don't have\"; use 없어요. As with 있다, the thing takes 이/가, not 을/를: 시간이 없어요, not 시간을 없어요.\n\n없다 also appears inside other words: 맛없다 (to taste bad) and 재미없다 (to be boring) are the opposites of 맛있다 and 재미있다.",
      "examples": [
       {
        "ko": "저는 돈이 없어요.",
@@ -2583,12 +2907,21 @@
       {
        "ko": "냉장고에 음료수가 없어요.",
        "en": "There are no drinks in the fridge."
+      },
+      {
+       "ko": "어제는 시간이 없었어요.",
+       "en": "I didn't have time yesterday."
+      },
+      {
+       "ko": "이 영화는 재미없어요.",
+       "en": "This movie is boring.",
+       "note": "재미없다 is one word, the opposite of 재미있다."
       }
      ]
     },
     {
      "point": "싫어하다 vs 싫다",
-     "explanation": "This pair works like 좋아하다 and 좋다. 싫어하다 is a verb meaning \"to dislike\" and takes an object with 을/를. 싫다 is an adjective, so the disliked thing is marked with 이/가 and becomes the subject.",
+     "explanation": "This pair works like 좋아하다 and 좋다 from Lesson 3. 싫어하다 is a verb meaning \"to dislike\". 싫다 is an adjective meaning \"to be unpleasant\".\n\nWith 싫어하다, a person dislikes something, so the thing takes 을/를: 저는 생선을 싫어해요. Conjugation: 싫어하 → 싫어해요.\n\nWith 싫다, the disliked thing is the subject and takes 이/가: 저는 비가 싫어요 (as for me, rain is unpleasant). Conjugation: 싫 + 어요 → 싫어요. The ㅎ is silent: it sounds like 시러요.\n\n싫다 describes your own feelings, so it is mostly used about yourself. For other people, 싫어하다 is more natural: 동생은 야채를 싫어해요. On its own, 싫어요! means \"No, I don't want to!\"",
      "examples": [
       {
        "ko": "저는 생선을 싫어해요.",
@@ -2601,6 +2934,18 @@
       {
        "ko": "동생은 야채를 싫어해요.",
        "en": "My younger sibling dislikes vegetables."
+      },
+      {
+       "ko": "저는 겨울이 싫어요.",
+       "en": "I don't like winter."
+      },
+      {
+       "ko": "아버지는 고양이를 싫어하지 않아요.",
+       "en": "Father doesn't dislike cats."
+      },
+      {
+       "ko": "야채를 싫어해요?",
+       "en": "Do you dislike vegetables?"
       }
      ]
     }

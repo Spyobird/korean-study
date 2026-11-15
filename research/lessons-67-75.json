@@ -140,7 +140,7 @@
    "grammar": [
     {
      "point": "Noun + 처럼 (like)",
-     "explanation": "Attach 처럼 directly to a noun to say something is done in the same way as that noun, or resembles it. The phrase works like an adverb in the sentence. It can also follow ~에서 or a ~는 것 clause (~는 것처럼) to compare whole actions.",
+     "explanation": "처럼 means “like” or “as”. Attach it to a noun to say something is done in the same way as that noun, or looks like it. The whole phrase works like an adverb: it tells you how something is done or what it is like.\n\n처럼 never changes, so it goes straight onto any noun, whether it ends in a vowel or a consonant: 아빠 → 아빠처럼, 어른 → 어른처럼, 바보 → 바보처럼. It can also follow ~에서: 한국에서 → 한국에서처럼 (“like in Korea”).\n\nTo compare whole actions, first turn the action into a noun with ~는 것, then add 처럼: 하다 → 하는 것 → 하는 것처럼 (“the way someone does it”). For a past action use ~(으)ㄴ 것처럼: 말하다 → 말한 것 → 말한 것처럼 (“as I said”).\n\nYou will also hear 같이 used the same way after a noun (아빠같이). In this use it means the same as 처럼.",
      "examples": [
       {
        "ko": "우리 아들은 아빠처럼 키가 커요.",
@@ -157,12 +157,26 @@
       {
        "ko": "저는 한국 사람이 하는 것처럼 김치를 만들었어요.",
        "en": "I made kimchi the way Koreans do."
+      },
+      {
+       "ko": "저도 친구처럼 한국어를 잘하고 싶어요.",
+       "en": "I want to speak Korean well like my friend, too."
+      },
+      {
+       "ko": "한국에서처럼 여기에서도 김치를 매일 먹어요.",
+       "en": "I eat kimchi every day here too, like in Korea.",
+       "note": "처럼 can sit on top of another particle: 한국에서 + 처럼."
+      },
+      {
+       "ko": "제가 말한 것처럼 마감일은 금요일이에요.",
+       "en": "As I said, the deadline is Friday.",
+       "note": "A past action uses ~(으)ㄴ 것처럼: 말하다 → 말한 것처럼."
       }
      ]
     },
     {
      "point": "Modifier clause + 듯이 (as if)",
-     "explanation": "Put a clause in its modifier form (~는/~(으)ㄴ/~(으)ㄹ) before 듯(이) to mean “as if”. The speaker is guessing what the situation seemed to be, and the two clauses are directly related. The 이 can be dropped with no change in meaning.",
+     "explanation": "Use 듯이 to say an action was done “as if” something were true. The speaker is guessing from how things looked: he laughed as if he knew nothing, but maybe he did. The two clauses are directly related: the first describes how the second was done.\n\nPut the first clause in a modifier form, then write 듯이 as a separate word. Action verbs in the present take ~는: 모르다 → 모르는 듯이. Past actions take ~(으)ㄴ: 보다 → 본 듯이, 먹다 → 먹은 듯이. Adjectives in the present take ~(으)ㄴ: 고프다 → 고픈 듯이, 좋다 → 좋은 듯이. ~(으)ㄹ gives “as if about to”: 울다 → 울 듯이.\n\nWatch ㄹ stems: the ㄹ drops before ~는, so 알다 → 아는 듯이. The 이 can be dropped with no change in meaning: 모르는 듯이 = 모르는 듯.\n\n~는 것처럼 (Lesson 67’s other point) can also mean “as if”, and is more common in everyday speech. 듯이 sounds a little more descriptive, like a story.",
      "examples": [
       {
        "ko": "그 사람은 아무것도 모르는 듯이 웃었어요.",
@@ -175,12 +189,26 @@
       {
        "ko": "친구가 나를 못 본 듯이 그냥 지나갔어요.",
        "en": "My friend walked right past as if he hadn’t seen me."
+      },
+      {
+       "ko": "그 사람은 모든 것을 다 아는 듯이 말해요.",
+       "en": "He talks as if he knows everything.",
+       "note": "알다 drops ㄹ before ~는: 알 + 는 → 아는."
+      },
+      {
+       "ko": "아이가 곧 울 듯이 엄마를 봤어요.",
+       "en": "The child looked at Mom as if about to cry.",
+       "note": "~(으)ㄹ 듯이 means “as if about to”."
+      },
+      {
+       "ko": "친구가 기분이 좋은 듯이 노래를 불렀어요.",
+       "en": "My friend sang as if in a good mood."
       }
      ]
     },
     {
      "point": "Stem + 듯이 (simile)",
-     "explanation": "Adding 듯이 straight onto a verb or adjective stem builds a vivid metaphor, often an exaggerated image, that matches the feeling of the main clause. There is no guessing here, and the two clauses are not logically connected. It mostly shows up in writing such as novels.",
+     "explanation": "This 듯이 attaches straight to a verb or adjective stem, with no modifier ending: 쏟아지다 → 쏟아지 + 듯이 → 쏟아지듯이. It builds a vivid, often exaggerated picture that matches the feeling of the main clause: rain falling like a waterfall, money spent like water.\n\nNothing is being guessed. Nobody thinks the rain really is a waterfall, and the two clauses are not logically linked; the first is just an image. Compare 아무것도 모르는 듯이 (as if he really didn’t know: a guess) with 물을 마시듯이 (like drinking water: pure imagery).\n\nThe stem stays the same whether it ends in a vowel or a consonant: 마시다 → 마시듯이, 먹다 → 먹듯이, 쓰다 → 쓰듯이. This form mostly appears in writing such as novels, so the examples use the plain written ~다 ending. A few fixed sayings use it in speech too, such as 밥 먹듯이 (“as often as eating meals”) and 물 쓰듯이 (“like water”, for spending).",
      "examples": [
       {
        "ko": "비가 폭포가 쏟아지듯이 내렸다.",
@@ -193,12 +221,21 @@
       {
        "ko": "시간이 화살이 날아가듯이 지나갔다.",
        "en": "Time flew by like an arrow."
+      },
+      {
+       "ko": "그는 밥 먹듯이 거짓말을 했다.",
+       "en": "He lied as often as he ate (all the time).",
+       "note": "A fixed saying: 밥 먹듯이 means “constantly, like eating meals”."
+      },
+      {
+       "ko": "그 사람은 돈을 물 쓰듯이 썼다.",
+       "en": "He spent money like water."
       }
      ]
     },
     {
      "point": "~는 듯하다 (it seems)",
-     "explanation": "Put 듯하다 after a modifier clause at the end of a sentence to say “it seems that…”. It sounds a bit softer and more formal than ~는 것 같다.",
+     "explanation": "Put 듯하다 at the end of a sentence, after a modifier clause, to say “it seems that…” or “I think…”. It means almost the same as ~는 것 같다, but it sounds softer and a bit more formal, so it is common in writing and careful speech.\n\nChoose the modifier just like with ~는 것 같다. Action verb now: 오다 → 오는 듯해요 (it seems to be raining). Action verb in the past: 오다 → 온 듯해요 (it seems it rained). Adjective now: 피곤하다 → 피곤한 듯해요, 많다 → 많은 듯해요. Guess about the future: 오다 → 올 듯해요 (it looks like it will rain).\n\n있다 and 없다 take ~는, like verbs: 시간이 없는 듯해요. 듯하다 then conjugates like any 하다 word: 듯해요, 듯했어요.",
      "examples": [
       {
        "ko": "밖에 비가 오는 듯해요.",
@@ -211,12 +248,26 @@
       {
        "ko": "아이가 피곤한 듯해요.",
        "en": "The child seems tired."
+      },
+      {
+       "ko": "어젯밤에 비가 온 듯해요.",
+       "en": "It seems it rained last night.",
+       "note": "A past action takes ~(으)ㄴ: 오다 → 온 듯해요."
+      },
+      {
+       "ko": "내일은 눈이 올 듯해요.",
+       "en": "It looks like it will snow tomorrow."
+      },
+      {
+       "ko": "그 사람은 시간이 없는 듯했어요.",
+       "en": "He seemed to have no time.",
+       "note": "있다/없다 take ~는, even though they feel like adjectives."
       }
      ]
     },
     {
      "point": "마치 (just like)",
-     "explanation": "마치 is an adverb near the start of a sentence that tells the listener a comparison is coming. It is usually paired with ~처럼, ~듯이 or 같다, much like 만약 goes with ~(으)면.",
+     "explanation": "마치 is an adverb meaning “just like” or “as if”. It doesn’t do the comparing by itself. It sits near the start of the sentence and tells the listener a comparison is coming, which adds emphasis.\n\nIt almost always pairs with a comparison ending later in the sentence: a noun + 처럼 (마치 배우처럼), a clause + 듯이 or ~는 것처럼 (마치 아무 일도 없었던 듯이), or a noun + 같다 (마치 여름 같아요, “it’s just like summer”).\n\nThis is like how 만약 sets up ~(으)면. A common mistake is to use 마치 without the ending: 마치 배우예요 doesn’t work. Keep the 처럼, 듯이 or 같다.",
      "examples": [
       {
        "ko": "그 여자는 마치 배우처럼 예뻐요.",
@@ -229,6 +280,18 @@
       {
        "ko": "오늘은 마치 여름 같아요.",
        "en": "Today feels just like summer."
+      },
+      {
+       "ko": "그 사람은 마치 한국 사람처럼 한국어를 잘해요.",
+       "en": "He speaks Korean well, just like a Korean."
+      },
+      {
+       "ko": "그 아이는 마치 다 아는 것처럼 말했어요.",
+       "en": "That child talked as if he knew everything."
+      },
+      {
+       "ko": "이 집은 마치 호텔 같아요.",
+       "en": "This house is just like a hotel."
       }
      ]
     }
@@ -363,7 +426,7 @@
    "grammar": [
     {
      "point": "유일한 + noun (the only / sole)",
-     "explanation": "유일하다 is an adjective, so 유일한 goes before a noun to mark it as the one and only thing with some quality. ~만 just limits the action to a noun, but 유일한 makes the noun stand out from all others. The noun is often also described by a ~는 clause, as in ~는 유일한 (noun).",
+     "explanation": "유일하다 means “to be the only one” or “to be unique”. It is an adjective, so to put it before a noun you use the modifier form: 유일하 + ㄴ → 유일한. 유일한 친구 is “my only friend”, 유일한 방법 is “the only way”.\n\nCompare ~만. ~만 limits an action to a noun: 커피만 마셔요 (I only drink coffee). 유일한 makes one noun stand out as the single one of its kind: 유일한 음료 (the only drink).\n\nThe noun is often described further by a verb clause in front of 유일한: 제가 가진 유일한 사진 (the only photo I have), 제가 아는 유일한 사람 (the only person I know). The sentence often ends with ~이에요/예요.",
      "examples": [
       {
        "ko": "그 사람이 우리 반에서 유일한 외국인이에요.",
@@ -376,12 +439,24 @@
       {
        "ko": "제가 매일 마시는 유일한 음료는 커피예요.",
        "en": "The only drink I have every day is coffee."
+      },
+      {
+       "ko": "그 친구는 제 유일한 한국 친구예요.",
+       "en": "That friend is my only Korean friend."
+      },
+      {
+       "ko": "그게 유일한 방법이에요?",
+       "en": "Is that the only way?"
+      },
+      {
+       "ko": "이 동물원의 유일한 코끼리가 아파요.",
+       "en": "The only elephant at this zoo is sick."
       }
      ]
     },
     {
      "point": "유일하게 (only, as adverb)",
-     "explanation": "Add ~게 to make the adverb 유일하게, usually placed before the describing verb or adjective. Use it instead of 유일한 when an adjective already describes the noun, because two stacked adjective modifiers sound awkward.",
+     "explanation": "Adding ~게 to an adjective stem makes an adverb: 유일하 + 게 → 유일하게 (“only”, “uniquely”). Place it right before the verb or adjective it applies to.\n\nWhy do you need it? If a noun is already described by an adjective, stacking 유일한 on top sounds clumsy: 유일한 친절한 사람 is awkward. Say 유일하게 친절한 사람 (the only kind person) instead. The same goes for verb clauses: 제가 유일하게 할 수 있는 운동 (the only exercise I can do).\n\n유일하게 can also modify the main verb of the sentence: 저만 유일하게 왔어요 (I was the only one who came). It is often paired with ~만 for extra emphasis.",
      "examples": [
       {
        "ko": "제가 유일하게 할 수 있는 운동은 수영이에요.",
@@ -394,6 +469,18 @@
       {
        "ko": "그 사람이 우리 회사에서 유일하게 친절한 사람이에요.",
        "en": "He is the only kind person at our company."
+      },
+      {
+       "ko": "우리 반에서 저만 유일하게 숙제를 안 했어요.",
+       "en": "I was the only one in our class who didn’t do the homework."
+      },
+      {
+       "ko": "이 식당은 이 동네에서 유일하게 밤 열두 시까지 문을 열어요.",
+       "en": "This restaurant is the only one in the neighborhood open until midnight."
+      },
+      {
+       "ko": "그 식당에서 유일하게 맛있는 음식은 김치예요.",
+       "en": "The only tasty food at that restaurant is the kimchi."
       }
      ]
     }
@@ -508,7 +595,7 @@
    "grammar": [
     {
      "point": "Noun + 밖에 + negative (nothing but)",
-     "explanation": "The particle 밖에 (literally “outside of”) goes on a noun to stress that only that noun applies, and nothing else. The predicate must be negative (없다, 안, 못, 모르다), even though English uses a positive “only”. It is stronger than ~만 and is often used with numbers and counters.",
+     "explanation": "밖 means “outside”, so 밖에 literally means “outside of”. Put it on a noun to say that this noun is the only thing that applies and nothing else does: “nothing but”, “only”.\n\nThe tricky part is that the verb must be negative, even though English says “only” positively. Think “outside of 1,000 won, I have none”: 천 원 + 밖에 + 없어요 → 천 원밖에 없어요 (I only have 1,000 won). The negative can be 없다, 안, 못 or 모르다. 천 원밖에 있어요 is always wrong.\n\n밖에 vs ~만: both mean “only”, but ~만 goes with a positive verb (천 원만 있어요) and is neutral. 밖에 is stronger and often sounds like “that’s not enough”. That is why it often comes with numbers, counters and 조금.",
      "examples": [
       {
        "ko": "지갑에 천 원밖에 없어요.",
@@ -525,12 +612,24 @@
       {
        "ko": "그 사람은 자기밖에 몰라요.",
        "en": "He only cares about himself."
+      },
+      {
+       "ko": "우리 반에는 학생이 세 명밖에 없어요.",
+       "en": "There are only three students in our class."
+      },
+      {
+       "ko": "아침에 우유밖에 안 마셨어요.",
+       "en": "I only drank milk this morning."
+      },
+      {
+       "ko": "이것밖에 없어요?",
+       "en": "Is this all there is?"
       }
      ]
     },
     {
      "point": "Time + 밖에 안 걸리다 (only takes)",
-     "explanation": "밖에 is often put on an amount of time to stress how short it is, with a negative verb such as 안 걸리다.",
+     "explanation": "걸리다 means “to take (time)”: 십 분 걸려요 is “it takes ten minutes”. To stress that this is short, add 밖에 to the amount and make the verb negative with 안: 십 분 걸려요 → 십 분 + 밖에 + 안 걸려요 → 십 분밖에 안 걸려요 (it only takes ten minutes).\n\nThe order is always amount + 밖에 + 안 + verb. Change only the verb for tense: 안 걸렸어요 (past), 안 걸릴 거예요 (future). The same pattern works with other amounts, such as the number of times you did something: 한 번밖에 안 봤어요.\n\nUse 못 instead of 안 when you couldn’t do more, not just didn’t: 세 시간밖에 못 잤어요 (I could only sleep three hours). 한 시간 걸려요 is just information; 한 시간밖에 안 걸려요 adds “that’s quick”.",
      "examples": [
       {
        "ko": "집에서 학교까지 십 분밖에 안 걸려요.",
@@ -543,12 +642,25 @@
       {
        "ko": "그 영화는 한 번밖에 안 봤어요.",
        "en": "I have only seen that movie once."
+      },
+      {
+       "ko": "비행기로 두 시간밖에 안 걸릴 거예요.",
+       "en": "It will only take two hours by plane."
+      },
+      {
+       "ko": "역까지 걸어서 오 분밖에 안 걸려요.",
+       "en": "It’s only a five-minute walk to the station."
+      },
+      {
+       "ko": "어제 세 시간밖에 못 잤어요.",
+       "en": "I could only sleep three hours last night.",
+       "note": "못 means you couldn’t do more; 안 would mean you chose not to."
       }
      ]
     },
     {
      "point": "~ㄹ/을 수밖에 없다 (have no choice but to)",
-     "explanation": "Because 수 in ~ㄹ/을 수 없다 is a noun, 밖에 can attach to it. The result means the action is the only option left: “have no choice but to” or “can’t help but”.",
+     "explanation": "You already know ~(으)ㄹ 수 없다 (“can’t”). In it, 수 is a noun meaning “way” or “means”. Because it is a noun, 밖에 can attach to it: ~(으)ㄹ 수밖에 없다, literally “there is no way except doing it”. So it means “have no choice but to” or “can’t help but”.\n\nForm it like ~(으)ㄹ 수 있다. Stem ends in a vowel: 가다 → 갈 수밖에 없어요. Stem ends in a consonant: 웃다 → 웃을 수밖에 없어요. ㄹ stem, no extra 을: 만들다 → 만들 수밖에 없어요. For the past, change only the end: 없었어요.\n\nUsually the first clause gives the reason (~아/어서, ~(으)니까) and this ending gives the result you couldn’t avoid. With an adjective it means “is bound to be”: 비싸다 → 비쌀 수밖에 없어요 (it can’t help but be expensive).",
      "examples": [
       {
        "ko": "버스가 없어서 걸어갈 수밖에 없었어요.",
@@ -561,6 +673,16 @@
       {
        "ko": "그 사람이 너무 웃겨서 웃을 수밖에 없었어요.",
        "en": "He was so funny I couldn’t help laughing."
+      },
+      {
+       "ko": "서울은 사람이 많아서 집이 비쌀 수밖에 없어요.",
+       "en": "Seoul has a lot of people, so housing is bound to be expensive.",
+       "note": "With an adjective it means “is bound to be”."
+      },
+      {
+       "ko": "아무도 안 도와줘서 제가 다 만들 수밖에 없었어요.",
+       "en": "Nobody helped, so I had no choice but to make it all myself.",
+       "note": "만들다 is an ㄹ stem: 만들 + ㄹ → 만들, no extra 을."
       }
      ]
     }
@@ -720,7 +842,7 @@
    "grammar": [
     {
      "point": "~아/어(서) linked sequence",
-     "explanation": "Like ~고, ~아/어(서) joins two actions in order, but it suggests the first action makes the second possible (for example, going somewhere and then doing something there). In this use 서 is optional.",
+     "explanation": "Like ~고, ~아/어서 can join two actions in order. The difference is that with ~아/어서 the first action sets up the second: you go somewhere and then do something there, or do something to an object and then use that same object. 학교에 가서 친구를 만났어요 means you met the friend at school.\n\nForm it like the 요 present tense, but with 서 in place of 요. Last vowel ㅏ or ㅗ → 아서: 가 + 아서 → 가서, 오 + 아서 → 와서, 사 + 아서 → 사서. Other vowels → 어서: 씻다 → 씻어서, 만들다 → 만들어서. 하다 → 해서: 요리하다 → 요리해서.\n\nTense goes only on the last verb: 가서 만났어요, never 갔어서. Compare ~고: 사과를 씻고 먹었어요 just lists two actions, while 사과를 씻어서 먹었어요 says you ate the apple you washed. In this use 서 is optional, though you’ll usually hear it.",
      "examples": [
       {
        "ko": "학교에 가서 친구를 만났어요.",
@@ -733,12 +855,25 @@
       {
        "ko": "사과를 씻어서 먹었어요.",
        "en": "I washed the apple and ate it."
+      },
+      {
+       "ko": "빵을 사서 친구에게 줬어요.",
+       "en": "I bought bread and gave it to a friend.",
+       "note": "사 + 아서 → 사서: the two ㅏ sounds merge."
+      },
+      {
+       "ko": "내일 도서관에 가서 공부할 거예요.",
+       "en": "Tomorrow I’ll go to the library and study."
+      },
+      {
+       "ko": "김밥을 만들어서 공원에서 먹었어요.",
+       "en": "I made kimbap and ate it in the park."
       }
      ]
     },
     {
      "point": "~아/어서 means or method",
-     "explanation": "~아/어서 can show how, or by what means, the second action happens. In this use 서 cannot be dropped. 걸어서 집에 갔어요 can only mean “went home on foot”.",
+     "explanation": "~아/어서 can also show how, or by what means, the second action happens. The first verb is the method: 걸어서 집에 갔어요 is “I went home by walking”, that is, on foot.\n\nThe form is the same as before: 뛰다 → 뛰어서, 모으다 → 모아서, 전화하다 → 전화해서. 걷다 is a ㄷ irregular: the ㄷ becomes ㄹ before a vowel, so 걷 + 어서 → 걸어서.\n\nIn this use 서 cannot be dropped. 걸어서 집에 갔어요 can only mean “went home on foot”. For vehicles you normally use (으)로 (버스로 가요); 걸어서 is the everyday way to say “on foot”.",
      "examples": [
       {
        "ko": "저는 걸어서 집에 갔어요.",
@@ -751,12 +886,25 @@
       {
        "ko": "돈을 모아서 차를 샀어요.",
        "en": "I saved up money and bought a car."
+      },
+      {
+       "ko": "저는 매일 걸어서 회사에 가요.",
+       "en": "I walk to work every day.",
+       "note": "걷다 is ㄷ irregular: 걷 + 어서 → 걸어서."
+      },
+      {
+       "ko": "모르면 전화해서 물어보세요.",
+       "en": "If you don’t know, call and ask."
+      },
+      {
+       "ko": "학교까지 걸어서 갈 수 있어요?",
+       "en": "Can you walk to school?"
       }
      ]
     },
     {
      "point": "Compound verbs with ~아/어",
-     "explanation": "Two verbs joined with ~아/어 (no 서) form a combined verb such as 뛰어다니다, 달려오다 or 올려놓다. The result works like any normal verb.",
+     "explanation": "Two verbs can be glued together with ~아/어 (no 서) to make one new verb. The first verb usually says how, and the second says the direction or result. 뛰다 + 다니다 → 뛰어 + 다니다 → 뛰어다니다 (run around). 달리다 + 오다 → 달려 + 오다 → 달려오다 (come running). 올리다 + 놓다 → 올려 + 놓다 → 올려놓다 (put on top). 알리다 + 주다 → 알려 + 주다 → 알려주다 (let someone know).\n\nThe new verb is written as one word and conjugates like any verb: only the last part changes. 뛰어다니다 → 뛰어다녀요, 달려오다 → 달려왔어요, 올려놓다 → 올려놓으세요.\n\n가다 and 오다 show direction. 뛰어가다 and 달려가다 mean running away from the speaker or toward somewhere else. 뛰어오다 and 달려오다 mean coming toward the speaker.",
      "examples": [
       {
        "ko": "아이들이 공원에서 뛰어다녀요.",
@@ -773,12 +921,25 @@
       {
        "ko": "시간을 알려주세요.",
        "en": "Please let me know the time."
+      },
+      {
+       "ko": "강아지가 저에게 뛰어왔어요.",
+       "en": "The puppy came running to me.",
+       "note": "오다 at the end means the movement is toward the speaker."
+      },
+      {
+       "ko": "배낭을 의자 위에 올려놓으세요.",
+       "en": "Please put the backpack on the chair."
+      },
+      {
+       "ko": "시험 결과를 알려줄 수 있어요?",
+       "en": "Can you let me know the test results?"
       }
      ]
     },
     {
      "point": "통해(서) (through)",
-     "explanation": "From 통하다, the form (noun)을/를 통해(서) means “through” or “by way of”. It can be a place you pass through, or the object, process or person you learn or hear something from.",
+     "explanation": "통하다 means “to go through” or “to be connected”. Its ~아/어서 form after a noun with 을/를 gives “through” or “by way of”: 통하다 → 통해 (하 → 해) → 통해서. The 서 can be dropped: 통해.\n\nThe noun can be a path you physically pass through (문을 통해서, through the door), a person or source the news came from (친구를 통해서, through a friend), or a way of learning or doing something (영화를 통해, through movies).\n\nUse 을 after a consonant and 를 after a vowel: 문을 통해서, 친구를 통해서. Compare (으)로: 버스로 가요 names a tool or vehicle, while 통해서 stresses getting the result by passing through something.",
      "examples": [
       {
        "ko": "저는 친구를 통해서 그 소식을 들었어요.",
@@ -791,12 +952,24 @@
       {
        "ko": "저는 영화를 통해 한국 문화를 배웠어요.",
        "en": "I learned about Korean culture through movies."
+      },
+      {
+       "ko": "인터넷을 통해서 한국 친구를 만났어요.",
+       "en": "I met a Korean friend through the internet."
+      },
+      {
+       "ko": "이 길을 통해서 가면 더 빨라요.",
+       "en": "It’s faster if you go by this road."
+      },
+      {
+       "ko": "뉴스를 통해 그 소식을 알았어요.",
+       "en": "I found out the news through the news broadcast."
       }
      ]
     },
     {
      "point": "서둘러(서) + verb (hurriedly)",
-     "explanation": "서두르다 means “to hurry” (르 irregular → 서둘러). It often comes before another verb with ~아/어(서) to say that action was done in a rush.",
+     "explanation": "서두르다 means “to hurry”. It is a 르 irregular, like 모르다 → 몰라요. When ~아/어 is added, the ㅡ in 르 drops and an extra ㄹ appears: 서두르 + 어 → 서둘러. So: 서둘러요 (hurry), 서둘렀어요 (hurried), 서둘러서.\n\nPut 서둘러(서) before another verb to say that action was done in a rush: 서둘러 나갔어요 (rushed out). 서둘러 on its own, without 서, is very common here. 서둘러서 can also give a reason: “because I rushed…”.\n\nEndings that don’t start with 아/어 use the plain stem 서두르: 서두르지 마세요 (don’t rush), 서두르세요 (please hurry).",
      "examples": [
       {
        "ko": "늦어서 서둘러 집을 나갔어요.",
@@ -809,6 +982,19 @@
       {
        "ko": "서두르지 마세요.",
        "en": "Don’t rush."
+      },
+      {
+       "ko": "시간이 없으니까 서둘러요.",
+       "en": "We don’t have time, so hurry."
+      },
+      {
+       "ko": "아침에 너무 서둘러서 지갑을 집에 놓고 왔어요.",
+       "en": "I rushed so much this morning that I left my wallet at home.",
+       "note": "Here ~아/어서 gives a reason: because I rushed."
+      },
+      {
+       "ko": "서둘러 가면 기차를 탈 수 있어요.",
+       "en": "If we hurry, we can catch the train."
       }
      ]
     }
@@ -938,7 +1124,7 @@
    "grammar": [
     {
      "point": "포함하다 / 포함되다 (include / be included)",
-     "explanation": "포함하다 means “to include”, but at the end of a sentence the passive 포함되다 (with ~이/가 on the item) usually sounds more natural. It is often followed by ~어 있다.",
+     "explanation": "포함 means “inclusion”. 포함하다 is the active verb “to include” (someone includes something). 포함되다 is the passive “to be included”: the item takes ~이/가 and is the subject, and the thing it is part of takes ~에. When you are just saying something is part of a price or package, the passive sounds more natural: 가격에 세금이 포함돼요.\n\n포함되 + 어요 → 포함돼요 (it’s included). 포함되 + 어 있다 → 포함되어 있다 or 포함돼 있다. ~어 있다 describes a state that continues after a change, so 포함되어 있어요 means “is (already) included”. 되어 and 돼 are the same; 돼 is just shorter. Don’t write 포함되요.\n\nFor “not included”, use 포함되지 않아요 or 포함 안 돼요.",
      "examples": [
       {
        "ko": "이 가격에는 세금이 포함되어 있어요.",
@@ -951,12 +1137,25 @@
       {
        "ko": "아침 식사가 포함되어 있어요.",
        "en": "Breakfast is included."
+      },
+      {
+       "ko": "이 가격에 음료는 포함되지 않아요.",
+       "en": "Drinks are not included in this price."
+      },
+      {
+       "ko": "세금도 포함됐어요?",
+       "en": "Was tax included too?",
+       "note": "포함되 + 었어요 → 포함됐어요."
+      },
+      {
+       "ko": "여행 비용에 호텔이 포함돼 있어요.",
+       "en": "The hotel is included in the trip cost."
       }
      ]
     },
     {
      "point": "Noun을/를 포함해(서) (including)",
-     "explanation": "Put 포함해(서) after a noun to mean “including (noun)”, then continue the sentence. ~(으)면 also works (포함하면, “if you include”).",
+     "explanation": "Put 포함해서 after a noun with 을/를 to mean “including (noun)”. It is 포함하다 + ~아/어서: 포함하 → 포함해 → 포함해서. The 서 can be dropped: 포함해.\n\nThe structure is (noun)을/를 포함해서 + the rest of the sentence. Korean puts “including X” first, while English usually puts it at the end: 저를 포함해서 다섯 명이 왔어요 (five people came, including me).\n\nOther endings work too. ~(으)면 gives 포함하면, “if you include”. The active 포함하다 is used because the speaker is the one including. To describe a noun directly, use the modifier 포함한: 세금을 포함한 가격 (the price including tax).",
      "examples": [
       {
        "ko": "저를 포함해서 다섯 명이 왔어요.",
@@ -969,12 +1168,25 @@
       {
        "ko": "비용을 포함하면 얼마예요?",
        "en": "How much is it if you include the fees?"
+      },
+      {
+       "ko": "세금을 포함한 가격이 얼마예요?",
+       "en": "How much is the price including tax?",
+       "note": "포함한 describes the noun after it."
+      },
+      {
+       "ko": "가스비를 포함해서 한 달에 오십만 원이에요.",
+       "en": "It’s 500,000 won a month, including the gas bill."
+      },
+      {
+       "ko": "아이들을 포함하면 모두 열 명이에요.",
+       "en": "If you include the kids, there are ten people in total."
       }
      ]
     },
     {
      "point": "제외하고 / 제외한 (except)",
-     "explanation": "To exclude something, use (noun)을/를 제외하고, which splits the sentence into two clauses, or 제외한 + noun, which describes the following noun. Use 제외하고 for times and places, or when another clause already describes the noun. Unlike 포함하다, 제외하다 is not normally used with ~아/어서.",
+     "explanation": "제외하다 means “to exclude”, and it is how you say “except” in a slightly formal way. It has two shapes.\n\n(noun)을/를 제외하고 + clause: 제외하 + 고 → 제외하고. It splits the sentence in two: 일요일을 제외하고 매일 일해요 (except Sunday, I work every day). (noun)을/를 제외한 + noun: 제외하 + ㄴ → 제외한. It describes the noun after it: 저를 제외한 모든 사람 (everyone except me).\n\nUse 제외하고 for times and places, or when the following noun is already described by another clause. Use 제외한 to describe a noun directly, often 모든. Unlike 포함하다, 제외하다 is not normally used with ~아/어서: say 제외하고, not 제외해서. In casual speech, 빼고 is more common.",
      "examples": [
       {
        "ko": "일요일을 제외하고 매일 일해요.",
@@ -987,12 +1199,20 @@
       {
        "ko": "그 사람을 제외하고 모두 왔어요.",
        "en": "Everyone came except him."
+      },
+      {
+       "ko": "월요일을 제외하고 다 괜찮아요.",
+       "en": "Any day except Monday is fine."
+      },
+      {
+       "ko": "김치를 제외한 모든 음식이 맛있었어요.",
+       "en": "All the food except the kimchi was delicious."
       }
      ]
     },
     {
      "point": "빼다 / 빼고 (leave out)",
-     "explanation": "In everyday speech, 빼다 (“to take out”) often replaces 제외하다. It is common when ordering food to ask for something to be left out, often dropping 을/를 or even 주세요.",
+     "explanation": "빼다 means “to take out” or “to remove”. In everyday speech it often replaces the more formal 제외하다. Its stem ends in ㅐ, so ~아/어 just merges into it: 빼 + 어요 → 빼요, 빼 + 어 주세요 → 빼 주세요 (please take it out), and 빼 + 고 → 빼고 (without, except).\n\nIt is very common when ordering food. The full request is 햄을 빼 주세요, but people often drop 을/를 (햄 빼 주세요) or even 주세요 itself: 오이 빼고요. 오이 빼고 주세요 means “give it to me without cucumber”.\n\n빼고 also works like 제외하고 for “except”: 저 빼고 다 갔어요 (everyone went except me).",
      "examples": [
       {
        "ko": "김밥에 햄을 빼 주세요.",
@@ -1005,12 +1225,24 @@
       {
        "ko": "저 빼고 다 갔어요.",
        "en": "Everyone went except me."
+      },
+      {
+       "ko": "양파는 빼 주실 수 있어요?",
+       "en": "Could you leave out the onion?"
+      },
+      {
+       "ko": "저는 주말 빼고 매일 바빠요.",
+       "en": "I’m busy every day except weekends."
+      },
+      {
+       "ko": "설탕 빼고 커피 한 잔 주세요.",
+       "en": "One coffee without sugar, please."
       }
      ]
     },
     {
      "point": "(그) 외에 (besides, other than)",
-     "explanation": "외 (外) means “outside”. Put 외에 after a noun, or use 그 외에 for something already mentioned, to talk about everything beyond it: “besides” or “other than”.",
+     "explanation": "외 (外) means “outside”. Put 외에 after a noun to talk about everything beyond that noun: “besides” or “other than”. 그 외에 points back to something just mentioned: “besides that”, “other than that”. 외에 doesn’t change after vowels or consonants: 저 외에, 한국어 외에.\n\nWhat follows decides the meaning. With 도 or a positive verb, it adds something: 한국어 외에 일본어도 공부해요 (besides Korean, I also study Japanese). With a negative such as 아무도 or 아무것도 + a negative verb, it means “except”: 이 사람 외에 아무도 몰라요 (no one knows except this person).\n\n외에 sounds a little formal. Adding 는 (외에는) adds contrast: “other than that, …”.",
      "examples": [
       {
        "ko": "한국어 외에 일본어도 공부해요.",
@@ -1023,6 +1255,19 @@
       {
        "ko": "이 사람 외에 아무도 몰라요.",
        "en": "No one knows except this person."
+      },
+      {
+       "ko": "저 외에 다른 사람도 와요?",
+       "en": "Is anyone else coming besides me?"
+      },
+      {
+       "ko": "커피 외에 아무것도 안 마셨어요.",
+       "en": "I didn’t drink anything except coffee."
+      },
+      {
+       "ko": "그 외에는 다 괜찮아요.",
+       "en": "Other than that, everything is fine.",
+       "note": "는 adds contrast: “as for anything else”."
       }
      ]
     }
@@ -1147,7 +1392,7 @@
    "grammar": [
     {
      "point": "Noun + 만큼 (as much as)",
-     "explanation": "Attach 만큼 to a noun to say something is done to the same level or extent as that noun: “as … as (noun)”. Unlike 처럼, which compares manner, 만큼 compares degree.",
+     "explanation": "만큼 means “as much as” or “to the same extent as”. Attach it directly to a noun to compare degree: 저만큼 키가 커요 (is as tall as me). It never changes after vowels or consonants: 형만큼, 저만큼, 가수만큼.\n\nCompare 처럼 from Lesson 67. 처럼 compares manner or appearance, while 만큼 compares amount or level. 가수처럼 노래해요 = sings like a singer (in that style). 가수만큼 노래를 잘해요 = sings as well as a singer.\n\nWith a negative, it means “not as … as”: 형만큼 많이 먹지 못해요 (I can’t eat as much as my brother), 어제만큼 춥지 않아요 (it’s not as cold as yesterday). To say “more than”, use ~보다 instead: 형보다 커요.",
      "examples": [
       {
        "ko": "제 동생은 저만큼 키가 커요.",
@@ -1160,12 +1405,24 @@
       {
        "ko": "저는 형만큼 많이 먹지 못해요.",
        "en": "I can’t eat as much as my older brother."
+      },
+      {
+       "ko": "오늘은 어제만큼 춥지 않아요.",
+       "en": "Today isn’t as cold as yesterday."
+      },
+      {
+       "ko": "이 가방도 그 가방만큼 비싸요?",
+       "en": "Is this bag as expensive as that one too?"
+      },
+      {
+       "ko": "저도 언니만큼 열심히 공부했어요.",
+       "en": "I studied as hard as my older sister, too."
       }
      ]
     },
     {
      "point": "Clause + 만큼 (to the extent that)",
-     "explanation": "만큼 can also be a noun described by a clause in the past, present or future (~ㄴ/는/ㄹ 만큼). Future-tense clauses often give exaggerated images, as in “so much I could die”. ~는 것만큼 can replace ~는 만큼, but not with the future tense.",
+     "explanation": "만큼 is also a noun, so a clause in modifier form can describe it: “as much as …” or “to the extent that …”. Pick the modifier by tense. Present verb ~는: 먹다 → 먹는 만큼. Past verb ~(으)ㄴ: 노력하다 → 노력한 만큼. Adjective ~(으)ㄴ: 필요하다 → 필요한 만큼, 먹고 싶다 → 먹고 싶은 만큼. Future ~(으)ㄹ: 터지다 → 터질 만큼.\n\nThe future form often paints an exaggerated picture: 배가 터질 만큼 (so much my stomach could burst), 죽을 만큼 (so much I could die). After a clause 만큼 is written with a space (먹는 만큼), but after a noun it is attached (저만큼).\n\n~는 것만큼 can replace ~는 만큼 (일하는 것만큼), but not with the future: 터질 것만큼 is wrong.",
      "examples": [
       {
        "ko": "먹고 싶은 만큼 드세요.",
@@ -1178,12 +1435,24 @@
       {
        "ko": "배가 터질 만큼 먹었어요.",
        "en": "I ate so much my stomach could burst."
+      },
+      {
+       "ko": "저는 일한 만큼 돈을 받고 싶어요.",
+       "en": "I want to be paid for as much as I worked."
+      },
+      {
+       "ko": "필요한 만큼 가져가세요.",
+       "en": "Take as much as you need."
+      },
+      {
+       "ko": "죽을 만큼 보고 싶었어요.",
+       "en": "I missed you so much I could die."
       }
      ]
     },
     {
      "point": "정도 (degree, extent, about)",
-     "explanation": "정도 means “degree”. Described by a clause (often future ~ㄹ 정도로), it shows the extent of something, much like 만큼. After a number or counter it means “about” or “roughly”.",
+     "explanation": "정도 means “degree” or “extent”. It has two main jobs.\n\nAfter a clause, usually in the future ~(으)ㄹ form plus 로, it shows how far something goes: “to the point that…”. 죽다 → 죽을 정도로 피곤해요 (so tired I could die). 나다 → 눈물이 날 정도로 (to the point of tears). This is close to ~(으)ㄹ 만큼, and the two can usually swap.\n\nAfter a number or counter, it means “about” or “roughly”: 두 시간 정도, 열 명 정도, 만 원 정도. It comes after the counter, while English puts “about” before the number. 이 정도 means “about this much”.",
      "examples": [
       {
        "ko": "죽을 정도로 피곤해요.",
@@ -1200,12 +1469,25 @@
       {
        "ko": "열 명 정도 왔어요.",
        "en": "About ten people came."
+      },
+      {
+       "ko": "이 가방은 십만 원 정도 해요.",
+       "en": "This bag costs about 100,000 won.",
+       "note": "With a price, 하다 means “to cost”."
+      },
+      {
+       "ko": "말을 못 할 정도로 놀랐어요.",
+       "en": "I was so surprised I couldn’t speak."
+      },
+      {
+       "ko": "일주일에 몇 번 정도 운동해요?",
+       "en": "About how many times a week do you exercise?"
       }
      ]
     },
     {
      "point": "어느 정도 / 얼마만큼 (to what extent / to some extent)",
-     "explanation": "In a question, 어느 정도 or 얼마만큼 asks “how much” or “to what extent”. In a statement, 어느 정도 means “to some extent” or “fairly”.",
+     "explanation": "어느 means “which” and 정도 means “degree”, so 어느 정도 is literally “which degree”. In a question it asks “how much?” or “to what extent?”: 한국어를 어느 정도 할 수 있어요? (How well can you speak Korean?). 얼마만큼 (얼마 + 만큼) asks the same thing, often about amounts or feelings.\n\nIn a statement, 어느 정도 means “to some extent”, “fairly” or “more or less”: 어느 정도 이해했어요 (I understood to some extent, not everything). It is a handy, modest answer.\n\nCompare 얼마나 (“how much”, “how long”), which you already know. 어느 정도 and 얼마만큼 ask about extent in the same way, but feel like asking for a rough answer.",
      "examples": [
       {
        "ko": "한국어를 어느 정도 할 수 있어요?",
@@ -1218,6 +1500,18 @@
       {
        "ko": "저를 얼마만큼 사랑해요?",
        "en": "How much do you love me?"
+      },
+      {
+       "ko": "어느 정도 기다려야 해요?",
+       "en": "About how long do I have to wait?"
+      },
+      {
+       "ko": "한국 음식은 어느 정도 만들 수 있어요.",
+       "en": "I can make Korean food to some extent."
+      },
+      {
+       "ko": "물을 얼마만큼 넣어야 돼요?",
+       "en": "How much water should I put in?"
       }
      ]
     }
@@ -1352,7 +1646,7 @@
    "grammar": [
     {
      "point": "Noun + 대신(에) (instead of)",
-     "explanation": "Put 대신(에) after a noun to mean “instead of (noun)”. 에 is usually attached, but it can be dropped.",
+     "explanation": "대신 means “substitute” or “in place of”. Put 대신(에) after a noun to say something else is used or done in its place: 커피 대신에 차 (tea instead of coffee). The noun after 대신에 is what actually happens.\n\nIt doesn’t change after vowels or consonants: 커피 대신에, 밥 대신에. 에 is usually attached but can be dropped: 밥 대신 빵.\n\nWith a person, it means doing something on their behalf: 친구 대신에 제가 갔어요 (I went in my friend’s place). On its own at the start of a sentence, 대신에 means “instead” or “in return”.",
      "examples": [
       {
        "ko": "커피 대신에 차를 마셨어요.",
@@ -1365,12 +1659,25 @@
       {
        "ko": "밥 대신 빵을 먹었어요.",
        "en": "I ate bread instead of rice."
+      },
+      {
+       "ko": "오늘은 엄마 대신 제가 요리했어요.",
+       "en": "Today I cooked instead of my mom."
+      },
+      {
+       "ko": "대신에 다음 주에 만나요.",
+       "en": "Let’s meet next week instead.",
+       "note": "At the start of a sentence, 대신에 means “instead”."
+      },
+      {
+       "ko": "소금 대신에 간장을 넣어도 돼요?",
+       "en": "Can I put in soy sauce instead of salt?"
       }
      ]
     },
     {
      "point": "~는 (것) 대신에 (instead of doing)",
-     "explanation": "To replace one action with another, use verb stem + ~는 것 대신에 or ~는 대신에. They mean the same thing. Always use the present ~는 form, even when talking about the past or future.",
+     "explanation": "To say you do one action instead of another, put the replaced action first with ~는 것 대신에 or just ~는 대신에. They mean exactly the same.\n\nAdd ~는 to the verb stem: 타다 → 타는 대신에, 먹다 → 먹는 대신에, 요리하다 → 요리하는 대신에. ㄹ stems drop the ㄹ: 만들다 → 만드는 대신에.\n\nAlways use the present ~는 here, even when the sentence is about the past or future. The tense goes on the final verb only: 타는 대신에 걸어갔어요 (past), 보는 대신에 읽을 거예요 (future).\n\nCareful: ~(으)ㄴ 대신에 with an adjective has a different meaning, “but to make up for it”: 이 식당은 비싼 대신에 맛있어요 (this restaurant is expensive, but it’s tasty).",
      "examples": [
       {
        "ko": "버스를 타는 대신에 걸어갔어요.",
@@ -1383,12 +1690,25 @@
       {
        "ko": "영화를 보는 대신에 책을 읽을 거예요.",
        "en": "Instead of watching a movie, I’ll read a book."
+      },
+      {
+       "ko": "집에서 요리하는 대신에 밖에서 먹었어요.",
+       "en": "Instead of cooking at home, I ate out."
+      },
+      {
+       "ko": "저는 고기를 먹는 대신에 생선을 많이 먹어요.",
+       "en": "Instead of meat, I eat a lot of fish."
+      },
+      {
+       "ko": "빵을 만드는 대신에 사 왔어요.",
+       "en": "Instead of making bread, I bought some.",
+       "note": "만들다 drops ㄹ before ~는: 만드는."
       }
      ]
     },
     {
      "point": "차라리 (rather, might as well)",
-     "explanation": "차라리 adds the feeling that the speaker would prefer this option over another, usually less appealing one. It often saves you from spelling out “instead of …”.",
+     "explanation": "차라리 means “rather” or “might as well”. Use it when none of the options are great, but this one is better (or less bad). It often carries a little frustration: “I’d rather just…”.\n\nIt often pairs with ~보다 to name the worse option: 택시를 타는 것보다 차라리 걸어갈래요 (I’d rather walk than take a taxi). Often the other option is already clear, so 차라리 alone does the job: 차라리 혼자 하는 게 나아요.\n\nCommon endings with 차라리 are ~(으)ㄹ래요 (I’d rather), ~는 게 나아요 (it’s better to), and suggestions like 차라리 집에 가요. Compare 대신에: 대신에 just swaps one thing for another, while 차라리 adds the speaker’s feeling that the other option is worse.",
      "examples": [
       {
        "ko": "택시를 타는 것보다 차라리 걸어갈래요.",
@@ -1401,12 +1721,25 @@
       {
        "ko": "차라리 혼자 하는 게 나아요.",
        "en": "It’s better to just do it alone."
+      },
+      {
+       "ko": "이렇게 비싸면 차라리 안 살래요.",
+       "en": "If it’s this expensive, I’d rather not buy it."
+      },
+      {
+       "ko": "줄이 너무 기니까 차라리 다른 식당에 가요.",
+       "en": "The line is too long, so let’s just go to another restaurant.",
+       "note": "길다 drops ㄹ before ~니까: 기니까."
+      },
+      {
+       "ko": "차라리 집에서 영화를 보는 게 낫지 않아요?",
+       "en": "Wouldn’t it be better to just watch a movie at home?"
       }
      ]
     },
     {
      "point": "Noun + 말고 (not X, but…)",
-     "explanation": "Just as ~지 말고 means “don’t do X, (do Y) instead” with verbs, 말고 can follow a noun directly: “not X, (but Y)”. It is very common in requests and choices.",
+     "explanation": "말고 comes from 말다 (“to not do, to stop”), the same verb in ~지 마세요. With verbs, ~지 말고 means “don’t do X, (do Y) instead”. 말고 can also follow a noun directly: “not X, (but Y)”.\n\nPut the rejected noun first, then 말고, then what you actually want: 커피 말고 물, 오늘 말고 내일. It doesn’t change after vowels or consonants, and the particle on the first noun is usually dropped.\n\nIt is very common in requests, orders and choices: 이거 말고 저거 주세요. It is more casual than 대신에, and it rejects the first option rather than just swapping it. 말고 다른 can also mean “other than”: 이거 말고 다른 거 있어요? (Do you have anything other than this?)",
      "examples": [
       {
        "ko": "이거 말고 저거 주세요.",
@@ -1419,6 +1752,18 @@
       {
        "ko": "오늘 말고 내일 만나요.",
        "en": "Let’s meet tomorrow instead of today."
+      },
+      {
+       "ko": "이거 말고 다른 색깔 있어요?",
+       "en": "Do you have it in a different color, not this one?"
+      },
+      {
+       "ko": "저 말고 제 친구한테 물어보세요.",
+       "en": "Ask my friend, not me."
+      },
+      {
+       "ko": "택시 말고 지하철을 타요.",
+       "en": "Let’s take the subway, not a taxi."
       }
      ]
     }
@@ -1568,7 +1913,7 @@
    "grammar": [
     {
      "point": "~아/어도 상관없다 (it doesn’t matter if)",
-     "explanation": "상관 means “relation”, so 상관없다 says something is irrelevant. On its own it means “it doesn’t matter” or “I don’t mind”. With a clause, the irrelevant condition usually takes ~아/어도.",
+     "explanation": "상관 means “relation”, so 상관없다 literally says “there is no connection”: it doesn’t matter, or I don’t mind. On its own, 상관없어요 is a handy answer: “Either is fine.”\n\nTo say what doesn’t matter, put that condition in the ~아/어도 form (“even if”), then add 상관없다. 늦다 → 늦 + 어도 → 늦어도. 비싸다 → 비싸 + 아도 → 비싸도. 오다 → 오 + 아도 → 와도. 하다 → 해도. Irregulars follow their usual rules: 맵다 → 매워도. For a negative condition, use 안: 안 와도 상관없어요.\n\nThis is close to ~아/어도 돼요 (“it’s okay if…”), which gives permission. 상관없어요 is more neutral: it says the condition won’t change anything.",
      "examples": [
       {
        "ko": "늦어도 상관없어요.",
@@ -1581,15 +1926,28 @@
       {
        "ko": "내일 와도 상관없어요.",
        "en": "It’s fine if you come tomorrow."
+      },
+      {
+       "ko": "안 와도 상관없어요.",
+       "en": "It doesn’t matter if you don’t come."
+      },
+      {
+       "ko": "저는 매워도 상관없어요.",
+       "en": "I don’t mind if it’s spicy.",
+       "note": "맵다 is ㅂ irregular: 맵 + 어도 → 매워도."
+      },
+      {
+       "ko": "조금 불편해도 상관없어요?",
+       "en": "Do you mind if it’s a bit uncomfortable?"
       }
      ]
     },
     {
      "point": "Question word + ~는지 / ~든지 상관없다",
-     "explanation": "When the clause has a question word (when, where, who), ~아/어도 sounds unnatural. Use ~는지 or ~든지 before 상관없다 instead.",
+     "explanation": "When the condition has a question word (어디, 언제, 누구, 뭐, 어떻게), ~아/어도 sounds unnatural. Use ~는지 or ~든지 instead.\n\n~는지 turns the clause into an embedded question, then says that question doesn’t matter: 가다 → 가는지 → 어디에 가는지는 상관없어요. Adjectives take ~(으)ㄴ지: 비싸다 → 얼마나 비싼지. The 는 after ~지 is optional but usual; it adds a little emphasis.\n\n~든지 means “whatever” or “no matter”. It goes straight onto the stem: 가다 → 가든지, 먹다 → 먹든지. So 누구랑 가든지 means “no matter who you go with”. ~든지 is very common in speech.",
      "examples": [
       {
-       "ko": "어디에 가는지 상관없어요.",
+       "ko": "어디에 가는지는 상관없어요.",
        "en": "It doesn’t matter where we go."
       },
       {
@@ -1599,12 +1957,25 @@
       {
        "ko": "언제 만나든지 상관없어요.",
        "en": "It doesn’t matter when we meet."
+      },
+      {
+       "ko": "뭘 먹든지 상관없어요.",
+       "en": "It doesn’t matter what we eat."
+      },
+      {
+       "ko": "얼마나 비싼지는 상관없어요.",
+       "en": "It doesn’t matter how expensive it is.",
+       "note": "Adjectives take ~(으)ㄴ지: 비싸다 → 비싼지."
+      },
+      {
+       "ko": "누가 이기든지 상관없어요.",
+       "en": "It doesn’t matter who wins."
       }
      ]
     },
     {
      "point": "Noun와/과 상관없이 (regardless of)",
-     "explanation": "상관없이 is the adverb form, meaning “regardless of”. The noun takes ~와/과, ~하고 or ~(이)랑. A full clause can come before it with ~는지.",
+     "explanation": "상관없이 is the adverb form of 상관없다 (없다 → 없이), meaning “regardless of”. Instead of ending the sentence, it lets you keep going and say what happens anyway.\n\nMark the noun with an “and/with” particle. After a vowel: 와 or 랑 (날씨와 상관없이, 나이랑 상관없이). After a consonant: 과 or 이랑 (국적과 상관없이, 시간이랑 상관없이). 하고 works after both.\n\nFor a whole clause, use ~는지, like in the last point: 비가 오는지 안 오는지 상관없이 (whether it rains or not). Unlike 상관없다 at the end of a sentence, 상관없이 always needs a main clause after it.",
      "examples": [
       {
        "ko": "나이와 상관없이 누구나 가입할 수 있어요.",
@@ -1617,12 +1988,25 @@
       {
        "ko": "국적과 상관없이 신청할 수 있어요.",
        "en": "You can apply regardless of nationality."
+      },
+      {
+       "ko": "돈하고 상관없이 저는 이 일이 좋아요.",
+       "en": "Regardless of the money, I like this job."
+      },
+      {
+       "ko": "비가 오는지 안 오는지 상관없이 내일 갈 거예요.",
+       "en": "I’ll go tomorrow whether it rains or not."
+      },
+      {
+       "ko": "시간이랑 상관없이 전화해도 돼요.",
+       "en": "You can call me no matter what time it is.",
+       "note": "시간 ends in a consonant, so it takes 이랑."
       }
      ]
     },
     {
      "point": "~에도 / ~ㅁ/음에도 불구하고 (despite)",
-     "explanation": "불구하다 is used mid-sentence to mean “despite”. A noun takes ~에도 불구하고. A verb or adjective is first made into a noun with ~ㅁ/음 (past is possible: ~았/었음에도). It is used mostly in writing.",
+     "explanation": "불구하고 means “despite” or “in spite of”. It is formal and appears mostly in writing, news and speeches, so the examples use the plain written ~다 ending. In speech, ~아/어도 is more common.\n\nWith a noun, add ~에도: 비 → 비에도 불구하고 (despite the rain), 노력 → 노력에도 불구하고.\n\nWith a verb or adjective, first turn it into a noun with ~ㅁ/음, then add 에도. Vowel stem + ㅁ: 바쁘다 → 바쁨 → 바쁨에도. Consonant stem + 음: 많다 → 많음 → 많음에도. Past: 공부하다 → 공부했 + 음 → 공부했음에도.\n\nThe second clause shows something you wouldn’t expect from the first: despite X, Y still happened.",
      "examples": [
       {
        "ko": "비에도 불구하고 경기가 계속되었다.",
@@ -1635,6 +2019,19 @@
       {
        "ko": "열심히 공부했음에도 불구하고 시험에 떨어졌다.",
        "en": "Despite studying hard, I failed the exam."
+      },
+      {
+       "ko": "그는 바쁨에도 불구하고 매일 운동을 했다.",
+       "en": "Despite being busy, he exercised every day.",
+       "note": "Vowel stem takes ㅁ: 바쁘 + ㅁ → 바쁨."
+      },
+      {
+       "ko": "나이가 많음에도 불구하고 그 선수는 아직 빠르다.",
+       "en": "Despite his age, that player is still fast."
+      },
+      {
+       "ko": "많은 노력에도 불구하고 결과가 좋지 않았다.",
+       "en": "Despite a lot of effort, the result was not good."
       }
      ]
     }
@@ -1764,7 +2161,7 @@
    "grammar": [
     {
      "point": "신경 (nerve; care)",
-     "explanation": "신경 literally means “nerve”, but in daily speech it means attention or concern toward something. It is a noun, so a verb is needed to say you care: usually 쓰다.",
+     "explanation": "신경 literally means “nerve”, as in the body’s nerves. In everyday speech it means attention, worry or concern about something. It is a noun, so you need a verb to use it, usually 쓰다: 신경(을) 쓰다 means “to pay attention to” or “to care about”.\n\nA few common combinations: 신경을 쓰다 (to pay attention, to care: you do it). 신경이 쓰이다 (to be bothered, to keep thinking about it: it happens to you), 쓰이 + 어요 → 쓰여요. 신경이 예민하다 (to be sensitive, on edge). 신경 쓰지 마세요 (don’t worry about it).\n\n쓰다 drops ㅡ before ~아/어: 쓰 + 어요 → 써요, so 신경 써요, 신경 썼어요. 을 after 신경 is often dropped in speech.",
      "examples": [
       {
        "ko": "그 사람은 신경이 예민해요.",
@@ -1777,12 +2174,21 @@
       {
        "ko": "신경 쓰지 마세요.",
        "en": "Don’t worry about it."
+      },
+      {
+       "ko": "그 소리가 계속 신경이 쓰여요.",
+       "en": "That noise keeps bothering me.",
+       "note": "신경이 쓰이다 means something bothers you."
+      },
+      {
+       "ko": "요즘 일 때문에 신경을 많이 썼어요.",
+       "en": "I’ve had a lot on my mind because of work lately."
       }
      ]
     },
     {
      "point": "Noun에 (대해) 신경(을) 안 쓰다 (not care about)",
-     "explanation": "The negative “I don’t care” is the most common use. Put ~에 대해 (or just ~에) on the thing you don’t care about. 을 on 신경 is often dropped in speech.",
+     "explanation": "The most common use of 신경 쓰다 is the negative: “I don’t care (about it)” or “I don’t pay attention to it”. Mark the thing you don’t care about with ~에 대해 (“about”) or just ~에.\n\nBuild it like this: 돈 + 에 대해 + 신경 + 안 + 써요 → 돈에 대해 신경 안 써요. 안 goes right before the verb 쓰다, so it sits between 신경 and 써요. The long negative works too: 신경 쓰지 않아요.\n\nTo tell someone not to mind, use ~지 마세요: 다른 사람의 말에 신경 쓰지 마세요. With a friend, 신경 쓰지 마 means “don’t worry about it”.",
      "examples": [
       {
        "ko": "저는 돈에 대해 신경 안 써요.",
@@ -1795,12 +2201,24 @@
       {
        "ko": "다른 사람의 말에 신경 쓰지 마세요.",
        "en": "Don’t mind what other people say."
+      },
+      {
+       "ko": "저는 유행에 별로 신경 안 써요.",
+       "en": "I don’t really care about trends."
+      },
+      {
+       "ko": "그 사람은 건강에 신경 쓰지 않아요.",
+       "en": "He doesn’t take care of his health."
+      },
+      {
+       "ko": "왜 제 말에 신경을 안 써요?",
+       "en": "Why don’t you pay attention to what I say?"
       }
      ]
     },
     {
      "point": "Clause + ~는지 / ~아/어도 신경 안 쓰다",
-     "explanation": "For a clause with a question word, use ~는지 (“I don’t care where/what…”), just as with 상관없다. ~아/어도 instead means “I don’t care even if…” and treats the question word as vague: it’s not even known whether the action happens.",
+     "explanation": "When you don’t care about a whole situation with a question word, use ~는지, exactly like with 상관없다: 가다 → 가는지 → 네가 어디에 가는지 신경 안 써 (I don’t care where you go). Adjectives take ~(으)ㄴ지. The past takes ~았/었는지: 하다 → 했는지 → 뭘 했는지.\n\n~아/어도 means “even if” instead: 비싸다 → 비싸도 신경 안 써요 (I don’t care even if it’s expensive). With a question word, ~아/어도 makes it vague, as if it isn’t even known whether the action will happen: 누가 와도 (whoever comes, if anyone).\n\n~든지 (“no matter what”) is also very common: 사람들이 뭐라고 하든지 신경 안 써요.",
      "examples": [
       {
        "ko": "네가 어디에 가는지 신경 안 써.",
@@ -1813,12 +2231,26 @@
       {
        "ko": "사람들이 뭐라고 하든지 신경 안 써요.",
        "en": "I don’t care what people say."
+      },
+      {
+       "ko": "그 사람이 뭘 했는지 신경 안 써요.",
+       "en": "I don’t care what he did.",
+       "note": "The past takes ~았/었는지: 했는지."
+      },
+      {
+       "ko": "누가 와도 신경 안 써요.",
+       "en": "I don’t care who comes."
+      },
+      {
+       "ko": "날씨가 추워도 신경 안 써요.",
+       "en": "I don’t care even if the weather is cold.",
+       "note": "춥다 is ㅂ irregular: 춥 + 어도 → 추워도."
       }
      ]
     },
     {
      "point": "신경(을) 쓰다 (to care, pay attention)",
-     "explanation": "The positive “I care” with 신경 쓰다 often sounds unnatural in statements. It is common in requests or commands telling someone to pay attention to something.",
+     "explanation": "Saying “I care” with 신경 쓰다 in a plain statement (저는 돈에 신경 써요) often sounds odd. The positive form is mostly used in requests or commands, asking someone to pay attention to something or be careful with it.\n\nCommon patterns: ~에 신경 좀 쓰세요 or 써 주세요 (please pay attention to…), where 좀 softens the request. ~아/어야 하다: 신경을 많이 써야 해요 (you need to be careful about…). Remember 쓰다 drops ㅡ: 쓰 + 어 주세요 → 써 주세요, 쓰 + 어야 → 써야.\n\nOne natural statement is about effort you put in: 신경 많이 썼어요 means “I put a lot of care into it”, for example when giving a present.",
      "examples": [
       {
        "ko": "건강에 신경 좀 쓰세요.",
@@ -1831,6 +2263,18 @@
       {
        "ko": "운전할 때 신경을 많이 써야 해요.",
        "en": "You need to pay close attention when driving."
+      },
+      {
+       "ko": "이 선물에 정말 신경 많이 썼어요.",
+       "en": "I really put a lot of care into this present."
+      },
+      {
+       "ko": "음식에 신경 써 줘서 고마워요.",
+       "en": "Thanks for taking care with the food."
+      },
+      {
+       "ko": "요즘 건강에 신경 쓰고 있어요?",
+       "en": "Are you taking care of your health these days?"
       }
      ]
     }
