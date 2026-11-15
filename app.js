@@ -92,9 +92,10 @@ const dueIds = () => Object.keys(S.cards).filter(id => CARDS[id] && S.cards[id].
   .sort((a, b) => S.cards[a].due - S.cards[b].due);
 
 // New cards: production only after the word was first seen on an earlier day; sentences once a lesson's words are all seen.
-function newIds() {
+const allowance = () => S.settings.newPerDay + (S.log[todayKey()]?.extra || 0); // extra: today-only top-ups from the "more" button
+function newIds(cap = allowance()) {
   if (dueIds().length > 150) return []; // backlog guard: clear reviews before adding more
-  const left = Math.max(0, S.settings.newPerDay - (S.log[todayKey()]?.new || 0));
+  const left = Math.max(0, cap - (S.log[todayKey()]?.new || 0));
   const t0 = dayStartNow(), lists = [[], [], []];
   for (const n of [...S.unlocked].sort((a, b) => a - b)) {
     const lc = BY_LESSON[n]; if (!lc) continue;
@@ -115,6 +116,7 @@ const render = html => { $('#view').innerHTML = html; };
 // ---------- Today ----------
 function today() {
   const due = dueIds().length, nw = newIds().length, d = S.log[todayKey()] || { new: 0, rev: 0 }, next = nextLesson();
+  const more = nw ? 0 : Math.min(10, newIds(Infinity).length);
   render(`
     <header><p class="eyebrow">오늘 · Today</p><h1>${due + nw ? 'Ready when you are' : 'All caught up 🎉'}</h1></header>
     <div class="tiles">
@@ -123,9 +125,10 @@ function today() {
       <div class="tile"><b>${streak()}🔥</b><span>day streak</span></div>
     </div>
     ${due + nw ? `<button class="primary big" data-act="start">Start session · ${due + nw} cards</button>` : ''}
+    ${more ? `<button class="ghost big" data-act="more" data-k="${more}">+${more} more new cards today</button>` : ''}
     <p class="muted center">Done today: ${d.rev} reviews · ${d.new} new</p>
     ${S.hangulBest < 8 && !S.unlocked.length ? `<a class="panel" href="#hangul"><b>Start here: learn Hangul</b><span>The alphabet takes 1–2 days. Pass the quiz (8/10), then start with the Survival kit and Lesson 1.</span></a>` : ''}
-    ${next && nw < S.settings.newPerDay - d.new ? `<a class="panel" href="#lesson/${next.n}"><b>Next: Lesson ${next.n} — ${esc(next.title)}</b>
+    ${next && nw < allowance() - d.new ? `<a class="panel" href="#lesson/${next.n}"><b>Next: Lesson ${next.n} — ${esc(next.title)}</b>
       <span>Read the grammar, then add its ${BY_LESSON[next.n].rec.length} words to your reviews.</span></a>` : ''}
     <p class="tip">Say every answer out loud before revealing it. Speaking beats silent reading for recall.</p>`);
 }
@@ -361,6 +364,7 @@ const ACT = {
   continue: () => grade(sess.sentOk ? 2 : 0),
   unlock: el => { S.unlocked.push(+el.dataset.n); save(); toast('Added — start a session from Today'); lesson(el.dataset.n); },
   hstart: () => { quiz = { i: 0, score: 0 }; hangulQ(); }, hq: hangulAnswer, hnext: () => { quiz.i++; hangulQ(); },
+  more: el => { const d = (S.log[todayKey()] ||= { new: 0, rev: 0 }); d.extra = (d.extra || 0) + +el.dataset.k; save(); today(); },
   export: exportData,
   rec: record,
   wbpick: el => { const ok = markOpts(el, wb.list[wb.i].answer); if (ok === null) return; wb.score += ok; speak(wb.list[wb.i].ko.replace('___', wb.list[wb.i].answer)); },
