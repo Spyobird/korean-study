@@ -7,6 +7,7 @@
   :root { --bg: #171412; --surface: #221e1b; --ink: #f2ece6; --muted: #a39a91; --line: #3a332e; --accent: #e0645a; }
 }
 * { box-sizing: border-box; }
+html { touch-action: manipulation; } /* no double-tap zoom on fast card taps; pinch-zoom still works */
 body {
   margin: 0; background: var(--bg); color: var(--ink);
   font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
