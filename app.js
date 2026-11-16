@@ -203,13 +203,18 @@ function reveal() {
 }
 function pickChip(el) {
   sess.picked.push(+el.dataset.i); el.disabled = true;
-  $('#built').insertAdjacentHTML('beforeend', `<span class="chip ko">${esc(el.textContent)}</span>`);
+  $('#built').insertAdjacentHTML('beforeend', `<button class="chip ko" data-act="unchip" data-i="${el.dataset.i}">${esc(el.textContent)}</button>`);
   if (sess.picked.length < sess.words.length) return;
   const ok = sess.picked.map(i => sess.words[i]).join(' ') === sess.words.join(' '); // duplicate words in either slot are fine
   sess.sentOk = ok; sess.revealed = true;
   $('.card').classList.add('revealed', ok ? 'right' : 'wrong');
   $('#verdict').textContent = ok ? '✓ Correct!' : '✗ Not quite — here is the right order:';
   speak(CARDS[sess.queue[0]].ex.ko);
+}
+function unpickChip(el) {
+  if (sess.revealed) return; // sentence already checked
+  sess.picked.splice(sess.picked.indexOf(+el.dataset.i), 1);
+  $(`.pool [data-i="${el.dataset.i}"]`).disabled = false; el.remove();
 }
 function grade(g) {
   const id = sess.queue.shift(), prev = S.cards[id];
@@ -377,7 +382,7 @@ async function importData(file) {
 
 // ---------- wiring ----------
 const ACT = {
-  speak: el => speak(el.dataset.t), start: startSession, reveal, grade: el => grade(+el.dataset.g), chip: pickChip,
+  speak: el => speak(el.dataset.t), start: startSession, reveal, grade: el => grade(+el.dataset.g), chip: pickChip, unchip: unpickChip,
   continue: () => grade(sess.sentOk ? 2 : 0),
   unlock: el => { S.unlocked.push(+el.dataset.n); save(); toast('Added — start a session from Today'); lesson(el.dataset.n); },
   hstart: () => { quiz = { i: 0, score: 0 }; hangulQ(); }, hq: hangulAnswer, hnext: () => { quiz.i++; hangulQ(); },
